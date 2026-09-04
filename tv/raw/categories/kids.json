@@ -17,6 +17,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "sources": {
@@ -88,20 +102,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jw5WL1s9nrf85x",
-    "name": "Ani",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/306/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MrDAdB1Ld8qhDL",
     "name": "Aqlvoy",
     "sources": {
@@ -145,6 +145,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j0t6b1I6SBTscN",
+    "name": "Baby Time",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sBqCqBRYo6k0Cg",
     "name": "BabyFirst US",
     "sources": {
@@ -173,11 +187,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
+    "nanoid": "NsRP1rTNLBH991",
+    "name": "Balapan",
     "sources": {
       "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
+        "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -342,20 +356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WISBfRxVEual3Q",
-    "name": "Box Kids TV",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/BOX_KIDS_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ejzd7w3qnd3CEH",
     "name": "Camp Spoopy",
     "sources": {
@@ -374,7 +374,6 @@
     "name": "Carousel",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/120/index.m3u8",
         "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ]
@@ -384,6 +383,34 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "J6iMoLxR0lXzRq",
+    "name": "Carousel International",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "QFKHFoExvGyTwt",
@@ -923,36 +950,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RPOqAOQnHAHJ4j",
-    "name": "DumDum",
-    "sources": {
-      "streams": [
-        "https://168.197.104.22/ZOOMOO/index.m3u8",
-        "https://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
-        "https://186.219.52.187/zoomoo/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "G2NosoJRDb3Bwq",
-    "name": "Duronto TV",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mkS2euN6WoaBGB",
     "name": "EBS Kids",
     "sources": {
@@ -1126,7 +1123,6 @@
     "name": "Gulli Girl",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/305/index.m3u8",
         "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1149,20 +1145,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "58jHrtymUKNGYs",
-    "name": "Hop!",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/44/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "gfaamDst89W7kn",
@@ -1223,29 +1205,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5IfXYen2Q01eP",
-    "name": "JimJam Europe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/150/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces",
-      "eng",
-      "heb",
-      "por",
-      "slk"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SO5UU0dDwSV4en",
     "name": "Kapitan Fantastika",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/144/index.m3u8"
+        "https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -1285,17 +1249,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/xmSlUzyIy2Q"
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
       ]
     },
     "languages": [
-      "urd"
+      "ind"
     ],
-    "country": "pk",
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1327,20 +1291,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "aBuaJGmVeAPvRp",
-    "name": "KinoKazka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/167/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "mh8ffIuQVJBAom",
@@ -1446,8 +1396,8 @@
     "name": "Mama",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/79/index.m3u8",
-        "https://flussonic.linkintel.ru/mama/index.m3u8"
+        "https://flussonic.linkintel.ru/mama/index.m3u8",
+        "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -1631,7 +1581,7 @@
     "name": "Mult",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/232/index.m3u8"
+        "https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -1642,11 +1592,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8wNjEMaidl9OM7",
-    "name": "Mult i muzyka",
+    "nanoid": "pZCVQARMPmXKYC",
+    "name": "Mult International",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/82/index.m3u8"
+        "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1660,7 +1610,8 @@
     "name": "Multilandia",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1674,7 +1625,6 @@
     "name": "Nick Jr.",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/220/index.m3u8",
         "https://stream8.cinerama.uz/1501/playlist.m3u8"
       ]
     },
@@ -1696,21 +1646,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rXHwmhULYyEgNr",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/443/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1747,6 +1682,20 @@
     "sources": {
       "streams": [
         "https://x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1812,39 +1761,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ugTdbReAV02ssT",
-    "name": "Niki Junior",
+    "nanoid": "lNGCkJoFH408tm",
+    "name": "O! International",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/262/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BbdnOI6pbCxXBQ",
-    "name": "Niki Kids",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/271/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tqpekqbtzkiahc",
-    "name": "O!",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/60/index.m3u8"
+        "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2092,20 +2013,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VhpM1iN4jkajPC",
-    "name": "PLUSPLUS",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/339/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f3r1wPE0Kg64bZ",
     "name": "pocket.watch",
     "sources": {
@@ -2204,20 +2111,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/3QCZ4TvuRVc"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
     "sources": {
@@ -2272,6 +2165,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KjF2Vl25g6IXPG",
+    "name": "Rubble & Crew",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/p9eE_isn8dc"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2379,7 +2286,7 @@
     "sources": {
       "streams": [
         "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
+        "https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -2394,7 +2301,6 @@
     "sources": {
       "streams": [
         "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
-        "https://stream.mcquack.net/118/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
       ]
     },
@@ -2433,11 +2339,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CxmTqHqejoQkG1",
-    "name": "STS kids",
+    "nanoid": "U03XNglu5PbVmX",
+    "name": "STS kids International",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/197/index.m3u8"
+        "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2593,7 +2499,6 @@
     "name": "TiJi",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/111/index.m3u8",
         "https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2781,13 +2686,28 @@
     "name": "V gostyakh u skazki",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/93/index.m3u8"
+        "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4eac2SIShkjuk2",
+    "name": "Watch it KID!",
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2900,20 +2820,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zUBU1oLKMpdsiQ",
-    "name": "Zoom",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/377/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
     "isGeoBlocked": false
   },
   {

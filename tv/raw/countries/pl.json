@@ -1,9 +1,24 @@
 [
   {
+    "nanoid": "fooBWNn7lAf85s",
+    "name": "4 Fun Kids",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gnXbQSLxnNAtTV",
     "name": "4 Fun TV",
     "sources": {
       "streams": [
+        "https://stream.4fun.tv:8888/hls/4f.m3u8",
         "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
       ]
     },
@@ -47,20 +62,6 @@
     "sources": {
       "streams": [
         "https://grupaatmrr.org.pl:8888/fallback/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kJrXloIeM5KZgw",
-    "name": "Bialogardzka Telewizja Kablowa",
-    "sources": {
-      "streams": [
-        "https://bsmbialogard.pl/live/index.m3u8"
       ]
     },
     "languages": [
@@ -177,6 +178,20 @@
     },
     "languages": [
       "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -305,6 +320,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VAkPiIXuHPA"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -514,6 +543,20 @@
     "sources": {
       "streams": [
         "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/2YQ_W3T1ft0"
       ]
     },
     "languages": [
@@ -809,20 +852,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hJ7RP05oeqLZ6y",
-    "name": "Ultra TV 4K",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/ULTRA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "sources": {
@@ -889,20 +918,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bpwyCfxeYK07lR",
-    "name": "ZTV live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/f_fIrMuk9Ps"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

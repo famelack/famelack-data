@@ -19,7 +19,6 @@
     "name": "88 Stereo",
     "sources": {
       "streams": [
-        "https://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
         "https://s1.tvdatta.com:3972/live/88stereolive.m3u8"
       ]
     },
@@ -42,20 +41,6 @@
     ],
     "country": "cr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "baI44A3rZswWd9",
-    "name": "Agrotendencia TV",
-    "sources": {
-      "streams": [
-        "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "H8TtlIKgrW2bwo",
@@ -379,20 +364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YEWQw0DloTzS1o",
-    "name": "Limon TV",
-    "sources": {
-      "streams": [
-        "https://k4.usastreams.com/limontv1/limontv1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L0Xj3EMr6sq9Oz",
     "name": "Los Santos TV",
     "sources": {
@@ -412,6 +383,20 @@
     "sources": {
       "streams": [
         "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dgeMTc8_HKE"
       ]
     },
     "languages": [
@@ -549,8 +534,7 @@
     "name": "Tele Uno",
     "sources": {
       "streams": [
-        "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8",
-        "https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
+        "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
       ]
     },
     "languages": [
@@ -675,8 +659,7 @@
     "name": "Video Tour Channel",
     "sources": {
       "streams": [
-        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8",
-        "https://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
       ]
     },
     "languages": [

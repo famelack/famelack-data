@@ -1,14 +1,15 @@
 [
   {
-    "nanoid": "k0N3e27ge4nS6v",
-    "name": "31 Kanal",
+    "nanoid": "JN8uOWZZnBWa2O",
+    "name": "24KZ",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/388/index.m3u8"
+        "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
-      "kaz"
+      "kaz",
+      "rus"
     ],
     "country": "kz",
     "isGeoBlocked": false
@@ -18,7 +19,8 @@
     "name": "Abai TV",
     "sources": {
       "streams": [
-        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
+        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+        "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -42,11 +44,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZEdaOTdRxyURAR",
+    "name": "Almaty TV",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7rBhnvF1cWN6Zb",
     "name": "Astana TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/28/index.m3u8"
+        "https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -56,11 +73,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
+    "nanoid": "o33GtxEONALntd",
+    "name": "Atameken Business",
     "sources": {
       "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
+        "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NsRP1rTNLBH991",
+    "name": "Balapan",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -70,14 +101,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SbrDSLg33mlDZZ",
-    "name": "Channel 7 Kazakhstan",
+    "nanoid": "ZG99eor1F9rnmL",
+    "name": "Channel 7",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/27/index.m3u8"
+        "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv"
       ]
     },
-    "languages": [],
+    "languages": [
+      "kaz",
+      "rus"
+    ],
     "country": "kz",
     "isGeoBlocked": false
   },
@@ -97,13 +131,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uFpd7mtSglWFo1",
+    "name": "Khabar",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3AVsF9F3MmLx0i",
     "name": "KTK",
     "sources": {
       "streams": [
         "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
-        "https://89.218.30.37/ktklive/live.hq/playlist.m3u8",
-        "https://stream.mcquack.net/26/index.m3u8"
+        "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -118,7 +166,6 @@
     "name": "MTRK",
     "sources": {
       "streams": [
-        "https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8",
         "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
       ]
     },
@@ -143,11 +190,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "a3tM5au4kJNioz",
+    "name": "Novoe televidenie",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qDGnaOsmdQnYTU",
     "name": "NTK",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/389/index.m3u8"
+        "https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -163,7 +224,6 @@
     "sources": {
       "streams": [
         "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
-        "https://stream.mcquack.net/71/index.m3u8",
         "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8"
       ]
     },
@@ -194,7 +254,7 @@
     "name": "QazSport",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/72/index.m3u8",
+        "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
         "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
       ]
     },

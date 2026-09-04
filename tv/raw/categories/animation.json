@@ -172,6 +172,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tIGqdwnTT3ZqJq",
     "name": "Cartoon Network: Adventure Time",
     "sources": {
@@ -284,20 +298,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OWbwO4UAARAo91",
-    "name": "FAN",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/420/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c4f5dB2f1HZXBV",
     "name": "FilmRise Anime",
     "sources": {
@@ -324,20 +324,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ntF6dI5Mg2NTKt",
-    "name": "Geekdot",
-    "sources": {
-      "streams": [
-        "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -609,6 +595,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VvHhOWwHL2G6fH",
     "name": "NickToons Brasil",
     "sources": {
@@ -783,7 +783,6 @@
     "sources": {
       "streams": [
         "https://tv.mediacdn.ru/live/solntse/playlist.m3u8",
-        "https://stream.mcquack.net/118/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8"
       ]
     },
@@ -792,6 +791,21 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OPBgWYXRs5dscO",
+    "name": "Sonic TV",
+    "sources": {
+      "streams": [
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "pApkFb67wcPTJl",

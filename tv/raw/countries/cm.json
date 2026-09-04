@@ -59,11 +59,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MENDV9zQPKUclz",
-    "name": "Kemet TV",
+    "nanoid": "kAGSorpcyVgeyz",
+    "name": "Laura Dave Media TV",
     "sources": {
       "streams": [
-        "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8"
+        "https://streaming.lauradavemedia.com/ldm/index.m3u8"
       ]
     },
     "languages": [
@@ -73,11 +73,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kAGSorpcyVgeyz",
-    "name": "Laura Dave Media TV",
+    "nanoid": "flybSYTMwoC89l",
+    "name": "Panafrican Media TV",
     "sources": {
       "streams": [
-        "https://streaming.lauradavemedia.com/ldm/index.m3u8"
+        "https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6Aibqu4gfNeTW",
+    "name": "TR24 Television",
+    "sources": {
+      "streams": [
+        "https://stream.it-innov.com/tr24/index.m3u8"
       ]
     },
     "languages": [

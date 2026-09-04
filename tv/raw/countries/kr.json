@@ -32,9 +32,7 @@
     "name": "Arirang Radio",
     "sources": {
       "streams": [
-        "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
-        "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -63,8 +61,8 @@
     "sources": {
       "streams": [
         "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+        "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/hvVlyZ5GiE8"
@@ -461,20 +459,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "klJTuuuc9Rkoag",
-    "name": "HLKJ-DTV",
-    "sources": {
-      "streams": [
-        "https://123.140.197.22/stream/1/play.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vUHuDdpPOMwJOv",
     "name": "Home & Shopping",
     "sources": {
@@ -521,7 +505,21 @@
     "name": "JTBC News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GIPIYxtuMTI"
+        "https://www.youtube-nocookie.com/embed/JC4avMqBWW8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z5dt0NMdPPY3fJ",
+    "name": "KBS News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SvdMUv6d55g"
       ]
     },
     "languages": [
@@ -551,20 +549,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/OxQQsIvJTTU"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lvIrwQpUaM4Bib",
-    "name": "KTV",
-    "sources": {
-      "streams": [
-        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -630,20 +614,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e5F89xwHW6PISK",
-    "name": "NHTV",
-    "sources": {
-      "streams": [
-        "https://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oNnWdV2miCH9OF",
     "name": "NS Home Shopping",
     "sources": {
@@ -686,20 +656,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/3QCZ4TvuRVc"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "sources": {
@@ -718,7 +674,7 @@
     "name": "SBS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/k_4ciU-Uq14"
+        "https://www.youtube-nocookie.com/embed/OxXo2pffM28"
       ]
     },
     "languages": [

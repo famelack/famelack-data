@@ -237,8 +237,8 @@
     "sources": {
       "streams": [
         "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-        "https://stream.mcquack.net/85/index.m3u8",
-        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+        "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -547,20 +547,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Fc8p5IAiu8s"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1154,34 +1140,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Vet8OV4cWOOk7Z",
-    "name": "IBC Bakthi",
-    "sources": {
-      "streams": [
-        "https://ibc.massstream.net/IBC2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KgPGrtRlf7Ua6o",
-    "name": "IBC Tamil",
-    "sources": {
-      "streams": [
-        "https://ibc.massstream.net/IBC/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zArqxM7ctlhm8i",
     "name": "Ideal World",
     "sources": {
@@ -1276,24 +1234,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5IfXYen2Q01eP",
-    "name": "JimJam Europe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/150/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ces",
-      "eng",
-      "heb",
-      "por",
-      "slk"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1586,12 +1526,49 @@
     "nanoid": "AKoMEdWVVOqbwn",
     "name": "MTA3 Al-Arabia",
     "sources": {
+      "streams": [
+        "https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/_IZxTaXP4Xc"
       ]
     },
     "languages": [
       "ara"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "orMV5kjpjMECfw",
+    "name": "MTA4 Africa",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "swa",
+      "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7HUreojw7Nl7Wt",
+    "name": "MTA5 Africa",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "swa",
+      "urd"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1611,6 +1588,20 @@
       "ind",
       "tam",
       "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jVLg1Tk3qRtGOF",
+    "name": "MTA8 America",
+    "sources": {
+      "streams": [
+        "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1911,7 +1902,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2038,30 +2029,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqKr2u3T1rmLql",
-    "name": "Rakuten Top Movies UK",
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
     "sources": {
       "streams": [
-        "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
       ]
     },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bM1ajyE0MLR0WL",
-    "name": "Rakuten TV Family Movies UK",
-    "sources": {
-      "streams": [
-        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2076,6 +2051,18 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2158,6 +2145,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dxmNzNdEqt5bY8",
+    "name": "Sangat TV",
+    "sources": {
+      "streams": [
+        "https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuT4hF41jXyjM4",
     "name": "Sanskar UK",
     "sources": {
@@ -2167,21 +2168,6 @@
     },
     "languages": [
       "hin"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xbZXBsOIAbJVyE",
-    "name": "Setanta Sports",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/313/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ukr"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2297,7 +2283,8 @@
     "name": "Space Live powered by sen",
     "sources": {
       "streams": [
-        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2949,6 +2936,7 @@
     "name": "World War TV",
     "sources": {
       "streams": [
+        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

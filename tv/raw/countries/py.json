@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "f4J3TEsOIcCxKd",
-    "name": "4Dmas Noticias TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zhUhSGilKc6sOP",
     "name": "AGR FM TV",
     "sources": {
@@ -186,7 +172,6 @@
     "name": "Farra Play",
     "sources": {
       "streams": [
-        "https://159.203.148.226/live/farra.m3u8",
         "https://stream.farra.com.py/live/farra_low.m3u8"
       ]
     },
@@ -225,39 +210,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OETM24DdxaHZfM",
-    "name": "Invasiva TV",
-    "sources": {
-      "streams": [
-        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lLlNJWyY2XdMQg",
-    "name": "Los Angeles TV Radio",
-    "sources": {
-      "streams": [
-        "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8"
       ]
     },
     "languages": [
@@ -366,11 +323,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VI1f12kgFZ6WBR",
-    "name": "Oasis TV",
+    "nanoid": "zFyIVU3GskBml9",
+    "name": "Occidental TV",
     "sources": {
       "streams": [
-        "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
+        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
       ]
     },
     "languages": [
@@ -380,11 +337,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zFyIVU3GskBml9",
-    "name": "Occidental TV",
+    "nanoid": "HxsHxTV92v3WvN",
+    "name": "Oviedo TV",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [
@@ -403,6 +360,20 @@
     },
     "languages": [
       "gug",
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2BUOGme9iVm1bq",
+    "name": "Popu TV",
+    "sources": {
+      "streams": [
+        "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "py",

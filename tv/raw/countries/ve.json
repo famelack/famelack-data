@@ -14,11 +14,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
     "sources": {
       "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -253,20 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tbGxevqWx6uLGr",
-    "name": "Maxima TV",
-    "sources": {
-      "streams": [
-        "https://maximatv.net/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kE8N5CkT9Xc9Iu",
     "name": "Nortena Tv",
     "sources": {
@@ -427,7 +427,6 @@
     "sources": {
       "streams": [
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-        "https://45.190.28.50/TELESUR_HD/index.m3u8",
         "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
       ]
     },
@@ -458,6 +457,34 @@
     "sources": {
       "streams": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iQsTa6Z2cWc5Ch",
+    "name": "Torococo TV",
+    "sources": {
+      "streams": [
+        "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rO6eV79GxNqt7n",
+    "name": "TRT",
+    "sources": {
+      "streams": [
+        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
       ]
     },
     "languages": [
@@ -582,20 +609,6 @@
     "sources": {
       "streams": [
         "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "baPvUzzfHutjpv",
-    "name": "Vepaco TV",
-    "sources": {
-      "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
       ]
     },
     "languages": [

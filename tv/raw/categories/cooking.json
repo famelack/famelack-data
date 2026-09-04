@@ -72,21 +72,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QNyNJWJnmxp6PU",
-    "name": "Chef TV",
-    "sources": {
-      "streams": [
-        "https://168.197.104.22/CHEF_TV/index.m3u8",
-        "https://45.190.28.50/CHEF_TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h07WOJZbzIu3Iu",
     "name": "Cooking Panda",
     "sources": {
@@ -133,27 +118,13 @@
     "name": "Food Network",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/J-w_GyiWyHA"
+        "https://www.youtube-nocookie.com/embed/_Ajb6_yPe_4"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gClsIBuM2GyuD5",
-    "name": "FoodTime",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/216/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -175,9 +146,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
-        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -233,7 +204,7 @@
     "name": "Kuhnya",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/179/index.m3u8"
+        "https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -321,7 +292,8 @@
     "name": "Telecafe",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [

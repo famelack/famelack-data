@@ -323,11 +323,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
+    "nanoid": "9cbMZrwOtdSUeq",
+    "name": "Bir TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -337,11 +338,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lnPH0Jssl2BDkS",
-    "name": "Bric ve Satranc TV",
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
     "sources": {
       "streams": [
-        "https://139.162.182.79/live/test/index.m3u8"
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -439,8 +440,7 @@
     "name": "Cem TV",
     "sources": {
       "streams": [
-        "https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8",
-        "https://tv.cemtv.net:19360/cemtv/cemtv.m3u8"
+        "https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8"
       ]
     },
     "languages": [],
@@ -623,7 +623,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jmbQFDeeBsQ"
+        "https://www.youtube-nocookie.com/embed/Px2fWEqZcfw"
       ]
     },
     "languages": [
@@ -938,7 +938,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/inIQo62ogBU"
+        "https://www.youtube-nocookie.com/embed/Ebfqm_CvRzk"
       ]
     },
     "languages": [
@@ -1302,7 +1302,7 @@
     "name": "KRT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_k0wG2Qah1g"
+        "https://www.youtube-nocookie.com/embed/29w_AS8-0Ak"
       ]
     },
     "languages": [
@@ -1485,6 +1485,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/tZxD_s29JZc"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BO4YypoB7kcaVn",
+    "name": "Neo Haber",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/neohaber/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1880,9 +1894,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/TF0iIhhUhP8"
       ]
     },
     "languages": [

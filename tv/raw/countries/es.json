@@ -162,8 +162,7 @@
     "name": "Alcarria TV",
     "sources": {
       "streams": [
-        "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
-        "https://217.182.77.27/live/alcarriatv-livestream.m3u8"
+        "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -369,20 +368,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ppVAYeEG6FqcRw",
-    "name": "Canal 2000",
-    "sources": {
-      "streams": [
-        "https://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LtD5RiPuecwLxV",
     "name": "Canal Coin TV",
     "sources": {
@@ -563,20 +548,6 @@
     },
     "languages": [
       "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k3p0dVcqLJhpnV",
-    "name": "Cetelmon TV",
-    "sources": {
-      "streams": [
-        "https://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1079,20 +1050,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aBuaJGmVeAPvRp",
-    "name": "KinoKazka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/167/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0PUyDm92WwiPWX",
     "name": "La 8 Mediterraneo",
     "sources": {
@@ -1145,18 +1102,6 @@
     "languages": [
       "ron"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yZT8JeLEndYnMC",
-    "name": "Los Gipsy Kings",
-    "sources": {
-      "streams": [
-        "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1484,21 +1429,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OnJfjCJ00KqC5E",
-    "name": "Radio Bocairent TV",
-    "sources": {
-      "streams": [
-        "https://185.81.77.4/BocairentTV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "cat",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "79RGODupZW3p8n",
     "name": "Radio Carnaval TV",
     "sources": {
@@ -1523,32 +1453,6 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duHgjkhG7rfbm4",
-    "name": "Rakuten TV Family Movies Spain",
-    "sources": {
-      "streams": [
-        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -2098,15 +2002,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RcONvYz7opBaln",
-    "name": "Vision 6 TV",
+    "nanoid": "f4MvB70GxNwe4i",
+    "name": "VOTV",
     "sources": {
       "streams": [
-        "https://streaming.proceso.info:8888/vision6-web/stream.m3u8"
+        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

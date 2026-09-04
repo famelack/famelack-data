@@ -28,47 +28,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zLbErKeLWlYtjV",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CtdqbL5wtTjnvo",
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://186.219.52.187/agro_canal/index.m3u8",
-        "https://168.197.104.22/AGRO_CANAL/index.m3u8",
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8"
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "baI44A3rZswWd9",
-    "name": "Agrotendencia TV",
-    "sources": {
-      "streams": [
-        "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -129,17 +99,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOcIh9UUF5nbfq",
-    "name": "Canal Rural",
+    "nanoid": "sYvKtrPKv77vYD",
+    "name": "Chacra TV",
     "sources": {
       "streams": [
-        "https://186.219.52.187/canal_rural/index.m3u8"
+        "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
       ]
     },
     "languages": [
-      "por"
+      "spa"
     ],
-    "country": "br",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -171,25 +141,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DIlZLkrC2C3Vr6",
-    "name": "Dikaya okhota",
+    "nanoid": "xUgG4Xe5635smX",
+    "name": "Dikij",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/274/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9YLJY2DWypB09G",
-    "name": "Dikaya rybalka",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/275/index.m3u8"
+        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -227,28 +183,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWpkHYxq6dUNah",
-    "name": "Fish TV",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/FISH_TV_HD/index.m3u8",
-        "https://168.197.104.22/FISH_TV/index.m3u8",
-        "https://170.83.16.50/FISH_TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TKlUtkeJbMnBT7",
     "name": "Horse & Country TV",
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -332,8 +273,7 @@
     "name": "Moya Planeta",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/124/index.m3u8",
-        "https://91.226.120.120/chid210/tracks-v1a1/mono.m3u8"
+        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -347,7 +287,6 @@
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/194/index.m3u8",
         "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -457,6 +396,20 @@
       "deu"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3EEayoY7m4WXhg",
+    "name": "Poehali!",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -591,20 +544,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "93DsdscIFyGwKr",
-    "name": "Rybolov",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/264/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0mEe54Ekw1mj61",
     "name": "Swamiji TV American",
     "sources": {
@@ -644,21 +583,6 @@
       "eng"
     ],
     "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NpwExVTLVpI32y",
-    "name": "Trofei",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/357/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {

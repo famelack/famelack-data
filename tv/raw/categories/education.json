@@ -4,9 +4,7 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://186.219.52.187/agro_canal/index.m3u8",
-        "https://168.197.104.22/AGRO_CANAL/index.m3u8",
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8"
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
@@ -116,13 +114,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w9iKnoeRBQ99pR",
+    "name": "Can Tho TV 2",
+    "sources": {
+      "streams": [
+        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7nyUSJn5aAWm7k",
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://45.177.114.115/CANAL_EDUCACAO/index.m3u8",
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
-        "https://168.197.104.22/CANAL_EDUCACAO/index.m3u8"
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
       ]
     },
     "languages": [
@@ -146,22 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8yxjHQYdOlErAK",
-    "name": "Canal Futura",
-    "sources": {
-      "streams": [
-        "https://170.83.16.50/FUTURA/index.m3u8",
-        "https://186.219.52.187/futura/index.m3u8",
-        "https://45.162.64.114/FUTURA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SB7baTrTU4uzJM",
     "name": "Canal Saude",
     "sources": {
@@ -176,18 +170,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pOal2u88RSp40P",
-    "name": "Chemodan TV",
+    "nanoid": "TAS6xjp5V4DYwH",
+    "name": "Canal Universidad",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/399/index.m3u8"
+        "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "ukr"
+      "spa"
     ],
-    "country": "ua",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -293,8 +286,8 @@
     "name": "Da Vinci",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/238/index.m3u8",
-        "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -713,21 +706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w2VyWhdboy9Con",
-    "name": "Fauna",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/401/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M1xHzWMuYZ3C7M",
     "name": "FGN Channel",
     "sources": {
@@ -739,20 +717,6 @@
       "urd"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nuezSbylZ8GRsS",
-    "name": "Futura",
-    "sources": {
-      "streams": [
-        "https://168.197.104.22/FUTURA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -781,6 +745,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6EdtrtcTzJTHBM",
+    "name": "HTV4",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -823,20 +801,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sxcOVBdgNZ3j3j",
-    "name": "Kan Educational",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/378/index.m3u8"
-      ]
-    },
-    "languages": [
-      "heb"
-    ],
-    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -1195,8 +1159,7 @@
     "name": "Persiana Medical",
     "sources": {
       "streams": [
-        "https://phd2hls.persiana.live/hls/stream.m3u8",
-        "https://tfnhls.wns.live/hls/stream.m3u8"
+        "https://phd2hls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1273,6 +1236,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "sources": {
+      "streams": [
+        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {

@@ -18,7 +18,7 @@
     "name": "Avto24",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/78/index.m3u8"
+        "https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -48,7 +48,8 @@
     "name": "Choppertown",
     "sources": {
       "streams": [
-        "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+        "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+        "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -131,20 +132,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HqxGIe9L28ibkT",
-    "name": "Pershyi avtomobilnyi",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/404/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "tUYx8kteikm3hV",

@@ -82,20 +82,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TphCDlbCPyYa2m",
-    "name": "Cinerama Television",
-    "sources": {
-      "streams": [
-        "https://live.cineramatvbo.com/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "szKNdNWx1GqWTX",
     "name": "Coral TV",
     "sources": {
@@ -198,11 +184,24 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
-        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
       ]
     },
     "languages": [],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3qll92K68H7fAm",
+    "name": "GO TV",
+    "sources": {
+      "streams": [
+        "https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "bo",
     "isGeoBlocked": false
   },
@@ -226,6 +225,20 @@
     "sources": {
       "streams": [
         "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4frDgMPDz0NOom",
+    "name": "PTV",
+    "sources": {
+      "streams": [
+        "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
       ]
     },
     "languages": [
@@ -268,6 +281,20 @@
     "sources": {
       "streams": [
         "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OPWUaOk2V7zsOP",
+    "name": "Radio Mega TV Amazonia",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -338,7 +365,6 @@
     "sources": {
       "streams": [
         "https://rtp.noxun.net/hls/stream.m3u8",
-        "https://rtp.noxun.net/hls480/stream2.m3u8",
         "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
@@ -405,20 +431,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oOiARRZ91GwBKV",
-    "name": "TL Estrella",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lCPbDhC1z9VYdq",
     "name": "TransMedia",
     "sources": {
@@ -439,20 +451,6 @@
       "streams": [
         "https://master.tucableip.com/tvlatina/index.m3u8",
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ztTWlTaxLQDSi1",
-    "name": "TV OFF",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/tvoff/index.m3u8"
       ]
     },
     "languages": [
@@ -522,48 +520,10 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
       ]
     },
     "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0kSUvzkeZXdmq",
-    "name": "Unitel La Paz",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XmRascOPMJDcT",
-    "name": "Unitel Santa Cruz",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9u6WNgsEYDn11w",
-    "name": "Univalle Television",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/univalletv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "bo",
     "isGeoBlocked": false
   },
@@ -587,20 +547,6 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bXD4q6ffj1GZXZ",
-    "name": "VTV Canal 17",
-    "sources": {
-      "streams": [
-        "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
       ]
     },
     "languages": [

@@ -84,20 +84,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FYDzTh0N4duFas",
-    "name": "ETV",
-    "sources": {
-      "streams": [
-        "https://sb.err.ee/live/etv.m3u8"
-      ]
-    },
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -112,17 +98,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QEActBWvI7XYY6",
-    "name": "Go3 Sport 1",
+    "nanoid": "g3tSCZ3A6RSOUd",
+    "name": "ETV+",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/416/index.m3u8"
+        "https://sb.err.ee/live/etvpluss.m3u8"
       ]
     },
     "languages": [
       "est",
-      "lav",
-      "lit"
+      "rus"
     ],
     "country": "ee",
     "isGeoBlocked": false
@@ -138,22 +123,6 @@
     },
     "languages": [
       "rus"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "83RIN2z2ujqEoT",
-    "name": "Sport 1 Baltic",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/461/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus",
-      "ukr"
     ],
     "country": "ee",
     "isGeoBlocked": false
@@ -207,8 +176,8 @@
     "name": "Vantage Music",
     "sources": {
       "streams": [
-        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
         "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+        "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
         "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
       ]
     },

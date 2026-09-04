@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "d5k9RHTOOkIzsq",
-    "name": "A2i Music",
-    "sources": {
-      "streams": [
-        "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "wol"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qnZnUMjCzgKR22",
     "name": "A2i Religion",
     "sources": {
@@ -56,6 +41,20 @@
     ],
     "country": "sn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zpTt3vP2V1Xpqc",
+    "name": "GMS TV",
+    "sources": {
+      "streams": [
+        "https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JUnTXwYpoyd7Ny",

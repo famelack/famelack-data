@@ -221,10 +221,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZtRuovvoPbor1F",
+    "name": "BFM Alsace",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "D2NSPfcewUnhFP",
     "name": "BFM Business",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
       ]
     },
@@ -235,11 +250,122 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DDHvr3WgGOizR0",
+    "name": "BFM Cote d'Azur",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zkM4VXMgzSDMPu",
+    "name": "BFM DICI Alpes du Sud",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QtM3ILpKuNXe1a",
+    "name": "BFM DICI Haute-Provence",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WucjCDNL3FGULj",
+    "name": "BFM Grand Lille",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KVXvrmoKjSKBbq",
+    "name": "BFM Grand Littoral",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "em6QeVMfYDr0B0",
+    "name": "BFM Grands Reportages",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QdwgxpSy3GxyBy",
     "name": "BFM Lyon",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c1JGnuOB8pCEI9",
+    "name": "BFM Marseille",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cUhHOnv9aj6JeQ",
+    "name": "BFM Normandie",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE"
       ]
     },
     "languages": [
@@ -253,7 +379,22 @@
     "name": "BFM TV",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Y7R2SqI8bBKlS",
+    "name": "BFM Var",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE"
       ]
     },
     "languages": [
@@ -267,6 +408,7 @@
     "name": "BFM2",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
         "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
       ]
     },
@@ -410,25 +552,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vyAlDaoF9WU1Q1",
-    "name": "Euronews English",
-    "sources": {
-      "streams": [
-        "https://45.190.28.50/EURONEWS_HD/index.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -698,7 +821,7 @@
       "streams": [
         "https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8",
-        "https://170.83.16.50/FRANCE_24/index.m3u8"
+        "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/HvZt-nh9sGg"
@@ -977,20 +1100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rOt2GRHARiewoL",
-    "name": "Littoral FM TV",
-    "sources": {
-      "streams": [
-        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "sources": {
@@ -1014,20 +1123,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LMz39hxqiqUJdI",
-    "name": "Mezzo Live",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/276/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1231,18 +1326,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
-    "sources": {
-      "streams": [
-        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1783,20 +1866,6 @@
     "sources": {
       "streams": [
         "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4t9nyKLy4BlsIu",
-    "name": "TV5Monde Africa",
-    "sources": {
-      "streams": [
-        "https://5.9.121.178/tv5monde/index.m3u8"
       ]
     },
     "languages": [

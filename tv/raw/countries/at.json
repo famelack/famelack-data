@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TIO4oK5UynDpK7",
-    "name": "FS1 Salzburg",
+    "nanoid": "SZKqh8My275jx3",
+    "name": "FairON",
     "sources": {
-      "streams": [
-        "https://stream.fs1.tv/hls/webstream.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ERTxz4BuoHY"
       ]
     },
     "languages": [
@@ -373,6 +373,20 @@
     "sources": {
       "streams": [
         "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FprwnAkCKvi17W",
+    "name": "Steiermark TV",
+    "sources": {
+      "streams": [
+        "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
       ]
     },
     "languages": [

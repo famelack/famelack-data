@@ -18,7 +18,7 @@
     "name": "Africa Independent Television",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BxNwd-c0zUk"
+        "https://www.youtube-nocookie.com/embed/FMkJ4Ah1kbc"
       ]
     },
     "languages": [
@@ -46,8 +46,7 @@
     "name": "Approval TV",
     "sources": {
       "streams": [
-        "https://live.approvaltv.com/approvaltv/index.m3u8",
-        "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8"
+        "https://live.approvaltv.com/approvaltv/index.m3u8"
       ]
     },
     "languages": [
@@ -296,6 +295,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SYkeshgW48vaJo",
+    "name": "Qausain TV",
+    "sources": {
+      "streams": [
+        "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iDilpFRfriZnAl",
     "name": "Rapid TV",
     "sources": {
@@ -394,20 +407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yRDzHhTj4zd7dc",
-    "name": "Tele Regency TV",
-    "sources": {
-      "streams": [
-        "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mQsEQa26uw8XEM",
     "name": "TrustTV News",
     "sources": {
@@ -432,20 +431,6 @@
     "languages": [
       "eng",
       "yor"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sbDH8jcQOtprOU",
-    "name": "TVC",
-    "sources": {
-      "streams": [
-        "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ng",
     "isGeoBlocked": false
@@ -479,39 +464,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y3iniHuYhBuCQD",
-    "name": "Wap TV",
-    "sources": {
-      "streams": [
-        "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XBCn7LG1vDEDMn",
     "name": "Wazobia Max TV Nigeria",
     "sources": {
       "streams": [
         "https://wazobia.live:8333/channel/wmax.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bmxTZy6nlmaoMM",
-    "name": "Wazobia Max TV Port-Harcourt",
-    "sources": {
-      "streams": [
-        "https://wazobia.live:8333/channel/wmaxph.m3u8"
       ]
     },
     "languages": [

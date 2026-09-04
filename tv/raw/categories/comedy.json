@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C7SK0S2RgKNZGi",
+    "name": "AFV",
+    "sources": {
+      "streams": [
+        "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
     "sources": {
@@ -199,39 +213,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JUh78ibwjZjSWp",
-    "name": "Kinokomedija",
+    "nanoid": "Gw5BJTz0LOIeHh",
+    "name": "KVN TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/265/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H3UPSBAVuhUxL7",
-    "name": "Komedia",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/68/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xK0Yp3bEUvrU5e",
-    "name": "Komediynoe",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/74/index.m3u8"
+        "https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -314,6 +300,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -494,20 +481,6 @@
       "rus"
     ],
     "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xQAk5wZODkxgWi",
-    "name": "viju+ Comedy",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/201/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

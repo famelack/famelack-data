@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "zLbErKeLWlYtjV",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YeKuxDQNxxKjD2",
     "name": "Altura TV",
     "sources": {
@@ -74,8 +60,7 @@
     "name": "Antares Television",
     "sources": {
       "streams": [
-        "https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
-        "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+        "https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -90,6 +75,20 @@
     "sources": {
       "streams": [
         "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4DBElJ7eVRBwAz",
+    "name": "Arpegio TV",
+    "sources": {
+      "streams": [
+        "https://vdo.oyotunserver.com/arpegio/video.m3u8"
       ]
     },
     "languages": [
@@ -198,20 +197,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mpenW808IXkfsK",
-    "name": "Canal Mas TV",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JWF3Hmgh7M8jJ3",
     "name": "Conecta2TV",
     "sources": {
@@ -259,34 +244,6 @@
     "sources": {
       "streams": [
         "https://live.obslivestream.com/crtvmux/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "msqk8hFvDiwdDB",
-    "name": "Cultura 24",
-    "sources": {
-      "streams": [
-        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V1ZiJWm44mlgNB",
-    "name": "CVN TV",
-    "sources": {
-      "streams": [
-        "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8"
       ]
     },
     "languages": [
@@ -496,8 +453,8 @@
     "name": "Latina Noticias 24/7",
     "sources": {
       "streams": [
-        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
-        "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8"
+        "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -554,20 +511,6 @@
     "sources": {
       "streams": [
         "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IuaZCWClQdGZcM",
-    "name": "Metropolitana del Cuzco",
-    "sources": {
-      "streams": [
-        "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -941,6 +884,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BsVGc0NetKyHUo",
+    "name": "SolTV",
+    "sources": {
+      "streams": [
+        "https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yVJeYHLV12zwlK",
     "name": "Super Canal",
     "sources": {
@@ -1139,20 +1096,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fIS8sGKNQMXO8C",
-    "name": "TVenLinea",
-    "sources": {
-      "streams": [
-        "https://srt.tvdatta.com/tvenlinea/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ghJvcjvVzHFJJM",
     "name": "TVUNO",
     "sources": {
@@ -1172,6 +1115,20 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dbLCjbraoPInRW",
+    "name": "Uchu TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1256,20 +1213,6 @@
     "sources": {
       "streams": [
         "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "trHTZPVHEp7Bhk",
-    "name": "Vision",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8"
       ]
     },
     "languages": [
