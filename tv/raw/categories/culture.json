@@ -286,20 +286,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RMJta2uB0RhiFk",
-    "name": "Channel One",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Sf_K5Q5wwEM"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h25WUyBe4528fW",
     "name": "Channel S",
     "sources": {
@@ -327,20 +313,6 @@
       "eng"
     ],
     "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/chiloered/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -413,6 +385,20 @@
       "spa"
     ],
     "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "msqk8hFvDiwdDB",
+    "name": "Cultura 24",
+    "sources": {
+      "streams": [
+        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -579,20 +565,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "31Wi6UqtxsYAm3",
-    "name": "Ev-tele",
-    "sources": {
-      "streams": [
-        "https://playtv4k.live/live/EVTELE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "sources": {
@@ -622,6 +594,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "io7IYy4iGHXtAl",
+    "name": "FNX KVCR-DT",
+    "sources": {
+      "streams": [
+        "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "sources": {
@@ -633,6 +619,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -820,6 +820,20 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MENDV9zQPKUclz",
+    "name": "Kemet TV",
+    "sources": {
+      "streams": [
+        "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
     "isGeoBlocked": false
   },
   {
@@ -1181,20 +1195,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1Snebdc8j861KM",
-    "name": "Radio Universitaria San Andres",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8054/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zcoCA9mHfb19F8",
     "name": "REDE SPi",
     "sources": {
@@ -1206,33 +1206,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1353,27 +1326,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QP7DyV43LNSLl9",
-    "name": "StoryChannel TV",
+    "nanoid": "bOQ2ElnoGQqKTy",
+    "name": "Somos Entre Rios",
     "sources": {
       "streams": [
-        "https://136044159.r.cdnsun.net/storychannel.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
       ]
     },
     "languages": [
-      "ara",
-      "asp",
-      "eng",
-      "fra",
-      "kab",
-      "rif",
-      "shi",
-      "shy",
-      "taq",
-      "tzm",
-      "xms"
+      "spa"
     ],
-    "country": "ma",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -1561,6 +1524,20 @@
       "ron"
     ],
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BCqlMDAwIJgW3B",
+    "name": "UAA TV",
+    "sources": {
+      "streams": [
+        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

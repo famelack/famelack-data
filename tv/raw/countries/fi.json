@@ -36,11 +36,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f0wcRTXZi1OLrF",
+    "name": "Eveo",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "plB7keRPLB8ziF",
+    "name": "Jim",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "khHjtS0a6tOj4o",
     "name": "JRTV Jarviradio",
     "sources": {
       "streams": [
         "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FW4NkK3uUVOi0W",
+    "name": "Liv",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true"
       ]
     },
     "languages": [
@@ -60,6 +102,42 @@
     "languages": [
       "eng"
     ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vXBPuMXUanBxnj",
+    "name": "MTV Ava",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/ava/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XIT46ZkepuHyd7",
+    "name": "MTV Sub",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/sub/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sJ0IwCxQ3PFQw5",
+    "name": "MTV3",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "fi",
     "isGeoBlocked": false
   },
@@ -92,11 +170,52 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ic6PikdPKAa3mo",
+    "name": "Nelonen",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/nelonen/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "knoFkqODtHFsAU",
     "name": "Onni TV",
     "sources": {
       "streams": [
         "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WJxJB7lKSKz27v",
+    "name": "Rakuten TV Romance Movies Finland",
+    "sources": {
+      "streams": [
+        "https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Sey5sFeH4sTPhh",
+    "name": "STAR Channel",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv"
       ]
     },
     "languages": [
@@ -138,7 +257,8 @@
     "name": "Yle TV1",
     "sources": {
       "streams": [
-        "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
+        "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+        "https://live-fi.tvkaista.net/yle-tv1/live.m3u8"
       ]
     },
     "languages": [

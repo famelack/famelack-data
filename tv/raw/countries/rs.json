@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tsbOtlPHjLhjn5",
+    "name": "Pannon TV",
+    "sources": {
+      "streams": [
+        "https://stream.nmih.hu:4102/live.m3u8"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "80i8NgFWX25XdT",
     "name": "Radio Hit FM TV",
     "sources": {
@@ -132,6 +146,20 @@
     "sources": {
       "streams": [
         "https://vod1.laki.eu/live/hram/index.m3u8"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "el5IOL1qYelPwG",
+    "name": "TV Panon",
+    "sources": {
+      "streams": [
+        "https://stream2.nmih.hu:4102/live.m3u8"
       ]
     },
     "languages": [

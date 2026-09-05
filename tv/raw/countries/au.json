@@ -14,6 +14,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v83xg8X6mcPJfC",
+    "name": "ABC Entertains Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-me.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pBX0n0NNoCv2oI",
+    "name": "ABC Kids Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-kids.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e5UVFol9mf1Sy9",
     "name": "ABC News Australia",
     "sources": {
@@ -32,7 +60,134 @@
     "name": "ABC News Sydney",
     "sources": {
       "streams": [
-        "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+        "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+        "https://c.mjh.nz/abc-news.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WBm7Wbgb7nVEXC",
+    "name": "ABC TV ACT",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-act.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K7t5KAgzTmvSXO",
+    "name": "ABC TV NSW",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-nsw.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mhMN2IJeEcMKv2",
+    "name": "ABC TV NT",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-nt.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6MLr69PO7oA2rq",
+    "name": "ABC TV Plus Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-tv-plus.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDu2SpXF3v66cR",
+    "name": "ABC TV QLD",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-qld.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mygZvOgaVHqyyH",
+    "name": "ABC TV SA",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-sa.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HzCmJpSl3c0Hhr",
+    "name": "ABC TV TAS",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-tas.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SqxB6f0wfQnRdL",
+    "name": "ABC TV VIC",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-vic.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3iCakUjSw7kdSc",
+    "name": "ABC TV WA",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-wa.m3u8"
       ]
     },
     "languages": [
@@ -215,8 +370,7 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

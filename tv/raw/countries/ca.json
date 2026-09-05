@@ -100,14 +100,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p0zKKJn9B3MYSH",
+    "nanoid": "jkhVUzLb6rEW8B",
     "name": "Canal Savoir",
     "sources": {
       "streams": [
         "https://hls.savoir.media/live/stream.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -535,20 +537,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hTAa42S6ckdNs5",
     "name": "Garfield & Friends",
     "sources": {
@@ -647,170 +635,198 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NufmSZI2dWYsVg",
+    "nanoid": "2oJjCwCHs6jIyR",
     "name": "ICI Montreal",
     "sources": {
       "streams": [
         "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mIGdPVCQ0ktnig",
+    "nanoid": "qTBBfgVQPSWPrA",
     "name": "Ici Radio-Canada Télé",
     "sources": {
       "streams": [
         "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "vN4KxpB8RBfII1",
+    "nanoid": "w1gxGK7i1Tu1x2",
     "name": "Ici Radio-Canada Télé Alberta (CBXFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9l6DsmybaReA2E",
+    "nanoid": "YEdrOCcoQa6dKG",
     "name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "UmEJkzAUB1AYQg",
+    "nanoid": "nHDxIofgkugzZk",
     "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "V3BMBGhU6fGP7f",
+    "nanoid": "rpQ8RA1mbZgwRB",
     "name": "Ici Radio-Canada Télé Estrie (CKSH-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "tYCltkBmbBXWFA",
+    "nanoid": "F9aDzRqkUxfvHV",
     "name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "UMIWvF117w8y9j",
+    "nanoid": "MxGLQzbmn1eRI9",
     "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "1yLst6OvN4IiS8",
+    "nanoid": "lefO7v4n3VvVMP",
     "name": "Ici Radio-Canada Télé Ontario (CBLFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qMfxPERIpN5bJn",
+    "nanoid": "PY9x4pkcZHp0a4",
     "name": "Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "lxLCWtpDfYneS1",
+    "nanoid": "qpj1oGnAfj0tNs",
     "name": "Ici Radio-Canada Télé Québec (CBVT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "jqqev1sDHlkMw9",
+    "nanoid": "v8YRKpn8C7SA8f",
     "name": "Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "C2IpSsj3CjIb2e",
+    "nanoid": "fEhQEHi1zhQ9J9",
     "name": "Ici Radio-Canada Télé Saskatchewan (CBKFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
   {
-    "nanoid": "bcFNUEYUWeV35y",
+    "nanoid": "AtNMmaZyA3uXwI",
     "name": "Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },
@@ -884,6 +900,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "QKoQ4Vi60xOxy0",
+    "name": "KQSL Channel 8",
+    "sources": {
+      "streams": [
+        "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "tHnMhw9wheLA87",
@@ -981,14 +1011,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lvoDUBhVQd9VsC",
+    "nanoid": "npjeXau21Ev4bz",
     "name": "Newfoundland Television",
     "sources": {
       "streams": [
         "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1157,20 +1189,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vYhff99inYZrDY",
-    "name": "Radio Tele Evangile Sans Limite",
-    "sources": {
-      "streams": [
-        "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iAGIl1kw4w2Izl",
     "name": "Schitt’s Creek Channel",
     "sources": {
@@ -1192,6 +1210,20 @@
     },
     "languages": [
       "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fap14DtXmRg1DV",
+    "name": "Sohail TV",
+    "sources": {
+      "streams": [
+        "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
+      ]
+    },
+    "languages": [
+      "prd"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -2132,7 +2164,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/H2ZwwT4fzYs"
+        "https://www.youtube-nocookie.com/embed/1aPD-3K-nFk"
       ]
     },
     "languages": [
@@ -2142,14 +2174,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4vXtjAL0sTXinF",
-    "name": "TVA",
+    "nanoid": "l4n46BVDM7izVj",
+    "name": "TVA CFTM-DT",
     "sources": {
       "streams": [
         "https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
     "country": "ca",
     "isGeoBlocked": true
   },

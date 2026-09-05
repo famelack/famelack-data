@@ -70,6 +70,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "04BZ4Im7unCBPu",
+    "name": "RTL Tele Letzebuerg",
+    "sources": {
+      "streams": [
+        "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ltz"
+    ],
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VKXdw51jAjLElY",
+    "name": "RTL Web Radio TV",
+    "sources": {
+      "streams": [
+        "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ltz"
+    ],
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4bOkAleAYXay7w",
+    "name": "RTL Zwee",
+    "sources": {
+      "streams": [
+        "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "fra",
+      "ltz"
+    ],
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4HFk1EIyyY3Rms",
     "name": "Today Radio",
     "sources": {

@@ -70,18 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TeFmbSu18GnAQ",
-    "name": "Cadena A",
-    "sources": {
-      "streams": [
-        "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "szKNdNWx1GqWTX",
     "name": "Coral TV",
     "sources": {
@@ -184,7 +172,8 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
       ]
     },
     "languages": [],
@@ -197,6 +186,20 @@
     "sources": {
       "streams": [
         "https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UWOKSE73g6jYRt",
+    "name": "KSCE Vida Cristiana",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -290,53 +293,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OPWUaOk2V7zsOP",
-    "name": "Radio Mega TV Amazonia",
-    "sources": {
-      "streams": [
-        "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1Snebdc8j861KM",
-    "name": "Radio Universitaria San Andres",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/8054/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jesOsAnSntYFJW",
     "name": "Red America TV",
     "sources": {
       "streams": [
         "https://edge.enhdtv.com/redamerica/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "crhuDV1URlafW7",
-    "name": "Red Rubi",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -380,20 +341,6 @@
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "87xKAUIruoYGZK",
-    "name": "TDT Multimedia",
-    "sources": {
-      "streams": [
-        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
       ]
     },
     "languages": [
@@ -449,8 +396,8 @@
     "name": "TV Latina",
     "sources": {
       "streams": [
-        "https://master.tucableip.com/tvlatina/index.m3u8",
-        "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
+        "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+        "https://master.tucableip.com/tvlatina/index.m3u8"
       ]
     },
     "languages": [
@@ -528,11 +475,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GMFO5ANQ5nEa2e",
-    "name": "UPEA TV",
+    "nanoid": "9u6WNgsEYDn11w",
+    "name": "Univalle Television",
     "sources": {
       "streams": [
-        "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
+        "https://master.tucableip.com/univalletv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -542,11 +489,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uLnAaMvBQP6gl2",
-    "name": "Vos TV",
+    "nanoid": "GMFO5ANQ5nEa2e",
+    "name": "UPEA TV",
     "sources": {
       "streams": [
-        "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8"
+        "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
       ]
     },
     "languages": [

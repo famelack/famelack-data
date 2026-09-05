@@ -98,6 +98,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yq7NxSgMJ0x6ko",
+    "name": "Antena TV",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L4rlrnY8qxe1Zl",
+    "name": "Azteca Deportes Network",
+    "sources": {
+      "streams": [
+        "https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "49nmeVhY8qIuOA",
     "name": "Azteca Internacional",
     "sources": {
@@ -140,6 +168,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "z9NmlAa4TNcIbD",
+    "name": "BAMOS TV",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "sources": {
@@ -168,25 +224,12 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "v6b78NmVD9WnBy",
-    "name": "Canal 23 Televisa Ensenada",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/HDgjTvk_-CE"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L8CnobbQq5QEWf",
     "name": "Canal 26",
     "sources": {
       "streams": [
-        "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+        "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+        "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8"
       ]
     },
     "languages": [
@@ -465,6 +508,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dQroYObAPsPIjO",
+    "name": "Imagen TV+",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/e2zdy3_b_O4"
+      ]
+    },
+    "languages": [],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZiZzS4tyBeE4oz",
     "name": "ITV Deportes",
     "sources": {
@@ -731,26 +786,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CIkEFZcLn9ruGH",
+    "nanoid": "UQFSkPCl4JMKWc",
     "name": "SET Televisión Canal 26.1",
     "sources": {
       "streams": [
-        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MvxVdnZ8G06Wbd",
-    "name": "SET Televisión Canal 26.2",
-    "sources": {
-      "streams": [
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
         "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -853,14 +899,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IomnjUMD148fu8",
+    "nanoid": "KqwTXd2D9Yt1Mj",
     "name": "Telemax (XEWH-TDT)",
     "sources": {
       "streams": [
         "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -936,25 +984,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "V9bf7FdY5Rbg5t",
-    "name": "Televisa Guerrero",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/L89Huyy4FJY"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/f9Ho9Fwa0HA"
+        "https://www.youtube-nocookie.com/embed/U3Wx_3lTU78"
       ]
     },
     "languages": [
@@ -978,11 +1012,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/sfh24ZEuTCg"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jiv0dDh9RrbAvZ",
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/y4bLff2gInQ"
+        "https://www.youtube-nocookie.com/embed/FkGXlTE73Iw"
       ]
     },
     "languages": [
@@ -1048,20 +1096,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CYVWTZuNQ67W3k",
-    "name": "Televisa Tijuana",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vymZp18K7Nw"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kBLqWOYbCQz0Mi",
     "name": "Televisa Univision Saltillo",
     "sources": {
@@ -1080,7 +1114,7 @@
     "name": "Televisa Veracruz",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/P5alTP_Hyzc"
+        "https://www.youtube-nocookie.com/embed/-5z_tF3kq3A"
       ]
     },
     "languages": [
@@ -1123,6 +1157,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/aw8t8b1rN8c"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vw5YOQQ6YZDvZh",
+    "name": "Tlaxcala TV",
+    "sources": {
+      "streams": [
+        "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8"
       ]
     },
     "languages": [
@@ -1222,20 +1270,6 @@
     "sources": {
       "streams": [
         "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ql898Hb5o5onXW",
-    "name": "TV Lobo",
-    "sources": {
-      "streams": [
-        "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1348,6 +1382,20 @@
     "sources": {
       "streams": [
         "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BCqlMDAwIJgW3B",
+    "name": "UAA TV",
+    "sources": {
+      "streams": [
+        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
       ]
     },
     "languages": [

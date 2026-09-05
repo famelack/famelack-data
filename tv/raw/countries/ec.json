@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8Bv8hcX2tNuzZb",
-    "name": "Antena Uno Radiovideo",
-    "sources": {
-      "streams": [
-        "https://tvdatta.com:3578/live/antenaunolive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "foqtQhn0xjFGsZ",
     "name": "Asomavision",
     "sources": {
@@ -476,20 +462,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kPWsFvTNnFdIuT",
-    "name": "Planeta Channel",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "sources": {
@@ -546,11 +518,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8GS07KlJ6wtlsy",
-    "name": "RTV",
+    "nanoid": "xVqW7TFhiaRWy0",
+    "name": "Red TVE Ventanas",
     "sources": {
       "streams": [
-        "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
+        "https://s2.tvdatta.com:3825/live/redtvelive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SaGLTOGoC0bQPx",
+    "name": "RTRTV",
+    "sources": {
+      "streams": [
+        "https://tv3ecuador.site/hls/stream/index.m3u8"
       ]
     },
     "languages": [

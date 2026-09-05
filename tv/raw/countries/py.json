@@ -112,6 +112,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zqy5hOySvczhKR",
+    "name": "Caritas TV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BZ9ohjnwvpwyuR",
     "name": "Cosmos TV",
     "sources": {
@@ -210,11 +224,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OETM24DdxaHZfM",
+    "name": "Invasiva TV",
+    "sources": {
+      "streams": [
+        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lLlNJWyY2XdMQg",
+    "name": "Los Angeles TV Radio",
+    "sources": {
+      "streams": [
+        "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8"
       ]
     },
     "languages": [
@@ -257,20 +299,6 @@
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KiwbZFxfIOXSsb",
-    "name": "Nande Portetepe TV",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
       ]
     },
     "languages": [
@@ -323,11 +351,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zFyIVU3GskBml9",
-    "name": "Occidental TV",
+    "nanoid": "VI1f12kgFZ6WBR",
+    "name": "Oasis TV",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+        "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
       ]
     },
     "languages": [
@@ -337,11 +365,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HxsHxTV92v3WvN",
-    "name": "Oviedo TV",
+    "nanoid": "zFyIVU3GskBml9",
+    "name": "Occidental TV",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
+        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
       ]
     },
     "languages": [

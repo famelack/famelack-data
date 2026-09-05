@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ShvwvF1bv7BYEt",
-    "name": "Canal 21 Tachira",
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
     "sources": {
       "streams": [
-        "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
+    "nanoid": "ShvwvF1bv7BYEt",
+    "name": "Canal 21 Tachira",
     "sources": {
       "streams": [
-        "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8"
+        "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
       ]
     },
     "languages": [
@@ -84,11 +84,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GpRDoekUac7eR",
-    "name": "Canal I",
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
     "sources": {
       "streams": [
-        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
       ]
     },
     "languages": [
@@ -98,11 +98,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
+    "nanoid": "BcpXd12u6A6rk7",
+    "name": "Contactv",
     "sources": {
       "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -155,6 +155,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L2vaUyfehZpjxw",
+    "name": "Inter TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uShK1SgZwLoTJ4",
     "name": "Isla TV",
     "sources": {
@@ -174,20 +188,6 @@
     "sources": {
       "streams": [
         "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QQi0FMbNByIzUs",
-    "name": "LaPuraCrema Television",
-    "sources": {
-      "streams": [
-        "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -258,6 +258,20 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tbGxevqWx6uLGr",
+    "name": "Maxima TV",
+    "sources": {
+      "streams": [
+        "https://maximatv.net/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -480,20 +494,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "sources": {
-      "streams": [
-        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IMxxuZcthSxVVc",
     "name": "Tu TV",
     "sources": {
@@ -609,6 +609,20 @@
     "sources": {
       "streams": [
         "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "baPvUzzfHutjpv",
+    "name": "Vepaco TV",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
       ]
     },
     "languages": [

@@ -207,20 +207,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zzw5XdFQULzoOQ",
-    "name": "Aras TV",
-    "sources": {
-      "streams": [
-        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -254,10 +240,11 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SAqH6cYIiK0"
+        "https://www.youtube-nocookie.com/embed/QlLx7bRrqW0"
       ]
     },
     "languages": [
@@ -619,20 +606,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Px2fWEqZcfw"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6TzIP2eJ3m8bpX",
     "name": "Elsharq TV",
     "sources": {
@@ -938,7 +911,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ebfqm_CvRzk"
+        "https://www.youtube-nocookie.com/embed/quyvjLB8lqU"
       ]
     },
     "languages": [
@@ -1894,6 +1867,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KKJEmcQaCx4"
       ]
     },
     "languages": [
@@ -1922,20 +1898,6 @@
     "sources": {
       "streams": [
         "https://live.euromediacenter.com/trakyaturk/tracks-v1a1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e8zax7Tb0zc8Eu",
-    "name": "TRT 1",
-    "sources": {
-      "streams": [
-        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [

@@ -45,6 +45,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v83xg8X6mcPJfC",
+    "name": "ABC Entertains Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-me.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pBX0n0NNoCv2oI",
+    "name": "ABC Kids Sydney",
+    "sources": {
+      "streams": [
+        "https://c.mjh.nz/abc-kids.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "sources": {
@@ -191,6 +219,7 @@
     "name": "Balapan",
     "sources": {
       "streams": [
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
         "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
       ]
     },
@@ -255,6 +284,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hJ8HguXXkusVQL",
+    "name": "Blues TV",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -342,20 +385,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hk3PCZlSdlk7No",
-    "name": "Boomerang: The Tom and Jerry Show",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/_XeGYNTiuSM"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ejzd7w3qnd3CEH",
     "name": "Camp Spoopy",
     "sources": {
@@ -396,20 +425,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -892,20 +907,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UKFKknT6Mn80n5",
-    "name": "Disney Kids: Winnie the Pooh",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/URXBh2PRp0o"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Al1oV2CUIaUTJV",
     "name": "Dr. Seuss",
     "sources": {
@@ -947,6 +948,20 @@
       "slk"
     ],
     "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G2NosoJRDb3Bwq",
+    "name": "Duronto TV",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
     "isGeoBlocked": false
   },
   {
@@ -1249,17 +1264,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
     "sources": {
-      "streams": [
-        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/4mOAGaf1X4c"
       ]
     },
     "languages": [
-      "ind"
+      "urd"
     ],
-    "country": "id",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1691,20 +1706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dlSxOcHpkY3viD",
-    "name": "NickOnline Bob Esponja",
-    "sources": {
-      "streams": [
-        "https://bob.x1colegal.com/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "sources": {
@@ -1779,7 +1780,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OKHTrgxGIaQ"
+        "https://www.youtube-nocookie.com/embed/El85Fg1WF7I"
       ]
     },
     "languages": [
@@ -1906,20 +1907,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/VrEKkzmBaXc"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WHWLxlV7pb492Q",
-    "name": "PBS KIDS: Dinosaur Train",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/bzatIu1F6eM"
       ]
     },
     "languages": [
@@ -2111,6 +2098,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/kNVPUBTGPSk"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
     "sources": {
@@ -2289,9 +2290,7 @@
         "https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8"
       ]
     },
-    "languages": [
-      "rus"
-    ],
+    "languages": [],
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -2464,6 +2463,20 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pvNp8yuQamhSS2",
+    "name": "The Jungle Book",
+    "sources": {
+      "streams": [
+        "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {

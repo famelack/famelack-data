@@ -173,7 +173,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mt-2uAaDUP0"
+        "https://www.youtube-nocookie.com/embed/bSeTczVYtHQ"
       ]
     },
     "languages": [
@@ -366,6 +366,20 @@
     "sources": {
       "streams": [
         "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oMWoXuzyayZcUr",
+    "name": "BFM Tech & Co",
+    "sources": {
+      "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE"
       ]
     },
     "languages": [
@@ -1100,6 +1114,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
+    "sources": {
+      "streams": [
+        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "sources": {
@@ -1161,6 +1189,18 @@
     "sources": {
       "streams": [
         "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
+    "sources": {
+      "streams": [
+        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1326,6 +1366,18 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dK7Tr0arpe0iTb",
+    "name": "Rakuten TV Top Films France",
+    "sources": {
+      "streams": [
+        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "K1cCEN7WNbjDun",
@@ -1948,20 +2000,6 @@
     "sources": {
       "streams": [
         "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Vfl8587p5Rbn09",
-    "name": "viaTelePaese",
-    "sources": {
-      "streams": [
-        "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
       ]
     },
     "languages": [

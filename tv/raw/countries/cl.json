@@ -492,20 +492,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/chiloered/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ud3SPgHdcvR9fj",
     "name": "China Channel",
     "sources": {
@@ -520,11 +506,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YVZxTC9dQaBTqc",
+    "name": "Chocolate FM",
+    "sources": {
+      "streams": [
+        "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Eoeb9ldORywfM0",
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EGkn7AtG2Qw"
+        "https://www.youtube-nocookie.com/embed/UQqz9Gtw0Xc"
       ]
     },
     "languages": [
@@ -786,20 +786,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kMxscA2sewftOr",
-    "name": "En Linea Maule",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/enlineamauletv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i6l8MV9GANNiZj",
     "name": "Enfoque Digital TV",
     "sources": {
@@ -861,6 +847,20 @@
     "sources": {
       "streams": [
         "https://v2.tustreaming.cl/fmplus/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TjL3TFhpzdjFiR",
+    "name": "Fortaleza TV",
+    "sources": {
+      "streams": [
+        "https://multimedia.fortalezatv.cl/video/video.m3u8"
       ]
     },
     "languages": [
@@ -940,20 +940,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tD3Wczppk44E6w",
-    "name": "Interradio TV",
-    "sources": {
-      "streams": [
-        "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1C4lPPkddFmlSv",
     "name": "Iquique TV",
     "sources": {
@@ -1000,6 +986,7 @@
     "name": "ITV Patagonia",
     "sources": {
       "streams": [
+        "https://redirector.dps.live/hls/itv/playlist.m3u8",
         "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
       ]
     },
@@ -1150,6 +1137,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IT7QNBMVeC17d3",
+    "name": "Maqui TV",
+    "sources": {
+      "streams": [
+        "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h3HPkQF4LR8v0k",
+    "name": "Maray TV",
+    "sources": {
+      "streams": [
+        "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6zSMJVVZeWHmWN",
     "name": "Marga Marga TV",
     "sources": {
@@ -1183,7 +1198,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/i3k7pbZwfis"
+        "https://www.youtube-nocookie.com/embed/RR1-rglGRFg"
       ]
     },
     "languages": [],
@@ -1238,20 +1253,6 @@
     "sources": {
       "streams": [
         "https://vdochile.com:3194/live/mvqutymylive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iJh8Kg1XVtg3h8",
-    "name": "Nativa TV",
-    "sources": {
-      "streams": [
-        "https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1405,7 +1406,8 @@
     "name": "Pucon TV",
     "sources": {
       "streams": [
-        "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8"
+        "https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8",
+        "https://redirector.dps.live/hls/pucontv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1536,6 +1538,20 @@
     "sources": {
       "streams": [
         "https://v2.tustreaming.cl/fantasiatv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4Ct6exF1rK9BzH",
+    "name": "Radio Frecuencia Uno",
+    "sources": {
+      "streams": [
+        "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8"
       ]
     },
     "languages": [
@@ -1801,8 +1817,8 @@
     "name": "Ritoque TV",
     "sources": {
       "streams": [
-        "https://streaming.purum.cl/ritoquetv/index.m3u8",
-        "https://v2.tustreaming.cl/unetev/index.m3u8"
+        "https://v2.tustreaming.cl/unetev/index.m3u8",
+        "https://streaming.purum.cl/ritoquetv/index.m3u8"
       ]
     },
     "languages": [
@@ -1914,7 +1930,22 @@
     "name": "Solo Bailalo",
     "sources": {
       "streams": [
-        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
+        "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+        "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mqYfqY8rf4OFP1",
+    "name": "Solo TV",
+    "sources": {
+      "streams": [
+        "https://sproxy.solotv.cl/hls/live/fhd.m3u8"
       ]
     },
     "languages": [
@@ -2025,20 +2056,6 @@
     "sources": {
       "streams": [
         "https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hOGgRxhyqTyz2f",
-    "name": "TeleCauquenes",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2167,6 +2184,20 @@
     "sources": {
       "streams": [
         "https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BxUFWVeIJ8Rr1U",
+    "name": "Turno",
+    "sources": {
+      "streams": [
+        "https://redirector.dps.live/hls/turno/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2330,6 +2361,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kTSEb5mta8wgr6",
+    "name": "UATV",
+    "sources": {
+      "streams": [
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L90TWymzbjAtJm",
     "name": "UCV TV",
     "sources": {
@@ -2457,11 +2503,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ks2x7MlJPyNOfR",
-    "name": "Zona Play TV",
+    "nanoid": "LmMmHAVWfMTaiO",
+    "name": "Wapp",
     "sources": {
       "streams": [
-        "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8"
+        "https://stream.wapptv.cl/video/index.m3u8"
       ]
     },
     "languages": [

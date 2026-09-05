@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Krnvg7lhNu9QZe",
-    "name": "Diadora TV",
-    "sources": {
-      "streams": [
-        "https://diadoratv.stream/live/diadora/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hrv"
-    ],
-    "country": "hr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A6l4ELIarmqL6n",
     "name": "Klape i Tambure TV",
     "sources": {
@@ -89,6 +75,20 @@
     "sources": {
       "streams": [
         "https://hls.shift.tv/live/shifttv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ],
+    "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J3nEPCNB7tfIfa",
+    "name": "TV Jadran",
+    "sources": {
+      "streams": [
+        "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
       ]
     },
     "languages": [

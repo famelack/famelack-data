@@ -14,34 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lVgs60Eg6mCkW",
-    "name": "Amazonia TV",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3199/live/amazoniatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mj1YeHn29dAddM",
-    "name": "Amazonica TV",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iVA33CIrwkHFXi",
     "name": "Andes Television",
     "sources": {
@@ -197,6 +169,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mpenW808IXkfsK",
+    "name": "Canal Mas TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JWF3Hmgh7M8jJ3",
     "name": "Conecta2TV",
     "sources": {
@@ -253,11 +239,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fqDkRQsbGbe2La",
-    "name": "DeltaTV",
+    "nanoid": "msqk8hFvDiwdDB",
+    "name": "Cultura 24",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8"
+        "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V1ZiJWm44mlgNB",
+    "name": "CVN TV",
+    "sources": {
+      "streams": [
+        "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8"
       ]
     },
     "languages": [
@@ -365,20 +365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qKV2RWLFM5rjJT",
-    "name": "Impacto Television",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8VadQ9bvVXyzrj",
     "name": "Intuitiva TV",
     "sources": {
@@ -449,12 +435,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QB6XHUNErOPzQ5",
+    "name": "Latina",
+    "sources": {
+      "streams": [
+        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OJJQkfx9y7eg2Z",
+    "name": "Latina Clasicos",
+    "sources": {
+      "streams": [
+        "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Bsm2o0M0EalllN",
     "name": "Latina Noticias 24/7",
     "sources": {
       "streams": [
-        "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
-        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8"
+        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+        "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wDKPtckTjnkWR0",
+    "name": "Latina Podcast",
+    "sources": {
+      "streams": [
+        "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -492,11 +520,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nlIWMt52mBQ3do",
-    "name": "Master TV",
+    "nanoid": "qm7kjjw4XjKxtz",
+    "name": "Mega TV Jaen",
     "sources": {
       "streams": [
-        "https://live.obslivestream.com/mastertv/index.m3u8"
+        "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
       ]
     },
     "languages": [
@@ -506,11 +534,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qm7kjjw4XjKxtz",
-    "name": "Mega TV Jaen",
+    "nanoid": "IuaZCWClQdGZcM",
+    "name": "Metropolitana del Cuzco",
     "sources": {
       "streams": [
-        "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
+        "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -841,20 +869,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3qgnWAKQV0prTA",
-    "name": "Senal Peru TV",
-    "sources": {
-      "streams": [
-        "https://livestream.perucast.com/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zh2LPdg7e5WVXA",
     "name": "Siscom TV",
     "sources": {
@@ -873,8 +887,7 @@
     "name": "Solar Television",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
-        "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1087,6 +1100,20 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fIS8sGKNQMXO8C",
+    "name": "TVenLinea",
+    "sources": {
+      "streams": [
+        "https://srt.tvdatta.com/tvenlinea/index.m3u8"
       ]
     },
     "languages": [

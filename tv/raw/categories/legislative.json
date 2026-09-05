@@ -439,48 +439,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "sources": {
-      "streams": [
-        "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "54APtzgfl8rhY2",
-    "name": "CT-N Live Stream 2",
-    "sources": {
-      "streams": [
-        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Cb1QitN6W4Cqb",
-    "name": "CT-N TV Conneticut",
-    "sources": {
-      "streams": [
-        "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nmv9vKmWVIcUqF",
     "name": "CVC Government",
     "sources": {
@@ -500,35 +458,6 @@
     "sources": {
       "streams": [
         "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uFGOTQx0dq9aok",
-    "name": "DC Council Hearing Room 120",
-    "sources": {
-      "streams": [
-        "https://video.oct.dc.gov/out/u/97_12.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yuAKJus9326voW",
-    "name": "DCC",
-    "sources": {
-      "streams": [
-        "https://video.oct.dc.gov/out/u/DCC.m3u8",
-        "https://video.oct.dc.gov/out/u/15_12.m3u8"
       ]
     },
     "languages": [
@@ -580,17 +509,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ge1ZHaFi4hsusD",
-    "name": "District of Columbia Network",
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
     "sources": {
       "streams": [
-        "https://video.oct.dc.gov/out/u/DCN.m3u8"
+        "https://dumatv.iptv2022.com/playlist.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -774,6 +703,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
+    "sources": {
+      "streams": [
+        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1257,6 +1200,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SjFnTG84SF4"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {

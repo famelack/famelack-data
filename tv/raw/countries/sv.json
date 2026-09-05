@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JNkGygM92uxejo",
-    "name": "Canal 15 El Zamorano",
+    "nanoid": "lZCJ28tnHKpEgP",
+    "name": "El Camino TV",
     "sources": {
       "streams": [
-        "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8"
+        "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lZCJ28tnHKpEgP",
-    "name": "El Camino TV",
+    "nanoid": "d3wecW45nAhRjr",
+    "name": "JFV TV",
     "sources": {
       "streams": [
-        "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+        "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -131,6 +131,34 @@
     "sources": {
       "streams": [
         "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8szgaxbEMvvVbh",
+    "name": "SolTV",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Blt46frCkDVO7v",
+    "name": "TV CRET",
+    "sources": {
+      "streams": [
+        "https://radiocret.net:8082/hls/tvcret.m3u8"
       ]
     },
     "languages": [
