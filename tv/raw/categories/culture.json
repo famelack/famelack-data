@@ -18,7 +18,6 @@
     "name": "Abai TV",
     "sources": {
       "streams": [
-        "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
         "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv"
       ]
     },
@@ -143,18 +142,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VtHTEOxTK0CD0C",
-    "name": "Belarus-3",
+    "nanoid": "sdiObwInEYoWku",
+    "name": "Balchi TV",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+        "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8"
       ]
     },
     "languages": [
-      "bel",
-      "rus"
+      "nld",
+      "pap"
     ],
-    "country": "by",
+    "country": "aw",
     "isGeoBlocked": false
   },
   {
@@ -283,6 +282,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RMJta2uB0RhiFk",
+    "name": "Channel One",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ZkgBh6YrojA"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -823,20 +836,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MENDV9zQPKUclz",
-    "name": "Kemet TV",
-    "sources": {
-      "streams": [
-        "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qp46ccpG1UGKBD",
     "name": "KIIO-LD 10.4",
     "sources": {
@@ -1195,6 +1194,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wqtEMGQtkW2vmM",
+    "name": "Radio Suyai TV",
+    "sources": {
+      "streams": [
+        "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zcoCA9mHfb19F8",
     "name": "REDE SPi",
     "sources": {
@@ -1209,13 +1222,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y8ufu4YXUzuRSK",
+    "name": "RTB 3",
+    "sources": {
+      "streams": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "bbo",
+      "bib",
+      "box",
+      "dgi",
+      "dyu",
+      "ful",
+      "gux",
+      "lee",
+      "lob",
+      "mos",
+      "rkm",
+      "sbd",
+      "stj",
+      "sym"
+    ],
+    "country": "bf",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p36vvpwTrBuj6A",
     "name": "Russia-K",
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
-        "https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
       ]
     },
     "languages": [
@@ -1340,6 +1379,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QP7DyV43LNSLl9",
+    "name": "StoryChannel TV",
+    "sources": {
+      "streams": [
+        "https://136044159.r.cdnsun.net/storychannel.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "asp",
+      "eng",
+      "fra",
+      "kab",
+      "rif",
+      "shi",
+      "shy",
+      "taq",
+      "tzm",
+      "xms"
+    ],
+    "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7omf3emk4fDdL8",
     "name": "STZ TV",
     "sources": {
@@ -1384,34 +1447,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x4lyf4pNwLJhfT",
-    "name": "The Indonesia Channel",
-    "sources": {
-      "streams": [
-        "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4VBfGEAGOsSdAE",
-    "name": "Tra Vinh TV",
-    "sources": {
-      "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=91"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "SQGH8tX9KocSpb",
     "name": "Trishul Broadcasting Network",
     "sources": {
@@ -1425,21 +1460,6 @@
       "nld"
     ],
     "country": "sr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -1510,34 +1530,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AgdBh1G6zjQQ1P",
-    "name": "TVR Cultural",
-    "sources": {
-      "streams": [
-        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BCqlMDAwIJgW3B",
-    "name": "UAA TV",
-    "sources": {
-      "streams": [
-        "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

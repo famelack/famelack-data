@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vNzaBFNwp2L4XM",
-    "name": "AKTV",
-    "sources": {
-      "streams": [
-        "https://akativi.siar.us/live/akativi.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o2PfBDwt7tySj4",
     "name": "Angel TV Indonesia",
     "sources": {
@@ -438,6 +424,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ootv8lcMdtj5Da",
     "name": "Kilisuci TV",
     "sources": {
@@ -495,20 +495,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ayjkn7ZDTaMfjh",
-    "name": "Magna Channel",
-    "sources": {
-      "streams": [
-        "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "6Oy6l4nSQLXeVV",
     "name": "Matrix TV Yogyakarta",
     "sources": {
@@ -541,9 +527,6 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
-      "streams": [
-        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
       ]
@@ -639,53 +622,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
+    "sources": {
+      "streams": [
+        "https://www.streaming.radartv.co.id/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3v2UZx2WqrnRDM",
     "name": "Radar Tasikmalaya TV",
     "sources": {
       "streams": [
         "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VC5E0MneSZlKkr",
-    "name": "Rajawali TV",
-    "sources": {
-      "streams": [
-        "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "2osdXOCanj9JNQ",
-    "name": "RCTV",
-    "sources": {
-      "streams": [
-        "https://v10.siar.us/rctv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
       ]
     },
     "languages": [
@@ -780,11 +735,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
+    "nanoid": "pJu6TwMXSbyJfF",
+    "name": "SMTV",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/AAb0vY2OTOo"
+      "streams": [
+        "https://e.siar.us/live/smtv.m3u8"
       ]
     },
     "languages": [
@@ -935,20 +890,6 @@
     },
     "languages": [
       "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x4lyf4pNwLJhfT",
-    "name": "The Indonesia Channel",
-    "sources": {
-      "streams": [
-        "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -1492,6 +1433,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/_9cb9QWOKW0"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SlDXX35NImvk2c",
+    "name": "UGTV",
+    "sources": {
+      "streams": [
+        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
       ]
     },
     "languages": [

@@ -207,6 +207,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Zzw5XdFQULzoOQ",
+    "name": "Aras TV",
+    "sources": {
+      "streams": [
+        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -1048,20 +1062,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F2Mb6ARE1l9qx2",
-    "name": "Kanal 33",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WlWPbkUSbOHRgd",
     "name": "Kanal 34",
     "sources": {
@@ -1719,20 +1719,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GHn7hBwkPvtBl",
-    "name": "Sonmez TV",
-    "sources": {
-      "streams": [
-        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "sources": {
@@ -1867,9 +1853,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/KKJEmcQaCx4"
       ]
     },
     "languages": [
@@ -1898,6 +1881,20 @@
     "sources": {
       "streams": [
         "https://live.euromediacenter.com/trakyaturk/tracks-v1a1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e8zax7Tb0zc8Eu",
+    "name": "TRT 1",
+    "sources": {
+      "streams": [
+        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [

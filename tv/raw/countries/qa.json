@@ -137,20 +137,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HHV5a8cn94GYcS",
-    "name": "Al Maaref TV",
-    "sources": {
-      "streams": [
-        "https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "qa",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z0QVI0gadd5X4p",
     "name": "Al Rayyan Old TV",
     "sources": {
@@ -170,6 +156,20 @@
     "sources": {
       "streams": [
         "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K2pY7DHGd3QmlJ",
+    "name": "Libya Al Ahrar TV",
+    "sources": {
+      "streams": [
+        "https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8"
       ]
     },
     "languages": [

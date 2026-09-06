@@ -1583,20 +1583,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RiQ28K7BDZE4yr",
-    "name": "AMC en Espanol",
-    "sources": {
-      "streams": [
-        "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "8dgbu5qacFQbPF",
     "name": "America's Got Talent",
     "sources": {
@@ -1840,7 +1826,7 @@
     "name": "Aqua Teen Hunger Force",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3lse92ucjsc"
+        "https://www.youtube-nocookie.com/embed/-GrNGdvUwEs"
       ]
     },
     "languages": [
@@ -3982,6 +3968,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RMJta2uB0RhiFk",
+    "name": "Channel One",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ZkgBh6YrojA"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CZQIAk4EUWp6Ag",
     "name": "Charge!",
     "sources": {
@@ -4137,8 +4137,8 @@
     "sources": {
       "streams": [
         "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
-        "https://circle-roku.amagi.tv/playlist.m3u8",
-        "https://circle-xumo.amagi.tv/playlist.m3u8"
+        "https://circle-xumo.amagi.tv/playlist.m3u8",
+        "https://circle-samsung.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4946,6 +4946,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rIKYP5py1TrF7Q",
+    "name": "CT-N Court Feed",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "54APtzgfl8rhY2",
+    "name": "CT-N Live Stream 2",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Cb1QitN6W4Cqb",
+    "name": "CT-N TV Conneticut",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sO42G64F68wbXR",
     "name": "CTV",
     "sources": {
@@ -5252,6 +5294,35 @@
       ]
     },
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uFGOTQx0dq9aok",
+    "name": "DC Council Hearing Room 120",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/97_12.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yuAKJus9326voW",
+    "name": "DCC",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DCC.m3u8",
+        "https://video.oct.dc.gov/out/u/15_12.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -5687,6 +5758,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ge1ZHaFi4hsusD",
+    "name": "District of Columbia Network",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DCN.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jwwDG8QgvAkpNW",
     "name": "Divorce Court",
     "sources": {
@@ -5710,6 +5795,20 @@
       "eng",
       "hin",
       "pan"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eLA4bv6WnWPRvW",
+    "name": "DKN",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DKN.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -7547,6 +7646,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b9hyRXnC242UxT",
+    "name": "HBO Hits East",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/hbo2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RXqBWsd1tTWpY4",
     "name": "HBTV",
     "sources": {
@@ -8189,18 +8303,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "As1a59LBPcbNCx",
-    "name": "In Touch+",
-    "sources": {
-      "streams": [
-        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CRZbysFo83yVVC",
     "name": "INFAST",
     "sources": {
@@ -8222,18 +8324,6 @@
     "sources": {
       "streams": [
         "https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "JsEDLn39TTIoIZ",
-    "name": "InTouch+",
-    "sources": {
-      "streams": [
-        "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -8896,6 +8986,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nh7pkPrRQHxuv8",
+    "name": "KRCA-TV Estrella Los Angeles",
+    "sources": {
+      "streams": [
+        "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qzZNSjkiuJlrH8",
     "name": "KRIS-DT1",
     "sources": {
@@ -9260,6 +9364,20 @@
       ]
     },
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qofy3kRsNMvDOl",
+    "name": "Latino Channel TV",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/latch/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -9962,20 +10080,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/1jObgEM6J-w"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "S0SQt4uHWW3pJv",
-    "name": "Martin County TV",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11356,8 +11460,8 @@
     "name": "NEW K-POP",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -11401,6 +11505,20 @@
     "sources": {
       "streams": [
         "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "EtiKHivASIxm20",
+    "name": "News12 Conneticut",
+    "sources": {
+      "streams": [
+        "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
       ]
     },
     "languages": [
@@ -12217,7 +12335,6 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
-        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -14999,6 +15116,18 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "8Bzu7mecu34r20",
+    "name": "SURFER TV",
+    "sources": {
+      "streams": [
+        "https://dgwfm675921lp.cloudfront.net/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Equ2Sdy5orU6N9",
     "name": "Surfing+",
     "sources": {
@@ -15529,8 +15658,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -16185,7 +16313,7 @@
     "name": "Times Now World",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IgAGLeq_b7I"
+        "https://www.youtube-nocookie.com/embed/wVmtnr5J8iA"
       ]
     },
     "languages": [
@@ -17525,20 +17653,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EeaanmvMzs6hXb",
-    "name": "Vision Latina Network",
-    "sources": {
-      "streams": [
-        "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -19529,7 +19643,7 @@
       "streams": [
         "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
         "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-        "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
+        "https://younghollywood-tcl.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

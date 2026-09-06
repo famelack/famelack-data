@@ -28,48 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JzlPxfMfmeouYm",
-    "name": "Africa 24",
-    "sources": {
-      "streams": [
-        "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QzSkQCeFOqXwg8",
-    "name": "Africa 24 English",
-    "sources": {
-      "streams": [
-        "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FsR4OMNuaQ7RDi",
-    "name": "Africa 24 Sport",
-    "sources": {
-      "streams": [
-        "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3R0EfOPIBQ61UY",
     "name": "Africanews",
     "sources": {
@@ -118,20 +76,6 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fc5hpz0dRxh3M6",
-    "name": "Alpe d'Huez TV",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
       ]
     },
     "languages": [
@@ -1114,20 +1058,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rOt2GRHARiewoL",
-    "name": "Littoral FM TV",
-    "sources": {
-      "streams": [
-        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "sources": {
@@ -1189,18 +1119,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "sources": {
-      "streams": [
-        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1368,11 +1286,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
     "sources": {
       "streams": [
-        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
       ]
     },
     "languages": [],
@@ -1813,8 +1731,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
+        "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
       ]
     },
     "languages": [

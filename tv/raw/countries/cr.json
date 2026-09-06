@@ -104,7 +104,8 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
       ]
     },
     "languages": [
@@ -218,6 +219,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
+    "sources": {
+      "streams": [
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",
@@ -614,21 +630,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "46bhWZVm1EdjmB",
-    "name": "TV Cartago Digital",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
-        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oFBYYfrHTKyW0r",
     "name": "TV Nosara",
     "sources": {
@@ -721,18 +722,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qWUmlZKBNU8HB",
-    "name": "Xpresso Joven Radio",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

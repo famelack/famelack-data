@@ -497,62 +497,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BN8UK0JlgAMrEm",
-    "name": "City Eden Birma Play",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34364/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rPl77qAXLXht7K",
-    "name": "City Eden MedZdrav",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47519/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2Gi4riOGPwTn6u",
     "name": "Current Time TV",
     "sources": {
@@ -588,20 +532,6 @@
     "sources": {
       "streams": [
         "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xUgG4Xe5635smX",
-    "name": "Dikij",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -912,6 +842,7 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
         "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
@@ -1251,7 +1182,8 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+        "https://live-3.otcnet.ru/congresstv/index.m3u8"
       ]
     },
     "languages": [
@@ -1677,20 +1609,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yWqRPjIHcgYftM",
-    "name": "Nano",
-    "sources": {
-      "streams": [
-        "https://s1.tv-nano.com/Nano_rec/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QAej6WE8pi9D6A",
     "name": "Nashe Novoe Kino",
     "sources": {
@@ -1724,7 +1642,6 @@
     "name": "National Geographic Wild",
     "sources": {
       "streams": [
-        "https://dtv.vol.net.ua/Nat-Geo-Wild-HD/index.m3u8",
         "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
       ]
     },
@@ -2493,8 +2410,7 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
-        "https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv"
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
       ]
     },
     "languages": [
@@ -2707,20 +2623,6 @@
     "sources": {
       "streams": [
         "https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uuwdAM4ggDTLQ4",
-    "name": "SONGTV Russia",
-    "sources": {
-      "streams": [
-        "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
       ]
     },
     "languages": [

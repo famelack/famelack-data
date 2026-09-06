@@ -1179,20 +1179,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WNYH3Yw8Ugl7X8",
-    "name": "Iqra Bangla",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5oHHeA42AXWK92",
     "name": "Iran International",
     "sources": {
@@ -1754,8 +1740,8 @@
     "sources": {
       "streams": [
         "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8",
-        "https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8"
+        "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "https://lightning-now80s-samsungse.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1874,7 +1860,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2001,6 +1987,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ys9b9lAAuDchCF",
+    "name": "Rakuten TV Comedy Movies UK",
+    "sources": {
+      "streams": [
+        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "F2ftHadqxcG2u5",
     "name": "Rakuten TV Drama Movies UK",
     "sources": {
@@ -2015,35 +2015,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pCghkk05sIwmT1",
-    "name": "Rakuten TV Reality UK",
-    "sources": {
-      "streams": [
-        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mN7jjbfyCCrHDM",
     "name": "Rakuten TV Romance Movies UK",
     "sources": {
       "streams": [
         "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],
@@ -2079,7 +2055,7 @@
     "name": "Rick and Morty",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/iiRNq1sxr0U"
+        "https://www.youtube-nocookie.com/embed/SFx6100d2Fw"
       ]
     },
     "languages": [

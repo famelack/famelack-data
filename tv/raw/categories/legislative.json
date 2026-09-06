@@ -439,6 +439,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rIKYP5py1TrF7Q",
+    "name": "CT-N Court Feed",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "54APtzgfl8rhY2",
+    "name": "CT-N Live Stream 2",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Cb1QitN6W4Cqb",
+    "name": "CT-N TV Conneticut",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nmv9vKmWVIcUqF",
     "name": "CVC Government",
     "sources": {
@@ -458,6 +500,35 @@
     "sources": {
       "streams": [
         "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uFGOTQx0dq9aok",
+    "name": "DC Council Hearing Room 120",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/97_12.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yuAKJus9326voW",
+    "name": "DCC",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DCC.m3u8",
+        "https://video.oct.dc.gov/out/u/15_12.m3u8"
       ]
     },
     "languages": [
@@ -500,6 +571,20 @@
     "sources": {
       "streams": [
         "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ge1ZHaFi4hsusD",
+    "name": "District of Columbia Network",
+    "sources": {
+      "streams": [
+        "https://video.oct.dc.gov/out/u/DCN.m3u8"
       ]
     },
     "languages": [
@@ -650,20 +735,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tsY7Oi70RUlWEA",
-    "name": "Icrtv Colima",
-    "sources": {
-      "streams": [
-        "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kDus67YWLDmlSH",
     "name": "JNE TV",
     "sources": {
@@ -703,20 +774,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lvIrwQpUaM4Bib",
-    "name": "KTV",
-    "sources": {
-      "streams": [
-        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -781,20 +838,6 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "S0SQt4uHWW3pJv",
-    "name": "Martin County TV",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1207,7 +1250,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SjFnTG84SF4"
+        "https://www.youtube-nocookie.com/embed/0AohtCPiGB8"
       ]
     },
     "languages": [
