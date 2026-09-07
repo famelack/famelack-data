@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "aoIXV21LUXbgqK",
+    "name": "A7TV",
+    "sources": {
+      "streams": [
+        "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "sources": {
@@ -28,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XZ0ppzFYNKAs79",
-    "name": "Angelus TV",
+    "nanoid": "JSGP3ao4TkoM4K",
+    "name": "Alfa Omega TV",
     "sources": {
       "streams": [
-        "https://video.angelustv.ro/hls/angelustv.m3u8"
+        "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
       ]
     },
     "languages": [
@@ -42,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uXqlv34zzBQ5z0",
-    "name": "Antena Stars",
+    "nanoid": "XZ0ppzFYNKAs79",
+    "name": "Angelus TV",
     "sources": {
       "streams": [
-        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+        "https://video.angelustv.ro/hls/angelustv.m3u8"
       ]
     },
     "languages": [
@@ -104,6 +118,20 @@
     "sources": {
       "streams": [
         "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QDT0Nt5qZTPoXG",
+    "name": "Comedy Play",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
       ]
     },
     "languages": [
@@ -192,20 +220,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BjZVMVKPbgDPNQ",
-    "name": "FILMBOX+ One Romania",
-    "sources": {
-      "streams": [
-        "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -351,11 +365,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FOsU86TnzYmDGQ",
-    "name": "MISA TV",
+    "nanoid": "U81csRB9YHDFcc",
+    "name": "Mireasa",
     "sources": {
       "streams": [
-        "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+        "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8"
       ]
     },
     "languages": [
@@ -458,6 +472,20 @@
     },
     "languages": [
       "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BEYVH24fbdnqEV",
+    "name": "Radio Romania Antena Satelor 720p",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "ron"
     ],
     "country": "ro",
@@ -637,6 +665,20 @@
     "sources": {
       "streams": [
         "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AgdBh1G6zjQQ1P",
+    "name": "TVR Cultural",
+    "sources": {
+      "streams": [
+        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
       ]
     },
     "languages": [

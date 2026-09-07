@@ -158,6 +158,7 @@
     "name": "Cine+ Kids",
     "sources": {
       "streams": [
+        "https://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540"
       ]
     },
@@ -354,6 +355,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TTjsj6LVCttYVT",
+    "name": "Hollywood Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e9rrXwLSK5cgba",
     "name": "Inter+",
     "sources": {
@@ -456,8 +471,7 @@
     "name": "Mega",
     "sources": {
       "streams": [
-        "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8",
-        "https://dtv.vol.net.ua/MEGA_HD/index.m3u8"
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -523,11 +537,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ylXWvKt3UmAowg",
+    "name": "One Planet",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/OnePlanet/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IAHNNM2HDRUGA0",
     "name": "Pixel TV",
     "sources": {
       "streams": [
         "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zd0xHBMJgy6qgu",
+    "name": "Prokino",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/ProKino/index.m3u8"
       ]
     },
     "languages": [
@@ -651,6 +693,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iXhiOyh49cZocV",
+    "name": "Super+",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/super_plus/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZacP6GQMQWENup",
     "name": "Suspilne. Kyiv",
     "sources": {
@@ -727,6 +783,7 @@
     "name": "Viasat Explore",
     "sources": {
       "streams": [
+        "https://dtv.vol.net.ua/Viasat-Explore/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79"
       ]
     },
@@ -755,6 +812,7 @@
     "name": "Viasat Kino",
     "sources": {
       "streams": [
+        "https://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104"
       ]
     },
@@ -770,6 +828,7 @@
     "name": "Viasat Kino Action",
     "sources": {
       "streams": [
+        "https://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105"
       ]
     },

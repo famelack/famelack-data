@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oh8HdDJ2MJ0IrA",
-    "name": "Budapest Europa Televizio",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7lZXVo773nUBKh",
     "name": "ESTV",
     "sources": {
@@ -253,6 +239,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vyv7aN2DLRtAEV",
     "name": "Oxygen Music",
     "sources": {
@@ -286,6 +286,20 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TXVHSWHgllbutZ",
+    "name": "Szolnok TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
       ]
     },
     "languages": [

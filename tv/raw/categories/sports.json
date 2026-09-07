@@ -188,20 +188,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
@@ -271,20 +257,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "ASHioV3EjpMKWq",
@@ -429,21 +401,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E8ErNhxgmnUtWl",
     "name": "Extreme Sports Channel",
     "sources": {
@@ -535,8 +492,7 @@
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
+        "https://webtvstream.bhtelecom.ba/fightbox.m3u8"
       ]
     },
     "languages": [
@@ -623,20 +579,6 @@
     "sources": {
       "streams": [
         "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/DvFOSjPtevI"
       ]
     },
     "languages": [
@@ -1017,6 +959,22 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "Y5ryr3X9r1YZgg",
+    "name": "MMA-TV.com",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WjzlJmHsxUPxpZ",
     "name": "MNB Sport",
     "sources": {
@@ -1195,6 +1153,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1202,20 +1161,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T0WISoye0VXycS",
-    "name": "Persiana Fight",
-    "sources": {
-      "streams": [
-        "https://fighthls.persiana.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -1308,8 +1253,8 @@
     "name": "QazSport",
     "sources": {
       "streams": [
-        "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-        "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+        "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1656,7 +1601,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1860,7 +1805,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1868,20 +1814,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "b3mt6RVBhhnDwq",
-    "name": "Tigo Sports+",
-    "sources": {
-      "streams": [
-        "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "vtSycR8Kbn52EY",
@@ -1917,8 +1849,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1968,6 +1900,21 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -2317,7 +2264,7 @@
     "name": "WWE",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jy_Nv1GTTbQ"
+        "https://www.youtube-nocookie.com/embed/EV6d815DypE"
       ]
     },
     "languages": [
@@ -2331,7 +2278,7 @@
     "name": "WWE Vault",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/w6nASW89JuE"
+        "https://www.youtube-nocookie.com/embed/KVUOm5JwEuk"
       ]
     },
     "languages": [

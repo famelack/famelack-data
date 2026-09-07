@@ -43,6 +43,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "baI44A3rZswWd9",
+    "name": "Agrotendencia TV",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H8TtlIKgrW2bwo",
     "name": "Antena Seis TV",
     "sources": {
@@ -61,7 +75,8 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
       ]
     },
     "languages": [
@@ -104,8 +119,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -282,34 +296,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0qduamfMKf5AXL",
-    "name": "GAM TV",
-    "sources": {
-      "streams": [
-        "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WGsDfHy5YE0QGF",
-    "name": "GAMTV.cr",
-    "sources": {
-      "streams": [
-        "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GD6GIT9MV0x6kz",
     "name": "Garabito TV",
     "sources": {
@@ -371,20 +357,6 @@
     "sources": {
       "streams": [
         "https://latamvdo.com:3626/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L0Xj3EMr6sq9Oz",
-    "name": "Los Santos TV",
-    "sources": {
-      "streams": [
-        "https://lstv.duckdns.org:449/hls/lstv.m3u8"
       ]
     },
     "languages": [
@@ -495,20 +467,6 @@
     "sources": {
       "streams": [
         "https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RYVkiPv8DNw6UC",
-    "name": "Sarapiqui TV",
-    "sources": {
-      "streams": [
-        "https://lstv.duckdns.org:449/hls/stv.m3u8"
       ]
     },
     "languages": [
@@ -630,6 +588,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oFBYYfrHTKyW0r",
     "name": "TV Nosara",
     "sources": {
@@ -722,6 +695,18 @@
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qWUmlZKBNU8HB",
+    "name": "Xpresso Joven Radio",
+    "sources": {
+      "streams": [
+        "https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

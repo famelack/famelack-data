@@ -253,7 +253,6 @@
     "name": "ATV",
     "sources": {
       "streams": [
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
@@ -611,6 +610,20 @@
     "sources": {
       "streams": [
         "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZF8u92PVuJI4iM",
+    "name": "EKOTÜRK TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WdxS4zTLRyg"
       ]
     },
     "languages": [
@@ -1062,6 +1075,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2Mb6ARE1l9qx2",
+    "name": "Kanal 33",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WlWPbkUSbOHRgd",
     "name": "Kanal 34",
     "sources": {
@@ -1303,7 +1330,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VQikpQEquwA"
+        "https://www.youtube-nocookie.com/embed/ZgDiaQoLwMs"
       ]
     },
     "languages": [
@@ -1481,53 +1508,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GIntzeUgHcQOIa",
-    "name": "Number 1 Ask",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qe2ak6SCt98R2p",
-    "name": "Number 1 Damar",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yWrfqyUbeSLDpm",
     "name": "Number 1 Dance",
     "sources": {
       "streams": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pJj7CtCAurdOs8",
-    "name": "Number 1 TV",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1825,20 +1810,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/WX29nlgdqho"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J9YegrVG7tK0JA",
-    "name": "Tivi 6",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
       ]
     },
     "languages": [

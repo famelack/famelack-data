@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "iTbSyptSI7ovhK",
+    "name": "1KZN TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iuNSMpuWO5aIm5",
     "name": "947 Joburg",
     "sources": {
@@ -37,20 +51,6 @@
     },
     "languages": [
       "afr",
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3qqNu9ZcAbmKFU",
-    "name": "Cape Town TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
       "eng"
     ],
     "country": "za",
@@ -245,6 +245,20 @@
     ],
     "country": "za",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OFNCxJwQlhXnh3",
+    "name": "Tshwane TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Es7qApbSf615KN",

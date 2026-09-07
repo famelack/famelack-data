@@ -594,20 +594,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xupLUhlUhMmQst",
-    "name": "Duma TV",
-    "sources": {
-      "streams": [
-        "https://dumatv.iptv2022.com/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -777,6 +763,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
+    "sources": {
+      "streams": [
+        "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QCanIPPvtrIdKY",
     "name": "Lake Havasu City 4",
     "sources": {
@@ -838,6 +838,20 @@
     "sources": {
       "streams": [
         "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S0SQt4uHWW3pJv",
+    "name": "Martin County TV",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
       ]
     },
     "languages": [
@@ -988,6 +1002,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1013,20 +1041,6 @@
       "eng"
     ],
     "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vlyxVSmyz2hGFc",
-    "name": "PBC TV Channel 20",
-    "sources": {
-      "streams": [
-        "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1250,7 +1264,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0AohtCPiGB8"
+        "https://www.youtube-nocookie.com/embed/oJ89Sa3zs6U"
       ]
     },
     "languages": [

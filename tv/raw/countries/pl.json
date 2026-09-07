@@ -71,6 +71,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kJrXloIeM5KZgw",
+    "name": "Bialogardzka Telewizja Kablowa",
+    "sources": {
+      "streams": [
+        "https://bsmbialogard.pl/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5fsuYuCG8ydAtN",
     "name": "Bigtime",
     "sources": {
@@ -188,20 +202,6 @@
     "sources": {
       "streams": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Yu5wceoQ17tjtg",
-    "name": "Euronews FAST",
-    "sources": {
-      "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
       ]
     },
     "languages": [
@@ -412,6 +412,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNpOE0EguTlVfK",
+    "name": "Radio RAM",
+    "sources": {
+      "streams": [
+        "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "sources": {
+      "streams": [
+        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uro7Gvibaed6g8",
     "name": "Rakuten Viki Poland",
     "sources": {
@@ -468,20 +496,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "coRLnGknftkVsQ",
-    "name": "Sfera TV",
-    "sources": {
-      "streams": [
-        "https://stream.sferatv.pl/sferatvlive/live.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EQEGSe3LlRCr52",
     "name": "Szlagierowo: Biesiadne Radio",
     "sources": {
@@ -528,7 +542,7 @@
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Xmox17Flm5s"
+        "https://www.youtube-nocookie.com/embed/SrsfCD1iXUM"
       ]
     },
     "languages": [
@@ -557,20 +571,6 @@
     "sources": {
       "streams": [
         "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1BgwlFIal9aEik",
-    "name": "Telewizja Olsztyn",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/_i4Yo57vmEw"
       ]
     },
     "languages": [
@@ -640,7 +640,7 @@
     "name": "Telewizja wPolsce",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/w6RW6C3oayo"
+        "https://www.youtube-nocookie.com/embed/s4Ng9qIhTAs"
       ]
     },
     "languages": [

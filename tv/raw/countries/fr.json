@@ -117,7 +117,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bSeTczVYtHQ"
+        "https://www.youtube-nocookie.com/embed/aeH_QYuojDM"
       ]
     },
     "languages": [
@@ -497,6 +497,18 @@
     "languages": [
       "fra"
     ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hlG7Qk94i6rOfx",
+    "name": "Enquetes de Choc",
+    "sources": {
+      "streams": [
+        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1286,11 +1298,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
     "sources": {
       "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
       ]
     },
     "languages": [],
@@ -1731,8 +1743,8 @@
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+        "https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1918,6 +1930,20 @@
     "sources": {
       "streams": [
         "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Vfl8587p5Rbn09",
+    "name": "viaTelePaese",
+    "sources": {
+      "streams": [
+        "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
       ]
     },
     "languages": [

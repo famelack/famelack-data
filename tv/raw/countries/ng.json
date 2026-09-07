@@ -140,6 +140,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MEPZfCoAwFzTRL",
+    "name": "Fortis TV",
+    "sources": {
+      "streams": [
+        "https://stream.fortistv.com/hls/fortis-news/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FJT1T5Bg3eMVVa",
     "name": "Itage TV",
     "sources": {
@@ -149,20 +163,6 @@
     },
     "languages": [
       "yor"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YSG1ZKKDkWTBCC",
-    "name": "LoveWorld Arabic",
-    "sources": {
-      "streams": [
-        "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "ng",
     "isGeoBlocked": false
@@ -469,6 +469,20 @@
     "sources": {
       "streams": [
         "https://wazobia.live:8333/channel/wmax.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bmxTZy6nlmaoMM",
+    "name": "Wazobia Max TV Port-Harcourt",
+    "sources": {
+      "streams": [
+        "https://wazobia.live:8333/channel/wmaxph.m3u8"
       ]
     },
     "languages": [

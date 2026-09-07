@@ -198,41 +198,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nZ3VlBbXU9SC9N",
-    "name": "Canal Institucional",
-    "sources": {
-      "streams": [
-        "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nygDUxp3RgEFzv",
     "name": "Canal Mas Television",
     "sources": {
       "streams": [
         "https://movil.ejeserver.com/live/teledoradahd.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QA1x5OQRH7UVPJ",
-    "name": "Canal Nets",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/nets.m3u8",
-        "https://video.ejeserver.com/live/nets.m3u8"
       ]
     },
     "languages": [
@@ -341,6 +312,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5UNNnPvR2HyEJi",
+    "name": "CNC Bugavision",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vlNh6cGmLuP4h1",
     "name": "CNC Pereira",
     "sources": {
@@ -375,20 +361,6 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jWsKSPOfnPdCDP",
-    "name": "CNC Valledupar",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -566,21 +538,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2RNOyGKRiGPXuw",
-    "name": "MasMusica FM",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/masmusica.m3u8",
-        "https://video.ejeserver.com/live/masmusica.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Lzh8NoZwGUGsG2",
     "name": "MCI Television",
     "sources": {
@@ -740,6 +697,7 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },
@@ -755,34 +713,6 @@
     "sources": {
       "streams": [
         "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cFQi4ufWGZkS8a",
-    "name": "Senal Colombia",
-    "sources": {
-      "streams": [
-        "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rZfnfgO93XkAdZ",
-    "name": "Soona TV",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
       ]
     },
     "languages": [
@@ -834,15 +764,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NNAoypPSm0OCzN",
-    "name": "Teleislas",
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
     "sources": {
       "streams": [
-        "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8"
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
       ]
     },
     "languages": [
-      "icr",
       "spa"
     ],
     "country": "co",
@@ -868,6 +797,20 @@
     "sources": {
       "streams": [
         "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Clv7XzV3Q51izu",
+    "name": "Telesangil",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -952,6 +895,20 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AmiFkXyyhlLrz0",
+    "name": "Veo Televisión",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

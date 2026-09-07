@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "baI44A3rZswWd9",
+    "name": "Agrotendencia TV",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ILvQMuRPiCHupS",
     "name": "AKC TV",
     "sources": {
@@ -96,6 +110,20 @@
       "khm"
     ],
     "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sYvKtrPKv77vYD",
+    "name": "Chacra TV",
+    "sources": {
+      "streams": [
+        "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -160,7 +188,8 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -240,20 +269,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "8oGSgOh8Xrsu3u",
-    "name": "Moya Planeta",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "skmeLVfBwTzGbY",
     "name": "Ohotnik i rybolov",
     "sources": {
@@ -328,20 +343,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv-it.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N6SFUaTsOKbZm2",
     "name": "Peer TV South Tyrol",
     "sources": {
@@ -351,20 +352,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -381,20 +368,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bcFsomEBowqYIB",
-    "name": "Productiva TV",
-    "sources": {
-      "streams": [
-        "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {

@@ -113,20 +113,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qS9h25t8tf42wr",
-    "name": "Aurora Media Films",
-    "sources": {
-      "streams": [
-        "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Asx9XMDXSVFcjd",
     "name": "Bhojpuri Cinema",
     "sources": {
@@ -377,6 +363,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zzxh5uo44jq1FL",
+    "name": "City Eden KinoFantastika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/45268/index.m3u8"
       ]
     },
     "languages": [
@@ -701,20 +701,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BjZVMVKPbgDPNQ",
-    "name": "FILMBOX+ One Romania",
-    "sources": {
-      "streams": [
-        "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FmWRIKhG72Bl7Q",
     "name": "Filmex",
     "sources": {
@@ -862,7 +848,7 @@
       "streams": [
         "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
         "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
+        "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -974,7 +960,7 @@
   },
   {
     "nanoid": "b9hyRXnC242UxT",
-    "name": "HBO Hits East",
+    "name": "HBO Hits East HD",
     "sources": {
       "streams": [
         "https://tvsen7.aynascope.net/hbo2/index.m3u8"
@@ -985,6 +971,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TTjsj6LVCttYVT",
+    "name": "Hollywood Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -1776,6 +1776,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zd0xHBMJgy6qgu",
+    "name": "Prokino",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/ProKino/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WcVSwnwXJXy7AW",
     "name": "Public Movies",
     "sources": {
@@ -1818,6 +1832,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FT8VcZltRS1FOf",
+    "name": "Rakuten TV Action Movies Germany",
+    "sources": {
+      "streams": [
+        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rW6tKgiQ7jM4rF",
     "name": "Rakuten TV Comedy Movies Italy",
     "sources": {
@@ -1832,67 +1860,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6xG0BDh6352B56",
-    "name": "Rakuten TV Comedy Movies Spain",
+    "nanoid": "pVq6NYAblJFq99",
+    "name": "Rakuten TV Drama Movies Italy",
     "sources": {
       "streams": [
-        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ys9b9lAAuDchCF",
-    "name": "Rakuten TV Comedy Movies UK",
-    "sources": {
-      "streams": [
-        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F2ftHadqxcG2u5",
-    "name": "Rakuten TV Drama Movies UK",
-    "sources": {
-      "streams": [
-        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "sources": {
-      "streams": [
-        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7UK6GTwohWhEMF",
-    "name": "Rakuten TV Family Movies Italy",
-    "sources": {
-      "streams": [
-        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
       ]
     },
     "languages": [
@@ -2302,10 +2274,67 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3Qjh79yX39qnbD",
+    "name": "Velvet. European Movies",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CrOPrTaXmBrTtv",
+    "name": "Velvet. Golden Collection",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ha89SOYxCAGb48",
+    "name": "Velvet. Scary",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3qDAulk0VBGhon",
+    "name": "Velvet. Sovetskoe Kino",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ny7Wt1WBD8NyDP",
     "name": "Viasat Kino",
     "sources": {
       "streams": [
+        "https://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104"
       ]
     },
@@ -2321,6 +2350,7 @@
     "name": "Viasat Kino Action",
     "sources": {
       "streams": [
+        "https://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
         "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105"
       ]
     },
@@ -2531,6 +2561,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LDv8j64nAQo1e9",
+    "name": "Детское кино International",
+    "sources": {
+      "streams": [
+        "https://autopilot.catcast.tv/content/38720/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dGqTIRUXI72pxD",
-    "name": "DanceTV Minimal Tech",
-    "sources": {
-      "streams": [
-        "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5Hkd3G2uCyMEyH",
     "name": "DanceTV Techno Warehouse",
     "sources": {
@@ -84,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FYDzTh0N4duFas",
-    "name": "ETV",
-    "sources": {
-      "streams": [
-        "https://sb.err.ee/live/etv.m3u8"
-      ]
-    },
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w1TyAWzZva88k1",
     "name": "ETV 2",
     "sources": {
@@ -107,6 +79,21 @@
     },
     "languages": [
       "est"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3tSCZ3A6RSOUd",
+    "name": "ETV+",
+    "sources": {
+      "streams": [
+        "https://sb.err.ee/live/etvpluss.m3u8"
+      ]
+    },
+    "languages": [
+      "est",
+      "rus"
     ],
     "country": "ee",
     "isGeoBlocked": false
