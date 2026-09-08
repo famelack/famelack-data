@@ -75,8 +75,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -239,21 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
-    "sources": {
-      "streams": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XI0tj0hHgDA4kn",
     "name": "Extra TV 42",
     "sources": {
@@ -287,6 +271,34 @@
     "sources": {
       "streams": [
         "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0qduamfMKf5AXL",
+    "name": "GAM TV",
+    "sources": {
+      "streams": [
+        "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WGsDfHy5YE0QGF",
+    "name": "GAMTV.cr",
+    "sources": {
+      "streams": [
+        "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
       ]
     },
     "languages": [
@@ -366,6 +378,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L0Xj3EMr6sq9Oz",
+    "name": "Los Santos TV",
+    "sources": {
+      "streams": [
+        "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+        "https://tiquiciatv.com/hls/lstv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UTisNlOtHENqTI",
     "name": "Luz Naciente TV",
     "sources": {
@@ -434,20 +461,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gVTlfz80oD0tzA",
-    "name": "Quince UCR",
-    "sources": {
-      "streams": [
-        "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HYkbd92n6SC6wf",
     "name": "San Jose TV",
     "sources": {
@@ -467,6 +480,20 @@
     "sources": {
       "streams": [
         "https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RYVkiPv8DNw6UC",
+    "name": "Sarapiqui TV",
+    "sources": {
+      "streams": [
+        "https://lstv.duckdns.org:449/hls/stv.m3u8"
       ]
     },
     "languages": [
@@ -592,7 +619,6 @@
     "name": "TV Cartago Digital",
     "sources": {
       "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
         "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },

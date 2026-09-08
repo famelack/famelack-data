@@ -99,20 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mhMN2IJeEcMKv2",
-    "name": "ABC TV NT",
-    "sources": {
-      "streams": [
-        "https://c.mjh.nz/abc-nt.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6MLr69PO7oA2rq",
     "name": "ABC TV Plus Sydney",
     "sources": {
@@ -573,6 +559,18 @@
     "sources": {
       "streams": [
         "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rh2TMvjYLEWCNX",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],

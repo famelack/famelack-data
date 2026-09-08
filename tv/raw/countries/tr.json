@@ -253,7 +253,7 @@
     "name": "ATV",
     "sources": {
       "streams": [
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -619,11 +619,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LBjTYLrmef2uC7",
+    "name": "Ekoturk",
+    "sources": {
+      "streams": [
+        "https://cdn.ekoturk.net/hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZF8u92PVuJI4iM",
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WdxS4zTLRyg"
+        "https://www.youtube-nocookie.com/embed/EpXhJy6BzXE"
       ]
     },
     "languages": [
@@ -1508,20 +1522,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yWrfqyUbeSLDpm",
-    "name": "Number 1 Dance",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0p72M9hjYW3qLy",
     "name": "OlayTurk TV",
     "sources": {
@@ -1704,6 +1704,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1GHn7hBwkPvtBl",
+    "name": "Sonmez TV",
+    "sources": {
+      "streams": [
+        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "sources": {
@@ -1819,11 +1833,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J9YegrVG7tK0JA",
+    "name": "Tivi 6",
+    "sources": {
+      "streams": [
+        "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vtSycR8Kbn52EY",
     "name": "TJK TV",
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Mqxh4PAFxzQ"
       ]
     },
     "languages": [

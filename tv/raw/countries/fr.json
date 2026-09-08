@@ -28,6 +28,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JzlPxfMfmeouYm",
+    "name": "Africa 24",
+    "sources": {
+      "streams": [
+        "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QzSkQCeFOqXwg8",
+    "name": "Africa 24 English",
+    "sources": {
+      "streams": [
+        "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FsR4OMNuaQ7RDi",
+    "name": "Africa 24 Sport",
+    "sources": {
+      "streams": [
+        "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3R0EfOPIBQ61UY",
     "name": "Africanews",
     "sources": {
@@ -76,6 +118,20 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fc5hpz0dRxh3M6",
+    "name": "Alpe d'Huez TV",
+    "sources": {
+      "streams": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
       ]
     },
     "languages": [
@@ -497,18 +553,6 @@
     "languages": [
       "fra"
     ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hlG7Qk94i6rOfx",
-    "name": "Enquetes de Choc",
-    "sources": {
-      "streams": [
-        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1298,11 +1342,23 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
+    "nanoid": "3UupDDnNXaxwcR",
+    "name": "Rakuten TV Films Comédie",
     "sources": {
       "streams": [
-        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+        "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ukW3AXj5x20Zs",
+    "name": "Rakuten TV Films Famille",
+    "sources": {
+      "streams": [
+        "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
       ]
     },
     "languages": [],

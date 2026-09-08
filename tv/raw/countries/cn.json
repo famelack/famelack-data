@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uzMnROBDMiNzKY",
-    "name": "Anhui TV",
-    "sources": {
-      "streams": [
-        "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -90,6 +76,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/vNVp6bxkL1c"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fKZLucUhJYe0vc",
+    "name": "CCTV-5+",
+    "sources": {
+      "streams": [
+        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
       ]
     },
     "languages": [
@@ -259,6 +259,9 @@
       "streams": [
         "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
         "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pSMrCCPCZuA"
       ]
     },
     "languages": [
@@ -537,20 +540,6 @@
     },
     "languages": [
       "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GaA5Gn9GUFGhgh",
-    "name": "Xinjiang TV 2",
-    "sources": {
-      "streams": [
-        "https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0"
-      ]
-    },
-    "languages": [
-      "uig"
     ],
     "country": "cn",
     "isGeoBlocked": false
@@ -838,6 +827,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TT80T0Uhd4YSQT",
+    "name": "浙江新闻",
+    "sources": {
+      "streams": [
+        "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGN51eNb7kGHRy",
     "name": "浙江民生",
     "sources": {
@@ -915,6 +916,30 @@
     "sources": {
       "streams": [
         "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HGBni7wKrtguXm",
+    "name": "萧山新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hlJLT7eqdRNqcv",
+    "name": "蕭山生活頻道",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
       ]
     },
     "languages": [],

@@ -276,6 +276,7 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
         "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
@@ -424,6 +425,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics FAST",
+    "sources": {
+      "streams": [
+        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -663,6 +678,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I0aYULW1ftUCOM",
+    "name": "Detvora+",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1780,7 +1809,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b6NsvGrXTWo"
+        "https://www.youtube-nocookie.com/embed/9cl4_MTga1U"
       ]
     },
     "languages": [
@@ -2098,20 +2127,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/kNVPUBTGPSk"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uuPEZrmKbOVuZJ",
     "name": "Radost Moya",
     "sources": {
@@ -2138,20 +2153,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GzjkBwRPP1x8dy",
-    "name": "Reino Infantil",
-    "sources": {
-      "streams": [
-        "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "mz",
     "isGeoBlocked": false
   },
   {
@@ -2384,7 +2385,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oTyu0sbwD1o"
+        "https://www.youtube-nocookie.com/embed/1u6mz6xpXG8"
       ]
     },
     "languages": [
@@ -2398,7 +2399,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JY7-20qlD5g"
+        "https://www.youtube-nocookie.com/embed/RsIA0gS8udo"
       ]
     },
     "languages": [
@@ -2695,6 +2696,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wDy5L6UWLImGOC",
+    "name": "Unikum",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KGfXY9EKgCoeEb",
     "name": "Universal Jr: Curious George",
     "sources": {
@@ -2713,7 +2728,8 @@
     "name": "V gostyakh u skazki",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -2832,20 +2848,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
-    "sources": {
-      "streams": [
-        "https://server.zillarbarta.com/zbcatun/video.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {

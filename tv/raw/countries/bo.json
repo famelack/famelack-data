@@ -56,6 +56,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w3bpP2FDGFGLPQ",
+    "name": "AYNI TV",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TeFmbSu18GnAQ",
     "name": "Cadena A",
     "sources": {
@@ -64,20 +78,6 @@
       ]
     },
     "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "bo",
     "isGeoBlocked": false
   },
@@ -184,8 +184,7 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
-        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
       ]
     },
     "languages": [],
@@ -198,20 +197,6 @@
     "sources": {
       "streams": [
         "https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4HfmIkncFKbS69",
-    "name": "Imperial TV",
-    "sources": {
-      "streams": [
-        "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8"
       ]
     },
     "languages": [
@@ -333,11 +318,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jesOsAnSntYFJW",
-    "name": "Red America TV",
+    "nanoid": "crhuDV1URlafW7",
+    "name": "Red Rubi",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/redamerica/index.m3u8"
+        "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -386,6 +371,48 @@
     ],
     "country": "bo",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "jo5rZWZDxVWDCK",
+    "name": "Sucremanta TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VvgjeRVvJxgn4n",
+    "name": "TELE 6",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FQtLVabcRW3R96",
+    "name": "Tele Fe Bolivia",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lCPbDhC1z9VYdq",
@@ -524,11 +551,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9u6WNgsEYDn11w",
+    "name": "Univalle Television",
+    "sources": {
+      "streams": [
+        "https://master.tucableip.com/univalletv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GMFO5ANQ5nEa2e",
     "name": "UPEA TV",
     "sources": {
       "streams": [
         "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uLnAaMvBQP6gl2",
+    "name": "Vos TV",
+    "sources": {
+      "streams": [
+        "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8"
       ]
     },
     "languages": [

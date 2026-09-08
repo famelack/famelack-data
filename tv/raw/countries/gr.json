@@ -141,6 +141,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nur67kMzGvKND6",
+    "name": "Best TV",
+    "sources": {
+      "streams": [
+        "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BQ588mGGkNcDqS",
     "name": "Center TV",
     "sources": {
@@ -174,6 +188,20 @@
     "sources": {
       "streams": [
         "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "czhjHEIYdtj7dY",
+    "name": "Ecclesia TV",
+    "sources": {
+      "streams": [
+        "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -239,34 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GI28zdliqFumzw",
-    "name": "ERT Cosmos",
-    "sources": {
-      "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lQUaMVorKskNow",
-    "name": "ERT News",
-    "sources": {
-      "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9dl7OtlflRXkkz",
     "name": "Euro TV",
     "sources": {
@@ -279,6 +279,20 @@
     ],
     "country": "gr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
+    "sources": {
+      "streams": [
+        "https://s1.cystream.net/live/faros2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "BBnkN7RuoWZuoo",
@@ -357,20 +371,6 @@
     "sources": {
       "streams": [
         "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aD4cUpbRFASr0S",
-    "name": "Lepanto TV",
-    "sources": {
-      "streams": [
-        "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
       ]
     },
     "languages": [

@@ -100,6 +100,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mAl50UnEXvw3NE",
+    "name": "Afontovo",
+    "sources": {
+      "streams": [
+        "https://stream.afontovo.ru/hd.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hCnlUCWzC85Pyo",
     "name": "AIST TV",
     "sources": {
@@ -483,6 +497,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47515/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gUswhqxHZdKrP1",
+    "name": "City Eden KinoAction",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UYW2WtzuwJvxrr",
     "name": "City Eden KinoDok",
     "sources": {
@@ -502,6 +544,62 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/45268/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0XF0zTYtjf6Vc",
+    "name": "City Eden KinoKomediya",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41331/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9QIFKg7aQ0UqIc",
+    "name": "City Eden Play",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34100/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eLHDrGKZWgbc15",
+    "name": "City Eden Sirtaki TV",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46421/index.m3u8"
       ]
     },
     "languages": [
@@ -560,6 +658,34 @@
     "sources": {
       "streams": [
         "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I0aYULW1ftUCOM",
+    "name": "Detvora+",
+    "sources": {
+      "streams": [
+        "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xUgG4Xe5635smX",
+    "name": "Dikij",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -870,7 +996,6 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
         "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
@@ -1081,8 +1206,7 @@
     "name": "KinoHit",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv"
+        "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -1210,7 +1334,8 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+        "https://live-3.otcnet.ru/congresstv/index.m3u8"
       ]
     },
     "languages": [
@@ -1461,22 +1586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y5ryr3X9r1YZgg",
-    "name": "MMA-TV.com",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8",
-        "https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "eng",
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M5xMH8eJsKVp5N",
     "name": "Mosfilm Gold Collection",
     "sources": {
@@ -1496,8 +1605,8 @@
     "sources": {
       "streams": [
         "https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58",
-        "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8",
-        "https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv",
+        "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8"
       ]
     },
     "languages": [
@@ -1526,6 +1635,20 @@
     "sources": {
       "streams": [
         "https://moymir.ru/hls/onair.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8oGSgOh8Xrsu3u",
+    "name": "Moya Planeta",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -3241,7 +3364,8 @@
     "name": "V gostyakh u skazki",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -3683,20 +3807,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/1zpCNefHbC0"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LDv8j64nAQo1e9",
-    "name": "Детское кино International",
-    "sources": {
-      "streams": [
-        "https://autopilot.catcast.tv/content/38720/index.m3u8"
       ]
     },
     "languages": [
