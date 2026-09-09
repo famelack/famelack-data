@@ -146,8 +146,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
@@ -239,6 +239,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QJZh4OCr9VB8Gw",
+    "name": "Masala TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {

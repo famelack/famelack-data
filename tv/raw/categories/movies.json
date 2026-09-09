@@ -85,20 +85,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyD5jgzfEEiUYG",
-    "name": "Asia Flix TV",
-    "sources": {
-      "streams": [
-        "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GrExiW2MAUmLxv",
     "name": "Asianet Movies",
     "sources": {
@@ -386,11 +372,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gUswhqxHZdKrP1",
-    "name": "City Eden KinoAction",
+    "nanoid": "Wc02nSZr6VuoIF",
+    "name": "City Eden KinoAsia",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+        "https://cityeden.catcast.tv/content/34393/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Ucx5FG7ngDLh5",
+    "name": "City Eden KinoDetektiv",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41327/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FQwfx6NTcjE41o",
+    "name": "City Eden KinoDrama",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/45269/index.m3u8"
       ]
     },
     "languages": [
@@ -405,20 +419,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
       ]
     },
     "languages": [
@@ -626,20 +626,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MODjjERDzpT3OS",
-    "name": "Filmax",
-    "sources": {
-      "streams": [
-        "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -874,7 +860,8 @@
     "name": "Goldmines",
     "sources": {
       "streams": [
-        "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8"
+        "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
+        "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8"
       ]
     },
     "languages": [
@@ -890,7 +877,7 @@
       "streams": [
         "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
         "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-        "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8"
+        "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -1087,6 +1074,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gNZqBrN60JADEb",
+    "name": "Indywood TV",
+    "sources": {
+      "streams": [
+        "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FJT1T5Bg3eMVVa",
     "name": "Itage TV",
     "sources": {
@@ -1162,7 +1163,8 @@
     "name": "KinoHit",
     "sources": {
       "streams": [
-        "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
+        "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8",
+        "https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1859,40 +1861,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FT8VcZltRS1FOf",
-    "name": "Rakuten TV Action Movies Germany",
+    "nanoid": "4XypCIgUkqx4tL",
+    "name": "Rakuten TV Action Movies Italy",
     "sources": {
       "streams": [
-        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cPkdzV9fItuy2l",
-    "name": "Rakuten TV Comedy Movies Finland",
-    "sources": {
-      "streams": [
-        "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rW6tKgiQ7jM4rF",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "sources": {
-      "streams": [
-        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
       ]
     },
     "languages": [
@@ -1902,18 +1875,31 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PZAnGbp6hYUZo5",
-    "name": "Rakuten TV Drama Movies Finland",
+    "nanoid": "6xG0BDh6352B56",
+    "name": "Rakuten TV Comedy Movies Spain",
     "sources": {
       "streams": [
-        "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+        "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "fin"
+      "spa"
     ],
-    "country": "fi",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pVq6NYAblJFq99",
+    "name": "Rakuten TV Drama Movies Italy",
+    "sources": {
+      "streams": [
+        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1928,6 +1914,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
+    "sources": {
+      "streams": [
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -2031,20 +2031,6 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "U4qFQGhb2lylGn",
-    "name": "Sine Plus",
-    "sources": {
-      "streams": [
-        "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "8ASIayZG97M5CC",
@@ -2271,20 +2257,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -2633,20 +2605,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wnXEnrj6C2tzO6",
-    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/AbP69KvHRvA"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
     "isGeoBlocked": false
   }
 ]

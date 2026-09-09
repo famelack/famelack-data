@@ -127,20 +127,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fc5hpz0dRxh3M6",
-    "name": "Alpe d'Huez TV",
-    "sources": {
-      "streams": [
-        "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MV7j6dHcEiwyvr",
     "name": "Antenne Reunion",
     "sources": {
@@ -173,7 +159,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/aeH_QYuojDM"
+        "https://www.youtube-nocookie.com/embed/VXuYZVHDmPA"
       ]
     },
     "languages": [
@@ -393,7 +379,6 @@
     "name": "BFM TV",
     "sources": {
       "streams": [
-        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
       ]
     },
@@ -1114,6 +1099,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rOt2GRHARiewoL",
+    "name": "Littoral FM TV",
+    "sources": {
+      "streams": [
+        "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fZyKRU2kHKETIx",
     "name": "Lou!",
     "sources": {
@@ -1262,7 +1261,7 @@
     "name": "Pocoyo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/n5lS0-MCgqc"
+        "https://www.youtube-nocookie.com/embed/RHofqfeNfO0"
       ]
     },
     "languages": [
@@ -1359,6 +1358,18 @@
     "sources": {
       "streams": [
         "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dK7Tr0arpe0iTb",
+    "name": "Rakuten TV Top Films France",
+    "sources": {
+      "streams": [
+        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
       ]
     },
     "languages": [],

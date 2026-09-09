@@ -101,20 +101,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AeG4E88wj1aN3z",
-    "name": "Afarin TV",
-    "sources": {
-      "streams": [
-        "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qrF5SmJtak0Ry4",
     "name": "Akili Kids!",
     "sources": {
@@ -219,7 +205,6 @@
     "name": "Balapan",
     "sources": {
       "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
         "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
       ]
     },
@@ -1693,6 +1678,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iTYbfotwsIv7iD",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uU0w6PP1NhQ9xR",
     "name": "Nickelodeon",
     "sources": {
@@ -1726,6 +1725,20 @@
     "sources": {
       "streams": [
         "https://x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1802,20 +1815,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jZAckV2XCo9tKn",
-    "name": "Oddbods",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9cl4_MTga1U"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2047,7 +2046,7 @@
     "name": "Pocoyo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/n5lS0-MCgqc"
+        "https://www.youtube-nocookie.com/embed/RHofqfeNfO0"
       ]
     },
     "languages": [
@@ -2153,6 +2152,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GzjkBwRPP1x8dy",
+    "name": "Reino Infantil",
+    "sources": {
+      "streams": [
+        "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "mz",
     "isGeoBlocked": false
   },
   {
@@ -2848,6 +2861,20 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "sources": {
+      "streams": [
+        "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {

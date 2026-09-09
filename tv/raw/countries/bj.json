@@ -14,6 +14,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1fyxJbeOBe9SyI",
+    "name": "Eden TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.edentv.bj/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ayb",
+      "fon",
+      "fra"
+    ],
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "l9YRJG6Qahxecn",
     "name": "ICONE TV",
     "sources": {
@@ -42,6 +58,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hNA8RP7NoiPpEi",
+    "name": "Le Nouveau Manager TV",
+    "sources": {
+      "streams": [
+        "https://lnmlive.com/live/lnmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wl2lwPjKKxNRiK",
     "name": "ORTB TV",
     "sources": {
@@ -50,20 +80,6 @@
       ]
     },
     "languages": [],
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B7Ks8MnYsVfD8I",
-    "name": "Speedline TV",
-    "sources": {
-      "streams": [
-        "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
     "country": "bj",
     "isGeoBlocked": false
   },

@@ -594,6 +594,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xnU10BQX3X7Kmm",
     "name": "Fernandina Beach Channel",
     "sources": {
@@ -654,7 +668,6 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
         "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
       ]
     },
@@ -1016,11 +1029,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
+    "nanoid": "zMW8FE1xQLG090",
+    "name": "Orszaggyules: OGY TAB",
     "sources": {
       "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1133,7 +1146,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N3nNXzCz2Vc"
+        "https://www.youtube-nocookie.com/embed/bTNJ36-fgtg"
       ]
     },
     "languages": [
@@ -1278,7 +1291,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/A55Bw593d_8"
+        "https://www.youtube-nocookie.com/embed/tPTDqGDnK8g"
       ]
     },
     "languages": [

@@ -82,6 +82,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "szKNdNWx1GqWTX",
     "name": "Coral TV",
     "sources": {
@@ -206,11 +220,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UWOKSE73g6jYRt",
-    "name": "KSCE Vida Cristiana",
+    "nanoid": "4HfmIkncFKbS69",
+    "name": "Imperial TV",
     "sources": {
       "streams": [
-        "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
+        "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8"
       ]
     },
     "languages": [
@@ -220,11 +234,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YIKke4PY7wnkdl",
-    "name": "Palenque TV",
+    "nanoid": "UWOKSE73g6jYRt",
+    "name": "KSCE Vida Cristiana",
     "sources": {
       "streams": [
-        "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
+        "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -313,6 +327,34 @@
     },
     "languages": [
       "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jesOsAnSntYFJW",
+    "name": "Red America TV",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/redamerica/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzi4nlNP3J2X8P",
+    "name": "Red CCTV",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "bo",
     "isGeoBlocked": false
@@ -415,11 +457,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lCPbDhC1z9VYdq",
-    "name": "TransMedia",
+    "nanoid": "oOiARRZ91GwBKV",
+    "name": "TL Estrella",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/8064/index.m3u8"
+        "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8"
       ]
     },
     "languages": [
@@ -518,8 +560,7 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
+        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
       ]
     },
     "languages": [],
@@ -547,20 +588,6 @@
       ]
     },
     "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9u6WNgsEYDn11w",
-    "name": "Univalle Television",
-    "sources": {
-      "streams": [
-        "https://master.tucableip.com/univalletv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "bo",
     "isGeoBlocked": false
   },

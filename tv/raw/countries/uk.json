@@ -299,6 +299,9 @@
         "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8",
         "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/bLAJZTSl2_Y"
       ]
     },
     "languages": [
@@ -384,6 +387,21 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RGisQUNDzBMFhg",
+    "name": "Canaf54 TV",
+    "sources": {
+      "streams": [
+        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -538,7 +556,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mxujhaLEgY4"
+        "https://www.youtube-nocookie.com/embed/UUlAR9zINpk"
       ]
     },
     "languages": [
@@ -1871,7 +1889,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
+        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1994,6 +2012,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
+    "sources": {
+      "streams": [
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2175,6 +2207,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/xDWQ3LkccY8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "sources": {
+      "streams": [
+        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
       ]
     },
     "languages": [

@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zLbErKeLWlYtjV",
-    "name": "Agro TV",
-    "sources": {
-      "streams": [
-        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CtdqbL5wtTjnvo",
     "name": "AgroCanal",
     "sources": {
@@ -113,20 +99,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
-    "sources": {
-      "streams": [
-        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sYvKtrPKv77vYD",
     "name": "Chacra TV",
     "sources": {
@@ -169,20 +141,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xUgG4Xe5635smX",
-    "name": "Dikij",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wphelUchf8A8QX",
     "name": "Duck Hunting TV",
     "sources": {
@@ -216,8 +174,7 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
-        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -413,20 +370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6qAfF0Ciz7BFIk",
-    "name": "Peer TV Sudtirol",
-    "sources": {
-      "streams": [
-        "https://iptv.peer.biz/live/peertv.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3EEayoY7m4WXhg",
     "name": "Poehali!",
     "sources": {
@@ -438,6 +381,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
+    "sources": {
+      "streams": [
+        "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {

@@ -113,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o15OiPkM4jxoZp",
+    "name": "Bayres TV",
+    "sources": {
+      "streams": [
+        "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SHCgFbO79Hh4Z8",
     "name": "Beats Radio",
     "sources": {
@@ -132,21 +146,6 @@
     "sources": {
       "streams": [
         "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j3vzvoCXC33jhr",
-    "name": "Bravo TV",
-    "sources": {
-      "streams": [
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
       ]
     },
     "languages": [
@@ -296,20 +295,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "orfuIaNTEmG6BY",
-    "name": "Canal 3 Pinamar",
-    "sources": {
-      "streams": [
-        "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kmjpquId56QTiI",
     "name": "Canal 4 Esquel",
     "sources": {
@@ -371,20 +356,6 @@
     "sources": {
       "streams": [
         "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UDMd7kyyZOsiGV",
-    "name": "Canal 4 Villa Dolores",
-    "sources": {
-      "streams": [
-        "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -496,7 +467,8 @@
     "name": "Canal 7 Salta",
     "sources": {
       "streams": [
-        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
+        "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
+        "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
       ]
     },
     "languages": [
@@ -523,11 +495,8 @@
     "nanoid": "zBHIZ3xX6aJN4H",
     "name": "Canal 8 San Juan",
     "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8"
-      ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hIRthcgIjw4"
+        "https://www.youtube-nocookie.com/embed/ya126Vdtgvg"
       ]
     },
     "languages": [
@@ -555,7 +524,7 @@
     "name": "Canal 13 San Juan",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OGu-QBPt6qo"
+        "https://www.youtube-nocookie.com/embed/mECCmQEQ9ZM"
       ]
     },
     "languages": [
@@ -809,6 +778,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gIVpxumuFFQfY2",
+    "name": "Canal Showsport",
+    "sources": {
+      "streams": [
+        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5RVA7yz4BPlJbJ",
     "name": "Canal TDC",
     "sources": {
@@ -1010,7 +993,7 @@
     "name": "Diputados TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/H49KLodNWrg"
+        "https://www.youtube-nocookie.com/embed/_SH6DL3AGig"
       ]
     },
     "languages": [
@@ -1080,7 +1063,7 @@
     "name": "El Observador 107.9",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BQtUHdQjbqI"
+        "https://www.youtube-nocookie.com/embed/azvPgFO6MUE"
       ]
     },
     "languages": [
@@ -1150,7 +1133,7 @@
     "name": "El Tres TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fvpFpUwVXso"
+        "https://www.youtube-nocookie.com/embed/yYExBeYH1TM"
       ]
     },
     "languages": [
@@ -1742,7 +1725,7 @@
     "name": "Televisión Pública",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1jWpqLRGsEI"
+        "https://www.youtube-nocookie.com/embed/PuadHQjahr8"
       ]
     },
     "languages": [
@@ -1924,7 +1907,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mPyEAfFIkEA"
+        "https://www.youtube-nocookie.com/embed/tm3cMdeEWWY"
       ]
     },
     "languages": [

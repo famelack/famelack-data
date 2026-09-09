@@ -238,20 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OETM24DdxaHZfM",
-    "name": "Invasiva TV",
-    "sources": {
-      "streams": [
-        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "sources": {
@@ -399,6 +385,20 @@
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
+    "sources": {
+      "streams": [
+        "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
       ]
     },
     "languages": [

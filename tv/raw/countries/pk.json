@@ -32,7 +32,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Q76-MDc1z00"
+        "https://www.youtube-nocookie.com/embed/wblomAjnrCY"
       ]
     },
     "languages": [
@@ -245,7 +245,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/9rWAbTvvC6c"
+        "https://www.youtube-nocookie.com/embed/Wh3JnlYhUHQ"
       ]
     },
     "languages": [
@@ -260,7 +260,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AhvVSRKMS3A"
+        "https://www.youtube-nocookie.com/embed/uYEQw_7q9Q4"
       ]
     },
     "languages": [
@@ -321,20 +321,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/KNvaWHgOBMw"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MODjjERDzpT3OS",
-    "name": "Filmax",
-    "sources": {
-      "streams": [
-        "https://s3.ideationtec.live/Filmax/Filmax.m3u8"
       ]
     },
     "languages": [
@@ -484,21 +470,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gmAnyp0vi78tWo",
-    "name": "God Stands TV Main",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "udYM5OktKE92Dh",
     "name": "God Stands TV Punjabi",
     "sources": {
@@ -522,20 +493,6 @@
     },
     "languages": [
       "tgl"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MJZCJdg9pFYsCd",
-    "name": "God Stands TV Urdu",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -574,7 +531,8 @@
     "name": "Hum TV",
     "sources": {
       "streams": [
-        "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8"
+        "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+        "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8"
       ]
     },
     "languages": [
@@ -699,6 +657,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LzPSde42sWQjeB",
+    "name": "KTN NEWS TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/x5WC_ImAafw"
+      ]
+    },
+    "languages": [
+      "sd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ey0C6dKSzvDUaH",
     "name": "Lahore News",
     "sources": {
@@ -761,7 +733,8 @@
     "name": "Madani Channel English",
     "sources": {
       "streams": [
-        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8"
+        "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+        "https://tvsen7.aynascope.net/MadaniTV/index.m3u8"
       ]
     },
     "languages": [
@@ -779,6 +752,20 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/-3J8e7KDQtc"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QJZh4OCr9VB8Gw",
+    "name": "Masala TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8"
       ]
     },
     "languages": [

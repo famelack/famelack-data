@@ -48,7 +48,7 @@
         "https://rtmp.baku.tv/hls/bakutv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/65wVgdFnzwY"
+        "https://www.youtube-nocookie.com/embed/v6oX8bFk7Hg"
       ]
     },
     "languages": [
@@ -77,6 +77,20 @@
     "sources": {
       "streams": [
         "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BBI8YUriXrMPZH",
+    "name": "KN Music TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [

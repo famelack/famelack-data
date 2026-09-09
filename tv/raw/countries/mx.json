@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dKvffVf67Ibo9n",
-    "name": "Acustik TV",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6AYObDCpHjAFK9",
     "name": "ADN 40",
     "sources": {
@@ -140,25 +126,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
     "sources": {
       "streams": [
-        "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
+        "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
       ]
     },
     "languages": [
@@ -180,6 +152,34 @@
     ],
     "country": "mx",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "sources": {
+      "streams": [
+        "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gwICuV95fTarKx",
+    "name": "Canal 22 Nacional",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "v6b78NmVD9WnBy",
@@ -289,6 +289,20 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/7vfbJk26QWQ"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0v8d7EFpyejD8F",
+    "name": "Eclipse TV",
+    "sources": {
+      "streams": [
+        "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8"
       ]
     },
     "languages": [
@@ -424,20 +438,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9NYf5msdVIxgC1",
-    "name": "ILCE Canal 15 Summa Saberes",
-    "sources": {
-      "streams": [
-        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yk5LuaS8jCla7l",
     "name": "Imagen Multicast",
     "sources": {
@@ -470,7 +470,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/FzG1IlX9Qa8"
+        "https://www.youtube-nocookie.com/embed/T-esMjJTBwA"
       ]
     },
     "languages": [],
@@ -674,6 +674,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eg1gONSWrKSqw4",
+    "name": "PSN",
+    "sources": {
+      "streams": [
+        "https://srspsn.live/live/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rGCqu82AwJbUrk",
+    "name": "PSN Canal 45.2",
+    "sources": {
+      "streams": [
+        "https://srspsn2.live/live/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XTIJ4Z66Z2ZX2y",
     "name": "Raly TV",
     "sources": {
@@ -801,6 +829,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "arUwONnDyiIo6o",
+    "name": "Tele Yucatan",
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "248WyVmGTSntgh",
     "name": "Telediario Guadalajara",
     "sources": {
@@ -872,6 +914,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EDHdYFZTyUWlzE",
+    "name": "Televisa Del Golfo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/sniCLWs7-wE"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MFKuXvwOZbfP2b",
     "name": "Televisa Guadalajara",
     "sources": {
@@ -932,7 +988,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-U18w-Wnsl4"
+        "https://www.youtube-nocookie.com/embed/CP3dyYO6c0g"
       ]
     },
     "languages": [
@@ -946,7 +1002,7 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dbQa6ThI4cg"
+        "https://www.youtube-nocookie.com/embed/N430DiMrgsU"
       ]
     },
     "languages": [
@@ -960,7 +1016,21 @@
     "name": "Televisa Puebla",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oKb2f_1GaK8"
+        "https://www.youtube-nocookie.com/embed/WzaHQ-D27xk"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nASLS2roa0P0yB",
+    "name": "Televisa Querétaro",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/DjukWNAJlRM"
       ]
     },
     "languages": [
@@ -1058,7 +1128,7 @@
     "name": "Televisa Zacatecas",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BrNoYczqz4w"
+        "https://www.youtube-nocookie.com/embed/gl6KBE714m8"
       ]
     },
     "languages": [
@@ -1284,20 +1354,6 @@
     "sources": {
       "streams": [
         "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CXFEfwBakQ1YSI",
-    "name": "TVP Los Mochis",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8"
       ]
     },
     "languages": [

@@ -174,7 +174,8 @@
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://webtvstream.bhtelecom.ba/fightbox.m3u8"
+        "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -277,20 +278,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "A3vCuoFXBOegkR",
-    "name": "Gigant FM",
-    "sources": {
-      "streams": [
-        "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
@@ -522,6 +509,20 @@
     "languages": [],
     "country": "nl",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "cz0NSemk409jgG",
+    "name": "NOOS TV",
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "OgYe6u4a9Y8YAf",

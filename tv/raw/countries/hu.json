@@ -56,6 +56,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bjtUkZwN7hFmXK",
+    "name": "Balaton TV",
+    "sources": {
+      "streams": [
+        "https://stream.iptvservice.eu/hls/balatontv.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7lZXVo773nUBKh",
     "name": "ESTV",
     "sources": {
@@ -225,11 +239,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
+    "nanoid": "zMW8FE1xQLG090",
+    "name": "Orszaggyules: OGY TAB",
     "sources": {
       "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+        "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -286,6 +300,20 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
       ]
     },
     "languages": [
