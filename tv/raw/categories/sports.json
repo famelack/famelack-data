@@ -160,20 +160,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SxEZ67YPc8yPDE",
-    "name": "BEK TV Sports West",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yxXfCHd5uHQMJD",
     "name": "Belarus-5",
     "sources": {
@@ -245,39 +231,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
-    "sources": {
-      "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ASHioV3EjpMKWq",
     "name": "CDN Deportes",
     "sources": {
       "streams": [
         "https://hls.tvabierta.net/hls/036.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0vPnZheEHBV86R",
-    "name": "Colimdo TV",
-    "sources": {
-      "streams": [
-        "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
       ]
     },
     "languages": [
@@ -704,6 +662,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lagHJficp6nYbz",
     "name": "ge Fast",
     "sources": {
@@ -975,6 +947,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "wGBL8I1vuWBjnz",
+    "name": "MLB Network",
+    "sources": {
+      "streams": [
+        "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "WjzlJmHsxUPxpZ",
     "name": "MNB Sport",
     "sources": {
@@ -1052,6 +1039,20 @@
         "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
         "https://cdn1.ayitistream.com/NBATV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "gnwCNk9tVr4DMW",
+    "name": "NBC Sports Bay Area",
+    "sources": {
+      "streams": [
+        "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1153,6 +1154,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8",
         "https://pac12-vizio.amagi.tv/playlist.m3u8"
       ]
@@ -1523,34 +1525,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "VEQFdBBlN7i20z",
-    "name": "Sky Sports Cricket",
-    "sources": {
-      "streams": [
-        "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDmTeNogOCZ4KM",
-    "name": "Sky Sports Golf",
-    "sources": {
-      "streams": [
-        "https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kYyFOC5D4jKYMW",
     "name": "Slopes TV",
     "sources": {
@@ -1643,6 +1617,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
         "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -1863,6 +1838,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vcYgt03oXz4"
       ]
     },
     "languages": [

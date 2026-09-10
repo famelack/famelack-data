@@ -32,7 +32,7 @@
     "name": "24 News HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wblomAjnrCY"
+        "https://www.youtube-nocookie.com/embed/CkW8Q7033XU"
       ]
     },
     "languages": [
@@ -231,7 +231,7 @@
     "name": "City 21 News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/sl1_OWhuokg"
+        "https://www.youtube-nocookie.com/embed/y0DYx7yBCZk"
       ]
     },
     "languages": [
@@ -245,7 +245,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Wh3JnlYhUHQ"
+        "https://www.youtube-nocookie.com/embed/LURUM7k3Pl0"
       ]
     },
     "languages": [
@@ -260,7 +260,7 @@
     "name": "City 42",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uYEQw_7q9Q4"
+        "https://www.youtube-nocookie.com/embed/5IjUBQnTLYg"
       ]
     },
     "languages": [
@@ -470,6 +470,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gmAnyp0vi78tWo",
+    "name": "God Stands TV Main",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "udYM5OktKE92Dh",
     "name": "God Stands TV Punjabi",
     "sources": {
@@ -493,6 +508,20 @@
     },
     "languages": [
       "tgl"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MJZCJdg9pFYsCd",
+    "name": "God Stands TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -955,20 +984,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/MLDQM0QL_-4"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WXuOh2YwSDNDLT",
-    "name": "Sky News Urdu",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8"
       ]
     },
     "languages": [

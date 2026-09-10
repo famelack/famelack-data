@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GGI2245NqAePNm",
+    "name": "Euronews Portuguese",
+    "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qRQX6zHTSR3gUI",
     "name": "FUEL TV",
     "sources": {
@@ -249,18 +263,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Fv8cd5HoZ9hOmr",
-    "name": "Rakuten Documentários",
-    "sources": {
-      "streams": [
-        "https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "pt",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "MegvelUFPkbBIn",

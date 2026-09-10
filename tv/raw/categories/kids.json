@@ -17,20 +17,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fooBWNn7lAf85s",
-    "name": "4 Fun Kids",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "At9xDVwnRJnJwN",
     "name": "13 Kids",
     "sources": {
@@ -205,6 +191,7 @@
     "name": "Balapan",
     "sources": {
       "streams": [
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
         "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
       ]
     },
@@ -413,20 +400,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
     "sources": {
@@ -473,7 +446,7 @@
     "name": "Cartoon Network Italia",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Stonwyey7TU"
+        "https://www.youtube-nocookie.com/embed/2oz_b8ZO5d8"
       ]
     },
     "languages": [
@@ -1224,7 +1197,7 @@
     "name": "Jetix",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fvK4CMQRr6Q"
+        "https://www.youtube-nocookie.com/embed/5ao8gQWoXqY"
       ]
     },
     "languages": [
@@ -1734,20 +1707,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dlSxOcHpkY3viD",
-    "name": "NickOnline Bob Esponja",
-    "sources": {
-      "streams": [
-        "https://bob.x1colegal.com/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "sources": {
@@ -2124,6 +2083,20 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-7BwDVSaMCk"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -2847,20 +2820,6 @@
       "tel"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hzA9M1g8Uiyjea",
-    "name": "Xtrema Cartoons",
-    "sources": {
-      "streams": [
-        "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "zLbErKeLWlYtjV",
+    "name": "Agro TV",
+    "sources": {
+      "streams": [
+        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YeKuxDQNxxKjD2",
     "name": "Altura TV",
     "sources": {
@@ -309,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XzRqOxUzNRtPhH",
-    "name": "ECO Television",
-    "sources": {
-      "streams": [
-        "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M8nsyNmz1k1pVX",
     "name": "Exitosa TV",
     "sources": {
@@ -398,20 +398,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8VadQ9bvVXyzrj",
-    "name": "Intuitiva TV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/cableperu/live.m3u8"
       ]
     },
     "languages": [
@@ -888,20 +874,6 @@
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
         "https://live.obslivestream.com/selvatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Zh2LPdg7e5WVXA",
-    "name": "Siscom TV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/siscomtv/live.m3u8"
       ]
     },
     "languages": [

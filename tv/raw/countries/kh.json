@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "sources": {
+      "streams": [
+        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YIjIVSot1z9UDS",
     "name": "CTV8 HD",
     "sources": {
@@ -28,15 +42,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dytKAoNeSNBKGD",
-    "name": "iTV HD",
+    "nanoid": "sFPfedqXXPJW5f",
+    "name": "EAC News TV",
     "sources": {
       "streams": [
-        "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8"
+        "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
       ]
     },
     "languages": [
-      "khm"
+      "eng"
     ],
     "country": "kh",
     "isGeoBlocked": false
@@ -54,11 +68,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aAMBVg0GZZXh3E",
-    "name": "SEA TV",
+    "nanoid": "a7p8px0xew1TNk",
+    "name": "Sangkem TV",
     "sources": {
       "streams": [
-        "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
       ]
     },
     "languages": [
@@ -68,11 +82,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mhke0W0yDC0bio",
-    "name": "TV5 Cambodia",
+    "nanoid": "aAMBVg0GZZXh3E",
+    "name": "SEA TV",
     "sources": {
       "streams": [
-        "https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8"
+        "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
       ]
     },
     "languages": [

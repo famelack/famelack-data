@@ -379,6 +379,7 @@
     "name": "BFM TV",
     "sources": {
       "streams": [
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE",
         "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
       ]
     },
@@ -538,6 +539,18 @@
     "languages": [
       "fra"
     ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hlG7Qk94i6rOfx",
+    "name": "Enquetes de Choc",
+    "sources": {
+      "streams": [
+        "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1159,7 +1172,7 @@
     "name": "Mosaïk Cristal",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/h8jhsRixcJw"
+        "https://www.youtube-nocookie.com/embed/3A1M2zSRsTc"
       ]
     },
     "languages": [
@@ -1341,35 +1354,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "3UupDDnNXaxwcR",
-    "name": "Rakuten TV Films Comédie",
+    "nanoid": "AIirayhr6r6kA6",
+    "name": "Rakuten TV Films Thriller",
     "sources": {
       "streams": [
-        "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
-    "sources": {
-      "streams": [
-        "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
-    "sources": {
-      "streams": [
-        "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+        "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
       ]
     },
     "languages": [],
@@ -1924,18 +1913,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DCLTXwqB1NQz9D",
-    "name": "TV5Monde Asia",
+    "nanoid": "inGlxKW8S2QpWf",
+    "name": "TV3V",
     "sources": {
       "streams": [
-        "https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8"
+        "https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8"
       ]
     },
     "languages": [
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

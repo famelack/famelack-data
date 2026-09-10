@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DhFWPxFh4aKhyC",
+    "name": "Avivamiento TV",
+    "sources": {
+      "streams": [
+        "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KstfcDMjN0CcgR",
     "name": "Bendicion Channel",
     "sources": {
@@ -128,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t77vURUv4tfKdi",
-    "name": "Canal 9 Cosespu",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s64BgUfTafeYF2",
     "name": "Canal 14 Codazzi",
     "sources": {
@@ -213,6 +213,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QA1x5OQRH7UVPJ",
+    "name": "Canal Nets",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/nets.m3u8",
+        "https://video.ejeserver.com/live/nets.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HolomefezhLkUD",
     "name": "Canal Oracion Con Son",
     "sources": {
@@ -227,11 +242,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KjfXoBdjtuGuIn",
-    "name": "Canal Telefamilia",
+    "nanoid": "rbVGB4gc6vGSpJ",
+    "name": "Canal PyC",
     "sources": {
       "streams": [
-        "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
+        "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8"
       ]
     },
     "languages": [
@@ -241,11 +256,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A9tPf7Rzt5ngpc",
-    "name": "Canica TV",
+    "nanoid": "KjfXoBdjtuGuIn",
+    "name": "Canal Telefamilia",
     "sources": {
       "streams": [
-        "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
+        "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -510,11 +525,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O6968Ntoz01eFU",
-    "name": "Marsella TV",
+    "nanoid": "RfchJq1KTGTlOM",
+    "name": "Mas Norte TV",
     "sources": {
       "streams": [
-        "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8"
+        "https://live.arnoproducciones.com/hls/norte.m3u8"
       ]
     },
     "languages": [
@@ -524,11 +539,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
+    "nanoid": "2RNOyGKRiGPXuw",
+    "name": "MasMusica FM",
     "sources": {
       "streams": [
-        "https://live.arnoproducciones.com/hls/norte.m3u8"
+        "https://movil.ejeserver.com/live/masmusica.m3u8",
+        "https://video.ejeserver.com/live/masmusica.m3u8"
       ]
     },
     "languages": [
@@ -750,6 +766,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rZfnfgO93XkAdZ",
+    "name": "Soona TV",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JBY0vsG9zLUttk",
     "name": "StreamForce 360 Main",
     "sources": {
@@ -769,6 +799,34 @@
     "sources": {
       "streams": [
         "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nBCtUGxdm8WZSP",
+    "name": "Suram TV",
+    "sources": {
+      "streams": [
+        "https://us.streaminghd.cl/suramtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HgBlAsHZW8C65f",
+    "name": "Tele Mocoa Canal 10",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
       ]
     },
     "languages": [
@@ -805,6 +863,20 @@
     ],
     "country": "co",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Clv7XzV3Q51izu",
+    "name": "Telesangil",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "BTUtiIKXJH39q3",
@@ -849,6 +921,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mlkKtAdauZwDoc",
+    "name": "TV3 La Plata",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s1gW58b5trEZhx",
     "name": "Ultra Casanare TV",
     "sources": {
@@ -868,20 +954,6 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AmiFkXyyhlLrz0",
-    "name": "Veo Televisión",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

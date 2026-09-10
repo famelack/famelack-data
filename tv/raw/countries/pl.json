@@ -1,34 +1,5 @@
 [
   {
-    "nanoid": "fooBWNn7lAf85s",
-    "name": "4 Fun Kids",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gnXbQSLxnNAtTV",
-    "name": "4 Fun TV",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8",
-        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -197,25 +168,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
       "streams": [
         "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Yu5wceoQ17tjtg",
+    "name": "Euronews FAST",
+    "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
       ]
     },
     "languages": [
@@ -421,34 +392,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oNpOE0EguTlVfK",
-    "name": "Radio RAM",
-    "sources": {
-      "streams": [
-        "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cVaJUABGdrFesO",
-    "name": "Radiowa Czworka",
-    "sources": {
-      "streams": [
-        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -932,6 +875,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/QV9hs_eh7q4"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

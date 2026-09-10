@@ -85,6 +85,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2c7snlK3LlpjiQ",
+    "name": "Astra TV",
+    "sources": {
+      "streams": [
+        "https://server.gointernet.gr/live/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "alnxPYvmVkicEU",
     "name": "Baraza TV",
     "sources": {
@@ -174,6 +188,20 @@
     "sources": {
       "streams": [
         "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "czhjHEIYdtj7dY",
+    "name": "Ecclesia TV",
+    "sources": {
+      "streams": [
+        "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
       ]
     },
     "languages": [
@@ -281,20 +309,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "sources": {
-      "streams": [
-        "https://s1.cystream.net/live/faros2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
     "sources": {
@@ -313,6 +327,7 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
         "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
       ]
     },

@@ -269,6 +269,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KTv1lAQngiwpQF",
+    "name": "dTVi",
+    "sources": {
+      "streams": [
+        "https://e.siar.us/live/dtvi.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QsUhnT0pi51wcj",
     "name": "Duta TV",
     "sources": {
@@ -439,6 +453,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ootv8lcMdtj5Da",
+    "name": "Kilisuci TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "a2io8ewFCFKoVq",
     "name": "Kompas TV",
     "sources": {
@@ -482,6 +510,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ayjkn7ZDTaMfjh",
+    "name": "Magna Channel",
+    "sources": {
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "zrn3dK1AY8AcF8",
     "name": "Marhaban TV",
     "sources": {
@@ -511,20 +553,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AixeZaoPbQBLhF",
-    "name": "MDTV",
-    "sources": {
-      "streams": [
-        "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "sources": {
@@ -542,6 +570,9 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
       ]
@@ -623,11 +654,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ha2zWLoq5d13uY",
-    "name": "Radar Lampung TV",
+    "nanoid": "ggkBalQqNc86oy",
+    "name": "Puja TV Aceh",
     "sources": {
       "streams": [
-        "https://www.streaming.radartv.co.id/hls/test.m3u8"
+        "https://pujatv.siar.us/live/pujatv.m3u8"
       ]
     },
     "languages": [
@@ -796,7 +827,7 @@
     "name": "Serambinews",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CcCACPGh0nw"
+        "https://www.youtube-nocookie.com/embed/ENlqkXP_GC4"
       ]
     },
     "languages": [
