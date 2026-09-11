@@ -267,6 +267,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BjZVMVKPbgDPNQ",
+    "name": "FILMBOX+ One Romania",
+    "sources": {
+      "streams": [
+        "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lhCxqE1AXbE8qH",
     "name": "HD365 TV",
     "sources": {
@@ -356,20 +370,6 @@
     "sources": {
       "streams": [
         "https://stream1.kanald.ro/iphone/knd-live.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3hq4NpWZFKw05F",
-    "name": "Kiss TV",
-    "sources": {
-      "streams": [
-        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
       ]
     },
     "languages": [
@@ -528,6 +528,20 @@
     },
     "languages": [
       "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mJwYIq4WQH48qf",
+    "name": "Radio Romania 3Net",
+    "sources": {
+      "streams": [
+        "https://media.3netmedia.ro/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
       "ron"
     ],
     "country": "ro",

@@ -556,7 +556,7 @@
     "name": "Crafter's TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0DjMoOyagaI"
+        "https://www.youtube-nocookie.com/embed/tYSIIcfWH_I"
       ]
     },
     "languages": [
@@ -570,7 +570,7 @@
     "name": "Create & Craft TV Extra",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/em_CcvBxLv4"
+        "https://www.youtube-nocookie.com/embed/GhBeEEaFP2c"
       ]
     },
     "languages": [
@@ -1330,6 +1330,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PX5qzbiZTbft2y",
+    "name": "Magnavision TV",
+    "sources": {
+      "streams": [
+        "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "mal"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "odmaKziT74hmSh",
     "name": "Masha & the Bear",
     "sources": {
@@ -2010,32 +2024,6 @@
     "sources": {
       "streams": [
         "https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
-    "sources": {
-      "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],

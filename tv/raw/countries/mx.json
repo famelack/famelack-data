@@ -368,20 +368,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y2XbgAUNu1jdKZ",
     "name": "Expresa TV",
     "sources": {
@@ -466,20 +452,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9NYf5msdVIxgC1",
-    "name": "ILCE Canal 15 Summa Saberes",
-    "sources": {
-      "streams": [
-        "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yk5LuaS8jCla7l",
     "name": "Imagen Multicast",
     "sources": {
@@ -512,7 +484,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/t2Y1ZUGJ07I"
+        "https://www.youtube-nocookie.com/embed/2-WtLhVcoKg"
       ]
     },
     "languages": [],
@@ -674,6 +646,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "esFtoFYJpw3jIu",
+    "name": "Nueve TV",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9fFngorHQ4qnSy",
     "name": "Popcorn Central",
     "sources": {
@@ -758,11 +744,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "inKpcU1CFpY4af",
-    "name": "SIPSE TV 8.1",
+    "nanoid": "UQFSkPCl4JMKWc",
+    "name": "SET Televisión Canal 26.1",
     "sources": {
       "streams": [
-        "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
       ]
     },
     "languages": [
@@ -772,11 +759,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bqZG2nHHXJFyOO",
-    "name": "SIPSE TVCUN 8.1",
+    "nanoid": "inKpcU1CFpY4af",
+    "name": "SIPSE TV 8.1",
     "sources": {
       "streams": [
-        "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+        "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
       ]
     },
     "languages": [
@@ -913,20 +900,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDHdYFZTyUWlzE",
-    "name": "Televisa Del Golfo",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/sniCLWs7-wE"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MFKuXvwOZbfP2b",
     "name": "Televisa Guadalajara",
     "sources": {
@@ -987,7 +960,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kmMR1tszwBE"
+        "https://www.youtube-nocookie.com/embed/cbima-dojQI"
       ]
     },
     "languages": [
@@ -1001,7 +974,7 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZMqLZNAtPS4"
+        "https://www.youtube-nocookie.com/embed/uB4U4BCOlkk"
       ]
     },
     "languages": [
@@ -1015,7 +988,7 @@
     "name": "Televisa Puebla",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IEYyBtK0Bzg"
+        "https://www.youtube-nocookie.com/embed/7TjYX6wXlZ8"
       ]
     },
     "languages": [
@@ -1029,7 +1002,7 @@
     "name": "Televisa Querétaro",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DjukWNAJlRM"
+        "https://www.youtube-nocookie.com/embed/Fjl4HcL7kd8"
       ]
     },
     "languages": [
@@ -1353,6 +1326,20 @@
     "sources": {
       "streams": [
         "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CXFEfwBakQ1YSI",
+    "name": "TVP Los Mochis",
+    "sources": {
+      "streams": [
+        "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8"
       ]
     },
     "languages": [

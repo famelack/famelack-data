@@ -85,21 +85,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QAWNpXBSxe4wt2",
-    "name": "A2i TV",
-    "sources": {
-      "streams": [
-        "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AxkHU8DJYXqb2o",
     "name": "ACI Sport TV",
     "sources": {
@@ -845,6 +830,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2eXLwbsjjec141",
+    "name": "Lombardia TV",
+    "sources": {
+      "streams": [
+        "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wzCVcOtwYxi096",
     "name": "Love The Planet IT",
     "sources": {
@@ -1041,20 +1040,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "goJdBBUxKzhIiT",
-    "name": "Paradise TV",
-    "sources": {
-      "streams": [
-        "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rCWYXbGU5lesuk",
     "name": "Parole di Vita",
     "sources": {
@@ -1064,6 +1049,20 @@
     },
     "languages": [
       "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1111,11 +1110,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QPHo9cwvhZBbgz",
+    "name": "Promovideo TV",
+    "sources": {
+      "streams": [
+        "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7TX9VjMY1i891b",
     "name": "QSVS: Top Calcio 24",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/smcQvzsh5Qo"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o9AwmvAAtGm4TV",
+    "name": "Quarto Canale Flegreo",
+    "sources": {
+      "streams": [
+        "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1147,20 +1174,6 @@
     "sources": {
       "streams": [
         "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0AeHu53Cy2m0HP",
-    "name": "Radio Capital TiVu",
-    "sources": {
-      "streams": [
-        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1451,23 +1464,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LEHhe8FljTY3bK",
-    "name": "Rakuten TV Asian Cinema Italy",
+    "nanoid": "oURW9nLoHQEwxm",
+    "name": "Rakuten TV Sci-Fi Italy",
     "sources": {
       "streams": [
-        "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NnyzHhJkjsfZ3n",
-    "name": "Rakuten TV Crime Series Italy",
-    "sources": {
-      "streams": [
-        "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+        "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
       ]
     },
     "languages": [],
@@ -1804,9 +1805,9 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [

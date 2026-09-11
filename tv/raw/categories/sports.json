@@ -245,6 +245,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0vPnZheEHBV86R",
+    "name": "Colimdo TV",
+    "sources": {
+      "streams": [
+        "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wuceitzgHl5DOL",
     "name": "CRTV",
     "sources": {
@@ -450,8 +464,7 @@
     "name": "Fight Network",
     "sources": {
       "streams": [
-        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
+        "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
       ]
     },
     "languages": [
@@ -947,21 +960,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "wGBL8I1vuWBjnz",
-    "name": "MLB Network",
-    "sources": {
-      "streams": [
-        "https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "WjzlJmHsxUPxpZ",
     "name": "MNB Sport",
     "sources": {
@@ -1039,20 +1037,6 @@
         "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-5pdyic0cu7tri.akamaized.net/NBA.m3u8",
         "https://cdn1.ayitistream.com/NBATV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "gnwCNk9tVr4DMW",
-    "name": "NBC Sports Bay Area",
-    "sources": {
-      "streams": [
-        "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1154,7 +1138,6 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
-        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8",
         "https://pac12-vizio.amagi.tv/playlist.m3u8"
       ]
@@ -1573,9 +1556,9 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1822,8 +1805,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1838,9 +1820,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vcYgt03oXz4"
       ]
     },
     "languages": [
@@ -2089,20 +2068,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uxcw4wRAcuUgkj",
-    "name": "UPL.TV",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/UPL-TV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {

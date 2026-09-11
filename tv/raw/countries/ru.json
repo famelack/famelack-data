@@ -400,8 +400,21 @@
     "name": "Channel 8",
     "sources": {
       "streams": [
-        "https://tshift-1.telecoma.tv/8channel/index.m3u8",
         "https://v4.proofix.ru/8tv-russia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BfwqBiX5DmpUq5",
+    "name": "Channel 8 Krasnoyarsk",
+    "sources": {
+      "streams": [
+        "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8"
       ]
     },
     "languages": [
@@ -483,11 +496,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47515/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n4R8lzuArvLNkC",
     "name": "City Eden KinoArt",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/38398/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wc02nSZr6VuoIF",
+    "name": "City Eden KinoAsia",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34393/index.m3u8"
       ]
     },
     "languages": [
@@ -511,11 +552,95 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FQwfx6NTcjE41o",
+    "name": "City Eden KinoDrama",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/45269/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zzxh5uo44jq1FL",
+    "name": "City Eden KinoFantastika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/45268/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N0XF0zTYtjf6Vc",
+    "name": "City Eden KinoKomediya",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41331/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9QIFKg7aQ0UqIc",
+    "name": "City Eden Play",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34100/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eLHDrGKZWgbc15",
     "name": "City Eden Sirtaki TV",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/46421/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
       ]
     },
     "languages": [
@@ -588,20 +713,6 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c1drY7BVrYSt3w",
-    "name": "DocuBox Russia",
-    "sources": {
-      "streams": [
-        "https://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
       ]
     },
     "languages": [
@@ -884,8 +995,8 @@
     "name": "Hope Channel Russia",
     "sources": {
       "streams": [
-        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
-        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+        "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+        "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -986,6 +1097,20 @@
     "sources": {
       "streams": [
         "https://istoki.tv/live/stream1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vWHREmfFSnsmrs",
+    "name": "Istoriya",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1210,8 +1335,7 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
-        "https://live-3.otcnet.ru/congresstv/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ]
     },
     "languages": [
@@ -1670,8 +1794,21 @@
     "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
         "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FmClQA6aIx4mGP",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -1853,20 +1990,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lNGCkJoFH408tm",
-    "name": "O! International",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "skmeLVfBwTzGbY",
     "name": "Ohotnik i rybolov",
     "sources": {
@@ -1950,6 +2073,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CdPsbXmKIYhFzA",
+    "name": "OTV-Prim",
+    "sources": {
+      "streams": [
+        "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ClrLVtv3nyuxRh",
@@ -2052,25 +2189,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "h6xlBNAG4NibAI",
-    "name": "Pro Business",
-    "sources": {
-      "streams": [
-        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "baWp5QhTh81ABF",
     "name": "Prodvizhenie",
     "sources": {
       "streams": [
-        "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8",
         "https://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8"
       ]
     },
@@ -2085,7 +2207,8 @@
     "name": "Prosveshchenie",
     "sources": {
       "streams": [
-        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8"
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+        "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2765,8 +2888,8 @@
     "sources": {
       "streams": [
         "https://flussonic.linkintel.ru/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
-        "https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv"
+        "https://tshift-1.telecoma.tv/sts/index.m3u8",
+        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ]
     },
     "languages": [
@@ -3063,20 +3186,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0777Rydu6yXF9D",
-    "name": "TV 21",
-    "sources": {
-      "streams": [
-        "https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0hiQdgKd6nMh6h",
     "name": "TV BRICS Russian",
     "sources": {
@@ -3162,20 +3271,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HLEoRKBCS06HUI",
-    "name": "Ugra-TV",
-    "sources": {
-      "streams": [
-        "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "wDy5L6UWLImGOC",

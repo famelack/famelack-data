@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "sources": {
+      "streams": [
+        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -94,48 +108,6 @@
     "languages": [
       "pol"
     ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DHR1El8JiIdfUH",
-    "name": "BTB 3",
-    "sources": {
-      "streams": [
-        "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vifXiIDfcyAksy",
-    "name": "BTB Info",
-    "sources": {
-      "streams": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
-        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QpkwHa7GwFnKLp",
-    "name": "BTB Music",
-    "sources": {
-      "streams": [
-        "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -513,7 +485,7 @@
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Kca4iFm2fkA"
+        "https://www.youtube-nocookie.com/embed/PQkLlxToqhU"
       ]
     },
     "languages": [
@@ -788,21 +760,6 @@
       ]
     },
     "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "sources": {
-      "streams": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "pol"
     ],
     "country": "pl",
