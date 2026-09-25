@@ -659,17 +659,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gqagHcGI6e4lYf",
-    "name": "Al-Jawadain TV",
+    "nanoid": "SJ1fJzR4YH5Qub",
+    "name": "Al-Iman TV",
     "sources": {
       "streams": [
-        "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+        "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
       ]
     },
     "languages": [
       "ara"
     ],
-    "country": "iq",
+    "country": "lb",
     "isGeoBlocked": false
   },
   {
@@ -1202,20 +1202,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ve52QQObZcRJaq",
-    "name": "Angel TV Nepal",
-    "sources": {
-      "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nep"
-    ],
-    "country": "np",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "k9YVnaB9vAhdV8",
     "name": "Angel TV Portuguese",
     "sources": {
@@ -1419,7 +1405,7 @@
         "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cLHLYs78rSU"
+        "https://www.youtube-nocookie.com/embed/suOoc-DOIn4"
       ]
     },
     "languages": [
@@ -1630,6 +1616,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3DWH3Zf0EtNUaG",
+    "name": "BTN TV",
+    "sources": {
+      "streams": [
+        "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OogTQQzcNfgSj2",
     "name": "BX Inspire",
     "sources": {
@@ -1655,20 +1655,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dc90aqSkVbLUNa",
-    "name": "Canal 6 Viento Recio",
-    "sources": {
-      "streams": [
-        "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -2643,21 +2629,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
-    "sources": {
-      "streams": [
-        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BFpewkLm3lqPGP",
     "name": "Erfan Halgheh TV",
     "sources": {
@@ -2895,20 +2866,6 @@
       "ukr"
     ],
     "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kxhdttjwNYioi6",
-    "name": "EWTN/Bonum TV",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -3219,48 +3176,6 @@
       "eng"
     ],
     "country": "jm",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TmKO7eJbzWWIRg",
-    "name": "God Stands TV Arabic",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "udYM5OktKE92Dh",
-    "name": "God Stands TV Punjabi",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "pan"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MJZCJdg9pFYsCd",
-    "name": "God Stands TV Urdu",
-    "sources": {
-      "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -3625,6 +3540,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xb56fwuwQyeFpw",
+    "name": "Hope Channel Bulgaria",
+    "sources": {
+      "streams": [
+        "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rD72U68NM8ze2l",
     "name": "Hope Channel India",
     "sources": {
@@ -3808,6 +3737,20 @@
       "tat"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
+    "sources": {
+      "streams": [
+        "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -4664,21 +4607,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "sources": {
-      "streams": [
-        "https://lingkartv.my.id/hls/lingkartv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind",
-      "jav"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gXMXlgPuC7hEDD",
     "name": "Living Faith TV",
     "sources": {
@@ -4997,7 +4925,7 @@
         "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JsAr5M0kjIg"
+        "https://www.youtube-nocookie.com/embed/Bl3Ll15xrhw"
       ]
     },
     "languages": [
@@ -5382,8 +5310,8 @@
     "name": "Mercy TV",
     "sources": {
       "streams": [
-        "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
         "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
+        "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
         "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8"
       ]
     },
@@ -5412,7 +5340,7 @@
     "name": "Methmaga TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Pv5RbtShi50"
+        "https://www.youtube-nocookie.com/embed/zf5CHfzE5X8"
       ]
     },
     "languages": [
@@ -5963,6 +5891,20 @@
       "spa"
     ],
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m7u1sXRYRgvtcz",
+    "name": "Olam Metro TV",
+    "sources": {
+      "streams": [
+        "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ni",
     "isGeoBlocked": false
   },
   {
@@ -7219,6 +7161,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Yme29jpxoYRhDO",
+    "name": "Shekinah News Live",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WKOi7S5vJ9g"
+      ]
+    },
+    "languages": [
+      "mal"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tHJWXIh983bKTp",
     "name": "Shelanu.TV",
     "sources": {
@@ -7623,20 +7579,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "whwil7KthXJUyX",
-    "name": "TBN Espana",
-    "sources": {
-      "streams": [
-        "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nWm3k0eiDVch0E",
     "name": "Tele Louange",
     "sources": {
@@ -7852,20 +7794,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JqXFfkggBdpkvT",
-    "name": "The Point Televsion Network",
-    "sources": {
-      "streams": [
-        "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sRWcWqYdxqqzo4",
     "name": "The Victory Channel",
     "sources": {
@@ -8031,20 +7959,6 @@
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QYv70qSnNhaax1",
-    "name": "Triunfo 96.9 FM",
-    "sources": {
-      "streams": [
-        "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
     "isGeoBlocked": false
   },
   {
@@ -8383,6 +8297,20 @@
       "fra"
     ],
     "country": "sx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1ixTwFBg5nJH1",
+    "name": "TVGracia",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/diego_57244803/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
     "isGeoBlocked": false
   },
   {

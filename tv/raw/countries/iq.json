@@ -70,6 +70,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IbE1EyU5igXIWS",
+    "name": "Al Iraqia News",
+    "sources": {
+      "streams": [
+        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
+    "sources": {
+      "streams": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UEXwoyYx1GFZis",
     "name": "Al Janoub TV",
     "sources": {
@@ -117,20 +145,6 @@
     "sources": {
       "streams": [
         "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gqagHcGI6e4lYf",
-    "name": "Al-Jawadain TV",
-    "sources": {
-      "streams": [
-        "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
       ]
     },
     "languages": [

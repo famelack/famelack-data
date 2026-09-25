@@ -112,6 +112,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9UqseJeoJNwuVC",
+    "name": "Antena Monden",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uXqlv34zzBQ5z0",
     "name": "Antena Stars",
     "sources": {
@@ -183,11 +197,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KriXOAlE7y4G4I",
-    "name": "Columna TV",
+    "nanoid": "RIYeoEqG7KpyCd",
+    "name": "Bucovina TV",
     "sources": {
       "streams": [
-        "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8"
+        "https://www.bucovinatv.ro/proxy/video/playlist.m3u8"
       ]
     },
     "languages": [
@@ -197,11 +211,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QDT0Nt5qZTPoXG",
-    "name": "Comedy Play",
+    "nanoid": "KriXOAlE7y4G4I",
+    "name": "Columna TV",
     "sources": {
       "streams": [
-        "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
+        "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -342,6 +356,20 @@
     "sources": {
       "streams": [
         "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWlowLrwkzswqF",
+    "name": "Hunedoara 1",
+    "sources": {
+      "streams": [
+        "https://netstreaming.eu/hd1.m3u8"
       ]
     },
     "languages": [
@@ -889,6 +917,34 @@
     "sources": {
       "streams": [
         "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AgdBh1G6zjQQ1P",
+    "name": "TVR Cultural",
+    "sources": {
+      "streams": [
+        "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pZ7DVIEngrRQGF",
+    "name": "TVR Folclor",
+    "sources": {
+      "streams": [
+        "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
       ]
     },
     "languages": [

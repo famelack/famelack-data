@@ -741,7 +741,6 @@
     "name": "English Club TV",
     "sources": {
       "streams": [
-        "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
         "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -960,6 +959,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xsRHw7w1yWnmCm",
+    "name": "Made In History",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/A1Y2TRM5sMo"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -1342,20 +1355,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "60IOsWE81tg80S",
     "name": "Ryongnamsan Television",
     "sources": {
@@ -1734,6 +1733,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vvLSrEdftAhFqe",
+    "name": "Vyas Channel",
+    "sources": {
+      "streams": [
+        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y5TCQeIAGEDIc6",
     "name": "WEDQ-DT4",
     "sources": {
@@ -1811,6 +1824,20 @@
     "sources": {
       "streams": [
         "https://world.lls.pbs.org/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pvxpjJZ1DkpUbg",
+    "name": "WPS-TV",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
       ]
     },
     "languages": [

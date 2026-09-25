@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "gnXbQSLxnNAtTV",
-    "name": "4 Fun TV",
-    "sources": {
-      "streams": [
-        "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XCeIlVYmtUB3hr",
     "name": "American Crime Channel Poland",
     "sources": {
@@ -284,6 +270,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hJGIMg_TogU"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -497,20 +497,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/kHiG3c5ySY4"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "sources": {
@@ -530,6 +516,20 @@
     "sources": {
       "streams": [
         "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1BgwlFIal9aEik",
+    "name": "Telewizja Olsztyn",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7Xl7zDfMU5I"
       ]
     },
     "languages": [
@@ -732,34 +732,6 @@
     },
     "languages": [
       "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fzamcn1eHJ76Mf",
-    "name": "TVP Polonia",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2NOHQqe5XXGwtZ",
-    "name": "TVP World",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false

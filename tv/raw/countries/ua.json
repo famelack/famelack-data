@@ -1,33 +1,5 @@
 [
   {
-    "nanoid": "POgdAT0qPokYdw",
-    "name": "1+1 International",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "t5EqKCIIOMVoUI",
-    "name": "1+1 Marafon",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IizLYzsxKE01t8",
     "name": "5 канал",
     "sources": {
@@ -65,20 +37,6 @@
     },
     "languages": [
       "rus"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rYwjqhp39J7oO0",
-    "name": "36.6 TV",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -182,35 +140,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YO7uueGEtYfmAk",
-    "name": "Dacha",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wbuGgvdolOzdBN",
-    "name": "DIM",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OTZ19e4QL89Emf",
     "name": "Espreso",
     "sources": {
@@ -229,7 +158,6 @@
     "name": "Espreso TV",
     "sources": {
       "streams": [
-        "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
         "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
       ]
     },
@@ -254,40 +182,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xbUgKyNJkUd9WG",
-    "name": "FilmUA Live",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0r210a3FA40XwI",
-    "name": "FilmUADrama",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QgJCPkx1daMycI",
     "name": "FREEDOM",
     "sources": {
       "streams": [
-        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
         "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
       ]
     },
@@ -354,6 +252,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WoGHZ2NiobEniJ",
     "name": "Izmail TV",
     "sources": {
@@ -373,20 +285,6 @@
     "sources": {
       "streams": [
         "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RCrPTSQMxm28NU",
-    "name": "Kus-Kus",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -508,40 +406,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8U4fmHOblgoXqY",
-    "name": "RAZ 3 International",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus",
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ow650uw0Y3b6my",
     "name": "Rivne 1",
     "sources": {
       "streams": [
         "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AJKlRqqS5ctnyc",
-    "name": "Rybalka",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8"
       ]
     },
     "languages": [

@@ -1030,6 +1030,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vlyxVSmyz2hGFc",
+    "name": "PBC TV Channel 20",
+    "sources": {
+      "streams": [
+        "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "arkaiC3h3BOt71",
     "name": "PCTV 26",
     "sources": {
@@ -1119,7 +1133,8 @@
     "name": "Sansad TV 1",
     "sources": {
       "streams": [
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+        "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
       ]
     },
     "languages": [
@@ -1251,7 +1266,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2YkDyIWwgt4"
+        "https://www.youtube-nocookie.com/embed/bcEMWr5YZd8"
       ]
     },
     "languages": [

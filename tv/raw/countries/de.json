@@ -15,20 +15,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "YqOZOIkaCVFDwO",
-    "name": "Adria Music Television",
-    "sources": {
-      "streams": [
-        "https://adriaapp.b-cdn.net/1080p/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
     "sources": {
@@ -474,20 +460,6 @@
       ]
     },
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8bSuKSVwMMeWf7",
-    "name": "Folx Music Television",
-    "sources": {
-      "streams": [
-        "https://folxapp.b-cdn.net/1080p/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1178,34 +1150,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Klfns4fcw9PzFf",
-    "name": "One Adria",
-    "sources": {
-      "streams": [
-        "https://oneadriaapp.b-cdn.net/1080p/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QOcaNqNQgFNyy",
-    "name": "One Music Television",
-    "sources": {
-      "streams": [
-        "https://oneapp.b-cdn.net/1080p/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1345,6 +1289,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
+    "sources": {
+      "streams": [
+        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "o4WP2rghGfCA5R",
     "name": "RBB Berlin",
     "sources": {
@@ -1371,20 +1327,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "D4fjmuUPITRfet",
-    "name": "rbb Fernsehen",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "i2oVTNlM3TCzLz",
@@ -1790,18 +1732,6 @@
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dh2uUg08yXJN7u",
-    "name": "Tennis Channel Germany",
-    "sources": {
-      "streams": [
-        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -2259,19 +2189,5 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "8MsgN6jc5yUJaz",
-    "name": "Zwei Music Television",
-    "sources": {
-      "streams": [
-        "https://zweiapp.b-cdn.net/1080p/index.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
   }
 ]

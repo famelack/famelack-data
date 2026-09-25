@@ -237,7 +237,6 @@
     "sources": {
       "streams": [
         "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
         "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -552,6 +551,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ixqVyKrwB4A"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
@@ -782,7 +795,6 @@
     "name": "English Club TV",
     "sources": {
       "streams": [
-        "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
         "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -968,6 +980,20 @@
       "streams": [
         "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oS8yaG00faaZ9t",
+    "name": "Goodwood Road & Racing",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/fwPW_DHLVqk"
       ]
     },
     "languages": [
@@ -1222,6 +1248,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "95mvfX5TCBOt4J",
+    "name": "Jungle Beat",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zggC3MGyx9s"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1902,7 +1942,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2029,11 +2069,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c4Swg0nm0Rjn8G",
-    "name": "Rakuten TV Action Movies UK",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       ]
     },
     "languages": [
@@ -2055,18 +2095,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uHYtTL2fEDHMX0",
     "name": "Rally.TV FAST+",
     "sources": {
@@ -2077,6 +2105,18 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2218,20 +2258,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/xDWQ3LkccY8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "sources": {
-      "streams": [
-        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2936,7 +2962,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

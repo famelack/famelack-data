@@ -56,6 +56,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "qF4K7YKWjkSybG",
+    "name": "Bread TV",
+    "sources": {
+      "streams": [
+        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cmn"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -64,21 +78,6 @@
       ]
     },
     "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1ygWi2hNNf9GHE",
-    "name": "CCTV-4 Europe",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "zho"
     ],
     "country": "cn",
@@ -559,20 +558,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VzepbqP86gbVbt",
-    "name": "Xinjiang TV 3",
-    "sources": {
-      "streams": [
-        "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qhvw7nkIuV1cQ9",
     "name": "Zhejiang International Channel",
     "sources": {
@@ -592,18 +577,6 @@
     "sources": {
       "streams": [
         "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2Fb8Um99xfgPRq",
-    "name": "上虞3新商都",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
       ]
     },
     "languages": [],
@@ -743,30 +716,6 @@
     "languages": [],
     "country": "cn",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LWZapZpACANZ13",
-    "name": "新昌休闲影视",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4rBoFSFcNpIZxe",
-    "name": "新昌新聞綜合",
-    "sources": {
-      "streams": [
-        "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "UKPg4OIuLFiPtH",

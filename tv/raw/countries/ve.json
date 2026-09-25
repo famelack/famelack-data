@@ -84,11 +84,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AS45XKoNM4hcAi",
+    "name": "Canal C del Zulia",
+    "sources": {
+      "streams": [
+        "https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tF5n1NaStHSPlK",
     "name": "Canal Diplomatico",
     "sources": {
       "streams": [
         "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1GpRDoekUac7eR",
+    "name": "Canal I",
+    "sources": {
+      "streams": [
+        "https://streaming.canal-i.com/canal-i/live/master.m3u8"
       ]
     },
     "languages": [
@@ -140,40 +168,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gKZyGzv7VMGeI2",
-    "name": "Grande TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
-        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
     "sources": {
       "streams": [
         "https://stream.guarotv.net:3592/hybrid/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L2vaUyfehZpjxw",
-    "name": "Inter TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -258,6 +257,20 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kE8N5CkT9Xc9Iu",
+    "name": "Nortena Tv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
       ]
     },
     "languages": [
@@ -443,20 +456,6 @@
     "sources": {
       "streams": [
         "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iQsTa6Z2cWc5Ch",
-    "name": "Torococo TV",
-    "sources": {
-      "streams": [
-        "https://us.streaminghd.cl/torococotelevision/video.m3u8"
       ]
     },
     "languages": [

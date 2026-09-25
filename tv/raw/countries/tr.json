@@ -247,12 +247,10 @@
     "name": "ATV",
     "sources": {
       "streams": [
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QlLx7bRrqW0"
+        "https://www.youtube-nocookie.com/embed/SMjmMUTst7Y"
       ]
     },
     "languages": [
@@ -338,6 +336,20 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -749,6 +761,20 @@
     },
     "languages": [
       "eng",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tabafcg5kRDnTr",
+    "name": "Film Atölyesi: Şener Şen Filmleri",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3rIrjQ2kJc0"
+      ]
+    },
+    "languages": [
       "tur"
     ],
     "country": "tr",
@@ -1783,6 +1809,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zBlO9YDZ68nfoc",
+    "name": "Spacetoon Turkey",
+    "sources": {
+      "streams": [
+        "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z6NLIWqo60dEBq",
     "name": "Star TV",
     "sources": {
@@ -1830,6 +1870,20 @@
     "sources": {
       "streams": [
         "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5GoagSnDbPwxmH",
+    "name": "Tele 1",
+    "sources": {
+      "streams": [
+        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
       ]
     },
     "languages": [
@@ -1889,9 +1943,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YKWBwIVGaEk"
       ]
     },
     "languages": [
@@ -1958,20 +2009,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YCPZsdEDhEaJOB",
-    "name": "TRT Cocuk",
-    "sources": {
-      "streams": [
-        "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aIKbRpQHmkkXLq",
     "name": "TRT Diyanet Cocuk",
     "sources": {
@@ -1998,20 +2035,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BpkMtsoRspK7u5",
-    "name": "TRT Genc",
-    "sources": {
-      "streams": [
-        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "owJJC4tX2SQL4u",
@@ -2080,8 +2103,7 @@
     "sources": {
       "streams": [
         "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
-        "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
+        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/A1xuih-xum8"

@@ -235,6 +235,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YIKke4PY7wnkdl",
+    "name": "Palenque TV",
+    "sources": {
+      "streams": [
+        "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ctXKtPRIVgnD2j",
     "name": "Poder de Dios TV",
     "sources": {
@@ -392,6 +406,7 @@
     "sources": {
       "streams": [
         "https://rtp.noxun.net/hls/stream.m3u8",
+        "https://rtp.noxun.net/hls480/stream2.m3u8",
         "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
@@ -402,11 +417,39 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "za6KpDi86ZZAJu",
+    "name": "SPC Canal 15",
+    "sources": {
+      "streams": [
+        "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jo5rZWZDxVWDCK",
     "name": "Sucremanta TV",
     "sources": {
       "streams": [
         "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "87xKAUIruoYGZK",
+    "name": "TDT Multimedia",
+    "sources": {
+      "streams": [
+        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
       ]
     },
     "languages": [
@@ -561,7 +604,8 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
+        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
       ]
     },
     "languages": [],
