@@ -128,20 +128,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics FAST",
-    "sources": {
-      "streams": [
-        "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
@@ -732,6 +718,34 @@
     },
     "languages": [
       "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fzamcn1eHJ76Mf",
+    "name": "TVP Polonia",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2NOHQqe5XXGwtZ",
+    "name": "TVP World",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "pl",
     "isGeoBlocked": false

@@ -535,20 +535,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4dKzonwHr1dN8",
-    "name": "ChileVision",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JzuTRSd7M7k"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
     "sources": {
@@ -595,7 +581,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/OmAvYbgbSkw"
+        "https://www.youtube-nocookie.com/embed/-gbyY_L4WGw"
       ]
     },
     "languages": [
@@ -1309,7 +1295,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/L1te46p3hSU"
+        "https://www.youtube-nocookie.com/embed/0OKrvA9cXaw"
       ]
     },
     "languages": [],
@@ -1406,6 +1392,20 @@
     "sources": {
       "streams": [
         "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z8D0Y4EVxMHZlA",
+    "name": "Odisea TV",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/odiseatv/index.m3u8"
       ]
     },
     "languages": [
@@ -1672,20 +1672,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4Ct6exF1rK9BzH",
-    "name": "Radio Frecuencia Uno",
-    "sources": {
-      "streams": [
-        "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8HaE3IUVFLphXf",
     "name": "Radio La Serena TV",
     "sources": {
@@ -1803,6 +1789,20 @@
     "sources": {
       "streams": [
         "https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x3MegkwECTjfLb",
+    "name": "Radio TV Fortaleza",
+    "sources": {
+      "streams": [
+        "https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2080,20 +2080,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mqYfqY8rf4OFP1",
-    "name": "Solo TV",
-    "sources": {
-      "streams": [
-        "https://sproxy.solotv.cl/hls/live/fhd.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZHWfamNislyUpU",
     "name": "SUR TV",
     "sources": {
@@ -2118,18 +2104,6 @@
     "languages": [
       "spa"
     ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zxSTa9IKp200xg",
-    "name": "Suyai TV",
-    "sources": {
-      "streams": [
-        "https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -2386,20 +2360,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ggVZRJWcuDSdGT",
-    "name": "TV Show Fortaleza",
-    "sources": {
-      "streams": [
-        "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hOfMwcYwkqMasz",
     "name": "TV UCT",
     "sources": {
@@ -2530,8 +2490,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

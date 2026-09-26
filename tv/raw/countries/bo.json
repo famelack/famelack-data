@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "C7CqrdYHekA32V",
-    "name": "Alegria TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KvjjAMUdkPUKh1",
     "name": "Amitel TV",
     "sources": {
@@ -184,8 +170,7 @@
     "name": "Gigavision",
     "sources": {
       "streams": [
-        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
-        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8"
+        "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8"
       ]
     },
     "languages": [],
@@ -445,20 +430,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "87xKAUIruoYGZK",
-    "name": "TDT Multimedia",
-    "sources": {
-      "streams": [
-        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VvgjeRVvJxgn4n",
     "name": "TELE 6",
     "sources": {
@@ -519,8 +490,8 @@
     "name": "TV Latina",
     "sources": {
       "streams": [
-        "https://master.tucableip.com/tvlatina/index.m3u8",
-        "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
+        "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+        "https://master.tucableip.com/tvlatina/index.m3u8"
       ]
     },
     "languages": [
@@ -604,7 +575,6 @@
     "name": "Unitel Cochabamba",
     "sources": {
       "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8"
       ]
     },
@@ -618,18 +588,6 @@
     "sources": {
       "streams": [
         "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XmRascOPMJDcT",
-    "name": "Unitel Santa Cruz",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8"
       ]
     },
     "languages": [],

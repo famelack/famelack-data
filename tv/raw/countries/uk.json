@@ -237,6 +237,7 @@
     "sources": {
       "streams": [
         "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
         "https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -551,20 +552,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ixqVyKrwB4A"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SNT2M9ATZsS3tF",
     "name": "Create & Craft TV Extra",
     "sources": {
@@ -795,6 +782,7 @@
     "name": "English Club TV",
     "sources": {
       "streams": [
+        "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8",
         "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -841,20 +829,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZsfTQFg0CGnALp",
-    "name": "Faith UK",
-    "sources": {
-      "streams": [
-        "https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -980,20 +954,6 @@
       "streams": [
         "https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/fwPW_DHLVqk"
       ]
     },
     "languages": [
@@ -2083,6 +2043,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
+    "sources": {
+      "streams": [
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6OObHoCz5T6mVt",
     "name": "Rakuten TV Sci-Fi UK",
     "sources": {
@@ -2904,7 +2876,7 @@
     "name": "WildBrain Kids",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TqFMhutLGss"
+        "https://www.youtube-nocookie.com/embed/2shYZ9vQLR8"
       ]
     },
     "languages": [

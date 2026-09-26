@@ -201,20 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zzw5XdFQULzoOQ",
-    "name": "Aras TV",
-    "sources": {
-      "streams": [
-        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -252,7 +238,7 @@
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SMjmMUTst7Y"
+        "https://www.youtube-nocookie.com/embed/Rk40_h13eR4"
       ]
     },
     "languages": [
@@ -633,20 +619,6 @@
     "sources": {
       "streams": [
         "https://cdn.ekoturk.net/hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZF8u92PVuJI4iM",
-    "name": "EKOTÜRK TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jUu5pmUJwYQ"
       ]
     },
     "languages": [
@@ -1783,20 +1755,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1GHn7hBwkPvtBl",
-    "name": "Sonmez TV",
-    "sources": {
-      "streams": [
-        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "sources": {
@@ -1945,6 +1903,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0-PKFOABQ-M"
       ]
     },
     "languages": [
@@ -2119,7 +2080,8 @@
     "sources": {
       "streams": [
         "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
+        "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/A1xuih-xum8"

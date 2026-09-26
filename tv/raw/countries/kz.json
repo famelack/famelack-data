@@ -116,20 +116,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZG99eor1F9rnmL",
     "name": "Channel 7",
     "sources": {
@@ -315,8 +301,8 @@
     "name": "QazSport",
     "sources": {
       "streams": [
-        "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
-        "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+        "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -345,7 +331,8 @@
     "name": "Silk Way",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
+        "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8"
       ]
     },
     "languages": [
@@ -404,7 +391,7 @@
     "name": "Телеканал 24kz",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Dh9IpZhz5Rg"
+        "https://www.youtube-nocookie.com/embed/m9zwnaI7nwU"
       ]
     },
     "languages": [
