@@ -1,5 +1,33 @@
 [
   {
+    "nanoid": "aYAhxfge3884Ci",
+    "name": "Agro TV",
+    "sources": {
+      "streams": [
+        "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S1ZYN7hADGka8A",
+    "name": "City TV",
+    "sources": {
+      "streams": [
+        "https://tv.city.bg/play/tshls/citytv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Fom4DDGu8VmzCJ",
     "name": "Code Fashion TV",
     "sources": {
@@ -47,34 +75,6 @@
     "sources": {
       "streams": [
         "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rq3OJITyKdZXB9",
-    "name": "Magic TV",
-    "sources": {
-      "streams": [
-        "https://bss1.neterra.tv/magictv/magictv.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rCOmwF4pnlWlvg",
-    "name": "The Voice",
-    "sources": {
-      "streams": [
-        "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
       ]
     },
     "languages": [

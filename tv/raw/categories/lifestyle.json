@@ -78,7 +78,7 @@
       "streams": [
         "https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8",
         "https://cdn.pishow.tv/ott/live/221/master.m3u8",
-        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+        "https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -547,6 +547,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LSoGDBr7qw33OY",
     "name": "NBC LX Home",
     "sources": {
@@ -791,20 +805,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LmMmHAVWfMTaiO",
-    "name": "Wapp",
-    "sources": {
-      "streams": [
-        "https://stream.wapptv.cl/video/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {

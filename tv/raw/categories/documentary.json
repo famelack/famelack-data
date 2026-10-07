@@ -89,7 +89,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -148,22 +149,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "vifXiIDfcyAksy",
-    "name": "BTB Info",
-    "sources": {
-      "streams": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
-        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
     "sources": {
@@ -207,20 +192,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -635,20 +606,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vc83h8nvdBt03n",
-    "name": "Love The Planet English",
-    "sources": {
-      "streams": [
-        "https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "tE3WIvWTPSPArw",
     "name": "Love The Planet ES",
     "sources": {
@@ -705,6 +662,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "yWqRPjIHcgYftM",
@@ -888,6 +859,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
     "isGeoBlocked": false
   },
   {

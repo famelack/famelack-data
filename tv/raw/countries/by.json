@@ -4,7 +4,8 @@
     "name": "Belarus-1",
     "sources": {
       "streams": [
-        "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8"
+        "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8",
+        "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -135,6 +136,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X52MQmppYpmBGG",
+    "name": "Sport TV",
+    "sources": {
+      "streams": [
+        "https://media1.skifnet.by/sporttv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bel"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iVRQOIdUpv5uQH",
     "name": "STV",
     "sources": {
@@ -173,6 +188,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "by",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VPw9H4sE13a0ma",
+    "name": "VoyenTV",
+    "sources": {
+      "streams": [
+        "https://media1.skifnet.by/voentv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bel"
     ],
     "country": "by",
     "isGeoBlocked": false

@@ -174,7 +174,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dXzvSHeVj_w"
+        "https://www.youtube-nocookie.com/embed/iQHPViUAhKw"
       ]
     },
     "languages": [
@@ -558,22 +558,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DmuSIeE8brywZA",
-    "name": "Euronews en Español",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "32YXpnKvxn9M0K",
-    "name": "Euronews Français",
+    "nanoid": "qZx2FfhpEJUqdS",
+    "name": "Euronews French",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NiRIbKwAejk"
@@ -591,6 +577,9 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uWIhV9gQClg"
       ]
     },
     "languages": [
@@ -600,22 +589,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xrA5xgdFcK6f66",
-    "name": "Euronews Italiano",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/pUcmpyynASM"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JoqV25BvXTYp5C",
-    "name": "Euronews Magyar",
+    "nanoid": "Iq86nUR80ay3qv",
+    "name": "Euronews Hungarian",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/jAn7L2Kt32U"
@@ -628,8 +603,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "s8LUnwDl6mY0ZL",
+    "name": "Euronews Persian",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/A8eHIQdTpvQ"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ebFbvTKN8YcHpc",
-    "name": "Euronews Polski",
+    "name": "Euronews Polish",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/fG7PjdiKaBY"
@@ -642,8 +631,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iGI0lZtaC0qVgq",
-    "name": "Euronews Português",
+    "nanoid": "GGI2245NqAePNm",
+    "name": "Euronews Portuguese",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA"
@@ -656,15 +645,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "edGsS9KBSmSMSh",
-    "name": "Euronews Română",
+    "nanoid": "AebbSbQ8k1zQps",
+    "name": "Euronews Russian",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IW7WOYL9zm8"
+        "https://www.youtube-nocookie.com/embed/lwYzwdBiaho"
       ]
     },
     "languages": [
-      "ron"
+      "rus"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -675,38 +664,13 @@
     "sources": {
       "streams": [
         "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
       ]
     },
     "languages": [
       "spa"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SPix7L8rl3SPVz",
-    "name": "Euronews Ελληνικά",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/uWIhV9gQClg"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xjpmQDsZSRhSoo",
-    "name": "Euronews Русский",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lwYzwdBiaho"
-      ]
-    },
-    "languages": [
-      "rus"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1302,11 +1266,95 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Qa2TkurpEPA9Uh",
+    "name": "Persiana China",
+    "sources": {
+      "streams": [
+        "https://chinahls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EXvskphL1UFUHC",
     "name": "Persiana Junior",
     "sources": {
       "streams": [
         "https://junhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oZsxPrEzz4rgql",
+    "name": "Persiana Music",
+    "sources": {
+      "streams": [
+        "https://musichls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "odbTAV6ttz1zzI",
+    "name": "Persiana Nostalgia",
+    "sources": {
+      "streams": [
+        "https://noshls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NzExxCJopnh2RO",
+    "name": "Persiana Podcast",
+    "sources": {
+      "streams": [
+        "https://podhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YtM6FfHGe1sGb4",
+    "name": "Persiana SetMix",
+    "sources": {
+      "streams": [
+        "https://setmixhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5PUbpFZXErBkAG",
+    "name": "Persiana Voyage",
+    "sources": {
+      "streams": [
+        "https://voyhls.persiana.live/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1400,11 +1448,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "kVuXOdBXr2x3dW",
+    "name": "Rakuten TV Alerte Cobra",
     "sources": {
       "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+        "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
       ]
     },
     "languages": [],
@@ -1412,11 +1460,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4ukW3AXj5x20Zs",
-    "name": "Rakuten TV Films Famille",
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
     "sources": {
       "streams": [
-        "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+        "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
       ]
     },
     "languages": [],
@@ -1424,11 +1472,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AIirayhr6r6kA6",
-    "name": "Rakuten TV Films Thriller",
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
     "sources": {
       "streams": [
-        "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
+        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
       ]
     },
     "languages": [],
@@ -1496,6 +1544,20 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zUV96NgJVUM"
       ]
     },
     "languages": [

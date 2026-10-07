@@ -392,6 +392,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ASHioV3EjpMKWq",
+    "name": "CDN Deportes",
+    "sources": {
+      "streams": [
+        "https://hls.tvabierta.net/hls/036.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pDNDZsLwV7Dddl",
     "name": "Cenovision HD",
     "sources": {
@@ -574,18 +588,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lwcLLGVYDI8GHz",
-    "name": "ConstanzaTV",
+    "nanoid": "XtG5MugjBYYB4G",
+    "name": "Color Vision",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8"
+        "https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "eEBHI2P19xOhR6",
@@ -896,20 +910,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YABLcD0r2b1yge",
     "name": "Haina Vision",
     "sources": {
@@ -957,20 +957,6 @@
     "sources": {
       "streams": [
         "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KYpbBZ8VkLSiFl",
-    "name": "JARABACOA TV",
-    "sources": {
-      "streams": [
-        "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1238,6 +1224,20 @@
     "sources": {
       "streams": [
         "https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "s6et7OTRECsPuf",
+    "name": "Marka TV",
+    "sources": {
+      "streams": [
+        "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1589,6 +1589,20 @@
     "sources": {
       "streams": [
         "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3lIvXHDiZafxDS",
+    "name": "Rocavision TV",
+    "sources": {
+      "streams": [
+        "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8"
       ]
     },
     "languages": [

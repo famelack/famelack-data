@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LA4o1ry7L0C9al",
-    "name": "360 RFTV",
-    "sources": {
-      "streams": [
-        "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "baI44A3rZswWd9",
     "name": "Agrotendencia TV",
     "sources": {
@@ -103,7 +89,8 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
       ]
     },
     "languages": [
@@ -478,20 +465,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TBkO2VeN8pxR9c",
     "name": "TDtv",
     "sources": {
@@ -511,6 +484,20 @@
     "sources": {
       "streams": [
         "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
       ]
     },
     "languages": [
@@ -567,6 +554,20 @@
     "sources": {
       "streams": [
         "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [

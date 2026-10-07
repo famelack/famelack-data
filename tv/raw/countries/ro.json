@@ -299,6 +299,9 @@
     "sources": {
       "streams": [
         "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IW7WOYL9zm8"
       ]
     },
     "languages": [
@@ -579,6 +582,20 @@
     "sources": {
       "streams": [
         "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
+    "sources": {
+      "streams": [
+        "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8"
       ]
     },
     "languages": [
@@ -1079,6 +1096,34 @@
     ],
     "country": "ro",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "QmyDk7u02PWKpA",
+    "name": "TVR Info",
+    "sources": {
+      "streams": [
+        "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "otbytoTxWQ2OOt",
+    "name": "TVR International",
+    "sources": {
+      "streams": [
+        "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lX8llbHeMkmnOY",

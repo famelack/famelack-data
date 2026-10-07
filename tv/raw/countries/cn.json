@@ -56,6 +56,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "qF4K7YKWjkSybG",
+    "name": "Bread TV",
+    "sources": {
+      "streams": [
+        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cmn"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -559,6 +573,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "53B4roOe9CYOhE",
+    "name": "Xizang TV Chinese",
+    "sources": {
+      "streams": [
+        "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvw7nkIuV1cQ9",
     "name": "Zhejiang International Channel",
     "sources": {
@@ -671,6 +699,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9wRBNHe95BnBON",
+    "name": "嵊州综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OV9fgTIJjuEnHm",
     "name": "延边新闻综合",
     "sources": {
@@ -724,6 +764,30 @@
     "sources": {
       "streams": [
         "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 I 绍兴影视",
+    "sources": {
+      "streams": [
+        "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWjSdo4t72dhtd",
+    "name": "浙江 I 绍兴综合",
+    "sources": {
+      "streams": [
+        "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
       ]
     },
     "languages": [],

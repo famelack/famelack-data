@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "d5k9RHTOOkIzsq",
-    "name": "A2i Music",
-    "sources": {
-      "streams": [
-        "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "wol"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qnZnUMjCzgKR22",
     "name": "A2i Religion",
     "sources": {
@@ -35,6 +20,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/3uKEHqQh5Qw"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fdl8JD06lrql2h",
+    "name": "Chabiba TV",
+    "sources": {
+      "streams": [
+        "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8"
       ]
     },
     "languages": [
@@ -98,5 +97,19 @@
     ],
     "country": "sn",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "RfhIP8Ek1pr7to",
+    "name": "SenJeunes TV",
+    "sources": {
+      "streams": [
+        "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
   }
 ]
