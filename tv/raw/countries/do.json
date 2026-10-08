@@ -112,11 +112,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fvhYb40G3Cmnmd",
-    "name": "Antena 7",
+    "nanoid": "dM4vQpiHzApyek",
+    "name": "Antena 21",
     "sources": {
       "streams": [
-        "https://hls.tvabierta.net/hls/007.m3u8"
+        "https://hls.tvabierta.net/hls/021.m3u8"
       ]
     },
     "languages": [
@@ -126,11 +126,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dM4vQpiHzApyek",
-    "name": "Antena 21",
+    "nanoid": "MPe2JeL5LhpNbP",
+    "name": "Atabal TV",
     "sources": {
       "streams": [
-        "https://hls.tvabierta.net/hls/021.m3u8"
+        "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8"
       ]
     },
     "languages": [
@@ -378,20 +378,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "cdLRX69xN3XHLA",
-    "name": "Cascara TV",
-    "sources": {
-      "streams": [
-        "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ASHioV3EjpMKWq",
     "name": "CDN Deportes",
     "sources": {
@@ -602,6 +588,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "lwcLLGVYDI8GHz",
+    "name": "ConstanzaTV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eEBHI2P19xOhR6",
     "name": "Cotubanama TV",
     "sources": {
@@ -705,20 +705,6 @@
     "sources": {
       "streams": [
         "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "13Kg8AyngtvWeB",
-    "name": "El Pituco TV",
-    "sources": {
-      "streams": [
-        "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8"
       ]
     },
     "languages": [
@@ -901,6 +887,20 @@
     "sources": {
       "streams": [
         "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1345,20 +1345,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xtsjDTWQEDQzAF",
-    "name": "Naranja TV",
-    "sources": {
-      "streams": [
-        "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZtlEGFCcA0ANO7",
     "name": "Navarrete Television",
     "sources": {
@@ -1743,20 +1729,6 @@
     "sources": {
       "streams": [
         "https://stream.haislin.com/super7fm/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3KqnfFX9vnSDZo",
-    "name": "Sur TV",
-    "sources": {
-      "streams": [
-        "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8"
       ]
     },
     "languages": [

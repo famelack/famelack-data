@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LA4o1ry7L0C9al",
+    "name": "360 RFTV",
+    "sources": {
+      "streams": [
+        "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "baI44A3rZswWd9",
     "name": "Agrotendencia TV",
     "sources": {
@@ -89,8 +103,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+        "https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -159,20 +172,6 @@
     "sources": {
       "streams": [
         "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "sources": {
-      "streams": [
-        "https://video0.rogohosting.com:19360/8006/8006.m3u8"
       ]
     },
     "languages": [
@@ -258,6 +257,20 @@
     "sources": {
       "streams": [
         "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GD6GIT9MV0x6kz",
+    "name": "Garabito TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -465,6 +478,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TBkO2VeN8pxR9c",
     "name": "TDtv",
     "sources": {
@@ -617,6 +644,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Nc2Y8BrEFeOYAw",
+    "name": "Video Tour Channel",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tTy2o9iN37Hvi8",
     "name": "Vintage Music",
     "sources": {
@@ -667,20 +708,6 @@
       ]
     },
     "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1lxmOusZyEa4Zg",
-    "name": "Zurqui TV",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "cr",
     "isGeoBlocked": false
   }

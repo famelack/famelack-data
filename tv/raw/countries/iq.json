@@ -84,6 +84,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
+    "sources": {
+      "streams": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UEXwoyYx1GFZis",
     "name": "Al Janoub TV",
     "sources": {
@@ -415,22 +429,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9RdvwjYBwgdvbP",
-    "name": "Kurdistan TV",
-    "sources": {
-      "streams": [
-        "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "kur",
-      "tur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8YNFXXuZHnJiGA",
     "name": "Kurdsat",
     "sources": {
@@ -556,20 +554,6 @@
     },
     "languages": [
       "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PhXDu5yXp9uaMZ",
-    "name": "Samarra TV",
-    "sources": {
-      "streams": [
-        "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false
