@@ -614,11 +614,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Wc02nSZr6VuoIF",
+    "name": "City Eden KinoAsia",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34393/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8Ucx5FG7ngDLh5",
     "name": "City Eden KinoDetektiv",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41327/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
       ]
     },
     "languages": [
@@ -647,20 +675,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xjnk7dNYRv7edj",
-    "name": "City Eden KinoKlassika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34185/index.m3u8"
       ]
     },
     "languages": [
@@ -717,20 +731,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/34100/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rt3pDKAk1yMoRc",
-    "name": "City Eden Recepty Gurmana",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47516/index.m3u8"
       ]
     },
     "languages": [
@@ -961,6 +961,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xupLUhlUhMmQst",
+    "name": "Duma TV",
+    "sources": {
+      "streams": [
+        "https://dumatv.iptv2022.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2944,8 +2958,8 @@
     "name": "Shanson TV",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/7009.m3u8",
         "https://catchup.videoline.ru/shanson/index.m3u8",
+        "https://streaming.thestream.cyou/live/7009.m3u8",
         "https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv"
       ]
     },

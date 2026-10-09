@@ -99,6 +99,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2c7snlK3LlpjiQ",
+    "name": "Astra TV",
+    "sources": {
+      "streams": [
+        "https://server.gointernet.gr/live/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "alnxPYvmVkicEU",
     "name": "Baraza TV",
     "sources": {
@@ -309,6 +323,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
+    "sources": {
+      "streams": [
+        "https://s1.cystream.net/live/faros2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
     "sources": {
@@ -399,20 +427,6 @@
     "sources": {
       "streams": [
         "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5gU0KM4Sn73Y6s",
-    "name": "Messatida TV",
-    "sources": {
-      "streams": [
-        "https://rtmp.streams.ovh:8081/mtv/index.m3u8"
       ]
     },
     "languages": [
@@ -554,20 +568,6 @@
     "sources": {
       "streams": [
         "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "axcim7j9dTO22W",
-    "name": "Start TV",
-    "sources": {
-      "streams": [
-        "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
       ]
     },
     "languages": [
