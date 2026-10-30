@@ -105,8 +105,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -165,6 +164,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
+    "sources": {
+      "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8qbHNd2Zc2MjWY",
     "name": "CCTV-9",
     "sources": {
@@ -208,6 +222,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -259,8 +287,8 @@
     "sources": {
       "streams": [
         "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -440,20 +468,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ok1XbdadbIAXgd",
-    "name": "Francophonie24",
-    "sources": {
-      "streams": [
-        "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -920,20 +934,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "sources": {
@@ -968,8 +968,8 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8"
+        "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
+        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -991,20 +991,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OR0bcDdbzNJR50",
-    "name": "Terra Mater WILD English",
-    "sources": {
-      "streams": [
-        "https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "tT2v90JHj1tcan",

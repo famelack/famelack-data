@@ -28,21 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZJCzbVc31LkU2Y",
-    "name": "CAtv",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8216/8216.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mS9qxq2CzcaNUI",
     "name": "CDM Internacional",
     "sources": {
@@ -67,34 +52,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F82Ha47NfXUgZA",
-    "name": "EBN Television WIDP",
-    "sources": {
-      "streams": [
-        "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bD45kzyCkGUkuS",
-    "name": "Familia Vision HD",
-    "sources": {
-      "streams": [
-        "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "pr",
     "isGeoBlocked": false
@@ -224,20 +181,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QYv70qSnNhaax1",
-    "name": "Triunfo 96.9 FM",
-    "sources": {
-      "streams": [
-        "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pCErNDOF1ndRX6",
     "name": "WECN",
     "sources": {
@@ -270,7 +213,8 @@
     "name": "WIPR-TV 6.1",
     "sources": {
       "streams": [
-        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8"
+        "https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8",
+        "https://streamwipr.pr/hls/stream/index.m3u8"
       ]
     },
     "languages": [
@@ -301,7 +245,8 @@
     "sources": {
       "streams": [
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
-        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8"
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_360.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_540.m3u8"
       ]
     },
     "languages": [

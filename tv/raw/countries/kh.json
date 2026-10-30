@@ -42,25 +42,37 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sFPfedqXXPJW5f",
-    "name": "EAC News TV",
-    "sources": {
-      "streams": [
-        "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o1ZCj1yQeD7Xnc",
     "name": "EBC General Education",
     "sources": {
       "streams": [
         "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "22GUfDaUhwRUJ1",
+    "name": "Netlink TV",
+    "sources": {
+      "streams": [
+        "https://netlink.netlinkbroadcaster.com/hls/test.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a7p8px0xew1TNk",
+    "name": "Sangkem TV",
+    "sources": {
+      "streams": [
+        "https://live.sangkemtv.com/memfs/sangkem.m3u8"
       ]
     },
     "languages": [

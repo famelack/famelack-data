@@ -351,7 +351,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
+        "https://fta.ektv.in/live/280/master.m3u8"
       ]
     },
     "languages": [
@@ -395,20 +395,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3spET73XcwPAv7",
-    "name": "El-Heddaf TV",
-    "sources": {
-      "streams": [
-        "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "dz",
     "isGeoBlocked": false
   },
   {
@@ -672,8 +658,7 @@
     "name": "FightBox",
     "sources": {
       "streams": [
-        "https://webtvstream.bhtelecom.ba/fightbox.m3u8",
-        "https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8"
+        "https://webtvstream.bhtelecom.ba/fightbox.m3u8"
       ]
     },
     "languages": [
@@ -723,20 +708,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DS0ehq9kdFE5AD",
-    "name": "Formula 1 AntenaPlay",
-    "sources": {
-      "streams": [
-        "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -935,6 +906,20 @@
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lLer5281qbOb1v",
+    "name": "HBCU-GO Sports",
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1359,7 +1344,6 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
-        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1777,8 +1761,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1806,7 +1790,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1944,20 +1927,6 @@
     ],
     "country": "lk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RYfMxL6JZWi97a",
-    "name": "Teledeporte",
-    "sources": {
-      "streams": [
-        "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "QCubHZSGzvkAVk",
@@ -2248,6 +2217,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wmwjQ27aToc3v2",
+    "name": "Voyo Sport 1",
+    "sources": {
+      "streams": [
+        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "sources": {
@@ -2368,7 +2351,7 @@
     "name": "WWE",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pxOZsW-dtkM"
+        "https://www.youtube-nocookie.com/embed/VAJdCtTE-qw"
       ]
     },
     "languages": [
@@ -2382,7 +2365,7 @@
     "name": "WWE Vault",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pzEy6Bn-boI"
+        "https://www.youtube-nocookie.com/embed/Q4McLFyVl0o"
       ]
     },
     "languages": [

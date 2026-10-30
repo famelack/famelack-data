@@ -113,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Q8tff6lSni8zyo",
+    "name": "Canal 1",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/CANAL1/CANAL1.isml/CANAL1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "G9r4ymgFpyAcFs",
     "name": "Canal 2 Alpavision Neiva",
     "sources": {
@@ -637,20 +651,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RfchJq1KTGTlOM",
-    "name": "Mas Norte TV",
-    "sources": {
-      "streams": [
-        "https://live.arnoproducciones.com/hls/norte.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "sources": {
@@ -686,20 +686,6 @@
     "sources": {
       "streams": [
         "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zI3NybQoMP9Xkx",
-    "name": "Noticias Caracol",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XE-HAP0KALo"
       ]
     },
     "languages": [
@@ -885,6 +871,20 @@
     "sources": {
       "streams": [
         "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rZfnfgO93XkAdZ",
+    "name": "Soona TV",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8"
       ]
     },
     "languages": [

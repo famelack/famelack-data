@@ -184,11 +184,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2woYjnnnE6JSW8",
-    "name": "Nopola News",
+    "nanoid": "knoFkqODtHFsAU",
+    "name": "Onni TV",
     "sources": {
       "streams": [
-        "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8"
+        "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -198,11 +198,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "knoFkqODtHFsAU",
-    "name": "Onni TV",
+    "nanoid": "Sey5sFeH4sTPhh",
+    "name": "STAR Channel",
     "sources": {
       "streams": [
-        "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8"
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv"
       ]
     },
     "languages": [
@@ -222,18 +223,6 @@
     "languages": [
       "fin"
     ],
-    "country": "fi",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3kvMeRQNc7yJgV",
-    "name": "World of Love Island",
-    "sources": {
-      "streams": [
-        "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "fi",
     "isGeoBlocked": false
   },

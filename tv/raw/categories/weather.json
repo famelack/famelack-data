@@ -49,20 +49,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "dfvV9SkyUqJgjs",
-    "name": "MeteoTV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CchwfN0XThc"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KOv9UnCj3DwL9J",
     "name": "News24 Weather",
     "sources": {
@@ -109,6 +95,7 @@
     "name": "The Weather Channel",
     "sources": {
       "streams": [
+        "https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8",
         "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8"
       ]
     },
@@ -124,6 +111,7 @@
     "sources": {
       "streams": [
         "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+        "https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8",
         "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
       ]
     },

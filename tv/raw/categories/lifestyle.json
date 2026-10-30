@@ -120,8 +120,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -187,39 +187,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fom4DDGu8VmzCJ",
-    "name": "Code Fashion TV",
-    "sources": {
-      "streams": [
-        "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "k1LyAwShA4pUGs",
-    "name": "Code Health TV",
-    "sources": {
-      "streams": [
-        "https://cdn2.invivo.bg/codehealth_test/index.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WNVyhRAYooRBZY",
     "name": "CVR Health",
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4CVRHEALTH/index.m3u8",
         "https://cdn.pishow.tv/ott/live/395/master.m3u8"
       ]
     },
@@ -375,8 +348,9 @@
     "name": "Food Food",
     "sources": {
       "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
         "https://cdn.pishow.tv/ott/live/267/master.m3u8",
-        "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
+        "https://fta.ektv.in/live/143/143_0.m3u8"
       ]
     },
     "languages": [
@@ -405,7 +379,7 @@
     "name": "Friends of Felines Rescue Center",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CFppLal1YUY"
+        "https://www.youtube-nocookie.com/embed/tEsfi0xZzUs"
       ]
     },
     "languages": [
@@ -472,6 +446,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PQpvfue6i36Igm",
+    "name": "HGTV",
+    "sources": {
+      "streams": [
+        "https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aVt7jp63qVi2fg",
     "name": "HGTV East",
     "sources": {
@@ -534,9 +522,9 @@
     "name": "Kappa TV",
     "sources": {
       "streams": [
+        "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1123/master.m3u8",
-        "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8",
-        "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8"
+        "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -623,6 +611,7 @@
     "sources": {
       "streams": [
         "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+        "https://cdn.pishow.tv/ott/live/1285/master.m3u8",
         "https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8"
       ]
     },
@@ -668,6 +657,34 @@
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bC7FnL6dhaFoeF",
+    "name": "ON O2TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0sEcu7vpoK0Bhd",
+    "name": "ON Style TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=184"
       ]
     },
     "languages": [

@@ -204,7 +204,6 @@
     "name": "CBC News Network",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
         "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
         "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
       ],
@@ -277,7 +276,7 @@
     "name": "CBC News Toronto",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mM3kOpgjm98"
+        "https://www.youtube-nocookie.com/embed/XnKMRk7RLz8"
       ]
     },
     "languages": [
@@ -527,7 +526,7 @@
     "name": "Fugget About It",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/T8wD3IdVHEE"
+        "https://www.youtube-nocookie.com/embed/zp0peOL9J54"
       ]
     },
     "languages": [
@@ -555,7 +554,7 @@
     "name": "Garfield & Friends",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tzaV0gRId60"
+        "https://www.youtube-nocookie.com/embed/GQvAJHYYvSU"
       ]
     },
     "languages": [
@@ -583,9 +582,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -738,6 +737,20 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MxGLQzbmn1eRI9",
+    "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
       ]
     },
     "languages": [
@@ -1197,34 +1210,6 @@
     },
     "languages": [
       "pan"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fap14DtXmRg1DV",
-    "name": "Sohail TV",
-    "sources": {
-      "streams": [
-        "https://iptv.sohailtv.com/sohail/playlist/index.m3u8"
-      ]
-    },
-    "languages": [
-      "prd"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1937,7 +1922,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Sw7LH5jjtPI"
+        "https://www.youtube-nocookie.com/embed/dIzX8RrGI_g"
       ]
     },
     "languages": [
@@ -1951,7 +1936,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pg8XzE116Bk"
+        "https://www.youtube-nocookie.com/embed/boYtoiVCaCE"
       ]
     },
     "languages": [
@@ -2100,11 +2085,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "26wbYyZD2WNH5P",
+    "name": "TV Punjab",
+    "sources": {
+      "streams": [
+        "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "bXKVlszQEGdoup",
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VTJ6jgBLJyE"
+        "https://www.youtube-nocookie.com/embed/heCsIzDgmuw"
       ]
     },
     "languages": [

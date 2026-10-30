@@ -32,7 +32,7 @@
     "name": "Alghad TV: قناة الغد",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QDyAPjCGYNU"
+        "https://www.youtube-nocookie.com/embed/glElJfSkinc"
       ]
     },
     "languages": [
@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ocf60Z4awZQ5ZB",
-    "name": "eXtra news",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/nHUKUS9EfGc"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9PE4R6NdLx4OF9",
     "name": "Huda TV",
     "sources": {
@@ -121,6 +107,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fNaU3D7B0hjX9J",
+    "name": "Hya TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=187"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
     "country": "eg",
     "isGeoBlocked": false
@@ -145,20 +145,6 @@
     "sources": {
       "streams": [
         "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sq4B9IaZBUPu1Y",
-    "name": "Watan TV",
-    "sources": {
-      "streams": [
-        "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
       ]
     },
     "languages": [

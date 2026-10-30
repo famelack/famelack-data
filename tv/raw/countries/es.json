@@ -452,20 +452,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wr9NlZQAm85FIF",
-    "name": "Canal Luz Television",
-    "sources": {
-      "streams": [
-        "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTZYBRtAYF88Ky",
     "name": "Canal Malaga RTV",
     "sources": {
@@ -875,18 +861,6 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "awUBqlQNui5V6X",
-    "name": "Estilo y Vida",
-    "sources": {
-      "streams": [
-        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1394,6 +1368,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "sources": {
+      "streams": [
+        "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eus",
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
     "sources": {
@@ -1486,6 +1475,44 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
+    "sources": {
+      "streams": [
+        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Fk85FNF4cdSWr",
+    "name": "Rakuten TV Sci-Fi Spain",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1673,20 +1700,6 @@
     ],
     "country": "es",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RYfMxL6JZWi97a",
-    "name": "Teledeporte",
-    "sources": {
-      "streams": [
-        "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "QXO7Ca6Qev84ww",
@@ -1957,6 +1970,20 @@
     "sources": {
       "streams": [
         "https://cloud.tvomix.com/TVOJESUS/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gyVcJ1bLnu4kuk",
+    "name": "TVOMIX",
+    "sources": {
+      "streams": [
+        "https://cloud.tvomix.com/TVOMIX/index.m3u8"
       ]
     },
     "languages": [

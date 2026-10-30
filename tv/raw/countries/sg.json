@@ -11,7 +11,7 @@
       "eng"
     ],
     "country": "sg",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "cjno9NJJ87yGNT",
@@ -74,6 +74,7 @@
     "name": "CNA International",
     "sources": {
       "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=112",
         "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8"
       ],
       "youtube": [
