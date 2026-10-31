@@ -58,9 +58,6 @@
       "streams": [
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/LakqyH8vmWg"
       ]
     },
     "languages": [
@@ -162,6 +159,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "bt1m1v4h1CmExI",
+    "name": "NHK World-Japan",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/IimtbuqYIE8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "jpn"
+    ],
+    "country": "jp",
     "isGeoBlocked": true
   },
   {

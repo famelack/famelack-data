@@ -130,20 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y7vYe1yqK0sxRF",
-    "name": "MERU TV",
-    "sources": {
-      "streams": [
-        "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ke",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HmimxNpLzs8JkF",
     "name": "Morning Cloud TV",
     "sources": {
@@ -182,6 +168,20 @@
     },
     "languages": [
       "luo"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bVNXrSeZdFWst0",
+    "name": "TV47 Kenya",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pb_7zuaNi6I"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ke",
     "isGeoBlocked": false

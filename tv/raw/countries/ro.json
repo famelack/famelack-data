@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "aoIXV21LUXbgqK",
+    "name": "A7TV",
+    "sources": {
+      "streams": [
+        "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "sources": {
@@ -127,6 +141,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yBtqoYWvkxZOuV",
+    "name": "AntenaPlay Events",
+    "sources": {
+      "streams": [
+        "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2UXhXxAP9FifSB",
     "name": "Arges TV",
     "sources": {
@@ -164,6 +193,20 @@
     },
     "languages": [
       "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sfu9EhmwBmV8Ny",
+    "name": "Bihor TV",
+    "sources": {
+      "streams": [
+        "https://bihor-tv.ro/hls/bihortv.m3u8"
+      ]
+    },
+    "languages": [
       "ron"
     ],
     "country": "ro",
@@ -779,34 +822,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BEYVH24fbdnqEV",
-    "name": "Radio Romania Antena Satelor 720p",
-    "sources": {
-      "streams": [
-        "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0hTvnidOr78iNU",
-    "name": "Radio Romania Iasi",
-    "sources": {
-      "streams": [
-        "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "okDHJ83ZlAyFOY",
     "name": "Radio Romania Oltenia-Craiova",
     "sources": {
@@ -1019,8 +1034,11 @@
   },
   {
     "nanoid": "zOxDRevVPSzLb6",
-    "name": "TRINITAS TV",
+    "name": "Trinitas TV",
     "sources": {
+      "streams": [
+        "https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/W3OEty_o2AU"
       ]
