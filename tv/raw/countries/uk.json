@@ -248,20 +248,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BUsm8kgtVtmneU",
-    "name": "BBC News North America",
-    "sources": {
-      "streams": [
-        "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JhHpiYec647IOL",
     "name": "BBC News Pashto",
     "sources": {
@@ -1182,7 +1168,8 @@
     "sources": {
       "streams": [
         "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
-        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+        "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1265,20 +1252,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WNYH3Yw8Ugl7X8",
-    "name": "Iqra Bangla",
-    "sources": {
-      "streams": [
-        "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2992,7 +2965,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

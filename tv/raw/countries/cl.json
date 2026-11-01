@@ -102,7 +102,7 @@
     "name": "24 Horas",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/djyukkjG6VY"
+        "https://www.youtube-nocookie.com/embed/VGaoFnRtL7s"
       ]
     },
     "languages": [
@@ -295,6 +295,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bL20OQOX6GoIrZ",
+    "name": "Canal 1 Nuble",
+    "sources": {
+      "streams": [
+        "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hB7F4KiiS2y0zs",
     "name": "Canal 2 Quellon",
     "sources": {
@@ -356,20 +370,6 @@
     "sources": {
       "streams": [
         "https://v1.tustreaming.cl/canal30loncomilla/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Vrn45RY7y1zcD6",
-    "name": "Canal Chilote",
-    "sources": {
-      "streams": [
-        "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8"
       ]
     },
     "languages": [
@@ -478,20 +478,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4dKzonwHr1dN8",
-    "name": "ChileVision",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/NG4__sQeEV8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
     "sources": {
@@ -538,7 +524,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cF8qZgyAzag"
+        "https://www.youtube-nocookie.com/embed/t9EKKCqp7nU"
       ]
     },
     "languages": [
@@ -1053,20 +1039,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xsGsgxzJZVaZWc",
-    "name": "La Comarca TV",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/lcomarcatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jTLLLn47f5A3NB",
     "name": "La Melinkana TV",
     "sources": {
@@ -1184,24 +1156,10 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AKUzz2lL35U"
+        "https://www.youtube-nocookie.com/embed/K6iFkvEUD9c"
       ]
     },
     "languages": [],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "t1jVK3INm4dbs6",
-    "name": "Mi Radio TV",
-    "sources": {
-      "streams": [
-        "https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -1408,9 +1366,6 @@
     "sources": {
       "streams": [
         "https://pnt.janusmedia.tv/hls/pnt.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/SiJz9yFHaQk"
       ]
     },
     "languages": [
@@ -1547,11 +1502,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4Ct6exF1rK9BzH",
-    "name": "Radio Frecuencia Uno",
+    "nanoid": "8HaE3IUVFLphXf",
+    "name": "Radio La Serena TV",
     "sources": {
       "streams": [
-        "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8"
+        "https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1561,11 +1516,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8HaE3IUVFLphXf",
-    "name": "Radio La Serena TV",
+    "nanoid": "J3nTc19sodyB7X",
+    "name": "Radio Nuble",
     "sources": {
       "streams": [
-        "https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8"
+        "https://tv.telselec.cl:3376/live/nublefmlive.m3u8"
       ]
     },
     "languages": [

@@ -96,11 +96,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JwjTtBdIXCgMJP",
+    "name": "BTB",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/1/live.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NHCXMxoKr3soBB",
+    "name": "BTB 2",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/2/live.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vifXiIDfcyAksy",
     "name": "BTB Info",
     "sources": {
       "streams": [
-        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8"
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8"
       ]
     },
     "languages": [
@@ -253,6 +282,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/769EbXXFZ7w"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -348,20 +391,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WF5JGel8GOfoio",
-    "name": "Planeta TV",
-    "sources": {
-      "streams": [
-        "https://stream.palneta.pl/palnetatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "sources": {
@@ -407,6 +436,20 @@
     "sources": {
       "streams": [
         "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cVaJUABGdrFesO",
+    "name": "Radiowa Czworka",
+    "sources": {
+      "streams": [
+        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
       ]
     },
     "languages": [

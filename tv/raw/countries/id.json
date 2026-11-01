@@ -283,34 +283,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "U2wJ3BI8Zw3hJZ",
-    "name": "E International Asia",
-    "sources": {
-      "streams": [
-        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2IWnSWLY0ULkRO",
-    "name": "E International Europe",
-    "sources": {
-      "streams": [
-        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eg0R1qmDu85lEs",
     "name": "Efarina TV",
     "sources": {
@@ -386,6 +358,20 @@
     "sources": {
       "streams": [
         "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oSWD42bHwHKlIE",
+    "name": "Jogja TV",
+    "sources": {
+      "streams": [
+        "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
       ]
     },
     "languages": [
@@ -522,6 +508,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AixeZaoPbQBLhF",
+    "name": "MDTV",
+    "sources": {
+      "streams": [
+        "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "sources": {
@@ -543,7 +543,7 @@
         "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
+        "https://www.youtube-nocookie.com/embed/tiIOHgDI3Ow"
       ]
     },
     "languages": [
@@ -677,6 +677,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "sources": {
+      "streams": [
+        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FbrCzMwlpQjYEF",
     "name": "Rodja TV",
     "sources": {
@@ -734,6 +748,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Cx1Butu3HjYB81",
+    "name": "Sampit TV",
+    "sources": {
+      "streams": [
+        "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4WttbEI2P66IMh",
     "name": "Sangaji TV",
     "sources": {
@@ -748,11 +776,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2XkFMpRoLYu9Ma",
+    "name": "Selaparang TV",
+    "sources": {
+      "streams": [
+        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/xlgkZ9fDqvc"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pJu6TwMXSbyJfF",
     "name": "SMTV",
     "sources": {
       "streams": [
         "https://e.siar.us/live/smtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0cfFq7pSzUjjN2",
+    "name": "Sriwijaya TV",
+    "sources": {
+      "streams": [
+        "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"
       ]
     },
     "languages": [
