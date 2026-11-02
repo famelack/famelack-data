@@ -126,25 +126,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
     "sources": {
       "streams": [
-        "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
-    "sources": {
-      "streams": [
-        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+        "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
       ]
     },
     "languages": [
@@ -216,6 +202,20 @@
       "streams": [
         "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
         "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hpf3KI7ImTrsrI",
+    "name": "Canal 33 Tijuana",
+    "sources": {
+      "streams": [
+        "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8"
       ]
     },
     "languages": [
@@ -309,14 +309,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dE1MtHTFsxve60",
-    "name": "CreaLaTV",
+    "nanoid": "CrHxjo8TlGVNjG",
+    "name": "Despierta TV",
     "sources": {
       "streams": [
-        "https://stream.crealatv.com/live.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/7vfbJk26QWQ"
+        "https://video2.lhdserver.es/despiertatv/live.m3u8"
       ]
     },
     "languages": [
@@ -466,6 +463,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yk5LuaS8jCla7l",
+    "name": "Imagen Multicast",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Acwq23si20I"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H2v2IuCk1UWQxA",
     "name": "Imagen TV",
     "sources": {
@@ -476,6 +487,18 @@
     "languages": [
       "spa"
     ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dQroYObAPsPIjO",
+    "name": "Imagen TV+",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/GChq0ObyExU"
+      ]
+    },
+    "languages": [],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -944,6 +967,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pTFEVIhFVG7hq3",
+    "name": "Televisa Laguna",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_rK8D6aVR9s"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZvTqK9RkV2bYWz",
     "name": "Televisa Mexicali",
     "sources": {
@@ -962,7 +999,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BEY7pcjPNqo"
+        "https://www.youtube-nocookie.com/embed/Aytv1gehs4I"
       ]
     },
     "languages": [
@@ -976,7 +1013,7 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/E6zxJWT5ck4"
+        "https://www.youtube-nocookie.com/embed/QhHNdZNHjx0"
       ]
     },
     "languages": [
@@ -1378,20 +1415,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "sources": {
-      "streams": [
-        "https://stream.unison.mx/hls/unisontvatem.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2EyL9brYPFxMTy",
     "name": "VB Media TV",
     "sources": {
@@ -1467,6 +1490,20 @@
     "sources": {
       "streams": [
         "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "73XssOK3RAP6Kw",
+    "name": "XHTTG-TDT",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
       ]
     },
     "languages": [

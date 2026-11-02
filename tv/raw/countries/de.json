@@ -440,6 +440,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "sources": {
+      "streams": [
+        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CiGC7hiaz7dMhM",
     "name": "Filstalwelle",
     "sources": {
@@ -901,6 +913,18 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "4YOpv1CYox1W50",
+    "name": "Naruto Germany",
+    "sources": {
+      "streams": [
+        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZUrwxBDVVmyicG",
     "name": "NDR Fernsehen International",
     "sources": {
@@ -1337,20 +1361,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "FT8VcZltRS1FOf",
-    "name": "Rakuten TV Action Movies Germany",
-    "sources": {
-      "streams": [
-        "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mMN16NkXBOiZlV",
     "name": "Rakuten TV Comedy Movies Germany",
     "sources": {
@@ -1365,11 +1375,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gaIbE0ft11ifJV",
-    "name": "Rakuten TV Romance Movies Germany",
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
     "sources": {
       "streams": [
-        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
       ]
     },
     "languages": [],
@@ -1509,6 +1519,7 @@
     "name": "RTL Super",
     "sources": {
       "streams": [
+        "https://s6.hopslan.com/superX/index.m3u8",
         "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8"
       ]
     },
@@ -1523,6 +1534,7 @@
     "name": "RTL Zwei",
     "sources": {
       "streams": [
+        "https://s6.hopslan.com/rtl2q/index.m3u8",
         "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8"
       ]
     },

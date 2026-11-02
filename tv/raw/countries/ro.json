@@ -807,20 +807,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "R7k8oMS31tDfb7",
-    "name": "PROFI 24 TV",
-    "sources": {
-      "streams": [
-        "https://live.ro24tv.ro/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o2mdLct3Etcuk8",
     "name": "Qub TV",
     "sources": {
@@ -844,6 +830,34 @@
     },
     "languages": [
       "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BEYVH24fbdnqEV",
+    "name": "Radio Romania Antena Satelor 720p",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0hTvnidOr78iNU",
+    "name": "Radio Romania Iasi",
+    "sources": {
+      "streams": [
+        "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
+      ]
+    },
+    "languages": [
       "ron"
     ],
     "country": "ro",

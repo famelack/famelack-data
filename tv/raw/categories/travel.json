@@ -15,62 +15,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BdwSSDTGxvneTK",
-    "name": "Beach TV Florida & Alabama",
-    "sources": {
-      "streams": [
-        "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u5TLXa7PdNMbh2",
-    "name": "Beach TV Key West & Florida Keys",
-    "sources": {
-      "streams": [
-        "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RGeO9EbtqaGTGq",
-    "name": "Beach TV Myrtle Beach & The Grand Strand",
-    "sources": {
-      "streams": [
-        "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2KBiYsFYmCeLC",
-    "name": "Beach TV Panama City",
-    "sources": {
-      "streams": [
-        "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eko7uFhNP2g6vo",
     "name": "Chile Channel",
     "sources": {
@@ -90,7 +34,6 @@
     "name": "China Travel",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
         "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
@@ -149,8 +92,8 @@
     "sources": {
       "streams": [
         "https://www.funroads-hls1.com/funroads.m3u8",
-        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
-        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978"
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978",
+        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -272,6 +215,48 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-it.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv-en.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6qAfF0Ciz7BFIk",
+    "name": "Peer TV Sudtirol",
+    "sources": {
+      "streams": [
+        "https://iptv.peer.biz/live/peertv.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
