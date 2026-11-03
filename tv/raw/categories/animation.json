@@ -497,20 +497,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KHOlcS3CSZQO6",
-    "name": "JapanimTV",
-    "sources": {
-      "streams": [
-        "https://foxkidstv.be:3369/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -550,20 +536,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dValMPk4YLHMz4",
-    "name": "Marvel HQ: Marvel's Avengers Assemble",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/7oPYfe03bCs"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -699,7 +671,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LGen3sVAToc"
+        "https://www.youtube-nocookie.com/embed/KcV1Di1x5Jw"
       ]
     },
     "languages": [
@@ -909,20 +881,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ul1MxG7pzChnBN",
-    "name": "Teenage Mutant Ninja Turtles: TMNT",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/nJUrqKbqwAE"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7ou9OY1nQUGsSq",
     "name": "Tiguerito TV",
     "sources": {
@@ -965,14 +923,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lMiSgDeElnJcAd",
-    "name": "Tooncast",
+    "nanoid": "pyISRtqhWbgLvs",
+    "name": "Tooncast Panregional",
     "sources": {
       "streams": [
         "https://streaming.onnethn.com/TOONCAST/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "por",
+      "spa"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },

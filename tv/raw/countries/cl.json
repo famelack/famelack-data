@@ -242,8 +242,8 @@
     "name": "Bio Bio TV",
     "sources": {
       "streams": [
-        "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+        "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -482,7 +482,7 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/X__gRZDSqEM"
+        "https://www.youtube-nocookie.com/embed/VZIdGyr4l6g"
       ]
     },
     "languages": [
@@ -538,7 +538,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SXNH0KjXfXk"
+        "https://www.youtube-nocookie.com/embed/pdcwS8arouU"
       ]
     },
     "languages": [
@@ -562,11 +562,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i7jOCnWyYw935a",
-    "name": "Contivision",
+    "nanoid": "T4JDABjUy1IxuI",
+    "name": "Concepcion TV",
     "sources": {
       "streams": [
-        "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+        "https://stream.blserver.cl/hls/ctv/index.m3u8"
       ]
     },
     "languages": [
@@ -1170,7 +1170,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RDmTczlVPCs"
+        "https://www.youtube-nocookie.com/embed/3QCdqi4v0c8"
       ]
     },
     "languages": [],
@@ -1267,6 +1267,20 @@
     "sources": {
       "streams": [
         "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z8D0Y4EVxMHZlA",
+    "name": "Odisea TV",
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/odiseatv/index.m3u8"
       ]
     },
     "languages": [
@@ -1454,20 +1468,6 @@
     "sources": {
       "streams": [
         "https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0ORE7ihrMrdlAa",
-    "name": "Radio Edelweiss",
-    "sources": {
-      "streams": [
-        "https://vmix.dyndns.biz/Edelweiss/index.m3u8"
       ]
     },
     "languages": [
@@ -2352,8 +2352,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

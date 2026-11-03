@@ -29,6 +29,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vSeAetx7SHaifK",
+    "name": "CAM 10 TV",
+    "sources": {
+      "streams": [
+        "https://stream.it-innov.com/cam10tv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GF2Bfo69Qjjy4t",
     "name": "CRTV",
     "sources": {
@@ -58,14 +72,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j7JCn0NTCmpkYu",
-    "name": "CRTV Sports and Entertainment",
+    "nanoid": "i8vFqkaXpB4jHk",
+    "name": "For You TV",
     "sources": {
       "streams": [
-        "https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8"
+        "https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8"
       ]
     },
     "languages": [
+      "eng",
       "fra"
     ],
     "country": "cm",
@@ -91,20 +106,6 @@
     "sources": {
       "streams": [
         "https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cm",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I6Aibqu4gfNeTW",
-    "name": "TR24 Television",
-    "sources": {
-      "streams": [
-        "https://stream.it-innov.com/tr24/index.m3u8"
       ]
     },
     "languages": [

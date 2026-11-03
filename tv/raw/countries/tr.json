@@ -825,8 +825,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1941,6 +1941,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vQ-29u6rAns"
       ]
     },
     "languages": [
@@ -1955,20 +1958,6 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e8zax7Tb0zc8Eu",
-    "name": "TRT 1",
-    "sources": {
-      "streams": [
-        "https://tv-trt1.medya.trt.com.tr/master.m3u8"
       ]
     },
     "languages": [
@@ -2084,7 +2073,7 @@
         "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CLQoypiXzQs"
+        "https://www.youtube-nocookie.com/embed/SiB4y9mXhHI"
       ]
     },
     "languages": [
@@ -2142,8 +2131,8 @@
     "name": "TRT World",
     "sources": {
       "streams": [
-        "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
         "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
+        "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
         "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
       ],
       "youtube": [
@@ -2285,7 +2274,7 @@
     "name": "TVNET",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Z5bqy4gwEmc"
+        "https://www.youtube-nocookie.com/embed/XdI0jDqDv7g"
       ]
     },
     "languages": [

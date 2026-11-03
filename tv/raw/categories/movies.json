@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "aKKZkEC54PsysO",
+    "name": "+MaisUm",
+    "sources": {
+      "streams": [
+        "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lcQDr83GGlzSBu",
     "name": "24 Hour Free Movies",
     "sources": {
@@ -74,8 +88,7 @@
     "name": "All Time Movies",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-        "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
+        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -304,7 +317,8 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -495,6 +509,62 @@
       "ron"
     ],
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gUswhqxHZdKrP1",
+    "name": "City Eden KinoAction",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/41333/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4R8lzuArvLNkC",
+    "name": "City Eden KinoArt",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38398/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xjnk7dNYRv7edj",
+    "name": "City Eden KinoKlassika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/34185/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hYJqIp24qMnNqd",
+    "name": "City Eden KinoMistika",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/40783/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -918,9 +988,9 @@
     "name": "Goldmines Movies",
     "sources": {
       "streams": [
-        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
         "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
+        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -1001,20 +1071,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "wbtr61fNxraCBW",
-    "name": "Halloween Non Stop",
-    "sources": {
-      "streams": [
-        "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "7Hsc69UuEllEuA",
@@ -1691,8 +1747,8 @@
     "name": "NEW K.MOVIES",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -1936,39 +1992,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
+    "nanoid": "c4Swg0nm0Rjn8G",
+    "name": "Rakuten TV Action Movies UK",
     "sources": {
       "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rW6tKgiQ7jM4rF",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "sources": {
-      "streams": [
-        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F2ftHadqxcG2u5",
-    "name": "Rakuten TV Drama Movies UK",
-    "sources": {
-      "streams": [
-        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+        "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
       ]
     },
     "languages": [
@@ -1978,17 +2006,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7UK6GTwohWhEMF",
-    "name": "Rakuten TV Family Movies Italy",
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
     "sources": {
       "streams": [
-        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
       ]
     },
     "languages": [
-      "ita"
+      "eng"
     ],
-    "country": "it",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {

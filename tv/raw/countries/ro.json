@@ -84,26 +84,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oHC9km0oS5V3YT",
-    "name": "Antena 1",
-    "sources": {
-      "streams": [
-        "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BSpz5ytGrxP5qy",
     "name": "Antena 3 CNN",
     "sources": {
       "streams": [
-        "https://live3vox.antenaplay.ro/a3free/a3free.m3u8",
-        "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8"
+        "https://live3vox.antenaplay.ro/a3free/a3free.m3u8"
       ]
     },
     "languages": [
@@ -127,20 +112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Gns5WkTHWUSX7n",
-    "name": "Antena International",
-    "sources": {
-      "streams": [
-        "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9UqseJeoJNwuVC",
     "name": "Antena Monden",
     "sources": {
@@ -155,26 +126,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yBtqoYWvkxZOuV",
-    "name": "AntenaPlay Events",
+    "nanoid": "2UXhXxAP9FifSB",
+    "name": "Arges TV",
     "sources": {
       "streams": [
-        "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
+        "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
       ]
     },
     "languages": [
-      "eng",
       "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2UXhXxAP9FifSB",
-    "name": "Arges TV",
+    "nanoid": "mvXq1AC59q10nH",
+    "name": "AS TV",
     "sources": {
       "streams": [
-        "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
+        "https://s2.netstreaming.eu/astv.m3u8"
       ]
     },
     "languages": [
@@ -433,34 +403,6 @@
     "sources": {
       "streams": [
         "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wbtr61fNxraCBW",
-    "name": "Halloween Non Stop",
-    "sources": {
-      "streams": [
-        "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lhCxqE1AXbE8qH",
-    "name": "HD365 TV",
-    "sources": {
-      "streams": [
-        "https://s2.netstreaming.eu/hd365.m3u8"
       ]
     },
     "languages": [
@@ -765,20 +707,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "19bVQttgqOEZ2W",
-    "name": "NHL AntenaPlay",
-    "sources": {
-      "streams": [
-        "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZsTledk1vEeV9E",
     "name": "Orizont TV",
     "sources": {
@@ -802,6 +730,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "R7k8oMS31tDfb7",
+    "name": "PROFI 24 TV",
+    "sources": {
+      "streams": [
+        "https://live.ro24tv.ro/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -948,6 +890,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iX8TW3q2fi8FGK",
+    "name": "Sens TV",
+    "sources": {
+      "streams": [
+        "https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "trH7SqpEADmNbG",
     "name": "Smart Radio",
     "sources": {
@@ -968,6 +924,20 @@
     "sources": {
       "streams": [
         "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "W23ezSBBqa825D",
+    "name": "Sport Total FM",
+    "sources": {
+      "streams": [
+        "https://livesptfm.com/SPTFM/Live/playlist.m3u8"
       ]
     },
     "languages": [

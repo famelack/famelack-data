@@ -353,6 +353,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SjHQwsq7IlkAid",
+    "name": "Canal 3 TV Biar",
+    "sources": {
+      "streams": [
+        "https://avantstreaming.es/hls/canal3.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TXUgKR5bcyBflc",
     "name": "Canal 7 TeleValencia",
     "sources": {
@@ -571,7 +585,8 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -835,18 +850,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "awUBqlQNui5V6X",
-    "name": "Estilo y Vida",
-    "sources": {
-      "streams": [
-        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mCiVfIGYDaqE2r",
     "name": "EsTuTele",
     "sources": {
@@ -1016,20 +1019,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9YxHU0Ug32YMW",
-    "name": "HOLA! Play",
-    "sources": {
-      "streams": [
-        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c53RhFBvJqM5zG",
     "name": "Ideas en 5 minutos",
     "sources": {
@@ -1079,20 +1068,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b0E5tyyObiYQ6m",
-    "name": "LiraTV",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1430,6 +1405,30 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SqdL0M66Q2lMl2",
+    "name": "Rakuten TV Cine Español",
+    "sources": {
+      "streams": [
+        "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "azCmZT5s8W62Ny",
+    "name": "Rakuten TV Romance Movies Spain",
+    "sources": {
+      "streams": [
+        "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1908,20 +1907,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gyVcJ1bLnu4kuk",
-    "name": "TVOMIX",
-    "sources": {
-      "streams": [
-        "https://cloud.tvomix.com/TVOMIX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P3ESPrzfdoSoj9",
     "name": "TVReus",
     "sources": {
@@ -1931,34 +1916,6 @@
     },
     "languages": [
       "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2uGXU96QMW7Acl",
-    "name": "Univers TV",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6lhNwfN4k1Lr3T",
-    "name": "Urola Telebista",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eus"
     ],
     "country": "es",
     "isGeoBlocked": false

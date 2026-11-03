@@ -85,6 +85,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
+    "sources": {
+      "streams": [
+        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
+        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "sources": {
@@ -191,6 +206,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
+    "sources": {
+      "streams": [
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "cr",

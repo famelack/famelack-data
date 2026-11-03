@@ -168,20 +168,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RszKNvM58V3E5m",
-    "name": "Dismar Radio TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u5b2On0IzN64A2",
     "name": "E40",
     "sources": {
@@ -356,6 +342,20 @@
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VI1f12kgFZ6WBR",
+    "name": "Oasis TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
       ]
     },
     "languages": [

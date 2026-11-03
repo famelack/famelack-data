@@ -120,8 +120,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -170,6 +170,34 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F36d923PmJXiTz",
+    "name": "Class TV Moda",
+    "sources": {
+      "streams": [
+        "https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -349,8 +377,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -385,6 +413,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OgCZtD8wAAsw56",
+    "name": "HANDICAP TV",
+    "sources": {
+      "streams": [
+        "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -493,6 +535,7 @@
     "name": "Kappa TV",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/1123/master.m3u8",
         "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8"
       ]
     },
@@ -840,8 +883,8 @@
     "name": "TLC",
     "sources": {
       "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8",
-        "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8"
+        "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
+        "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8"
       ]
     },
     "languages": [
