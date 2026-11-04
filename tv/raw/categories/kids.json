@@ -505,20 +505,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cjno9NJJ87yGNT",
-    "name": "Cartoon Network Asia",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/3rFRwVyVaic"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TAW3V6RUdxKtJQ",
     "name": "Cartoon Network HD+",
     "sources": {
@@ -640,20 +626,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ioAW5Hy7e9f7fU",
-    "name": "Chithiram",
-    "sources": {
-      "streams": [
-        "https://cdn.pishow.tv/ott/live/1243/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -890,8 +862,8 @@
     "name": "Disney Junior East",
     "sources": {
       "streams": [
-        "https://tvsen5.aynascope.net/disney/index.m3u8",
         "https://tvsen7.aynascope.net/disney/index.m3u8",
+        "https://tvsen5.aynascope.net/disney/index.m3u8",
         "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
       ]
     },
@@ -1342,6 +1314,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "sources": {
@@ -1397,6 +1383,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/o1UO3X21_CU"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1973,7 +1973,8 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
-        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
+        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
+        "https://tvsen7.aynascope.net/pbskids/index.m3u8"
       ]
     },
     "languages": [
@@ -2085,7 +2086,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SgUi5iRndGs"
+        "https://www.youtube-nocookie.com/embed/ZiGBp5wywWQ"
       ]
     },
     "languages": [
@@ -2481,6 +2482,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Hl3ecg-O4_o"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X99oRpChEcKAS",
+    "name": "Super Simple: Simple Songs",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ic0cSaP7cwo"
       ]
     },
     "languages": [

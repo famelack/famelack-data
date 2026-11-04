@@ -14,21 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u9WnFUyWIFrzh4",
-    "name": "Amazing Discoveries TV",
-    "sources": {
-      "streams": [
-        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
-        "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "sources": {
@@ -582,8 +567,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
@@ -662,6 +647,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qTBBfgVQPSWPrA",
+    "name": "Ici Radio-Canada Télé",
+    "sources": {
+      "streams": [
+        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "w1gxGK7i1Tu1x2",
+    "name": "Ici Radio-Canada Télé Alberta (CBXFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "YEdrOCcoQa6dKG",
+    "name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "nHDxIofgkugzZk",
     "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
     "sources": {
@@ -681,6 +708,20 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "F9aDzRqkUxfvHV",
+    "name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
       ]
     },
     "languages": [
@@ -1895,6 +1936,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Hl3ecg-O4_o"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X99oRpChEcKAS",
+    "name": "Super Simple: Simple Songs",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ic0cSaP7cwo"
       ]
     },
     "languages": [

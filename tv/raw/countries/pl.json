@@ -282,20 +282,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DN6TpQ0x9cD41t",
-    "name": "HORYZONT TV",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/769EbXXFZ7w"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -389,6 +375,20 @@
     "languages": [],
     "country": "pl",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kYGxysMkYYrvDt",
+    "name": "Polsat",
+    "sources": {
+      "streams": [
+        "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "HCuXiJRBY0QrpX",
@@ -623,7 +623,7 @@
     "name": "Telewizja Gorzów",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qIAXq0AxQmQ"
+        "https://www.youtube-nocookie.com/embed/IpVMrs8gdBk"
       ]
     },
     "languages": [
@@ -736,20 +736,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/6GSCCKAx1XI"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zfdmNYbszO1KPF",
-    "name": "Telewizja Żary",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XqiWJF3ZgFs"
       ]
     },
     "languages": [
@@ -880,20 +866,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8fkva1GfM7tM4w",
-    "name": "TVSUDECKA PL",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/BRLxxE7jfnw"
-      ]
-    },
-    "languages": [
-      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
