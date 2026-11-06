@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IbE1EyU5igXIWS",
-    "name": "Al Iraqia News",
-    "sources": {
-      "streams": [
-        "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UEXwoyYx1GFZis",
     "name": "Al Janoub TV",
     "sources": {
@@ -182,6 +168,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "btizWb8V9F8EOG",
+    "name": "Alghadeer TV",
+    "sources": {
+      "streams": [
+        "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oH3JHlocRjrWih",
     "name": "Alquran",
     "sources": {
@@ -228,7 +228,8 @@
     "name": "AVA Media",
     "sources": {
       "streams": [
-        "https://ava002.xyz/upload/images/1080.m3u8"
+        "https://ava002.xyz/upload/images/1080.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8"
       ]
     },
     "languages": [
@@ -273,7 +274,7 @@
         "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SBQ8SqCf7Tw"
+        "https://www.youtube-nocookie.com/embed/7HbpqOqpRT4"
       ]
     },
     "languages": [
@@ -295,6 +296,20 @@
     "languages": [
       "ara",
       "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HF0s5qptKRRfON",
+    "name": "FarmodaTV",
+    "sources": {
+      "streams": [
+        "https://avr.host247.net/live/FarmodaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
     ],
     "country": "iq",
     "isGeoBlocked": false

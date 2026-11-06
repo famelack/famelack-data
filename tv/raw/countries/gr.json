@@ -267,20 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HQxmczuRTCLJHk",
-    "name": "Ellinikos FM",
-    "sources": {
-      "streams": [
-        "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "W3ePyy3g6gIjfs",
     "name": "ENA Channel",
     "sources": {
@@ -634,11 +620,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "axcim7j9dTO22W",
+    "name": "Start TV",
+    "sources": {
+      "streams": [
+        "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lH4dJFZ2RLNxKP",
     "name": "Syros TV1",
     "sources": {
       "streams": [
         "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "sources": {
+      "streams": [
+        "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
       ]
     },
     "languages": [

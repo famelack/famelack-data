@@ -105,7 +105,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -222,6 +223,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1025,7 +1040,7 @@
     "name": "Viasat History",
     "sources": {
       "streams": [
-        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78"
+        "https://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ=="
       ]
     },
     "languages": [

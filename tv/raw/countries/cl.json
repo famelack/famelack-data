@@ -102,7 +102,7 @@
     "name": "24 Horas",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VGaoFnRtL7s"
+        "https://www.youtube-nocookie.com/embed/6RgquP04MHk"
       ]
     },
     "languages": [
@@ -365,11 +365,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GF8ZEeIOAVHYJF",
-    "name": "Canal ISB",
+    "nanoid": "xxABX6a946nQJU",
+    "name": "Canal 30 Loncomilla",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8"
+        "https://v1.tustreaming.cl/canal30loncomilla/index.m3u8"
       ]
     },
     "languages": [
@@ -379,11 +379,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4oe5gSL3PaBzNh",
-    "name": "Canal Latino 54",
+    "nanoid": "Vrn45RY7y1zcD6",
+    "name": "Canal Chilote",
     "sources": {
       "streams": [
-        "https://videostream.chileservidores.com:8081/latina/index.m3u8"
+        "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GF8ZEeIOAVHYJF",
+    "name": "Canal ISB",
+    "sources": {
+      "streams": [
+        "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -468,7 +482,7 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/elK3DHyZA7Y"
+        "https://www.youtube-nocookie.com/embed/AdXc6jWnWxw"
       ]
     },
     "languages": [
@@ -524,7 +538,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/J9q5zbzQ2Q0"
+        "https://www.youtube-nocookie.com/embed/zA96DddmBPI"
       ]
     },
     "languages": [
@@ -940,20 +954,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1C4lPPkddFmlSv",
-    "name": "Iquique TV",
-    "sources": {
-      "streams": [
-        "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HZTvc09dQotF6t",
     "name": "ISA TV",
     "sources": {
@@ -1170,7 +1170,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HHDTmxseEbY"
+        "https://www.youtube-nocookie.com/embed/mFQ_2MstPfY"
       ]
     },
     "languages": [],
@@ -1396,7 +1396,7 @@
         "https://pnt.janusmedia.tv/hls/pnt.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Aq1OBWXtC-Y"
+        "https://www.youtube-nocookie.com/embed/fsXGmZolPjI"
       ]
     },
     "languages": [
@@ -1580,6 +1580,20 @@
     "sources": {
       "streams": [
         "https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K28i3oZwgj13K1",
+    "name": "Radio Rancagua FM",
+    "sources": {
+      "streams": [
+        "https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2352,8 +2366,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

@@ -433,21 +433,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RGisQUNDzBMFhg",
-    "name": "Canaf54 TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qFvRLYDETWTBst",
     "name": "Cartoon Network",
     "sources": {
@@ -1812,20 +1797,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uU0w6PP1NhQ9xR",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n2UntBRWIK7zqO",
     "name": "Ninja Warrior",
     "sources": {
@@ -2124,11 +2095,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ys9b9lAAuDchCF",
-    "name": "Rakuten TV Comedy Movies UK",
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
     "sources": {
       "streams": [
-        "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
       ]
     },
     "languages": [
@@ -2143,42 +2114,6 @@
     "sources": {
       "streams": [
         "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mN7jjbfyCCrHDM",
-    "name": "Rakuten TV Romance Movies UK",
-    "sources": {
-      "streams": [
-        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
-    "sources": {
-      "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],
@@ -3049,8 +2984,9 @@
     "name": "Wonder",
     "sources": {
       "streams": [
+        "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

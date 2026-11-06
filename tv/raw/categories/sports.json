@@ -80,8 +80,8 @@
     "name": "American Ninja Warrior",
     "sources": {
       "streams": [
-        "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
-        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042",
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
+        "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405342864&ads.asnw=169843&ads.channelId=99993042&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99993042&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
         "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
       ]
     },
@@ -233,20 +233,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "gIVpxumuFFQfY2",
-    "name": "Canal Showsport",
-    "sources": {
-      "streams": [
-        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mut1mafEBDelBc",
     "name": "CBS Sports Golazo Network",
     "sources": {
@@ -340,6 +326,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VW0YFydw9mhrOx",
+    "name": "Deportes TVC",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uqY1lmyz1EQJF2",
     "name": "Dong Nai TV 2",
     "sources": {
@@ -382,20 +382,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rkwePpGaX1Ap3x",
-    "name": "ESPN",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/espn/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "K4gCMwVvrAHvnE",
@@ -712,34 +698,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uVswq4jnyeoNam",
-    "name": "Fox Sports 1",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/foxsports1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XS90SunRs05mKr",
-    "name": "Fox Sports 2",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t5msHgNGG9QAPb",
     "name": "Fox Sports News",
     "sources": {
@@ -837,6 +795,20 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zSqcM4N6tJjo6K",
+    "name": "Futbol TV",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -1316,6 +1288,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1408,20 +1381,6 @@
       "ara"
     ],
     "country": "sy",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eEl9GNsGZ69KhR",
-    "name": "PTV Sports",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/Sports1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1776,6 +1735,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1824,20 +1784,6 @@
     },
     "languages": [
       "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5INojqhvrRt5r6",
-    "name": "Star Sports Select 2",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/ssport2hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -2220,9 +2166,7 @@
     "name": "Willow",
     "sources": {
       "streams": [
-        "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-        "https://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "https://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
+        "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       ]
     },
     "languages": [

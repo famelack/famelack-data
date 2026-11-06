@@ -567,8 +567,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+        "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
@@ -1935,7 +1935,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Hl3ecg-O4_o"
+        "https://www.youtube-nocookie.com/embed/LofislwkbTE"
       ]
     },
     "languages": [
@@ -1949,7 +1949,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ic0cSaP7cwo"
+        "https://www.youtube-nocookie.com/embed/ZByhqBVbzFs"
       ]
     },
     "languages": [
@@ -2110,6 +2110,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MMXCtAsKj5A"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "l4n46BVDM7izVj",
