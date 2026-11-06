@@ -829,8 +829,8 @@
     "name": "Fortuna TV",
     "sources": {
       "streams": [
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
+        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1116,6 +1116,20 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2Mb6ARE1l9qx2",
+    "name": "Kanal 33",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1502,20 +1516,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WfBeWY1RnvDWYZ",
-    "name": "Muhteşem Yüzyıl",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/tZxD_s29JZc"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rXzETOXt9hjdyU",
     "name": "NOW",
     "sources": {
@@ -1872,20 +1872,6 @@
     "sources": {
       "streams": [
         "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5GoagSnDbPwxmH",
-    "name": "Tele 1",
-    "sources": {
-      "streams": [
-        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
       ]
     },
     "languages": [

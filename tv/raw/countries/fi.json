@@ -36,6 +36,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "f0wcRTXZi1OLrF",
+    "name": "Eveo",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6K6oFgTHq5fj7V",
     "name": "Hero",
     "sources": {
@@ -156,6 +170,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AkZQ6cfpdrqvVu",
+    "name": "National Geographic",
+    "sources": {
+      "streams": [
+        "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true"
+      ]
+    },
+    "languages": [
+      "fin"
+    ],
+    "country": "fi",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "DSxOBANqbGCYcT",
     "name": "Navahang TV",
     "sources": {
@@ -216,8 +244,8 @@
     "name": "STAR Channel",
     "sources": {
       "streams": [
-        "https://live-fi.tvkaista.net/star-channel/live.m3u8",
-        "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv"
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv",
+        "https://live-fi.tvkaista.net/star-channel/live.m3u8"
       ]
     },
     "languages": [

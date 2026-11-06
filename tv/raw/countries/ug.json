@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "OzdPy3Brp6JZA9",
+    "name": "Alpha Digital",
+    "sources": {
+      "streams": [
+        "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t2mBHms7Nuow3E",
     "name": "Ark TV",
     "sources": {
@@ -80,6 +94,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDifINkplnvw0I",
+    "name": "KRC TV",
+    "sources": {
+      "streams": [
+        "https://channels.ad-ug.com/live/ch03/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lug"
     ],
     "country": "ug",
     "isGeoBlocked": false
