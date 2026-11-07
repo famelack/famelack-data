@@ -323,7 +323,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
       ]
     },
     "languages": [
@@ -426,53 +426,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W28Jd3TqNwX9HO",
-    "name": "ESPN 3 Latin America South",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ki9COGLAwDPKRW",
-    "name": "ESPN 4 Latin America South",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1WHaEbYGiz58DP",
     "name": "ESPN 5 Latin America South",
     "sources": {
       "streams": [
         "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v2qKNxAvkzM3Zo",
-    "name": "ESPN 6 Latin America",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
       ]
     },
     "languages": [
@@ -543,6 +501,7 @@
     "name": "Eurosport",
     "sources": {
       "streams": [
+        "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
         "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
       ]
     },
@@ -768,6 +727,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1jYy0MieRH4RsH",
+    "name": "FOX Sports YT",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/eQf-5KmlOtE"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KKtmG6U0zua4oT",
     "name": "FTF Sports",
     "sources": {
@@ -878,6 +851,20 @@
       "ces"
     ],
     "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XM7JIFylNrPk0k",
+    "name": "Golf Channel",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1110,6 +1097,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H1kwBWCqIWnh6y",
+    "name": "Marquee Sports Network",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RQT4a6XQReMGRa",
     "name": "Match! Ultra 4K",
     "sources": {
@@ -1254,6 +1255,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "xH0pevHQ3pK5Cx",
+    "name": "NFL Network",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/nfl/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dZNlCzQICHPeq8",
     "name": "NHL Network",
     "sources": {
@@ -1330,6 +1345,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1930,6 +1946,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rMoRf8GmgTzF1C",
+    "name": "TAP Sports",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "Li2QUIWlgtJ1VE",
     "name": "Tennis Channel",
     "sources": {
@@ -2204,6 +2234,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hpYinYTd4zpJZX",
+    "name": "Volleyball",
+    "sources": {
+      "streams": [
+        "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wmwjQ27aToc3v2",
     "name": "Voyo Sport 1",
     "sources": {
@@ -2332,20 +2376,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "8Ndns6qOA3E0TP",
-    "name": "WWE",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/VaRkAoYgVxw"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "KfPyDEuOOc6z6o",

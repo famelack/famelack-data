@@ -1010,20 +1010,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9N0REUHRJR4gUt",
-    "name": "Nova24TV 2",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/jWozElc9r6c"
-      ]
-    },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vAF449D1XN8HSx",
     "name": "Olelo 49",
     "sources": {
@@ -1260,7 +1246,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-        "https://fta.ektv.in/live/298/master.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
         "https://cdn.pishow.tv/ott/live/39/master.m3u8"
       ]
     },
@@ -1269,6 +1255,20 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MA17nwlHV1keim",
+    "name": "Senado TV",
+    "sources": {
+      "streams": [
+        "https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1376,7 +1376,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2qiyXDCbohw"
+        "https://www.youtube-nocookie.com/embed/ySKymxeR_fQ"
       ]
     },
     "languages": [

@@ -28,34 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9DXR1nIbzrHUb9",
-    "name": "BNT 3",
-    "sources": {
-      "streams": [
-        "https://shift03.isp.bg/BNT3_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YeiuDAKOIv93Jj",
-    "name": "BNT 4",
-    "sources": {
-      "streams": [
-        "https://shift03.isp.bg/BNT4_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S1ZYN7hADGka8A",
     "name": "City TV",
     "sources": {
@@ -103,6 +75,20 @@
     "sources": {
       "streams": [
         "https://bss1.neterra.tv/magictv/magictv.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZHxSM66gbId495",
+    "name": "Super Toons",
+    "sources": {
+      "streams": [
+        "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f"
       ]
     },
     "languages": [
