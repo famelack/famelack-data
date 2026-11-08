@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "zhUhSGilKc6sOP",
+    "name": "AGR FM TV",
+    "sources": {
+      "streams": [
+        "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c4VJcNzklIX0CI",
     "name": "Alcance FM PLAY TV",
     "sources": {
@@ -280,20 +294,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KiwbZFxfIOXSsb",
-    "name": "Nande Portetepe TV",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wJRs4rnzQYYV7u",
     "name": "Nandejara Ne'e TV",
     "sources": {
@@ -455,6 +455,20 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TeqRUHz0t6Kdc6",
+    "name": "Radio TV El Arca del Pacto",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
       ]
     },
     "languages": [

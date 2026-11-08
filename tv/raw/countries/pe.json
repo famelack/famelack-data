@@ -253,6 +253,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fqDkRQsbGbe2La",
+    "name": "DeltaTV",
+    "sources": {
+      "streams": [
+        "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PznIKu7D3Y7mgQ",
     "name": "Doble C Television",
     "sources": {
@@ -300,20 +314,6 @@
     "sources": {
       "streams": [
         "https://mc.servidor.stream:19360/8274/8274.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IJ7gZA2UwesadP",
-    "name": "Galactica TV",
-    "sources": {
-      "streams": [
-        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
       ]
     },
     "languages": [
@@ -398,20 +398,6 @@
     "sources": {
       "streams": [
         "https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jxlsDXo2Z9WhXZ",
-    "name": "Kora TV",
-    "sources": {
-      "streams": [
-        "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
       ]
     },
     "languages": [
@@ -968,26 +954,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K0qZuL6YkWBA5O",
-    "name": "Tevesur",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mdiVt9k5G6ApIq",
     "name": "Trivu",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
-        "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8"
+        "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1157,20 +1129,6 @@
     "sources": {
       "streams": [
         "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HYnHHpCe4o5p06",
-    "name": "Universitaria TV",
-    "sources": {
-      "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8"
       ]
     },
     "languages": [

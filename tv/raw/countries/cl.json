@@ -242,8 +242,8 @@
     "name": "Bio Bio TV",
     "sources": {
       "streams": [
-        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
-        "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+        "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -492,11 +492,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4dKzonwHr1dN8",
-    "name": "ChileVision",
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/mzC2yiOlZiY"
+      "streams": [
+        "https://v2.tustreaming.cl/chiloered/index.m3u8"
       ]
     },
     "languages": [
@@ -520,25 +520,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YVZxTC9dQaBTqc",
-    "name": "Chocolate FM",
-    "sources": {
-      "streams": [
-        "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Eoeb9ldORywfM0",
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b1wEYHazSms"
+        "https://www.youtube-nocookie.com/embed/kXlcVbd1iAA"
       ]
     },
     "languages": [
@@ -954,6 +940,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1C4lPPkddFmlSv",
+    "name": "Iquique TV",
+    "sources": {
+      "streams": [
+        "https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HZTvc09dQotF6t",
     "name": "ISA TV",
     "sources": {
@@ -1170,7 +1170,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2qhH3sWGbjc"
+        "https://www.youtube-nocookie.com/embed/Ms-lfnX5qn4"
       ]
     },
     "languages": [],
@@ -1407,20 +1407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7ioT5Zdowfs1P",
-    "name": "Radio Ancoa TV",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/radioancoatv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UixZ2uLadHocWN",
     "name": "Radio Armonia TV",
     "sources": {
@@ -1510,6 +1496,20 @@
     "sources": {
       "streams": [
         "https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J3nTc19sodyB7X",
+    "name": "Radio Nuble",
+    "sources": {
+      "streams": [
+        "https://tv.telselec.cl:3376/live/nublefmlive.m3u8"
       ]
     },
     "languages": [
@@ -1618,20 +1618,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o8u7ny6YCkwvWq",
-    "name": "Radio UNIACC",
-    "sources": {
-      "streams": [
-        "https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Fo7DN1X7oyXYal",
     "name": "Radio Universal",
     "sources": {
@@ -1707,20 +1693,6 @@
     "sources": {
       "streams": [
         "https://vdochile.com:3864/stream/play.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tfCQ3FDYSxU3Xe",
-    "name": "Rewind TV",
-    "sources": {
-      "streams": [
-        "https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1946,7 +1918,7 @@
     "name": "T13",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jEAL_jhagUw"
+        "https://www.youtube-nocookie.com/embed/h5efji0_wtQ"
       ]
     },
     "languages": [],
@@ -2175,6 +2147,20 @@
     },
     "languages": [
       "por"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hOfMwcYwkqMasz",
+    "name": "TV UCT",
+    "sources": {
+      "streams": [
+        "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "cl",
     "isGeoBlocked": false

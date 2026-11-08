@@ -76,6 +76,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
+    "sources": {
+      "streams": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jPCSXg0t7lpFfg",
     "name": "American Ninja Warrior",
     "sources": {
@@ -289,20 +303,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0vPnZheEHBV86R",
-    "name": "Colimdo TV",
-    "sources": {
-      "streams": [
-        "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wuceitzgHl5DOL",
     "name": "CRTV",
     "sources": {
@@ -398,67 +398,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rkwePpGaX1Ap3x",
-    "name": "ESPN",
+    "nanoid": "v2qKNxAvkzM3Zo",
+    "name": "ESPN 6 Latin America",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/espn/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "K4gCMwVvrAHvnE",
-    "name": "ESPN 2 Latin America South",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1WHaEbYGiz58DP",
-    "name": "ESPN 5 Latin America South",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uw5R84bpvu86BH",
-    "name": "ESPN 7 Latin America",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GEM2gcqSAoqcNK",
-    "name": "ESPN Latin America South",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8"
+        "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8"
       ]
     },
     "languages": [
@@ -497,11 +441,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lbyfmgKEc7ZRqZ",
     "name": "Eurosport",
     "sources": {
       "streams": [
-        "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
         "https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8"
       ]
     },
@@ -538,6 +496,21 @@
     ],
     "country": "ru",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fbVO6AiSo6hpNV",
+    "name": "Eurosport 4K Romania",
+    "sources": {
+      "streams": [
+        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Ps5SHG9loIy0eR",
@@ -685,34 +658,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uVswq4jnyeoNam",
-    "name": "Fox Sports 1",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/foxsports1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XS90SunRs05mKr",
-    "name": "Fox Sports 2",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t5msHgNGG9QAPb",
     "name": "Fox Sports News",
     "sources": {
@@ -724,20 +669,6 @@
       "eng"
     ],
     "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/eQf-5KmlOtE"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1345,7 +1276,6 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
-        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1438,20 +1368,6 @@
       "ara"
     ],
     "country": "sy",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eEl9GNsGZ69KhR",
-    "name": "PTV Sports",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/Sports1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1777,8 +1693,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1855,20 +1771,6 @@
     },
     "languages": [
       "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5INojqhvrRt5r6",
-    "name": "Star Sports Select 2",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/ssport2hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -1996,6 +1898,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/nsSeqx9byXo"
       ]
     },
     "languages": [
@@ -2280,9 +2185,7 @@
     "name": "Willow",
     "sources": {
       "streams": [
-        "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-        "https://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "https://tvsen7.aynascope.net/rEBp38Ax/index.m3u8"
+        "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       ]
     },
     "languages": [

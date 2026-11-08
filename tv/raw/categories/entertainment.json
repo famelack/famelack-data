@@ -113,11 +113,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cgjrOxNUrOWE9P",
+    "name": "A-Plus TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3mTZ5xuHVGXP6f",
     "name": "Aakaash Aath",
     "sources": {
       "streams": [
-        "https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
         "https://cdn.pishow.tv/ott/live/969/master.m3u8"
       ]
     },
@@ -867,20 +880,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8wch0b4bAAxnPo",
-    "name": "Canal Womtv",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/womtvlive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5HdR8I0ojOAnOH",
     "name": "Canale 5",
     "sources": {
@@ -1317,7 +1316,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
         "https://fta.ektv.in/live/15/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8"
+        "https://streams.tangotv.in/DDNATIONALHD/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -1459,6 +1458,20 @@
       "vie"
     ],
     "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xO426KlalATtSy",
+    "name": "Dream TV Philippines",
+    "sources": {
+      "streams": [
+        "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -1741,7 +1754,7 @@
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
         "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
-        "https://estrellatv-glewed.amagi.tv/playlist.m3u8"
+        "https://estrellatv-oando.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1853,20 +1866,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "swg1noloxNDS5D",
-    "name": "Ficom Channel",
-    "sources": {
-      "streams": [
-        "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2vE7EJChsrCtLB",
     "name": "FORT TV",
     "sources": {
@@ -1939,31 +1938,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J09nKQOi7ElCa4",
-    "name": "FX East",
+    "nanoid": "1F1EdHBXQRaHrz",
+    "name": "GalaxiATeVe",
     "sources": {
       "streams": [
-        "https://tvsen7.aynascope.net/fx/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sbX4iCfeMrSRxM",
-    "name": "FX Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8"
+        "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
-    "country": "us",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -2354,6 +2339,20 @@
       "ara"
     ],
     "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ylmup4ChZMQ5g",
+    "name": "Hype TV",
+    "sources": {
+      "streams": [
+        "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -2859,20 +2858,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jxlsDXo2Z9WhXZ",
-    "name": "Kora TV",
-    "sources": {
-      "streams": [
-        "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8YNFXXuZHnJiGA",
     "name": "Kurdsat",
     "sources": {
@@ -3130,8 +3115,7 @@
     "name": "Maasranga TV",
     "sources": {
       "streams": [
-        "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
-        "https://tvsen5.aynascope.net/maasrangatv/index.m3u8"
+        "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
       ]
     },
     "languages": [
@@ -3562,7 +3546,8 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
-        "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8"
+        "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
+        "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3732,6 +3717,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kE8N5CkT9Xc9Iu",
+    "name": "Nortena Tv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T58f95dx4sdCvQ",
     "name": "Nos Isla TV",
     "sources": {
@@ -3772,20 +3771,6 @@
       "eng"
     ],
     "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2Cav4NiycHssKE",
-    "name": "NW Magazine",
-    "sources": {
-      "streams": [
-        "https://hls.newworldtv.com/nw-magazine/video/live.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
     "isGeoBlocked": false
   },
   {
@@ -4181,8 +4166,8 @@
     "name": "Q TV",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8",
         "https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8",
+        "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8",
         "https://fta.ektv.in/live/25/master.m3u8"
       ]
     },
@@ -4232,20 +4217,6 @@
       "ron"
     ],
     "country": "md",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hj05yr3irV5W4y",
-    "name": "Radio Omega TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -4705,20 +4676,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fm3WRZGziudorr",
-    "name": "Sony Aath",
-    "sources": {
-      "streams": [
-        "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RZSnywV08qGlTT",
     "name": "Sony SAB",
     "sources": {
@@ -4829,6 +4786,34 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wTn8t48jb6lXBN",
+    "name": "Star Television",
+    "sources": {
+      "streams": [
+        "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "25KpPpidlrPZ8K",
+    "name": "Star TV Philippines",
+    "sources": {
+      "streams": [
+        "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -5350,20 +5335,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4VBfGEAGOsSdAE",
-    "name": "Tra Vinh TV",
-    "sources": {
-      "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=91"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OFNCxJwQlhXnh3",
     "name": "Tshwane TV",
     "sources": {
@@ -5790,6 +5761,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "24uXFiaEqXRMsc",
+    "name": "Vinh Long TV 5",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4CplZeiORcJRcS",
     "name": "Vision NDV",
     "sources": {
@@ -5982,8 +5967,7 @@
     "sources": {
       "streams": [
         "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
-        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-        "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
+        "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [

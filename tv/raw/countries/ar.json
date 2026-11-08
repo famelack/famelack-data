@@ -280,6 +280,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UUoSz4ieYffPkM",
+    "name": "Canal 3 Formosa",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MH4oTx0ElnuqXt",
     "name": "Canal 3 La Pampa",
     "sources": {
@@ -578,20 +592,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HjPaiHXe3m9QvC",
-    "name": "Canal 12 Venado Tuerto",
-    "sources": {
-      "streams": [
-        "https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gu6k19yrwk0QaT",
     "name": "Canal 13 San Juan",
     "sources": {
@@ -712,20 +712,6 @@
     "sources": {
       "streams": [
         "https://streamconex.com:19360/villamaza/villamaza.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "16ZV6lbP1V61Qg",
-    "name": "Canal 99 Miramar",
-    "sources": {
-      "streams": [
-        "https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8"
       ]
     },
     "languages": [
@@ -903,18 +889,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YK4jerPW8Ia03w",
-    "name": "Chaco TV",
-    "sources": {
-      "streams": [
-        "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gwy1ac4V2q1IQ8",
     "name": "Chamame TV",
     "sources": {
@@ -1022,21 +996,6 @@
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WyQIvG6nRolbpZ",
-    "name": "Disney Channel Latin America Panregional HD",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
-      ]
-    },
-    "languages": [
-      "por",
       "spa"
     ],
     "country": "ar",
@@ -1353,20 +1312,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "jhtVZGk1rHoaP8",
-    "name": "Misiones Cuatro",
-    "sources": {
-      "streams": [
-        "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yurfvvnKGexwJR",
     "name": "Multivision Federal",
     "sources": {
@@ -1413,8 +1358,8 @@
     "name": "NET TV",
     "sources": {
       "streams": [
-        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
-        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1607,6 +1552,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4D71cx5fvZCZ53",
+    "name": "San Pedro TV",
+    "sources": {
+      "streams": [
+        "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z6v7ZVW8wRdbxQ",
     "name": "Senal U",
     "sources": {
@@ -1663,11 +1622,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bOQ2ElnoGQqKTy",
+    "name": "Somos Entre Rios",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4mdYQiNJkinqB7",
     "name": "T5 Satelital",
     "sources": {
       "streams": [
         "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lwUs8vce39cW6q",
+    "name": "Tele Posadas",
+    "sources": {
+      "streams": [
+        "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1737,7 +1724,7 @@
     "name": "Televisión Pública",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fBc8pQNCo64"
+        "https://www.youtube-nocookie.com/embed/D1Ao1SsjMhQ"
       ]
     },
     "languages": [
@@ -1808,20 +1795,6 @@
     "sources": {
       "streams": [
         "https://nd106.republicaservers.com/hls/c8094/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lz2AEaZjXqIAQp",
-    "name": "TV Publica Marcos Paz",
-    "sources": {
-      "streams": [
-        "https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8"
       ]
     },
     "languages": [

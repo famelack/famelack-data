@@ -244,20 +244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "sources": {
@@ -823,21 +809,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WyQIvG6nRolbpZ",
-    "name": "Disney Channel Latin America Panregional HD",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
-      ]
-    },
-    "languages": [
-      "por",
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VJ5gw1qkZks4rp",
     "name": "Disney Channel: Big City Greens",
     "sources": {
@@ -920,23 +891,6 @@
     ],
     "country": "ar",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "U8REylkpG4igqA",
-    "name": "Disney Junior East",
-    "sources": {
-      "streams": [
-        "https://tvsen5.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disney/index.m3u8",
-        "https://tvsen7.aynascope.net/disneyjr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "VKKpehR0qNSoUY",
@@ -1129,7 +1083,6 @@
     "name": "Duronto TV",
     "sources": {
       "streams": [
-        "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8",
         "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
       ]
     },
@@ -1868,20 +1821,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ev2uIcLTDA86aM",
-    "name": "Nick Jr. East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nickjr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LhLrzvZ35u0Jdu",
     "name": "Nick Jr. Latin America Panregional",
     "sources": {
@@ -1924,20 +1863,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nlsdaZ2L48vHzM",
-    "name": "Nickelodeon Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1JYYpqQgnjcE3u",
     "name": "NickOnline",
     "sources": {
@@ -1977,20 +1902,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MSF3m0OZAj6WPP",
-    "name": "Nicktoons East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/nicktoons/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2068,8 +1979,7 @@
     "name": "PBS Kids",
     "sources": {
       "streams": [
-        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8",
-        "https://tvsen7.aynascope.net/pbskids/index.m3u8"
+        "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
       ]
     },
     "languages": [
@@ -2181,7 +2091,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/dIhR37HnNb4"
+        "https://www.youtube-nocookie.com/embed/PyZVy9Ovn_0"
       ]
     },
     "languages": [
@@ -2244,6 +2154,25 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A4OZfMBweCiPhQ",
+    "name": "Pogo",
+    "sources": {
+      "streams": [
+        "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin",
+      "kan",
+      "mal",
+      "mar",
+      "tam",
+      "tel"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2564,7 +2493,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LofislwkbTE"
+        "https://www.youtube-nocookie.com/embed/r9zeTkXDKUY"
       ]
     },
     "languages": [
@@ -2578,7 +2507,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZByhqBVbzFs"
+        "https://www.youtube-nocookie.com/embed/C-nVZp5JE10"
       ]
     },
     "languages": [
@@ -2642,20 +2571,6 @@
       "bak"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tJbJDDKt3d57P6",
-    "name": "TeenNick East",
-    "sources": {
-      "streams": [
-        "https://tvsen7.aynascope.net/teennick/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {

@@ -870,18 +870,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "sources": {
-      "streams": [
-        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZUrwxBDVVmyicG",
     "name": "NDR Fernsehen International",
     "sources": {
@@ -1304,6 +1292,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "mMN16NkXBOiZlV",
+    "name": "Rakuten TV Comedy Movies Germany",
+    "sources": {
+      "streams": [
+        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rahlDGPnE1FWrR",
     "name": "Rakuten TV Crime Series Germany",
     "sources": {
@@ -1312,6 +1314,44 @@
       ]
     },
     "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
+    "sources": {
+      "streams": [
+        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i6jMhimWGlGgKg",
+    "name": "Rakuten TV Top Movies Germany",
+    "sources": {
+      "streams": [
+        "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1465,6 +1505,20 @@
       "streams": [
         "https://s6.hopslan.com/rtl2q/index.m3u8",
         "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2JS34GnR0Dkvz5",
+    "name": "RTLup",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/rtltupz/index.m3u8"
       ]
     },
     "languages": [
@@ -1783,18 +1837,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dh2uUg08yXJN7u",
-    "name": "Tennis Channel Germany",
-    "sources": {
-      "streams": [
-        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OfmMpkKE1FtNkl",
     "name": "TLC",
     "sources": {
@@ -1919,6 +1961,20 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lg3PgvxOIIrtOV",
+    "name": "Voxup",
+    "sources": {
+      "streams": [
+        "https://s6.hopslan.com/voxupz/index.m3u8"
       ]
     },
     "languages": [
