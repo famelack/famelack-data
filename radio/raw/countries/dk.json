@@ -189,8 +189,8 @@
     "sources": {
       "streams": [
         "https://live-icy.dr.dk/A/A04L.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
-        "https://live-icy.dr.dk/A/A27L.mp3"
+        "https://live-icy.dr.dk/A/A27L.mp3",
+        "https://live-icy.gslb01.dr.dk/A/A04H.mp3"
       ]
     },
     "languages": [
@@ -218,8 +218,8 @@
     "name": "DR P4 Bornholm",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A30H.mp3",
         "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
+        "https://live-icy.dr.dk/A/A30H.mp3",
         "https://live-icy.gss.dr.dk/A/A06H.mp3"
       ]
     },
@@ -234,8 +234,8 @@
     "name": "DR P4 Esbjerg",
     "sources": {
       "streams": [
-        "https://live-icy.gslb01.dr.dk/A/A15H.mp3",
-        "https://live-icy.gss.dr.dk/A/A15H.mp3"
+        "https://live-icy.gss.dr.dk/A/A15H.mp3",
+        "https://live-icy.gslb01.dr.dk/A/A15H.mp3"
       ]
     },
     "languages": [
@@ -263,9 +263,9 @@
     "name": "DR P4 København",
     "sources": {
       "streams": [
+        "https://live-icy.dr.dk/A/A08H.mp3",
         "https://live-icy.gslb01.dr.dk/A/A08H.mp3",
-        "https://live-icy.gss.dr.dk/A/A08H.mp3",
-        "https://live-icy.dr.dk/A/A08H.mp3"
+        "https://live-icy.gss.dr.dk/A/A08H.mp3"
       ]
     },
     "languages": [
@@ -435,9 +435,9 @@
     "name": "DR P6 Beat",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A29H.mp3",
         "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
-        "https://live-icy.gss.dr.dk/A/A29H.mp3"
+        "https://live-icy.gss.dr.dk/A/A29H.mp3",
+        "https://live-icy.dr.dk/A/A29H.mp3"
       ]
     },
     "languages": [
@@ -451,8 +451,8 @@
     "name": "DR P8 Jazz",
     "sources": {
       "streams": [
-        "https://live-icy.gss.dr.dk/A/A22H.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A22H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A22H.mp3",
+        "https://live-icy.gss.dr.dk/A/A22H.mp3"
       ]
     },
     "languages": [
@@ -562,12 +562,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0LH1iPBpmMHJiN",
+    "name": "Nordic Lodge Copenhagen",
+    "sources": {
+      "streams": [
+        "https://radio.streemlion.com:1160/stream"
+      ]
+    },
+    "languages": [
+      "dan",
+      "eng"
+    ],
+    "country": "dk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tt1qwaCFwGO03J",
     "name": "NOVA",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/nova128.mp3",
-        "https://live-bauerdk.sharp-stream.com/nova_dk_mp3"
+        "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+        "https://live-bauerdk.sharp-stream.com/nova128.mp3"
       ]
     },
     "languages": [
@@ -666,8 +681,8 @@
     "name": "Radio 100",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
-        "https://live-bauerdk.sharp-stream.com/100fm_live.mp3"
+        "https://live-bauerdk.sharp-stream.com/100fm_live.mp3",
+        "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
       ]
     },
     "languages": [
@@ -991,8 +1006,8 @@
     "name": "Radio Soft",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
-        "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3"
+        "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3",
+        "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3"
       ]
     },
     "languages": [

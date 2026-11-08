@@ -18,8 +18,8 @@
     "name": "988 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac",
-        "https://28103.live.streamtheworld.com/988_FMAAC.aac"
+        "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac"
       ]
     },
     "languages": [
@@ -33,8 +33,8 @@
     "name": "Ai FM",
     "sources": {
       "streams": [
-        "https://22243.live.streamtheworld.com/AI_FMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
+        "https://22243.live.streamtheworld.com/AI_FMAAC.aac"
       ]
     },
     "languages": [
@@ -129,34 +129,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wlFNP5bxaAfNUb",
-    "name": "ERA FM",
-    "sources": {
-      "streams": [
-        "https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "msa"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VKF0y8aTYzSMc9",
-    "name": "ERA Sarawak",
-    "sources": {
-      "streams": [
-        "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "msa"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "enkaG1r1pJH3wR",
     "name": "FAKHRULNOIR FM",
     "sources": {
@@ -189,9 +161,7 @@
     "name": "Gegar",
     "sources": {
       "streams": [
-        "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8",
-        "https://stream.rcs.revma.com/cn0zcqsbv4uvv/3_nnbj39fs5lo702/playlist.m3u8",
-        "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8"
+        "https://stream.rcs.revma.com/cn0zcqsbv4uvv/3_nnbj39fs5lo702/playlist.m3u8"
       ]
     },
     "languages": [
@@ -272,20 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5Iou2VgeMdHe8S",
-    "name": "Kool 101",
-    "sources": {
-      "streams": [
-        "https://stream.rcs.revma.com/3930238mtd3vv/10_vqvq5cj8918202/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "msa"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1SQJLMXaLUmzPX",
     "name": "Langkawi FM",
     "sources": {
@@ -323,20 +279,6 @@
     },
     "languages": [
       "msa"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CHNWxeoRQ7buGF",
-    "name": "Melody FM",
-    "sources": {
-      "streams": [
-        "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
     ],
     "country": "my",
     "isGeoBlocked": false
@@ -403,8 +345,8 @@
     "name": "Nasional FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3",
-        "https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac"
+        "https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3"
       ]
     },
     "languages": [
@@ -460,8 +402,7 @@
     "name": "Raaga",
     "sources": {
       "streams": [
-        "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
-        "https://stream.rcs.revma.com/1ut6qwtbv4uvv/8_o6tv5gnlktme02/playlist.m3u8"
+        "https://n06.rcs.revma.com/1ut6qwtbv4uvv"
       ]
     },
     "languages": [
@@ -475,8 +416,8 @@
     "name": "Radio Klasik",
     "sources": {
       "streams": [
-        "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
+        "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac"
       ]
     },
     "languages": [
@@ -631,8 +572,8 @@
     "name": "Traxx FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
-        "https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac"
+        "https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
       ]
     },
     "languages": [
@@ -688,7 +629,6 @@
     "name": "Zayan",
     "sources": {
       "streams": [
-        "https://stream.rcs.revma.com/7ww2a4tbv4uvv/9_2qd0pfqh5m2302/playlist.m3u8",
         "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8"
       ]
     },

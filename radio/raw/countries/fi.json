@@ -62,8 +62,8 @@
     "name": "Groove FM",
     "sources": {
       "streams": [
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -250,6 +250,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "fi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d7VMc71XojDegl",
+    "name": "NinjaBox",
+    "sources": {
+      "streams": [
+        "https://djuplink.com/ninjabox.mp3"
+      ]
+    },
+    "languages": [
+      "fin"
     ],
     "country": "fi",
     "isGeoBlocked": false
@@ -472,8 +486,8 @@
     "name": "Radio Suomipop",
     "sources": {
       "streams": [
-        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [

@@ -86,20 +86,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xcGmAvDphRw1BU",
-    "name": "Elmari Tantsuõhtu",
-    "sources": {
-      "streams": [
-        "https://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac"
-      ]
-    },
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wKKIFs1nn8gof8",
     "name": "Estonian Party Radio",
     "sources": {
@@ -456,20 +442,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nk1e2jJuocCm5Z",
-    "name": "Raadio Duo",
-    "sources": {
-      "streams": [
-        "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac"
-      ]
-    },
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xVJ0iKIPS32M2H",
     "name": "Raadio Elmar",
     "sources": {
@@ -629,7 +601,6 @@
     "name": "Retro FM",
     "sources": {
       "streams": [
-        "https://edge02.cdn.bitflip.ee:8888/RETRO",
         "https://stream.skymedia.ee/live/RETRO_AAC"
       ]
     },
@@ -640,27 +611,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8MQS2ylYFIDFxU",
-    "name": "Retro Love",
-    "sources": {
-      "streams": [
-        "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud"
-      ]
-    },
-    "languages": [
-      "eng",
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OoBYQeOhsxFDgW",
     "name": "Ring FM",
     "sources": {
       "streams": [
-        "https://cdn.treraadio.ee/ringfm",
-        "https://cdn.treraadio.ee/tartustuudio"
+        "https://cdn.treraadio.ee/ringfm"
       ]
     },
     "languages": [
@@ -678,21 +633,6 @@
       ]
     },
     "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1Cb8o9qGVpZ5QD",
-    "name": "Rock FM Metal",
-    "sources": {
-      "streams": [
-        "https://edge04.cdn.bitflip.ee:8888/rckmetal"
-      ]
-    },
-    "languages": [
-      "eng",
       "est"
     ],
     "country": "ee",
@@ -728,21 +668,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JopG1HRJdbAhuk",
-    "name": "Sky Plus D'N'B",
-    "sources": {
-      "streams": [
-        "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
-        "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
-      ]
-    },
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ThxGIo5EOwkZvR",
     "name": "Sky Radio",
     "sources": {
@@ -752,6 +677,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pjog1m4ai2yw3c",
+    "name": "Sooviraadio",
+    "sources": {
+      "streams": [
+        "https://media.uunox.net:8888/;"
+      ]
+    },
+    "languages": [
+      "est"
     ],
     "country": "ee",
     "isGeoBlocked": false

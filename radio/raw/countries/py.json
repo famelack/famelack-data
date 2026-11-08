@@ -1,33 +1,5 @@
 [
   {
-    "nanoid": "eCFbAWFRBJERqq",
-    "name": "ABC Cardinal 730 AM",
-    "sources": {
-      "streams": [
-        "https://media.streambrothers.com:8342/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nl5uXgcnO5cZW8",
-    "name": "ABC FM 98.5",
-    "sources": {
-      "streams": [
-        "https://media.streambrothers.com:8350/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kBkcl4VHIocvBR",
     "name": "Canal 100",
     "sources": {
@@ -107,20 +79,6 @@
     "sources": {
       "streams": [
         "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uzvhi2mHEX4GyU",
-    "name": "Go Radio",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net:8002/go"
       ]
     },
     "languages": [
@@ -334,8 +292,8 @@
     "name": "Radio Monumental 1080 AM",
     "sources": {
       "streams": [
-        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
-        "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
+        "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
       ]
     },
     "languages": [

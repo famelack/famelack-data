@@ -63,7 +63,7 @@
     "sources": {
       "streams": [
         "https://21633.live.streamtheworld.com/AFNE_ICK_SC",
-        "https://25503.live.streamtheworld.com/AFNE_ICK_SC",
+        "https://25703.live.streamtheworld.com/AFNE_ICK_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC"
       ]
     },
@@ -249,8 +249,8 @@
     "name": "Bayram FM",
     "sources": {
       "streams": [
-        "https://sslyayin.netyayin.net/3442/stream/;stream.mp3",
-        "https://sslyayin.netyayin.net:10962/320.mp3"
+        "https://sslyayin.netyayin.net:10962/320.mp3",
+        "https://sslyayin.netyayin.net/3442/stream/;stream.mp3"
       ]
     },
     "languages": [
@@ -432,8 +432,8 @@
     "name": "Damar Türk FM",
     "sources": {
       "streams": [
-        "https://live.radyositesihazir.com:10997/;",
-        "https://live.radyositesihazir.com:10997/stream"
+        "https://live.radyositesihazir.com:10997/stream",
+        "https://live.radyositesihazir.com:10997/;"
       ]
     },
     "languages": [
@@ -670,8 +670,8 @@
     "name": "Diyanet Risalet Radyo",
     "sources": {
       "streams": [
-        "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
-        "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/mt.m3u8"
+        "https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/mt.m3u8",
+        "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -769,8 +769,8 @@
     "name": "Erkam Radyo",
     "sources": {
       "streams": [
-        "https://yayin2.canliyayin.org:10910/stream",
-        "https://api-tv5.yayin.com.tr:8002/mp3"
+        "https://api-tv5.yayin.com.tr:8002/mp3",
+        "https://yayin2.canliyayin.org:10910/stream"
       ]
     },
     "languages": [
@@ -897,8 +897,8 @@
     "name": "Gundi FM",
     "sources": {
       "streams": [
-        "https://gundifm.ozelip.com:7830/stream",
-        "https://gundifm.ozelip.com:7830/;"
+        "https://gundifm.ozelip.com:7830/;",
+        "https://gundifm.ozelip.com:7830/stream"
       ]
     },
     "languages": [
@@ -2112,20 +2112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mHQFfSibL1BaMN",
-    "name": "Radyo 2000 90.6 FM",
-    "sources": {
-      "streams": [
-        "https://edge1.socialsmart.tv/radyo2000/bant1/icecast.audio"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7J3tucWGl4THtt",
     "name": "Radyo Akdeniz",
     "sources": {
@@ -2201,6 +2187,34 @@
     "sources": {
       "streams": [
         "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PtqugCMPzUrQdM",
+    "name": "Radyo Delal",
+    "sources": {
+      "streams": [
+        "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "it9mhDncnPQdH7",
+    "name": "Radyo Dem",
+    "sources": {
+      "streams": [
+        "https://yayin.radyodem.com:8000/"
       ]
     },
     "languages": [
@@ -2295,6 +2309,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yMQLRMKbA4NbKi",
+    "name": "Radyo Fenomen 2010'lar",
+    "sources": {
+      "streams": [
+        "https://live.radyofenomen.com/fenomen2010/abr/playlist.m3u8",
+        "https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Lxv0PaL5FcLio8",
     "name": "Radyo Fenomen Akustik",
     "sources": {
@@ -2344,8 +2373,8 @@
     "name": "Radyo Fenomen Karışık",
     "sources": {
       "streams": [
-        "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8",
-        "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8"
+        "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
+        "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8"
       ]
     },
     "languages": [
@@ -2359,8 +2388,8 @@
     "name": "Radyo Fenomen Pop",
     "sources": {
       "streams": [
-        "https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8",
-        "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8"
+        "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
+        "https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8"
       ]
     },
     "languages": [
@@ -2701,8 +2730,8 @@
     "name": "Radyo ODTÜ Easy",
     "sources": {
       "streams": [
-        "https://stream.radyoodtu.com.tr/easy",
-        "https://stream3.radyoodtu.com.tr:8000/easy"
+        "https://stream3.radyoodtu.com.tr:8000/easy",
+        "https://stream.radyoodtu.com.tr/easy"
       ]
     },
     "languages": [
@@ -3439,8 +3468,8 @@
     "name": "TRT Radyo Kurdî",
     "sources": {
       "streams": [
-        "https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8",
-        "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8"
+        "https://radio-trtradyo6.medya.trt.com.tr/master.m3u8",
+        "https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8"
       ]
     },
     "languages": [
@@ -3764,6 +3793,20 @@
     "sources": {
       "streams": [
         "https://yarenfmn.80.yayin.com.tr//stream"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FtDy7ef3fjilin",
+    "name": "Yurt FM 97.8",
+    "sources": {
+      "streams": [
+        "https://wowza1.radyotvonline.com/idilpr/yurtfm.stream/playlist.m3u8"
       ]
     },
     "languages": [

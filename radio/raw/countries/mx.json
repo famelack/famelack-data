@@ -623,9 +623,9 @@
     "name": "Antena 102.5 FM",
     "sources": {
       "streams": [
+        "https://streamingcwsradio30.com:7093/;",
         "https://streamingcwsradio30.com:7093/listen.pls/",
-        "https://streamingcwsradio30.com:7093/stream",
-        "https://streamingcwsradio30.com:7093/;"
+        "https://streamingcwsradio30.com:7093/stream"
       ]
     },
     "languages": [
@@ -977,8 +977,8 @@
     "name": "Back FM 100.9",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVMFMAAC_SC"
       ]
     },
     "languages": [
@@ -1035,9 +1035,9 @@
     "name": "Beat 100.9 FM",
     "sources": {
       "streams": [
+        "https://18303.live.streamtheworld.com/XHSONFM_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac",
-        "https://18213.live.streamtheworld.com/XHSONFM_SC",
-        "https://18303.live.streamtheworld.com/XHSONFM_SC"
+        "https://18213.live.streamtheworld.com/XHSONFM_SC"
       ]
     },
     "languages": [
@@ -1463,8 +1463,8 @@
     "name": "Candela 95.3 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/tbnc01hc4p8uv",
-        "https://stream.zeno.fm/p3dkpzcr1v8uv"
+        "https://stream.zeno.fm/p3dkpzcr1v8uv",
+        "https://stream.zeno.fm/tbnc01hc4p8uv"
       ]
     },
     "languages": [
@@ -1942,8 +1942,8 @@
     "name": "Dinami-K 94.5 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC.aac"
       ]
     },
     "languages": [
@@ -2041,9 +2041,9 @@
     "name": "El Fonógrafo 690 AM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC_SC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC.aac"
       ]
     },
     "languages": [
@@ -2057,8 +2057,8 @@
     "name": "El Heraldo Radio 1190 AM",
     "sources": {
       "streams": [
-        "https://n06.radiojar.com/kyc75xss3f8uv",
-        "https://stream.radiojar.com/kyc75xss3f8uv"
+        "https://stream.radiojar.com/kyc75xss3f8uv",
+        "https://n06.radiojar.com/kyc75xss3f8uv"
       ]
     },
     "languages": [
@@ -2115,20 +2115,6 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR15_s01AAC.aac"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w5g5NUITdZDoWk",
-    "name": "El Viejón 98.3 FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/pwezjsgefu9tv"
       ]
     },
     "languages": [
@@ -2411,8 +2397,8 @@
     "name": "Exa FM 89.9",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3",
-        "https://stream.zeno.fm/fc7ydby53hhvv"
+        "https://stream.zeno.fm/fc7ydby53hhvv",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3"
       ]
     },
     "languages": [
@@ -2557,8 +2543,8 @@
     "sources": {
       "streams": [
         "https://audioout.gvstream.net/radiouniversal-exa973.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGCAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGCAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFMAAC.aac"
       ]
     },
     "languages": [
@@ -2643,8 +2629,8 @@
     "name": "Exa FM 99.3",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQ_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRA_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQ_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQAAC.aac"
       ]
     },
@@ -2732,8 +2718,8 @@
     "name": "Exa FM 101.3",
     "sources": {
       "streams": [
-        "https://stream5.mexiserver.com:1007/stream",
         "https://stream5.mexiserver.com:1007/exa",
+        "https://stream5.mexiserver.com:1007/stream",
         "https://stream9.mexiserver.com:8114/;"
       ]
     },
@@ -2805,8 +2791,8 @@
     "name": "Exa FM 104.1",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFMAAC.aac"
       ]
     },
@@ -2821,9 +2807,9 @@
     "name": "Exa FM 104.9",
     "sources": {
       "streams": [
-        "https://18213.live.streamtheworld.com/XHEXA_SC",
-        "https://29318.live.streamtheworld.com/XHEXA_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC"
+        "https://26433.live.streamtheworld.com/XHEXA_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC",
+        "https://18213.live.streamtheworld.com/XHEXA_SC"
       ]
     },
     "languages": [
@@ -2837,8 +2823,8 @@
     "name": "Exa FM 107.1",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPNSFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPNSFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPNSFMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPNSFMAAC.aac"
       ]
     },
     "languages": [
@@ -2923,6 +2909,20 @@
     "sources": {
       "streams": [
         "https://streaming.exclusive.radio/er-app/calvinharris/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KidbgYbjM9weWW",
+    "name": "Exclusively Charlie Puth",
+    "sources": {
+      "streams": [
+        "https://nl4.mystreaming.net/er-app/charlieputh/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3484,9 +3484,9 @@
     "name": "Fusión 90.1 FM",
     "sources": {
       "streams": [
+        "https://sg.centrocibernetico.com/fusion",
         "https://fusion.centrocibernetico.com/",
-        "https://sgaudio.centrocibernetico.com/fusion",
-        "https://sg.centrocibernetico.com/fusion"
+        "https://sgaudio.centrocibernetico.com/fusion"
       ]
     },
     "languages": [
@@ -3514,8 +3514,8 @@
     "name": "Génesis 98.1 FM",
     "sources": {
       "streams": [
-        "https://streamingcwsradio20.com:9406/stream",
-        "https://streamingcwsradio30.com/8238/stream"
+        "https://streamingcwsradio30.com/8238/stream",
+        "https://streamingcwsradio20.com:9406/stream"
       ]
     },
     "languages": [
@@ -4200,6 +4200,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yuV0y9bUiWbmd3",
+    "name": "La Bestia Grupera 90.5 FM",
+    "sources": {
+      "streams": [
+        "https://ss1.audiorama.com.mx:6578/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NItS0mSN6T8XNS",
     "name": "La Bestia Grupera 91.5 FM",
     "sources": {
@@ -4232,8 +4246,8 @@
     "name": "La Bestia Grupera 99.3 FM",
     "sources": {
       "streams": [
-        "https://ss1.audiorama.com.mx:6646/stream",
-        "https://ss1.audiorama.com.mx:6646/;stream"
+        "https://ss1.audiorama.com.mx:6646/;stream",
+        "https://ss1.audiorama.com.mx:6646/stream"
       ]
     },
     "languages": [
@@ -4304,20 +4318,6 @@
     "sources": {
       "streams": [
         "https://cdn1.onstream.audio/proxy/xhppo/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RTQj6NIxRgKtn6",
-    "name": "La Bonita del Norte 92.7 FM",
-    "sources": {
-      "streams": [
-        "https://stream3.mexiserver.com:10131/;"
       ]
     },
     "languages": [
@@ -4502,8 +4502,8 @@
     "name": "La Comadre 1260 AM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC_SC"
       ]
     },
     "languages": [
@@ -4616,9 +4616,9 @@
     "name": "La Fiera 94.1 FM",
     "sources": {
       "streams": [
-        "https://sgaudio.centrocibernetico.com/lafiera",
+        "https://sg.centrocibernetico.com/lafiera",
         "https://fiera.centrocibernetico.com/",
-        "https://sg.centrocibernetico.com/lafiera"
+        "https://sgaudio.centrocibernetico.com/lafiera"
       ]
     },
     "languages": [
@@ -4674,9 +4674,9 @@
     "name": "La Grande 97.1 FM",
     "sources": {
       "streams": [
+        "https://radioforte.com:8004/;",
         "https://radioforte.com:8004/stream",
-        "https://radioforte.com/8004/stream",
-        "https://radioforte.com:8004/;"
+        "https://radioforte.com/8004/stream"
       ]
     },
     "languages": [
@@ -4901,8 +4901,7 @@
     "name": "La Ke Buena 90.1 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/5t4ngp8hfphvv",
-        "https://streaming.servicioswebmx.com:8304/stream/1/"
+        "https://stream.zeno.fm/5t4ngp8hfphvv"
       ]
     },
     "languages": [
@@ -5101,6 +5100,20 @@
     "sources": {
       "streams": [
         "https://stream9.mexiserver.com:8020/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cflwbZhR75HVEL",
+    "name": "La Ke Buena 105.7 FM",
+    "sources": {
+      "streams": [
+        "https://kebuenaslp.b-cdn.net/stream"
       ]
     },
     "languages": [
@@ -5409,8 +5422,8 @@
     "name": "La Mejor 90.7 FM",
     "sources": {
       "streams": [
-        "https://14223.live.streamtheworld.com/XHTIM_SC",
         "https://18213.live.streamtheworld.com/XHTIM_SC",
+        "https://18303.live.streamtheworld.com/XHTIM_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM_SC"
       ]
     },
@@ -5552,8 +5565,8 @@
     "name": "La Mejor 97.7 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFM.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC.aac"
       ]
     },
@@ -5596,8 +5609,8 @@
     "name": "La Mejor 99.9 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSOFM_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSOFM_SC"
       ]
     },
     "languages": [
@@ -5611,8 +5624,8 @@
     "name": "La Mejor 100.1 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSE_SC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJT_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJT_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSE_SC.aac"
       ]
     },
     "languages": [
@@ -5992,8 +6005,8 @@
     "name": "La Patrona 95.1 FM",
     "sources": {
       "streams": [
-        "https://streamingcwsradio30.com:7064/listen.pls/",
-        "https://streamingcwsradio30.com:7064/;"
+        "https://streamingcwsradio30.com:7064/;",
+        "https://streamingcwsradio30.com:7064/listen.pls/"
       ]
     },
     "languages": [
@@ -6372,6 +6385,7 @@
     "name": "La Radio de Sudcalifornia 99.1 FM",
     "sources": {
       "streams": [
+        "https://stream.zeno.fm/69hk1a8x5rhvv",
         "https://stream.zeno.fm/z4yhsevc998uv"
       ]
     },
@@ -6387,6 +6401,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/u1q3a220974tv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x9JQpyUwiyS7Bk",
+    "name": "La Ranchera 97.3 FM",
+    "sources": {
+      "streams": [
+        "https://live.zuperdns.net/9730/stream/;stream.mp3"
       ]
     },
     "languages": [
@@ -6513,20 +6541,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/6ga3mhs91rhvv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OJp4jI3KhOHFMQ",
-    "name": "La Rancherita del Aire 580 AM",
-    "sources": {
-      "streams": [
-        "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3"
       ]
     },
     "languages": [
@@ -6779,6 +6793,20 @@
     "sources": {
       "streams": [
         "https://streaming.servicioswebmx.com/8286/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M7NQ5aZaa1NMiU",
+    "name": "La Z 96.5 FM",
+    "sources": {
+      "streams": [
+        "https://radios.blumhost.es/8104/;"
       ]
     },
     "languages": [
@@ -7337,20 +7365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wUOY1YVyQwgQdI",
-    "name": "LOS40 94.1 FM",
-    "sources": {
-      "streams": [
-        "https://streamingv2.shoutcast.com/los-40-mochis-941-fm"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4sVEm0yR7BDAJx",
     "name": "LOS40 95.7 FM",
     "sources": {
@@ -7809,8 +7823,8 @@
     "name": "Match 97.5 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPQFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPQFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPQFMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPQFMAAC.aac"
       ]
     },
     "languages": [
@@ -7852,8 +7866,8 @@
     "name": "Match 100.1 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCNAFM_SC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCNAFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCNAFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCNAFM_SC.aac"
       ]
     },
     "languages": [
@@ -8091,7 +8105,6 @@
     "name": "Mexicanísima 98.9 FM",
     "sources": {
       "streams": [
-        "https://s2.mexside.net/8012/stream",
         "https://stream.zeno.fm/4xwhyk6xr98uv"
       ]
     },
@@ -8107,8 +8120,8 @@
     "sources": {
       "streams": [
         "https://streamingcwsradio30.com:7049/;",
-        "https://streamingcwsradio30.com:7049/listen.pls/",
-        "https://streamingcwsradio30.com:7049/mexiquense"
+        "https://streamingcwsradio30.com:7049/mexiquense",
+        "https://streamingcwsradio30.com:7049/listen.pls/"
       ]
     },
     "languages": [
@@ -8167,8 +8180,8 @@
     "name": "Mexiquense Radio 1600 AM",
     "sources": {
       "streams": [
-        "https://streamingcwsradio30.com:7046/;",
-        "https://streamingcwsradio30.com:7046/listen.pls/"
+        "https://streamingcwsradio30.com:7046/listen.pls/",
+        "https://streamingcwsradio30.com:7046/;"
       ]
     },
     "languages": [
@@ -8367,8 +8380,8 @@
     "name": "Mix 106.5 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGVAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGVAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac"
       ]
     },
     "languages": [
@@ -8425,8 +8438,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac"
       ]
     },
     "languages": [
@@ -8693,8 +8706,8 @@
     "name": "Oye 89.7 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac"
       ]
     },
     "languages": [
@@ -8836,20 +8849,6 @@
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_917.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_917AAC.aac"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPW4wfx9gQAYxB",
-    "name": "Proyecto Puente",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:8200/stream"
       ]
     },
     "languages": [
@@ -9073,6 +9072,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uiLUKd925kh56N",
+    "name": "Radio Altiplano 96.5 FM",
+    "sources": {
+      "streams": [
+        "https://radio11.mega00.com/8018/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "umJhUkkDqIwNKa",
     "name": "Radio Anime Nexus",
     "sources": {
@@ -9093,6 +9106,34 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/4nuk5ea9e18uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cuyMpYtFrXXNxH",
+    "name": "Radio Bemba",
+    "sources": {
+      "streams": [
+        "https://radio.e-ver.com.mx:8001/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "azpzzaDJro1v6w",
+    "name": "Radio Calpulalpan 94.3 FM",
+    "sources": {
+      "streams": [
+        "https://radio11.mega00.com/8006/stream"
       ]
     },
     "languages": [
@@ -9191,9 +9232,9 @@
     "name": "Radio Centro 1030 AM",
     "sources": {
       "streams": [
-        "https://29306.live.streamtheworld.com/XEQR_AMAAC_SC",
+        "https://27063.live.streamtheworld.com/XEQR_AMAAC_SC",
         "https://26283.live.streamtheworld.com/XEQR_AMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC_SC"
       ]
     },
     "languages": [
@@ -9588,7 +9629,7 @@
     "name": "Radio Fórmula 88.7 FM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/bne9eazp2p8uv",
+        "https://stream.radiojar.com/qpv58fef3p8uv",
         "https://n01.radiojar.com/qpv58fef3p8uv",
         "https://n07.radiojar.com/bne9eazp2p8uv"
       ]
@@ -9604,8 +9645,8 @@
     "name": "Radio Fórmula 89.1 FM",
     "sources": {
       "streams": [
-        "https://n07.radiojar.com/u9zvqwen3p8uv",
         "https://n0d.radiojar.com/u9zvqwen3p8uv",
+        "https://n07.radiojar.com/u9zvqwen3p8uv",
         "https://stream.radiojar.com/u9zvqwen3p8uv"
       ]
     },
@@ -9620,8 +9661,8 @@
     "name": "Radio Fórmula 89.3 FM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/332kkh84xp8uv",
-        "https://n07.radiojar.com/332kkh84xp8uv"
+        "https://n07.radiojar.com/332kkh84xp8uv",
+        "https://stream.radiojar.com/332kkh84xp8uv"
       ]
     },
     "languages": [
@@ -9635,8 +9676,8 @@
     "name": "Radio Fórmula 89.5 FM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/w993u854xp8uv",
-        "https://n0c.radiojar.com/w993u854xp8uv"
+        "https://n0c.radiojar.com/w993u854xp8uv",
+        "https://stream.radiojar.com/w993u854xp8uv"
       ]
     },
     "languages": [
@@ -9781,8 +9822,8 @@
     "name": "Radio Fórmula 101.7 FM",
     "sources": {
       "streams": [
-        "https://n09.radiojar.com/bsu9493n3p8uv",
-        "https://stream.radiojar.com/bsu9493n3p8uv"
+        "https://stream.radiojar.com/bsu9493n3p8uv",
+        "https://n09.radiojar.com/bsu9493n3p8uv"
       ]
     },
     "languages": [
@@ -9839,8 +9880,8 @@
     "name": "Radio Fórmula 105.1 FM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/f7zt43bp3p8uv",
-        "https://n01.radiojar.com/f7zt43bp3p8uv"
+        "https://n01.radiojar.com/f7zt43bp3p8uv",
+        "https://stream.radiojar.com/f7zt43bp3p8uv"
       ]
     },
     "languages": [
@@ -9868,8 +9909,23 @@
     "name": "Radio Fórmula 105.5 FM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/13ptp3cn3p8uv",
-        "https://n06.radiojar.com/bhd04xcn3p8uv"
+        "https://n06.radiojar.com/bhd04xcn3p8uv",
+        "https://stream.radiojar.com/13ptp3cn3p8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AA9WZ0d1f5tWgp",
+    "name": "Radio Fórmula 105.9 FM",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/bfews6ef3p8uv",
+        "https://n0a.radiojar.com/bfews6ef3p8uv"
       ]
     },
     "languages": [
@@ -9913,8 +9969,8 @@
     "name": "Radio Fórmula 107.1 FM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/9f04hpdn3p8uv",
-        "https://n04.radiojar.com/9f04hpdn3p8uv"
+        "https://n04.radiojar.com/9f04hpdn3p8uv",
+        "https://stream.radiojar.com/9f04hpdn3p8uv"
       ]
     },
     "languages": [
@@ -10015,9 +10071,9 @@
     "name": "Radio Fórmula 1230 AM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/nk2k3a84xp8uv",
         "https://n06.radiojar.com/n12qp914xp8uv",
-        "https://n06.radiojar.com/nk2k3a84xp8uv"
+        "https://n06.radiojar.com/nk2k3a84xp8uv",
+        "https://stream.radiojar.com/nk2k3a84xp8uv"
       ]
     },
     "languages": [
@@ -10031,8 +10087,8 @@
     "name": "Radio Fórmula 1460 AM",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/fh5c5rmr2p8uv",
-        "https://n0f.radiojar.com/fh5c5rmr2p8uv"
+        "https://n0f.radiojar.com/fh5c5rmr2p8uv",
+        "https://stream.radiojar.com/fh5c5rmr2p8uv"
       ]
     },
     "languages": [
@@ -10244,8 +10300,8 @@
     "name": "Radio Madera 96.1 FM",
     "sources": {
       "streams": [
-        "https://streamingcwsradio30.com:7113/;",
-        "https://streamingcwsradio30.com:7113/listen.pls/"
+        "https://streamingcwsradio30.com:7113/listen.pls/",
+        "https://streamingcwsradio30.com:7113/;"
       ]
     },
     "languages": [
@@ -10485,8 +10541,8 @@
     "sources": {
       "streams": [
         "https://29306.live.streamtheworld.com/XHFO_FMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC_SC",
-        "https://26283.live.streamtheworld.com/XHFO_FMAAC_SC"
+        "https://27063.live.streamtheworld.com/XHFO_FMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC_SC"
       ]
     },
     "languages": [
@@ -10500,9 +10556,9 @@
     "name": "Radio Red 1110 AM",
     "sources": {
       "streams": [
+        "https://27063.live.streamtheworld.com/XERED_AMAAC_SC",
         "https://29306.live.streamtheworld.com/XERED_AMAAC_SC",
-        "https://26283.live.streamtheworld.com/XERED_AMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC_SC"
       ]
     },
     "languages": [
@@ -10592,6 +10648,20 @@
     "languages": [
       "eng",
       "jpn",
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9uLOJBPiQnk7Tq",
+    "name": "Radio Tlaxcala 1430 AM",
+    "sources": {
+      "streams": [
+        "https://radio11.mega00.com/8022/stream"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "mx",
@@ -10701,20 +10771,6 @@
     "sources": {
       "streams": [
         "https://c3.radioboss.fm:8161/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pcwrbIDOyhZAW3",
-    "name": "Radio UDG 104.3 FM",
-    "sources": {
-      "streams": [
-        "https://streamingv2.shoutcast.com/radio-udg-guadalajara-1043"
       ]
     },
     "languages": [
@@ -10897,6 +10953,20 @@
     "sources": {
       "streams": [
         "https://radio.uady.mx:8443/radiouniversidad"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z5ripzKQ37248V",
+    "name": "Radio Universidad UAQ 89.5 FM",
+    "sources": {
+      "streams": [
+        "https://estaciones.uaq.mx:8000/radio.mp3"
       ]
     },
     "languages": [
@@ -11131,20 +11201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yxqPca7wTVU6L9",
-    "name": "Retro FM 88.1",
-    "sources": {
-      "streams": [
-        "https://ss1.audiorama.com.mx:6658/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "45KPsDQWCfn0x6",
     "name": "Retro FM 103.1",
     "sources": {
@@ -11206,20 +11262,6 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR20_s01AAC.aac"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V7hYHKQN9Hj7rZ",
-    "name": "Rocola 9-90 990 AM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/bcbs57s5dkhvv"
       ]
     },
     "languages": [
@@ -11318,8 +11360,8 @@
     "name": "San Juan FM 96.1",
     "sources": {
       "streams": [
-        "https://live.zuperdns.net/6961/stream/;%20stream.mp3",
-        "https://live.zuperdns.net/6961/stream/;stream.mp3"
+        "https://live.zuperdns.net/6961/stream/;stream.mp3",
+        "https://live.zuperdns.net/6961/stream/;%20stream.mp3"
       ]
     },
     "languages": [
@@ -11545,8 +11587,8 @@
     "name": "Stereo Cien",
     "sources": {
       "streams": [
-        "https://29321.live.streamtheworld.com/XHMMFMAAC_SC",
-        "https://29308.live.streamtheworld.com/XHMMFMAAC_SC"
+        "https://26303.live.streamtheworld.com/XHMMFMAAC_SC",
+        "https://29321.live.streamtheworld.com/XHMMFMAAC_SC"
       ]
     },
     "languages": [
@@ -11785,8 +11827,8 @@
     "name": "Super Estelar 92.9 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCDUFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCDUFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCDUFMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCDUFMAAC.aac"
       ]
     },
     "languages": [
@@ -11971,6 +12013,20 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR17_s01AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xb2svWSzvrVmH9",
+    "name": "Tronica FM",
+    "sources": {
+      "streams": [
+        "https://stream.tronica.fm:8000/radio.mp3"
       ]
     },
     "languages": [
@@ -12397,8 +12453,8 @@
     "sources": {
       "streams": [
         "https://stream-144.zeno.fm/gs4xg5s0csmtv",
-        "https://stream-48.zeno.fm/gs4xg5s0csmtv",
-        "https://stream.zeno.fm/8g8stpnx82quv"
+        "https://stream.zeno.fm/8g8stpnx82quv",
+        "https://stream-48.zeno.fm/gs4xg5s0csmtv"
       ]
     },
     "languages": [
@@ -12581,8 +12637,8 @@
     "name": "W Deportes 730 AM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC_SC"
       ]
     },
     "languages": [
@@ -13010,8 +13066,8 @@
     "name": "Ya! FM 95.7",
     "sources": {
       "streams": [
-        "https://sg.centrocibernetico.com/yafmvillahermosa",
-        "https://sgaudio.centrocibernetico.com/yafmvillahermosa"
+        "https://sgaudio.centrocibernetico.com/yafmvillahermosa",
+        "https://sg.centrocibernetico.com/yafmvillahermosa"
       ]
     },
     "languages": [
@@ -13082,20 +13138,6 @@
     "sources": {
       "streams": [
         "https://az11.yesstreaming.net:8500/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZZyPLGuCOmJR04",
-    "name": "Zona Urbana 101.9 FM",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/9bs4fcs77gruv"
       ]
     },
     "languages": [

@@ -43,21 +43,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mKg6mMYpE3AukX",
-    "name": "NS-Rock",
-    "sources": {
-      "streams": [
-        "https://icecast.ns.kz/radions"
-      ]
-    },
-    "languages": [
-      "kaz",
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kyUWfLQIZkaQui",
     "name": "Palmera Blanca radio",
     "sources": {
@@ -209,8 +194,8 @@
     "name": "Radio TMK",
     "sources": {
       "streams": [
-        "https://listen.myrh.ru/radiotmk",
-        "https://a4.radioheart.ru:9036/RH13170"
+        "https://a4.radioheart.ru:9036/RH13170",
+        "https://listen.myrh.ru/radiotmk"
       ]
     },
     "languages": [

@@ -612,20 +612,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NuIbrmhlC0i4r4",
-    "name": "Campus & City Radio 94.4",
-    "sources": {
-      "streams": [
-        "https://cr944.at:50443/cr944"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fI1IP8MUjoxDlk",
     "name": "Chromatique Sky",
     "sources": {
@@ -1626,21 +1612,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1QBt3gSWP6B30X",
-    "name": "Radio Agora 105.5",
-    "sources": {
-      "streams": [
-        "https://livestream.agora.at/agora"
-      ]
-    },
-    "languages": [
-      "deu",
-      "slv"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aOupz4Y3vPOmZn",
     "name": "Radio Alpenstar",
     "sources": {
@@ -1778,7 +1749,8 @@
     "name": "Radio Arabella Hot",
     "sources": {
       "streams": [
-        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
+        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile",
+        "https://edge12.streams.arabella.at/arabella-hot"
       ]
     },
     "languages": [
@@ -2487,8 +2459,8 @@
     "name": "Radio U1 Tirol",
     "sources": {
       "streams": [
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
         "https://live.u1-radio.at/",
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
         "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },
@@ -2574,9 +2546,9 @@
     "name": "Radio Wien",
     "sources": {
       "streams": [
-        "https://orf-live.ors-shoutcast.at/wie-q2a",
         "https://ors-sn05.ors-shoutcast.at/wie-q2a",
-        "https://orf-live.ors-shoutcast.at/wie-q1a"
+        "https://orf-live.ors-shoutcast.at/wie-q2a",
+        "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
       ]
     },
     "languages": [
@@ -2762,8 +2734,8 @@
     "name": "Spirit Live Radio",
     "sources": {
       "streams": [
-        "https://server7606.streamplus.de/;",
-        "https://server7606.streamplus.de/listen.pls/"
+        "https://server7606.streamplus.de/listen.pls/",
+        "https://server7606.streamplus.de/;"
       ]
     },
     "languages": [
@@ -2792,6 +2764,21 @@
     "sources": {
       "streams": [
         "https://stahlradio.spcast.eu/stream"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7C8xJTE7Gn9Owk",
+    "name": "Styria Lounge",
+    "sources": {
+      "streams": [
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [
@@ -2960,7 +2947,6 @@
     "name": "WELLE 1 Oberösterreich",
     "sources": {
       "streams": [
-        "https://live.welle1.at:17256/stream",
         "https://live.welle1.at:17128/stream"
       ]
     },
@@ -2991,6 +2977,20 @@
     "sources": {
       "streams": [
         "https://yeshua.at:8443/stream"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ql5iuC2ckeoxzL",
+    "name": "YU Radio",
+    "sources": {
+      "streams": [
+        "https://stream.radiotechnikum.at:80/YURADIO"
       ]
     },
     "languages": [

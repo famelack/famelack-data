@@ -4,8 +4,8 @@
     "name": "4Drive Jazz",
     "sources": {
       "streams": [
-        "https://radio.streemlion.com:4870/stream",
-        "https://radio.streemlion.com:1150/stream"
+        "https://radio.streemlion.com:1150/stream",
+        "https://radio.streemlion.com:4870/stream"
       ]
     },
     "languages": [
@@ -35,8 +35,8 @@
     "sources": {
       "streams": [
         "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8",
-        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
-        "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8"
+        "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -124,8 +124,8 @@
     "name": "Antena 2 Jazzin",
     "sources": {
       "streams": [
-        "https://radiocast.rtp.pt/antena2jazzin80a.mp3",
-        "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8"
+        "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8",
+        "https://radiocast.rtp.pt/antena2jazzin80a.mp3"
       ]
     },
     "languages": [
@@ -155,8 +155,8 @@
     "name": "Antena 3",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena380a.mp3"
       ]
     },
@@ -319,6 +319,35 @@
     },
     "languages": [
       "eng",
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GHkAziDKCMY6Cu",
+    "name": "Jovembsk",
+    "sources": {
+      "streams": [
+        "https://stream-42.zeno.fm/ppgb4k7vhqztv",
+        "https://stream-54.zeno.fm/ppgb4k7vhqztv"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ivXct5c1ibX9SR",
+    "name": "Jovembsk Mix",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4nc1mzdp81xuv"
+      ]
+    },
+    "languages": [
       "por"
     ],
     "country": "pt",
@@ -594,20 +623,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xbqbMxyW5Ytwb1",
-    "name": "Oceano Pacífico",
-    "sources": {
-      "streams": [
-        "https://stm7.xradios.com.br:6944/live"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4A7RKAWxAdkZSF",
     "name": "Porão da Nau Radio",
     "sources": {
@@ -680,11 +695,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pk1YRIjeHjHHBQ",
-    "name": "Rádio Botaréu",
+    "nanoid": "rOiPp2gJiw6741",
+    "name": "Rádio Calheta",
     "sources": {
       "streams": [
-        "https://nl.digitalrm.pt:8238/stream"
+        "https://player.radiocalheta.pt/listen/radiocalheta/live"
       ]
     },
     "languages": [
@@ -1135,7 +1150,6 @@
     "name": "Rádio Observador",
     "sources": {
       "streams": [
-        "https://streamingv2.shoutcast.com/observador_64.aac",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac"
       ]
     },
@@ -1235,8 +1249,8 @@
     "sources": {
       "streams": [
         "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC"
       ]
     },
     "languages": [
@@ -1404,20 +1418,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KAQ8a0tkWWjig2",
-    "name": "RES FM 107.9",
-    "sources": {
-      "streams": [
-        "https://stream2.soundflux.eu:8440/stream"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZIa9mAJ7qSmZKX",
     "name": "Rewind 2000's",
     "sources": {
@@ -1436,9 +1436,9 @@
     "name": "RFM",
     "sources": {
       "streams": [
-        "https://23603.live.streamtheworld.com/RFMAAC.aac",
         "https://22593.live.streamtheworld.com/RFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
+        "https://23603.live.streamtheworld.com/RFMAAC.aac"
       ]
     },
     "languages": [

@@ -76,7 +76,8 @@
     "name": "Arrow FM 92.7",
     "sources": {
       "streams": [
-        "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8"
+        "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8",
+        "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -217,6 +218,7 @@
     "name": "Coast Access Radio 104.7 FM",
     "sources": {
       "streams": [
+        "https://live.accessmedia.nz/Coast.stream/playlist.m3u8",
         "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8"
       ]
     },
@@ -312,6 +314,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "koo3aQCxPXn3bd",
+    "name": "Galaxy 107 FM",
+    "sources": {
+      "streams": [
+        "https://s39.myradiostream.com:14858/;listen.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UiTOjaqCzJ7ZB2",
     "name": "George FM",
     "sources": {
@@ -388,20 +404,6 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0AWeYkP8bCRRuo",
-    "name": "Jake Music",
-    "sources": {
-      "streams": [
-        "https://camera.jakebriggs.com/jakemusic"
       ]
     },
     "languages": [
@@ -580,6 +582,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j93w3xfQoFRKjZ",
+    "name": "MPR Manawatu People's Radio",
+    "sources": {
+      "streams": [
+        "https://live.accessmedia.nz/MPR.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L8iu5iQzjdmtWt",
     "name": "Mushroom Escape",
     "sources": {
@@ -652,6 +668,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TBAC3Z2z5vFEGD",
+    "name": "OAR FM Dunedin 105.4",
+    "sources": {
+      "streams": [
+        "https://live.accessmedia.nz/Otago.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZeSQcPnpKrxa5w",
     "name": "OAR FM Otago Access Radio",
     "sources": {
@@ -698,7 +728,8 @@
     "name": "Plains FM 96.9",
     "sources": {
       "streams": [
-        "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8"
+        "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
+        "https://live.accessmedia.nz/plains.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -712,6 +743,7 @@
     "name": "Planet FM 104.6",
     "sources": {
       "streams": [
+        "https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8",
         "https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8"
       ]
     },
@@ -828,11 +860,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hSdUFZCB9iUAKM",
-    "name": "Radio Hydra",
+    "nanoid": "VgwqWhQwYW9KMf",
+    "name": "Radio Hawke's Bay",
     "sources": {
       "streams": [
-        "https://streaming.radio.co/sed9109681/listen"
+        "https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -938,6 +970,20 @@
       "eng",
       "hin",
       "pan"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v0DdlJiplylZbk",
+    "name": "Radio Te Aroha 88 FM",
+    "sources": {
+      "streams": [
+        "https://c2.radioboss.fm:18440/stream"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "nz",
     "isGeoBlocked": false
@@ -1172,6 +1218,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KfivZuffe90PSI",
+    "name": "Switch FM 97.9",
+    "sources": {
+      "streams": [
+        "https://s8.myradiostream.com:56886/listen.m4a"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "psxMeBPKPRtNHA",
     "name": "Talk Nelson",
     "sources": {
@@ -1361,6 +1421,20 @@
     "sources": {
       "streams": [
         "https://radio.wanderingsheep.tv:8000/jazzcafe"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i3FgIfD272ZN7n",
+    "name": "Wellington Access Radio",
+    "sources": {
+      "streams": [
+        "https://live.accessmedia.nz/Wellington.stream/playlist.m3u8"
       ]
     },
     "languages": [

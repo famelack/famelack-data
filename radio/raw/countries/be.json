@@ -46,8 +46,8 @@
     "name": "AFN 360 Benelux",
     "sources": {
       "streams": [
-        "https://25583.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://27913.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://25453.live.streamtheworld.com/AFNE_BLX_SC",
+        "https://25603.live.streamtheworld.com/AFNE_BLX_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC"
       ]
     },
@@ -144,20 +144,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fFrmnaOYPyWq5A",
-    "name": "Best Oldies Radio",
-    "sources": {
-      "streams": [
-        "https://a8.asurahosting.com:8090/radio.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8RyZPBAN7TMXQr",
     "name": "BRF 1",
     "sources": {
@@ -242,20 +228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X24PbmoOxlC4BD",
-    "name": "Candie Radio",
-    "sources": {
-      "streams": [
-        "https://clubfmserver.be/pink.mp3"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gb6pCrB6kaCHY6",
     "name": "Chérie Belgique",
     "sources": {
@@ -331,9 +303,9 @@
     "name": "Classic 21",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/classic21-128.mp3",
         "https://radios.rtbf.be/classic21-64.aac",
-        "https://radio.rtbf.be/c21/aac-128/fl"
+        "https://radio.rtbf.be/c21/aac-128/fl",
+        "https://radios.rtbf.be/classic21-128.mp3"
       ]
     },
     "languages": [
@@ -905,8 +877,8 @@
     "name": "Klara",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klara.aac",
-        "https://icecast.vrtcdn.be/klara-high.mp3"
+        "https://icecast.vrtcdn.be/klara-high.mp3",
+        "https://icecast.vrtcdn.be/klara.aac"
       ]
     },
     "languages": [
@@ -920,8 +892,8 @@
     "name": "Klara Continuo",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-        "https://icecast.vrtcdn.be/klaracontinuo.aac"
+        "https://icecast.vrtcdn.be/klaracontinuo.aac",
+        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
       ]
     },
     "languages": [
@@ -1174,9 +1146,9 @@
     "name": "Nostalgie",
     "sources": {
       "streams": [
+        "https://stream.rcs.revma.com/5gd04cwptg0uv",
         "https://22193.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
-        "https://stream.rcs.revma.com/5gd04cwptg0uv"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3"
       ]
     },
     "languages": [
@@ -1391,8 +1363,8 @@
     "name": "Q-Allstars",
     "sources": {
       "streams": [
-        "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3",
-        "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
+        "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+        "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3"
       ]
     },
     "languages": [
@@ -1731,7 +1703,8 @@
     "name": "Radio Internazionale",
     "sources": {
       "streams": [
-        "https://str01.fluidstream.net/fluid06.mp3"
+        "https://str01.fluidstream.net/fluid06.mp3",
+        "https://ice07.fluidstream.net:8080/fluid713.aac"
       ]
     },
     "languages": [
@@ -2165,20 +2138,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lGznSjjbsTkE6J",
-    "name": "RCF Liège",
-    "sources": {
-      "streams": [
-        "https://rcf.streamakaci.com/rcfliege.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rSh23WiEDhjg90",
     "name": "RCF Sud Belgique",
     "sources": {
@@ -2239,8 +2198,8 @@
     "name": "RTBF La Première",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/laprem1erebxl-128.mp3",
-        "https://radios.rtbf.be/laprem1ere-64.aac"
+        "https://radios.rtbf.be/laprem1ere-64.aac",
+        "https://radios.rtbf.be/laprem1erebxl-128.mp3"
       ]
     },
     "languages": [
@@ -2254,8 +2213,8 @@
     "name": "RTBF Musiq3",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
-        "https://radios.rtbf.be/musiq3-128.aac"
+        "https://radios.rtbf.be/musiq3-128.aac",
+        "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
       ]
     },
     "languages": [
@@ -2423,8 +2382,8 @@
     "name": "Studio Brussel",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/stubru-high.mp3",
         "https://icecast.vrtcdn.be/stubru.aac",
+        "https://icecast.vrtcdn.be/stubru-high.mp3",
         "https://icecast.vrtcdn.be/stubru-mid.mp3"
       ]
     },
@@ -2853,7 +2812,7 @@
       "streams": [
         "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
         "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
-        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac"
       ]
     },
     "languages": [

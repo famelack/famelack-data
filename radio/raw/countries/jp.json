@@ -4,7 +4,7 @@
     "name": "AFN Tokyo",
     "sources": {
       "streams": [
-        "https://17633.live.streamtheworld.com/AFNP_TKO_SC",
+        "https://13743.live.streamtheworld.com/AFNP_TKO_SC",
         "https://18433.live.streamtheworld.com/AFNP_TKO_SC"
       ]
     },
@@ -172,41 +172,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QcdNMaoKaY56oV",
-    "name": "Gensokyo Radio",
-    "sources": {
-      "streams": [
-        "https://stream.gensokyoradio.net/3",
-        "https://stream.gensokyoradio.net/2"
-      ]
-    },
-    "languages": [
-      "eng",
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KQjtzJrNHracQa",
     "name": "Gotanno FM",
     "sources": {
       "streams": [
         "https://radio.gotanno.love/;"
-      ]
-    },
-    "languages": [
-      "jpn"
-    ],
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xUQIWxoc69t5hM",
-    "name": "Hitsujikai Radio",
-    "sources": {
-      "streams": [
-        "https://streaming.radio.co/se4a8e6a93/listen"
       ]
     },
     "languages": [
@@ -350,9 +320,9 @@
     "name": "LISTEN.moe K-Pop",
     "sources": {
       "streams": [
-        "https://listen.moe/kpop/opus",
         "https://listen.moe/kpop/fallback",
-        "https://listen.moe/kpop/stream"
+        "https://listen.moe/kpop/stream",
+        "https://listen.moe/kpop/opus"
       ]
     },
     "languages": [

@@ -1,26 +1,12 @@
 [
   {
-    "nanoid": "qwPX4jxcZZ7vcH",
-    "name": "011 Radio",
-    "sources": {
-      "streams": [
-        "https://sv2.famcast.co.za/stream/011_radio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9EzUBMpOO1s7pT",
     "name": "702",
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://22353.live.streamtheworld.com/FM702_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC"
+        "https://22673.live.streamtheworld.com/FM702_SC",
+        "https://22603.live.streamtheworld.com/FM702_SC"
       ]
     },
     "languages": [
@@ -49,9 +35,9 @@
     "name": "947",
     "sources": {
       "streams": [
-        "https://25653.live.streamtheworld.com/FM947AAC_SC",
-        "https://27873.live.streamtheworld.com/FM947_SC",
-        "https://28033.live.streamtheworld.com/FM947_SC"
+        "https://29073.live.streamtheworld.com/FM947_SC",
+        "https://19983.live.streamtheworld.com/FM947AAC_SC",
+        "https://22673.live.streamtheworld.com/FM947AAC_SC"
       ]
     },
     "languages": [
@@ -75,6 +61,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KdjVgYVbuA2IH0",
+    "name": "Aganang FM Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6izJI1IUxXMZJQ",
     "name": "Algoa FM",
     "sources": {
@@ -91,8 +89,8 @@
     "name": "Amapiano FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/xs6zeac1ts8uv",
-        "https://stream-37.zeno.fm/xs6zeac1ts8uv"
+        "https://stream-37.zeno.fm/xs6zeac1ts8uv",
+        "https://stream.zeno.fm/xs6zeac1ts8uv"
       ]
     },
     "languages": [
@@ -185,9 +183,9 @@
     "name": "Cape Talk",
     "sources": {
       "streams": [
-        "https://22183.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
-        "https://25683.live.streamtheworld.com/CAPE_TALK_SC"
+        "https://25503.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://25453.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC"
       ]
     },
     "languages": [
@@ -382,6 +380,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eTj1QSqORvtbnf",
+    "name": "Gagasi FM",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pG7eIXtDoKwuAB",
     "name": "Gay SA Radio",
     "sources": {
@@ -522,6 +532,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TigX3uH29zKAAD",
+    "name": "Inanda FM 88.4",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ux0I3m6e6kyUpL",
+    "name": "Izwi lomzansi 98.0 FM",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zul"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "loFp8BK9q6Ejo3",
     "name": "Jacaranda FM",
     "sources": {
@@ -567,18 +604,6 @@
       "ven",
       "zul"
     ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YZAsItMEJj7ACh",
-    "name": "K8TLEGO FM",
-    "sources": {
-      "streams": [
-        "https://streamingv2.shoutcast.com/k8tlego-fm"
-      ]
-    },
-    "languages": [],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -730,6 +755,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FD0XZZrdX1J86D",
+    "name": "Magic 828",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/magic828/echocast/audio/low/index.m3u8",
+        "https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OsTFLF2yskLgD3",
     "name": "Maluti FM",
     "sources": {
@@ -764,18 +804,6 @@
     "languages": [
       "eng"
     ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JZtPhJH01I4sDk",
-    "name": "Merafong 360 Online Radio",
-    "sources": {
-      "streams": [
-        "https://sv2.famcast.co.za/stream/merafong"
-      ]
-    },
-    "languages": [],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1528,6 +1556,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ymiUGh4aHkcDB6",
+    "name": "uMgungundlovu FM 107.6",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n7cyTeponAaJPa",
     "name": "Umhlobo Wenene FM",
     "sources": {
@@ -1616,6 +1656,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kChlyJSbi9bcV3",
+    "name": "YFM",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RZ3nXhiZaGcJ6q",
+    "name": "You FM 89.8",
+    "sources": {
+      "streams": [
+        "https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CZxSE9XIvFzwUp",
     "name": "ZoeLive Radio",
     "sources": {
@@ -1632,7 +1698,7 @@
     "name": "zoibi FM",
     "sources": {
       "streams": [
-        "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/primary",
+        "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/mainout",
         "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3"
       ]
     },

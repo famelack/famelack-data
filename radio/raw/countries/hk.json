@@ -289,9 +289,9 @@
     "name": "RTHK Radio 2",
     "sources": {
       "streams": [
-        "https://stm2.rthk.hk/radio2",
         "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8",
-        "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8"
+        "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+        "https://stm2.rthk.hk/radio2"
       ]
     },
     "languages": [
@@ -350,8 +350,8 @@
     "sources": {
       "streams": [
         "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8",
-        "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
-        "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8"
+        "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
+        "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8"
       ]
     },
     "languages": [

@@ -270,6 +270,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AMECur0ucRkT8W",
+    "name": "70's Classics",
+    "sources": {
+      "streams": [
+        "https://kea.cdnstream.com/1897_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ub7H8x9OEPYyCt",
     "name": "70's Hits",
     "sources": {
@@ -488,8 +502,8 @@
     "name": "antenne SACHSEN",
     "sources": {
       "streams": [
-        "https://edge69.radio.antennesachsen.de/antsa-dresden",
         "https://edge13.radio.antennesachsen.de/antsa-dresden",
+        "https://edge69.radio.antennesachsen.de/antsa-dresden",
         "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3"
       ]
     },
@@ -584,20 +598,6 @@
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xSww0qkqZpeYuC",
-    "name": "Bailiwick Radio Classics",
-    "sources": {
-      "streams": [
-        "https://streaming.radio.co/s20224a067/listen"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -774,8 +774,8 @@
     "name": "Classic Hits Radio",
     "sources": {
       "streams": [
-        "https://radiopanther.radiolebowski.com/play",
-        "https://classichitsradio.streamingmedia.it/usa"
+        "https://classichitsradio.streamingmedia.it/usa",
+        "https://radiopanther.radiolebowski.com/play"
       ]
     },
     "languages": [
@@ -817,8 +817,8 @@
     "name": "Coast FM 96.3",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac"
       ]
     },
     "languages": [
@@ -1266,9 +1266,9 @@
     "name": "Joe",
     "sources": {
       "streams": [
-        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
         "https://stream.joe.nl/joe/mp3",
-        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_1_96.mp3"
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac"
       ]
     },
     "languages": [
@@ -1324,8 +1324,8 @@
     "name": "Kiss FM 97.7",
     "sources": {
       "streams": [
-        "https://stream.zenolive.com/1sgzkhhm8ueuv",
-        "https://stream.zeno.fm/k7sx1n90g3quv"
+        "https://stream.zeno.fm/k7sx1n90g3quv",
+        "https://stream.zenolive.com/1sgzkhhm8ueuv"
       ]
     },
     "languages": [
@@ -1611,8 +1611,8 @@
     "name": "Mix 106.5 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGVAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGVAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac"
       ]
     },
     "languages": [
@@ -1757,7 +1757,7 @@
       "streams": [
         "https://s1-webradio.oldie-antenne.de/oldie-antenne",
         "https://s6-webradio.antenne.de/oldies-but-goldies",
-        "https://stream.oldie-antenne.de/oldie-antenne/stream/mp3"
+        "https://mp3channels.webradio.antenne.de/oldies-but-goldies"
       ]
     },
     "languages": [
@@ -1856,9 +1856,9 @@
     "name": "R.SA - 70er Oldies",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6noqn6s9%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790813945",
-        "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de",
-        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=6noqn6s3%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1790813939"
+        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6nrs8523%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1794082083",
+        "https://streams.rsa-sachsen.de/70er/mp3-192",
+        "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de"
       ]
     },
     "languages": [
@@ -1919,7 +1919,7 @@
     "sources": {
       "streams": [
         "https://25233.live.streamtheworld.com/TLPSTR18_SC",
-        "https://22663.live.streamtheworld.com/TLPSTR18_SC",
+        "https://29023.live.streamtheworld.com/TLPSTR18_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3"
       ]
     },
@@ -1988,6 +1988,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EWGAj2WikD0puE",
+    "name": "Rádio Bons Tempos",
+    "sources": {
+      "streams": [
+        "https://server02.ouvir.radio.br:8050/stream"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -2213,8 +2227,8 @@
     "sources": {
       "streams": [
         "https://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de",
-        "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192",
-        "https://streams.norawebstreams.de/nora-oldies/mp3-128/homepage"
+        "https://norawebstreams-stream22.radiohost.de/nora-oldies_mp3-128",
+        "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192"
       ]
     },
     "languages": [
@@ -2456,8 +2470,8 @@
     "name": "RDL Radio",
     "sources": {
       "streams": [
-        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-64.aac",
-        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3"
+        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3",
+        "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-64.aac"
       ]
     },
     "languages": [
@@ -2500,8 +2514,8 @@
     "name": "Retro Album Rock",
     "sources": {
       "streams": [
-        "https://ais-edge07-live365-dal02.cdnstream.com/a89824",
-        "https://ais-edge104-live365-dal02.cdnstream.com/a89824"
+        "https://ais-edge104-live365-dal02.cdnstream.com/a89824",
+        "https://ais-edge07-live365-dal02.cdnstream.com/a89824"
       ]
     },
     "languages": [
@@ -2572,8 +2586,8 @@
     "name": "Ride Radio",
     "sources": {
       "streams": [
-        "https://streaming.live365.com/a75084",
-        "https://ais-edge08-live365-dal02.cdnstream.com/a75084"
+        "https://ais-edge08-live365-dal02.cdnstream.com/a75084",
+        "https://streaming.live365.com/a75084"
       ]
     },
     "languages": [
@@ -2854,146 +2868,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZUc9oRGTwKyBJi",
-    "name": "Tick Tock Radio 1970",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1970/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KyNeiIPG0TvuiD",
-    "name": "Tick Tock Radio 1971",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1971/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tx7EmPVNRcWtwd",
-    "name": "Tick Tock Radio 1972",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1972/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eGRlM2r1RnXJIq",
-    "name": "Tick Tock Radio 1973",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1973/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9GjvLSd7rFFrCU",
-    "name": "Tick Tock Radio 1974",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1974/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bqlEPFTVZV2xcq",
-    "name": "Tick Tock Radio 1975",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1975/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8TZrHdsC4B1FTt",
-    "name": "Tick Tock Radio 1976",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1976/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NukYYK6eNg5o43",
-    "name": "Tick Tock Radio 1977",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1977/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8klDsP0ZyaZrCn",
-    "name": "Tick Tock Radio 1978",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1978/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BFUF5GJqooV9MU",
-    "name": "Tick Tock Radio 1979",
-    "sources": {
-      "streams": [
-        "https://streaming.ticktock.radio/tt/1979/icecast.audio"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZwgJ4pAfAbYRF2",
     "name": "Time Machine Radio",
     "sources": {
@@ -3083,8 +2957,8 @@
     "name": "VillageRadio.Net",
     "sources": {
       "streams": [
-        "https://streaming.live365.com/a73319",
-        "https://ais-edge09-live365-dal02.cdnstream.com/a73319"
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73319",
+        "https://streaming.live365.com/a73319"
       ]
     },
     "languages": [

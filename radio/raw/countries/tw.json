@@ -105,8 +105,8 @@
     "name": "BCC News Network 中廣新聞網",
     "sources": {
       "streams": [
-        "https://n03.rcs.revma.com/78fm9wyy2tzuv",
-        "https://n08.rcs.revma.com/78fm9wyy2tzuv"
+        "https://n08.rcs.revma.com/78fm9wyy2tzuv",
+        "https://n03.rcs.revma.com/78fm9wyy2tzuv"
       ]
     },
     "languages": [
@@ -121,8 +121,8 @@
     "sources": {
       "streams": [
         "https://n03.rcs.revma.com/aw9uqyxy2tzuv",
-        "https://n03a-eu.rcs.revma.com/s1zttsg3qtzuv",
-        "https://n03a-eu.rcs.revma.com/ks4vsmg3qtzuv"
+        "https://n03a-eu.rcs.revma.com/ks4vsmg3qtzuv",
+        "https://n03a-eu.rcs.revma.com/s1zttsg3qtzuv"
       ]
     },
     "languages": [
@@ -208,8 +208,8 @@
     "name": "News98 98.1",
     "sources": {
       "streams": [
-        "https://n11.rcs.revma.com/pntx1639ntzuv",
         "https://n11.rcs.revma.com/55tyxsy4qtzuv.m4a",
+        "https://n11.rcs.revma.com/pntx1639ntzuv",
         "https://n17a-eu.rcs.revma.com/pntx1639ntzuv"
       ]
     },
@@ -269,6 +269,34 @@
     "sources": {
       "streams": [
         "https://n05a-eu.rcs.revma.com/4yevzvbeewzuv.m4a"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5qTC1LDyLj7gyt",
+    "name": "世新廣播電臺 SHRS AM 729",
+    "sources": {
+      "streams": [
+        "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B0T54RKeDTttVF",
+    "name": "世新廣播電臺 SHRS FM 88.1",
+    "sources": {
+      "streams": [
+        "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8"
       ]
     },
     "languages": [
@@ -502,11 +530,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TM4xFn0U4Y0Sfm",
-    "name": "正聲廣播公司 FM 104.1",
+    "nanoid": "idCin7snTwVKWD",
+    "name": "正聲廣播公司 綜合台",
     "sources": {
       "streams": [
-        "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
+        "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8"
       ]
     },
     "languages": [
@@ -516,12 +544,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "idCin7snTwVKWD",
-    "name": "正聲廣播公司 綜合台",
+    "nanoid": "jKOFc97i7tVzff",
+    "name": "民本廣播電台 AM 855",
     "sources": {
       "streams": [
-        "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
-        "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8"
+        "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4mEER1lUt73uhL",
+    "name": "民本廣播電台 AM 1296",
+    "sources": {
+      "streams": [
+        "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8"
       ]
     },
     "languages": [

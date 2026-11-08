@@ -4,8 +4,8 @@
     "name": "Anti Radio",
     "sources": {
       "streams": [
-        "https://stream.antiradio.net/radio/8000/mp3",
-        "https://stream.antiradio.net/listen/anti_radio/mp3"
+        "https://stream.antiradio.net/listen/anti_radio/mp3",
+        "https://stream.antiradio.net/radio/8000/mp3"
       ]
     },
     "languages": [
@@ -69,35 +69,6 @@
     "sources": {
       "streams": [
         "https://audiostr.atv.az/106.3fm"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y0yPCgBthqkyj7",
-    "name": "Azerbaycan Radiosu 105 FM",
-    "sources": {
-      "streams": [
-        "https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8",
-        "https://str.yodacdn.net/radio_respublica/video.m3u8"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F3ht4RpQWc6TkA",
-    "name": "Azərbaycan Beynəlxalq Radiosu",
-    "sources": {
-      "streams": [
-        "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -199,21 +170,6 @@
     "sources": {
       "streams": [
         "https://icecast.livetv.az/mediafm"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ODwTA8rKAAuAri",
-    "name": "Naxçıvan Radiosu 104.1 FM",
-    "sources": {
-      "streams": [
-        "https://s33.myradiostream.com:12782/listen.mp3",
-        "https://str.yodacdn.net/naxcivanradio/tracks-a1/mono.ts.m3u8"
       ]
     },
     "languages": [

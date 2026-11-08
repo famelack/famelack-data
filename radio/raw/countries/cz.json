@@ -432,9 +432,9 @@
     "name": "ČRo Radio Wave",
     "sources": {
       "streams": [
-        "https://amp1.cesnet.cz:8443/cro-radio-wave.flac",
         "https://rozhlas.stream/wave_mp3_128.mp3",
-        "https://rozhlas.stream/wave_mp3_256.mp3"
+        "https://rozhlas.stream/wave_mp3_256.mp3",
+        "https://amp1.cesnet.cz:8443/cro-radio-wave.flac"
       ]
     },
     "languages": [
@@ -947,8 +947,8 @@
     "name": "Hitrádio Osmdesátka",
     "sources": {
       "streams": [
-        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
-        "https://ice.abradio.cz/hit80128.mp3"
+        "https://ice.abradio.cz/hit80128.mp3",
+        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
       ]
     },
     "languages": [
@@ -1357,9 +1357,9 @@
     "name": "Rádio Beat",
     "sources": {
       "streams": [
-        "https://icecast2.play.cz/beat128aac",
+        "https://icecast1.play.cz/beat64.mp3",
         "https://icecast2.play.cz/radiobeat128.mp3",
-        "https://icecast1.play.cz/beat64.mp3"
+        "https://icecast2.play.cz/beat128aac"
       ]
     },
     "languages": [
@@ -1373,9 +1373,9 @@
     "name": "Rádio Blaník",
     "sources": {
       "streams": [
-        "https://ice.abradio.cz/blanikcz128.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
-        "https://ice.abradio.cz/blanikfm128.mp3"
+        "https://ice.abradio.cz/blanikfm128.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac",
+        "https://ice.abradio.cz/blanikcz128.mp3"
       ]
     },
     "languages": [
@@ -1533,8 +1533,8 @@
     "sources": {
       "streams": [
         "https://n01.radiojar.com/cp13r2cpn3quv",
-        "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
-        "https://stream.radiojar.com/cp13r2cpn3quv"
+        "https://stream.radiojar.com/cp13r2cpn3quv",
+        "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
       ]
     },
     "languages": [
@@ -1642,20 +1642,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "95s9esTqP8uBeV",
-    "name": "Rádio Hvězda",
-    "sources": {
-      "streams": [
-        "https://hls.hvezda.info/session01/128k/s.m3u8"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d0fbBj3x6u3ZUk",
     "name": "Rádio Jih",
     "sources": {
@@ -1689,9 +1675,9 @@
     "name": "Radio Kiss",
     "sources": {
       "streams": [
-        "https://icecast8.play.cz/kisshady128.mp3",
         "https://icecast4.play.cz/kiss128.mp3",
-        "https://icecast1.play.cz/kissdelta128.mp3"
+        "https://icecast1.play.cz/kissdelta128.mp3",
+        "https://icecast8.play.cz/kisshady128.mp3"
       ]
     },
     "languages": [
@@ -1993,8 +1979,8 @@
     "name": "Rock Radio",
     "sources": {
       "streams": [
-        "https://ice.abradio.cz/rockradio128.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+        "https://ice.abradio.cz/rockradio128.mp3"
       ]
     },
     "languages": [
@@ -2148,9 +2134,9 @@
     "name": "We House Radio",
     "sources": {
       "streams": [
+        "https://stream.wehouseradio.com/stream/3",
         "https://stream.wehouseradio.com/stream/1",
-        "https://stream.wehouseradio.com/stream/2",
-        "https://stream.wehouseradio.com/stream/3"
+        "https://stream.wehouseradio.com/stream/2"
       ]
     },
     "languages": [
@@ -2296,7 +2282,7 @@
     "name": "Радио Свобода",
     "sources": {
       "streams": [
-        "https://n01.radiojar.com/hcrb063nn3quv",
+        "https://stream.radiojar.com/hcrb063nn3quv",
         "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04",
         "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
       ]

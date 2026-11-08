@@ -144,8 +144,8 @@
     "name": "Radio Cadena YSKL 104.1 FM",
     "sources": {
       "streams": [
-        "https://media.dominiocreativo.com:8000/radioyskl",
-        "https://media.dominiocreativo.com:8000/stream/1/"
+        "https://media.dominiocreativo.com:8000/stream/1/",
+        "https://media.dominiocreativo.com:8000/radioyskl"
       ]
     },
     "languages": [
@@ -281,20 +281,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jffKcGDg8rDKNR",
-    "name": "Radio Mil 80 101.7 FM",
-    "sources": {
-      "streams": [
-        "https://radio.videct.com/8002/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Og13ErgEGSg1c8",
     "name": "Radio Nacional de El Salvador 96.9 FM",
     "sources": {
@@ -341,8 +327,8 @@
     "name": "Radio Rumba Latina",
     "sources": {
       "streams": [
-        "https://c11.radioboss.fm:8303/stream",
-        "https://c11.radioboss.fm:18303/stream"
+        "https://c11.radioboss.fm:18303/stream",
+        "https://c11.radioboss.fm:8303/stream"
       ]
     },
     "languages": [
@@ -399,20 +385,6 @@
     "sources": {
       "streams": [
         "https://cloudstream2036.conectarhosting.com/8168/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uwBEG3gZ9DKB1Z",
-    "name": "Radio YSUCA 91.7 FM",
-    "sources": {
-      "streams": [
-        "https://fast.citrus3.com:8314/stream"
       ]
     },
     "languages": [

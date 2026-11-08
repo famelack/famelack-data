@@ -341,20 +341,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YaOXMvRieeAmy7",
-    "name": "East Coast FM",
-    "sources": {
-      "streams": [
-        "https://live-bauerie.sharp-stream.com/EASTCOAST"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ouYwwOFZI5sdbb",
     "name": "Flirt FM 101.3",
     "sources": {
@@ -512,6 +498,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WOXHcrLbcoLrQh",
+    "name": "Life FM",
+    "sources": {
+      "streams": [
+        "https://uksoutha.streaming.broadcast.radio:28140/lifefm"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GIKOTIWnWl4zSl",
     "name": "Limerick's Live 95FM",
     "sources": {
@@ -598,20 +598,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ASfTtTtO52eA97",
-    "name": "MPB Radio 1",
-    "sources": {
-      "streams": [
-        "https://sc.mpbnl.nl/radio1.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ie",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4j8bcBFb3dn3Pi",
     "name": "MPB Radio 2",
     "sources": {
@@ -660,8 +646,8 @@
     "name": "Newstalk",
     "sources": {
       "streams": [
-        "https://live-bauerie.sharp-stream.com/NTAAC",
-        "https://edge.audioxi.com/NT"
+        "https://edge.audioxi.com/NT",
+        "https://live-bauerie.sharp-stream.com/NTAAC"
       ]
     },
     "languages": [
@@ -974,8 +960,8 @@
     "name": "RTÉ 2fm",
     "sources": {
       "streams": [
-        "https://icecast2.rte.ie/ie2fm",
-        "https://icecast.rte.ie/2fm"
+        "https://icecast.rte.ie/2fm",
+        "https://icecast2.rte.ie/ie2fm"
       ]
     },
     "languages": [
@@ -1091,8 +1077,8 @@
     "name": "SPIN South West",
     "sources": {
       "streams": [
-        "https://live-bauerie.sharp-stream.com/SW",
         "https://stream.audioxi.com/SW",
+        "https://live-bauerie.sharp-stream.com/SW",
         "https://edge.audioxi.com/SW"
       ]
     },
@@ -1180,8 +1166,8 @@
     "sources": {
       "streams": [
         "https://live-bauerie.sharp-stream.com/T80",
-        "https://stream.audioxi.com/T80",
-        "https://edge3.audioxi.com/T80"
+        "https://edge3.audioxi.com/T80",
+        "https://stream.audioxi.com/T80"
       ]
     },
     "languages": [

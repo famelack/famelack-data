@@ -268,20 +268,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wNj1cujGxlMT5b",
-    "name": "Peru Cumbia Radio",
-    "sources": {
-      "streams": [
-        "https://servistream.info:8330/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KfZ6JTqZdIWy2q",
     "name": "Perú Folk Radio",
     "sources": {
@@ -413,20 +399,6 @@
     "sources": {
       "streams": [
         "https://conectperu.com:7111/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JW4DpnOoyfqOrR",
-    "name": "Radio Antena 5",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/pkvdsllgubgtv"
       ]
     },
     "languages": [
@@ -1017,6 +989,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UOlZVDTX8Zc4mf",
+    "name": "Radio Frecuencia Popular",
+    "sources": {
+      "streams": [
+        "https://radio.sistemasandinos.org/7412/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MYztuGZnD8srK5",
     "name": "Radio Frecuencia Primera",
     "sources": {
@@ -1097,9 +1083,9 @@
     "name": "Radio Huancayo",
     "sources": {
       "streams": [
+        "https://cloud9.ldwebstudios.net:7000/;",
         "https://cloud9.ldwebstudios.net:7000/listen.pls/",
-        "https://cloud9.ldwebstudios.net:7000/stream",
-        "https://cloud9.ldwebstudios.net:7000/;"
+        "https://cloud9.ldwebstudios.net:7000/stream"
       ]
     },
     "languages": [
@@ -1829,20 +1815,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C1zDhur3xvjaTd",
-    "name": "Radio Santa Rosa",
-    "sources": {
-      "streams": [
-        "https://securestream.conectarhosting.com:8136/live"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2Jdv4o6H2sLSAQ",
     "name": "Radio Satélite (Ventanilla)",
     "sources": {
@@ -2172,8 +2144,8 @@
     "name": "RPP Mundial",
     "sources": {
       "streams": [
-        "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
-        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
+        "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
+        "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
       ]
     },
     "languages": [
@@ -2244,6 +2216,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/wucx5xcgqeruv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zPqxrnIWnx46qJ",
+    "name": "Top Latino",
+    "sources": {
+      "streams": [
+        "https://online.radiodifusion.net:8020/stream"
       ]
     },
     "languages": [

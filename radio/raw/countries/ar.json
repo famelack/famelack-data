@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UQu6hZFbdJn4x7",
+    "name": "A+ Radio",
+    "sources": {
+      "streams": [
+        "https://amasradio.com.ar:8443/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dct8xdzGBayKzk",
     "name": "ABC Mundial Radio",
     "sources": {
@@ -318,8 +332,8 @@
     "name": "Blue FM 100.7",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC_SC"
       ]
     },
     "languages": [
@@ -338,20 +352,6 @@
     },
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KemSb8tjnslgHz",
-    "name": "BRH - Bahía Radio Hits",
-    "sources": {
-      "streams": [
-        "https://miestacion.turadioonline.com.ar/8158/stream"
-      ]
-    },
-    "languages": [
       "spa"
     ],
     "country": "ar",
@@ -843,34 +843,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rBOHRUUB8T2dqW",
-    "name": "Edutécnica Salta",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/20ddyt65hfhvv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oexd3lNgE4MkhI",
-    "name": "El Café del Mundo",
-    "sources": {
-      "streams": [
-        "https://cloudstream2030.conectarhosting.com/8184/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5XxGMYJpDeDZm7",
     "name": "El Destape Radio",
     "sources": {
@@ -890,20 +862,6 @@
     "sources": {
       "streams": [
         "https://ipanel.instream.audio/8004/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8m2O5frrt5Z5bm",
-    "name": "El Hacedor Radio",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/f7vpqramxrhvv"
       ]
     },
     "languages": [
@@ -1062,21 +1020,6 @@
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p2Qpwni9CGUppB",
-    "name": "Estación X 93.5 FM",
-    "sources": {
-      "streams": [
-        "https://streaming6.locucionar.com:24060/stream"
-      ]
-    },
-    "languages": [
-      "eng",
       "spa"
     ],
     "country": "ar",
@@ -1256,20 +1199,6 @@
     "sources": {
       "streams": [
         "https://radiosar.com:9346/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Mx287z65xCckGA",
-    "name": "FM Barrancas 98.7",
-    "sources": {
-      "streams": [
-        "https://server.radiostreaming.com.ar/8152/stream"
       ]
     },
     "languages": [
@@ -1493,7 +1422,8 @@
     "name": "FM del Sol 91.1",
     "sources": {
       "streams": [
-        "https://streaming.gostreaming.com.ar:10877/stream"
+        "https://streaming.gostreaming.com.ar:10877/stream",
+        "https://streaming.radiosenlinea.com.ar/9026/stream"
       ]
     },
     "languages": [
@@ -1868,20 +1798,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q8d2RxZVTr16G0",
-    "name": "FM Universidad 98.7",
-    "sources": {
-      "streams": [
-        "https://fm.unam.edu.ar/fm"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DyYUqx5LX64YjR",
     "name": "FM Uno Corrientes",
     "sources": {
@@ -2027,20 +1943,6 @@
     "sources": {
       "streams": [
         "https://radio06.cehis.net:9001/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u1SBidvEppzucv",
-    "name": "K2 Radio 96.3",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio/:9568/stream"
       ]
     },
     "languages": [
@@ -2335,20 +2237,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x168yuqCjpPnFI",
-    "name": "La Rocka 107.3",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio:8137/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9UPV0CgxhPn1cN",
     "name": "La RZ",
     "sources": {
@@ -2550,8 +2438,8 @@
     "name": "Metro 95.1 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac"
       ]
     },
     "languages": [
@@ -2645,20 +2533,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mEUlHxQe1UsS35",
-    "name": "Nuevos Aires FM 99.7",
-    "sources": {
-      "streams": [
-        "https://streamingv2.shoutcast.com/NuevosAiresFM997_192.mp3"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tW4YRikrmnBiSq",
     "name": "Pakarina La Poma 90.9",
     "sources": {
@@ -2706,6 +2580,20 @@
     "sources": {
       "streams": [
         "https://argentina.shockmedia.com.ar:8014/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1uV1207xhk7wwJ",
+    "name": "Planet Music 101.1",
+    "sources": {
+      "streams": [
+        "https://strcdn.klm99.com:10991/planetmdp"
       ]
     },
     "languages": [
@@ -3011,20 +2899,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hdRrepr1yFtfXI",
-    "name": "Radio 21 90.1 FM",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio/:9135/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vxTCFv2vtdMIkX",
     "name": "Radio 2000 92.5",
     "sources": {
@@ -3141,8 +3015,8 @@
     "name": "Radio Britannia",
     "sources": {
       "streams": [
-        "https://01.solumedia.com.ar:8472/stream/;",
-        "https://01.solumedia.com.ar:8472/stream/listen.pls/"
+        "https://01.solumedia.com.ar:8472/stream/listen.pls/",
+        "https://01.solumedia.com.ar:8472/stream/;"
       ]
     },
     "languages": [
@@ -3411,20 +3285,6 @@
     "sources": {
       "streams": [
         "https://streaming6.locucionar.com:24248/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FV1dNRmKKxSgP0",
-    "name": "Radio Del Puerto 92.1 FM",
-    "sources": {
-      "streams": [
-        "https://streaming.escuchanosonline.com:7106/stream"
       ]
     },
     "languages": [
@@ -3827,20 +3687,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pIOL5CbldBqLIj",
-    "name": "Radio Lola",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio/:9081/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lN8kAlhrfrpbQR",
     "name": "Radio LT8 AM 830",
     "sources": {
@@ -4051,11 +3897,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1p8J6DGHRGF9fQ",
-    "name": "Radio Orión",
+    "nanoid": "W2NYJkdFUItJ4C",
+    "name": "Radio Panorama 100.1",
     "sources": {
       "streams": [
-        "https://01.solumedia.com.ar:7834/stream"
+        "https://stream.arcast.com.ar/radio/sgodelestero.stream/chunklist_w552289122.m3u8"
       ]
     },
     "languages": [
@@ -4085,20 +3931,6 @@
       "streams": [
         "https://streaming.provinciaradio.com.ar:7007/am",
         "https://streaming.provinciaradio.com.ar:7008/am"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qk1ipnoZaJRIdn",
-    "name": "Radio Provincia del Chaco 101.5 FM",
-    "sources": {
-      "streams": [
-        "https://debred5.ecomchaco.com.ar:8443/radioecom"
       ]
     },
     "languages": [
@@ -4395,21 +4227,6 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3051188.aac"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PlAJkNqVYHNZNu",
-    "name": "Radio UNCo CALF 103.7 FM",
-    "sources": {
-      "streams": [
-        "https://cdn.instream.audio:9032/stream",
-        "https://cdn.instream.audio/:9032/stream"
       ]
     },
     "languages": [
@@ -4732,8 +4549,8 @@
     "name": "Rock & Pop 95.9 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC.aac"
       ]
     },
     "languages": [

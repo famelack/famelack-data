@@ -46,9 +46,9 @@
     "name": "5MBS 99.9 FM",
     "sources": {
       "streams": [
-        "https://stream01.sigile.net/5mbs-128-mp3",
         "https://stream.sigile.net/5mbs-128-mp3",
-        "https://stream.sigile.net/5mbs-64-aac"
+        "https://stream.sigile.net/5mbs-64-aac",
+        "https://stream01.sigile.net/5mbs-128-mp3"
       ]
     },
     "languages": [
@@ -330,7 +330,8 @@
     "name": "Blues Music Fan Radio",
     "sources": {
       "streams": [
-        "https://orbit.citrus3.com:8052/stream"
+        "https://orbit.citrus3.com:8052/stream",
+        "https://ais-sa2.cdnstream1.com/1992_128.mp3"
       ]
     },
     "languages": [
@@ -419,8 +420,8 @@
     "name": "Bottle o' Groove",
     "sources": {
       "streams": [
-        "https://n0a.radiojar.com/n8buhxbsk9duv",
-        "https://n06.radiojar.com/n8buhxbsk9duv"
+        "https://n06.radiojar.com/n8buhxbsk9duv",
+        "https://n0a.radiojar.com/n8buhxbsk9duv"
       ]
     },
     "languages": [
@@ -476,7 +477,7 @@
     "name": "CBC Music Atlantic",
     "sources": {
       "streams": [
-        "https://26183.live.streamtheworld.com/CBH_CBC_SC",
+        "https://17813.live.streamtheworld.com/CBH_CBC_SC",
         "https://26733.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8"
       ]
@@ -507,7 +508,7 @@
     "name": "CBC Radio One Calgary",
     "sources": {
       "streams": [
-        "https://22983.live.streamtheworld.com/CBR1FM_CBC_SC",
+        "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC",
         "https://26373.live.streamtheworld.com/CBR1FM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
       ]
@@ -603,20 +604,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n8yOYNLDiUZevp",
-    "name": "EBS Blues",
-    "sources": {
-      "streams": [
-        "https://azura.ebsmedia.ro/listen/blues/blues128.mp3"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PgASbfaQHmy6Gz",
     "name": "Eden Radio",
     "sources": {
@@ -680,8 +667,8 @@
     "name": "Exclusively Bonnie Raitt",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio",
-        "https://2.mystreaming.net/er/bonnieraitt/icecast.audio"
+        "https://2.mystreaming.net/er/bonnieraitt/icecast.audio",
+        "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio"
       ]
     },
     "languages": [
@@ -738,8 +725,8 @@
     "name": "Exclusively Tom Waits",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/tomwaits/icecast.audio",
-        "https://nl4.mystreaming.net/er/tomwaits/icecast.audio"
+        "https://nl4.mystreaming.net/er/tomwaits/icecast.audio",
+        "https://streaming.exclusive.radio/er/tomwaits/icecast.audio"
       ]
     },
     "languages": [
@@ -762,6 +749,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D8ff3I5VJaQaNR",
+    "name": "Folk & Blues Radio",
+    "sources": {
+      "streams": [
+        "https://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -827,8 +828,8 @@
     "name": "Groove FM",
     "sources": {
       "streams": [
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
-        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1195,9 +1196,9 @@
     "name": "KOFA Border Radio",
     "sources": {
       "streams": [
+        "https://18363.live.streamtheworld.com/KAWCAM_SC",
         "https://18443.live.streamtheworld.com/KAWCAM_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC",
-        "https://18363.live.streamtheworld.com/KAWCAM_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
       ]
     },
     "languages": [
@@ -1395,6 +1396,22 @@
     "sources": {
       "streams": [
         "https://streamer.radio.co/s4b5c8e335/listen"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DLF4dBJIIYaQoR",
+    "name": "Music City Roadhouse",
+    "sources": {
+      "streams": [
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
+        "https://streaming.live365.com/a73754",
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
       ]
     },
     "languages": [
@@ -1679,8 +1696,8 @@
     "sources": {
       "streams": [
         "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
-        "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de",
-        "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage"
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage",
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
       ]
     },
     "languages": [
@@ -1696,7 +1713,7 @@
       "streams": [
         "https://streams.radiobob.de/southernrock/mp3-192/mediaplayer",
         "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de",
-        "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de"
+        "https://streams.radiobob.de/southernrock/aac-64/mediaplayer"
       ]
     },
     "languages": [
@@ -1819,6 +1836,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cupRbHdHX7Q8Lk",
+    "name": "Radio Magia Inimii Tale",
+    "sources": {
+      "streams": [
+        "https://a9.asurahosting.com:7030/radio.mp3"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5fa7IYjoDKo2Mn",
     "name": "Radio Monte Carlo: Wonderful Blues",
     "sources": {
@@ -1845,20 +1876,6 @@
       "eng"
     ],
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w4TFpIyrbwGcGq",
-    "name": "Radio OIOM",
-    "sources": {
-      "streams": [
-        "https://s3.slotex.pl:7240/stream"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -2049,9 +2066,9 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
         "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
-        "https://stream.rockantenne.de/hair-metal/stream/mp3"
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
+        "https://stream.rockantenne.de/blues-rock/stream/mp3"
       ]
     },
     "languages": [
@@ -2142,6 +2159,21 @@
       "eng"
     ],
     "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7C8xJTE7Gn9Owk",
+    "name": "Styria Lounge",
+    "sources": {
+      "streams": [
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -2370,8 +2402,8 @@
     "name": "WUSF 89.7 FM",
     "sources": {
       "streams": [
-        "https://wusf.streamguys1.com/wusf-web",
-        "https://streaming.wusf.fm/wusf"
+        "https://streaming.wusf.fm/wusf",
+        "https://wusf.streamguys1.com/wusf-web"
       ]
     },
     "languages": [
@@ -2385,8 +2417,8 @@
     "name": "WWOZ 90.7 FM",
     "sources": {
       "streams": [
-        "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
         "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
+        "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
         "https://www.wwoz.org/listen/hi"
       ]
     },

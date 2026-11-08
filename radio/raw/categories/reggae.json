@@ -309,6 +309,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pHlJIXWN9ZtXdb",
+    "name": "Caribbean FM",
+    "sources": {
+      "streams": [
+        "https://nlpo.stream.vip/saltocar/mp3-192/nlpo/play.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FMXf2cweT5cBN2",
     "name": "Caribbean Power Jam Radio",
     "sources": {
@@ -869,8 +883,8 @@
     "sources": {
       "streams": [
         "https://stream-27.zeno.fm/kvudezx1h2zuv",
-        "https://stream.zeno.fm/cs4q33arb2zuv",
-        "https://stream.zeno.fm/kvudezx1h2zuv"
+        "https://stream-289.zeno.fm/eghcv7h647zuv",
+        "https://stream-47.zeno.fm/gf58b0pt5x8uv"
       ]
     },
     "languages": [
@@ -1093,21 +1107,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EeUMkSali6sbf0",
-    "name": "King Dub Radio",
-    "sources": {
-      "streams": [
-        "https://london-dedicated.myautodj.com:8862/stream"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iVb9VOWeAZyBIl",
     "name": "KingDUB TV",
     "sources": {
@@ -1303,20 +1302,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ubf7hSHGCWCp71",
-    "name": "MyFM",
-    "sources": {
-      "streams": [
-        "https://halo.streamerr.co/listen/myfmperth/radio.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
     "isGeoBlocked": false
   },
   {
@@ -1553,6 +1538,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lVIO5MuFMj8N21",
+    "name": "Planeta Reggae",
+    "sources": {
+      "streams": [
+        "https://servidor13.brlogic.com:7020/live"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MAIfYiExdbxRa0",
     "name": "Power Ace Radio",
     "sources": {
@@ -1621,6 +1620,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JX2HZusVVuciup",
+    "name": "Radio C-Lab",
+    "sources": {
+      "streams": [
+        "https://www.c-lab.fr/stream"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -2256,9 +2269,9 @@
     "name": "SomaFM: Heavyweight Reggae",
     "sources": {
       "streams": [
-        "https://ice6.somafm.com/reggae-128-mp3",
         "https://ice2.somafm.com/reggae-128-mp3",
-        "https://ice6.somafm.com/reggae-128-aac"
+        "https://ice6.somafm.com/reggae-128-mp3",
+        "https://ice2.somafm.com/reggae-128-aac"
       ]
     },
     "languages": [
@@ -2366,20 +2379,6 @@
       "eng"
     ],
     "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EIiEt561w4FKsb",
-    "name": "SUN FM",
-    "sources": {
-      "streams": [
-        "https://listen.radioking.com/radio/669814/stream/733864"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "re",
     "isGeoBlocked": false
   },
   {
@@ -2712,14 +2711,28 @@
     "sources": {
       "streams": [
         "https://live.zipfm.net/stream/zipfm-website/stream",
-        "https://stream.zeno.fm/c0ytcn43vxquv",
-        "https://stream-145.zeno.fm/4fazmm93yceuv"
+        "https://stream-145.zeno.fm/4fazmm93yceuv",
+        "https://stream.zeno.fm/c0ytcn43vxquv"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "jm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7hJRWQjkv1baxn",
+    "name": "Радио Джа",
+    "sources": {
+      "streams": [
+        "https://i-radio.info:8015/radio"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

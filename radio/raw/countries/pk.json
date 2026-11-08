@@ -306,21 +306,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uw6GGOKmhZC7aO",
-    "name": "Radio Pakistan FM 101 Abbottabad",
-    "sources": {
-      "streams": [
-        "https://whmsonic.radio.gov.pk:8064/stream"
-      ]
-    },
-    "languages": [
-      "pus",
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AHqbVBkrm2okrH",
     "name": "Radio Pakistan FM 101 Bahawalpur",
     "sources": {
@@ -396,6 +381,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SYPieEuzzn4vnc",
+    "name": "Radio Pakistan FM 101 Kohat",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:8068/stream"
+      ]
+    },
+    "languages": [
+      "pus",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3VhlmOjC8nkhum",
     "name": "Radio Pakistan FM 101 Mirpur",
     "sources": {
@@ -454,6 +454,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eWtXSiizx6sRIl",
+    "name": "Radio Pakistan Gilgit MW 1512",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:8082/stream"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ebfs6UDzxdg8Tk",
     "name": "Radio Pakistan Hyderabad",
     "sources": {
@@ -478,6 +492,21 @@
     },
     "languages": [
       "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MYw14fqsVCRg51",
+    "name": "Radio Pakistan Khuzdar MW 567",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:8062/stream"
+      ]
+    },
+    "languages": [
+      "bal",
       "urd"
     ],
     "country": "pk",
@@ -596,20 +625,6 @@
     },
     "languages": [
       "ara",
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0ztT9R509AU93j",
-    "name": "Radio Pakistan Skardu MW 1557",
-    "sources": {
-      "streams": [
-        "https://whmsonic.radio.gov.pk:8080/stream"
-      ]
-    },
-    "languages": [
       "urd"
     ],
     "country": "pk",
