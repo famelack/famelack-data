@@ -91,7 +91,8 @@
     "name": "Augsburg TV",
     "sources": {
       "streams": [
-        "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8"
+        "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+        "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -480,6 +481,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cmt0eNnG0G5SGu",
+    "name": "Franken Fernsehen",
+    "sources": {
+      "streams": [
+        "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XvhMxajfmHe1iL",
     "name": "FrankenPlus",
     "sources": {
@@ -845,6 +860,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "YY7dAU666LVx7L",
+    "name": "Munchen TV",
+    "sources": {
+      "streams": [
+        "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sUPjf9t1EEmdsB",
     "name": "n-tv",
     "sources": {
@@ -1060,6 +1089,20 @@
     "sources": {
       "streams": [
         "https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uulIpGX9jYzIDT",
+    "name": "Oberpfalz TV",
+    "sources": {
+      "streams": [
+        "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1305,6 +1348,42 @@
     ],
     "country": "de",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "rahlDGPnE1FWrR",
+    "name": "Rakuten TV Crime Series Germany",
+    "sources": {
+      "streams": [
+        "https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
+    "sources": {
+      "streams": [
+        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "o4WP2rghGfCA5R",
@@ -1867,11 +1946,53 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ufMx2DHRyBEUuN",
+    "name": "TV Mainfranken",
+    "sources": {
+      "streams": [
+        "https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zapTNBihBIwpoV",
+    "name": "TV Oberfranken",
+    "sources": {
+      "streams": [
+        "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NDLIjfW5RlERZP",
     "name": "TV38 Sudost-Niedersachen",
     "sources": {
       "streams": [
         "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vdlrNTq7TC5hbk",
+    "name": "TVA",
+    "sources": {
+      "streams": [
+        "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8"
       ]
     },
     "languages": [

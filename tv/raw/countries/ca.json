@@ -1,9 +1,24 @@
 [
   {
+    "nanoid": "vZR4ChO1sEcIEl",
+    "name": "3ABN Canada",
+    "sources": {
+      "streams": [
+        "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u9WnFUyWIFrzh4",
     "name": "Amazing Discoveries TV",
     "sources": {
       "streams": [
+        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
         "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
       ]
     },
@@ -847,6 +862,7 @@
     "name": "IIPC TV",
     "sources": {
       "streams": [
+        "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
         "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8"
       ]
     },
@@ -1122,6 +1138,20 @@
     "sources": {
       "streams": [
         "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xFfqpkzYwMsPMY",
+    "name": "Quo Vadis TV",
+    "sources": {
+      "streams": [
+        "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
       ]
     },
     "languages": [
