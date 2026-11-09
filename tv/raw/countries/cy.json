@@ -70,6 +70,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ebwfg6IXMkti4B",
+    "name": "Kibris TV",
+    "sources": {
+      "streams": [
+        "https://play.kibristv.com/stream/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "cy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "STwulc3g4syrfQ",
     "name": "Middle East TV",
     "sources": {
@@ -79,6 +93,34 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "cy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S5FlXLdAewGKz8",
+    "name": "Omega Channel",
+    "sources": {
+      "streams": [
+        "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "cy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "52grgb3ARacSzX",
+    "name": "RIK Sat",
+    "sources": {
+      "streams": [
+        "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
     ],
     "country": "cy",
     "isGeoBlocked": false
@@ -130,8 +172,8 @@
     "name": "Sat 7 Turk",
     "sources": {
       "streams": [
-        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
         "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+        "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
         "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8"
       ]
     },

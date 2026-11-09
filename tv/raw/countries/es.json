@@ -779,6 +779,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IgIhtSlDnhWcsL",
+    "name": "El Futuro En tu Mano",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/kLPT0Y1zi4o"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "sources": {
@@ -1424,11 +1438,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
+    "nanoid": "duHgjkhG7rfbm4",
+    "name": "Rakuten TV Family Movies Spain",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+        "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
       ]
     },
     "languages": [],
@@ -1654,6 +1682,9 @@
     "sources": {
       "streams": [
         "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1m4a88XikDc"
       ]
     },
     "languages": [
@@ -1823,6 +1854,7 @@
     "name": "TVE Internacional America",
     "sources": {
       "streams": [
+        "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
         "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
         "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8"
       ]

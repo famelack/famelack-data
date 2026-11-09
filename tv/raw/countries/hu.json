@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZTvTYkAMkRF41z",
+    "name": "Bajai TV",
+    "sources": {
+      "streams": [
+        "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bjtUkZwN7hFmXK",
     "name": "Balaton TV",
     "sources": {
@@ -233,6 +247,20 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
       ]
     },
     "languages": [

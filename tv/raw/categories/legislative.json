@@ -786,20 +786,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kDus67YWLDmlSH",
-    "name": "JNE TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
     "sources": {
@@ -1010,6 +996,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9N0REUHRJR4gUt",
+    "name": "Nova24TV 2",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ROtYQZG8Ss0"
+      ]
+    },
+    "languages": [
+      "slv"
+    ],
+    "country": "si",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vAF449D1XN8HSx",
     "name": "Olelo 49",
     "sources": {
@@ -1064,6 +1064,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
@@ -1376,7 +1390,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/eM4H5hjpzUo"
+        "https://www.youtube-nocookie.com/embed/cmzkRslIlRk"
       ]
     },
     "languages": [

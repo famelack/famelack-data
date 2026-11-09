@@ -156,11 +156,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
+    "nanoid": "t77vURUv4tfKdi",
+    "name": "Canal 9 Cosespu",
     "sources": {
       "streams": [
-        "https://movil.ejeserver.com/live/calimatv.m3u8"
+        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
       ]
     },
     "languages": [
@@ -242,11 +242,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rbVGB4gc6vGSpJ",
-    "name": "Canal PyC",
+    "nanoid": "pTxoOzbrB9RhS5",
+    "name": "Canal RCN",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8"
+        "https://barinaslive1.boldmss.com/RCN/RCN.isml/RCN.m3u8"
       ]
     },
     "languages": [
@@ -275,6 +275,20 @@
     "sources": {
       "streams": [
         "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8wch0b4bAAxnPo",
+    "name": "Canal Womtv",
+    "sources": {
+      "streams": [
+        "https://live.amelbatv.co:81/womtvlive/index.m3u8"
       ]
     },
     "languages": [
@@ -326,6 +340,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xvmC3xU65tS3Gl",
+    "name": "Caracol TV",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e29jn80x7K7M0D",
     "name": "CityTv",
     "sources": {
@@ -346,6 +374,21 @@
       "streams": [
         "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
         "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5UNNnPvR2HyEJi",
+    "name": "CNC Bugavision",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/cncbuga.m3u8",
+        "https://video.ejeserver.com/live/cncbuga.m3u8"
       ]
     },
     "languages": [
@@ -389,34 +432,6 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jWsKSPOfnPdCDP",
-    "name": "CNC Valledupar",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xEQPATgrEtFIdJ",
-    "name": "Cosmovision",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8"
       ]
     },
     "languages": [
@@ -864,6 +879,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nBCtUGxdm8WZSP",
+    "name": "Suram TV",
+    "sources": {
+      "streams": [
+        "https://us.streaminghd.cl/suramtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HgBlAsHZW8C65f",
     "name": "Tele Mocoa Canal 10",
     "sources": {
@@ -906,34 +935,6 @@
     ],
     "country": "co",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MbGewayZqG9s6Q",
-    "name": "TeleQuindio",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Clv7XzV3Q51izu",
-    "name": "Telesangil",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "BTUtiIKXJH39q3",
@@ -983,6 +984,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1ixTwFBg5nJH1",
+    "name": "TVGracia",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/diego_57244803/index.m3u8"
       ]
     },
     "languages": [

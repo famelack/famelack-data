@@ -102,20 +102,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hK4d6FyDr9ofcK",
-    "name": "Better Health TV",
-    "sources": {
-      "streams": [
-        "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
     "sources": {
@@ -272,6 +258,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "IgIhtSlDnhWcsL",
+    "name": "El Futuro En tu Mano",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/kLPT0Y1zi4o"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sNGgqsLaPmiNb6",
@@ -862,22 +862,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OyLFauKzvJ2lSK",
-    "name": "TLC",
-    "sources": {
-      "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
-        "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hin"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {

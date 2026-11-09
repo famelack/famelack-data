@@ -264,6 +264,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YuBy0QEyEVrO0O",
+    "name": "Calabria TV",
+    "sources": {
+      "streams": [
+        "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "sources": {
@@ -400,21 +414,6 @@
     },
     "languages": [
       "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sFQh4tuTHKqFEp",
-    "name": "DellaTV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "jpn"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -1710,52 +1709,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
+    "nanoid": "7UK6GTwohWhEMF",
+    "name": "Rakuten TV Family Movies Italy",
     "sources": {
       "streams": [
-        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
       ]
     },
     "languages": [
       "ita"
     ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NnyzHhJkjsfZ3n",
-    "name": "Rakuten TV Crime Series Italy",
-    "sources": {
-      "streams": [
-        "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YfU8ScWMpQTPUo",
-    "name": "Rakuten TV Romance Movies Italy",
-    "sources": {
-      "streams": [
-        "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oURW9nLoHQEwxm",
-    "name": "Rakuten TV Sci-Fi Italy",
-    "sources": {
-      "streams": [
-        "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -2090,8 +2053,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2250,20 +2213,6 @@
     },
     "languages": [
       "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9ZJFiM1tnthINF",
-    "name": "Telecyan",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "it",
     "isGeoBlocked": false

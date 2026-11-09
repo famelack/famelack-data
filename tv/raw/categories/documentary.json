@@ -28,23 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CffTMvOdCGylCI",
-    "name": "Animal Planet",
-    "sources": {
-      "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
-        "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hin",
-      "tam"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3sxG7fzO8BuxxG",
     "name": "Arsenal",
     "sources": {
@@ -105,8 +88,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -273,9 +255,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
+        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8",
-        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
       ]
     },
     "languages": [
@@ -531,21 +513,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3JfxiMIqhgZ6Ng",
-    "name": "Investigation Discovery",
-    "sources": {
-      "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FlqGAqnBqpvJeH",
     "name": "INWILD",
     "sources": {
@@ -764,20 +731,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AkZQ6cfpdrqvVu",
-    "name": "National Geographic",
-    "sources": {
-      "streams": [
-        "https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true"
-      ]
-    },
-    "languages": [
-      "fin"
-    ],
-    "country": "fi",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "g2bTTopTiGfPsS",
     "name": "National Geographic Latin America Panregional",
     "sources": {
@@ -955,6 +908,7 @@
     "sources": {
       "streams": [
         "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
+        "https://fta.ektv.in/live/410/master.m3u8",
         "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       ]
     },

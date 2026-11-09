@@ -1248,8 +1248,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
-        "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
+        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1536,20 +1535,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LbTx61exNziTLe",
-    "name": "Miracle TV",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "sources": {
@@ -1740,20 +1725,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eg3goyColncJv1",
-    "name": "MTV Global",
-    "sources": {
-      "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i781he5y7cbuXf",
     "name": "MUTV",
     "sources": {
@@ -1772,8 +1743,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
-        "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
-        "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
+        "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1906,7 +1876,8 @@
     "sources": {
       "streams": [
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2139,6 +2110,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2ftHadqxcG2u5",
+    "name": "Rakuten TV Drama Movies UK",
+    "sources": {
+      "streams": [
+        "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
+    "sources": {
+      "streams": [
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mN7jjbfyCCrHDM",
     "name": "Rakuten TV Romance Movies UK",
     "sources": {
@@ -2156,18 +2155,6 @@
     "sources": {
       "streams": [
         "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],
@@ -2233,21 +2220,6 @@
       ]
     },
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "NegCVOJcL5pipg",
-    "name": "S4C",
-    "sources": {
-      "streams": [
-        "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
-      ]
-    },
-    "languages": [
-      "cym",
-      "eng"
-    ],
     "country": "uk",
     "isGeoBlocked": true
   },
@@ -3039,7 +3011,6 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8",
-        "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
         "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
@@ -3068,7 +3039,6 @@
     "name": "World War TV",
     "sources": {
       "streams": [
-        "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
       ]
     },

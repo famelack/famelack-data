@@ -3,9 +3,6 @@
     "nanoid": "EeCJey6cUBdlrr",
     "name": "3ABN Kids",
     "sources": {
-      "streams": [
-        "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/wMghm5USzOY"
       ]
@@ -158,25 +155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "co6UrhPBemum5j",
-    "name": "Cartoon Network",
-    "sources": {
-      "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hin",
-      "kan",
-      "mal",
-      "mar",
-      "tam",
-      "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z2RG0xDeG0qYnE",
     "name": "Cartoon Network [Not 24/7;Geo-blocked]",
     "sources": {
@@ -190,26 +168,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "TAW3V6RUdxKtJQ",
-    "name": "Cartoon Network HD+",
-    "sources": {
-      "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hin",
-      "kan",
-      "mal",
-      "mar",
-      "tam",
-      "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "tIGqdwnTT3ZqJq",
@@ -268,6 +226,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WyQIvG6nRolbpZ",
+    "name": "Disney Channel Latin America Panregional HD",
+    "sources": {
+      "streams": [
+        "https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8"
+      ]
+    },
+    "languages": [
+      "por",
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xhpSHNk65C34T5",
     "name": "Disney Channel: Gravity Falls",
     "sources": {
@@ -296,16 +269,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XuIVHzZPaPnVjv",
-    "name": "Doraemon",
+    "nanoid": "WFF7x8zny7NumQ",
+    "name": "DreamWorks Channel Latin America Panregional",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
+        "https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "hin",
       "spa"
     ],
     "country": "us",
@@ -718,25 +689,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A4OZfMBweCiPhQ",
-    "name": "Pogo",
-    "sources": {
-      "streams": [
-        "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hin",
-      "kan",
-      "mal",
-      "mar",
-      "tam",
-      "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sw0hJi8gVOMHbV",
     "name": "Regular Show",
     "sources": {
@@ -791,22 +743,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gC5bAzqQCFG37o",
-    "name": "Shin-chan",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "hin",
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -893,20 +829,6 @@
       "ara"
     ],
     "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zBlO9YDZ68nfoc",
-    "name": "Spacetoon Turkey",
-    "sources": {
-      "streams": [
-        "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
