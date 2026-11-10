@@ -261,20 +261,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "gIVpxumuFFQfY2",
-    "name": "Canal Showsport",
-    "sources": {
-      "streams": [
-        "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Mut1mafEBDelBc",
     "name": "CBS Sports Golazo Network",
     "sources": {
@@ -551,21 +537,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "lbyfmgKEc7ZRqZ",
@@ -1165,20 +1136,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RQT4a6XQReMGRa",
-    "name": "Match! Ultra 4K",
-    "sources": {
-      "streams": [
-        "https://flussonic.linkintel.ru/match/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1994,8 +1951,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2025,6 +1981,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/3hehglOCXkk"
       ]
     },
     "languages": [
@@ -2395,7 +2354,7 @@
     "name": "WWE Vault",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/m-ERLKjVKTY"
+        "https://www.youtube-nocookie.com/embed/hfzYxYztX4c"
       ]
     },
     "languages": [

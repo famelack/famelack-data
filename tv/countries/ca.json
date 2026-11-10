@@ -584,7 +584,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
@@ -723,20 +723,6 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "F9aDzRqkUxfvHV",
-    "name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
       ]
     },
     "languages": [
@@ -960,7 +946,8 @@
       ]
     },
     "languages": [
-      "eng"
+      "eng",
+      "ron"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -1932,11 +1919,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/omJhIvk5eu8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5X99oRpChEcKAS",
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/C-nVZp5JE10"
+        "https://www.youtube-nocookie.com/embed/mRVp0bEqTPA"
       ]
     },
     "languages": [

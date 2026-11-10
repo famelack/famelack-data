@@ -458,7 +458,6 @@
     "name": "Carousel",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/Karusel/index.m3u8",
         "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ]
@@ -1124,7 +1123,6 @@
     "name": "Giggle Mug",
     "sources": {
       "streams": [
-        "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
         "https://tvsen6.aynaott.com/ytv/index.m3u8"
       ]
     },
@@ -1538,7 +1536,6 @@
     "name": "Mama",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/mama/index.m3u8",
         "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1738,7 +1735,6 @@
     "name": "Mult",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/Mult/index.m3u8",
         "https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2076,7 +2072,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/auoDCY-Z33k"
+        "https://www.youtube-nocookie.com/embed/-t4al2Df-J8"
       ]
     },
     "languages": [
@@ -2142,6 +2138,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RBU2hbbWKTIbuY",
+    "name": "Pokémon Kids TV Japanese",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/t-lQNcWkNX4"
+      ]
+    },
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DvG28Rm3jPp3cl",
     "name": "Pooya TV",
     "sources": {
@@ -2168,20 +2178,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/OMr-AS-shb4"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "uuPEZrmKbOVuZJ",
@@ -2239,6 +2235,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KjF2Vl25g6IXPG",
+    "name": "Rubble & Crew",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MH6A97sTHDg"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2439,11 +2449,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/omJhIvk5eu8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5X99oRpChEcKAS",
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/C-nVZp5JE10"
+        "https://www.youtube-nocookie.com/embed/mRVp0bEqTPA"
       ]
     },
     "languages": [
@@ -2774,7 +2798,7 @@
     "name": "Universal Jr: Curious George",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/010073k-cpk"
+        "https://www.youtube-nocookie.com/embed/kphPlEkYy1c"
       ]
     },
     "languages": [
@@ -2858,7 +2882,7 @@
     "name": "WildBrain: Teletubbies",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I9HMGxU69ls"
+        "https://www.youtube-nocookie.com/embed/6XoilPIHYpE"
       ]
     },
     "languages": [

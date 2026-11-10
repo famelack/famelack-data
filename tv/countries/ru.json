@@ -289,7 +289,6 @@
     "name": "Carousel",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/Karusel/index.m3u8",
         "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
       ]
@@ -434,7 +433,6 @@
     "name": "Cinema",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/cinema/index.m3u8",
         "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -473,53 +471,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lk2MXbqIFnMEMM",
-    "name": "City Eden Classic Music",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47400/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gUswhqxHZdKrP1",
     "name": "City Eden KinoAction",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
       ]
     },
     "languages": [
@@ -571,53 +527,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xjnk7dNYRv7edj",
     "name": "City Eden KinoKlassika",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/34185/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -986,7 +900,6 @@
     "name": "Friday!",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/Pyatnica/index.m3u8",
         "https://vod.tuva.ru/friday/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
       ]
@@ -1186,7 +1099,6 @@
     "name": "Kino TV",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/kino-tv/index.m3u8",
         "https://vod.tuva.ru/kinotv/index.m3u8"
       ]
     },
@@ -1426,22 +1338,7 @@
     "name": "Mama",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/mama/index.m3u8",
         "https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RQT4a6XQReMGRa",
-    "name": "Match! Ultra 4K",
-    "sources": {
-      "streams": [
-        "https://flussonic.linkintel.ru/match/index.m3u8"
       ]
     },
     "languages": [
@@ -1557,7 +1454,6 @@
     "name": "Mult",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/Mult/index.m3u8",
         "https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2131,7 +2027,6 @@
     "name": "REN TV",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/ren_tv/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8"
       ]
     },
@@ -2161,6 +2056,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kJxhW4T0WgcTGG",
+    "name": "Rossiya 1 Vainah",
+    "sources": {
+      "streams": [
+        "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2752,7 +2661,6 @@
     "sources": {
       "streams": [
         "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://flussonic.linkintel.ru/sts/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ]
     },
@@ -2861,6 +2769,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ozRj7AWKTero4N",
+    "name": "TeleDom",
+    "sources": {
+      "streams": [
+        "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IjfaeT61g4IFJ9",
     "name": "Telekanal Krasnodar",
     "sources": {
@@ -2921,7 +2843,6 @@
     "name": "TNT",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/tnt/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
     },
@@ -2936,7 +2857,6 @@
     "name": "TNT4",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/tnt4/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
       ]
     },
@@ -3050,9 +2970,9 @@
     "name": "TV Centr",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/tvc/index.m3u8",
         "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
-        "https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv"
+        "https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv",
+        "https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -3094,7 +3014,6 @@
     "name": "TV-3",
     "sources": {
       "streams": [
-        "https://flussonic.linkintel.ru/tv-3/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8"
       ]
     },
@@ -3408,7 +3327,7 @@
       "streams": [
         "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
         "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
-        "https://flussonic.linkintel.ru/zvezda/index.m3u8"
+        "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
