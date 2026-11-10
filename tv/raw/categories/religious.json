@@ -163,9 +163,9 @@
     "name": "Aadinath TV",
     "sources": {
       "streams": [
+        "https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8",
         "https://cdn.pishow.tv/ott/live/252/master.m3u8",
-        "https://fta.ektv.in/live/343/master.m3u8",
-        "https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+        "https://fta.ektv.in/live/343/master.m3u8"
       ]
     },
     "languages": [
@@ -1193,7 +1193,7 @@
       "streams": [
         "https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8",
         "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/453/master.m3u8"
+        "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8"
       ]
     },
     "languages": [
@@ -2398,8 +2398,8 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/957/master.m3u8",
-        "https://fta.ektv.in/live/705/master.m3u8"
+        "https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/957/master.m3u8"
       ]
     },
     "languages": [
@@ -3505,6 +3505,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NcmIJl0QEk2Pmg",
+    "name": "God Stands TV Chinese",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GzFin24wHyjwSS",
     "name": "God Stands TV English",
     "sources": {
@@ -3897,6 +3911,7 @@
     "name": "Hindu Dharmam",
     "sources": {
       "streams": [
+        "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
         "https://cdn.pishow.tv/ott/live/959/master.m3u8",
         "https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       ],
@@ -3972,6 +3987,7 @@
     "name": "Hope Channel India",
     "sources": {
       "streams": [
+        "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1385/master.m3u8"
       ]
     },
@@ -5406,8 +5422,8 @@
     "sources": {
       "streams": [
         "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8",
-        "https://fta.ektv.in/live/707/master.m3u8",
-        "https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8"
+        "https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8",
+        "https://fta.ektv.in/live/707/master.m3u8"
       ]
     },
     "languages": [
@@ -5774,6 +5790,7 @@
     "name": "MH One Shraddha",
     "sources": {
       "streams": [
+        "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
         "https://fta.ektv.in/live/344/master.m3u8",
         "https://livestream.jswk.online/mhoneshraddha/live/index.m3u8"
       ]
@@ -6163,6 +6180,7 @@
     "name": "Nanaksar Live",
     "sources": {
       "streams": [
+        "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8",
         "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8"
       ]
     },
@@ -7537,7 +7555,8 @@
     "name": "Shalom",
     "sources": {
       "streams": [
-        "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8"
+        "https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8",
+        "https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8"
       ]
     },
     "languages": [
@@ -7953,7 +7972,8 @@
     "name": "SVBC 3",
     "sources": {
       "streams": [
-        "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8"
+        "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8",
+        "https://mumt01.tangotv.in/O5aw8Zn3SVBC3KANNADA/index.m3u8"
       ]
     },
     "languages": [
