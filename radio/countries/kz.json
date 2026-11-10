@@ -1,1 +1,314 @@
-[{"nanoid":"R1JVx0tJJiJxOw","name":"Beu FM","sources":{"streams":["https://stream.beufm.kz/beufm"]},"languages":["kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"6WHuy2TPSkuioi","name":"Classic Radio","sources":{"streams":["https://radio-streams.kaztrk.kz/classic/classic/icecast.audio"]},"languages":["kaz"],"country":"kz","isGeoBlocked":false},{"nanoid":"doV6JXS9jULLnn","name":"Europa Plus","sources":{"streams":["https://europaplus.hostingradio.ru:8014/europaplus320.mp3"]},"languages":["rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"kyUWfLQIZkaQui","name":"Palmera Blanca radio","sources":{"streams":["https://daystream.palmerablanca.com/daystream-128.mp3"]},"languages":["eng","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"Maw7ShFNpt6hHD","name":"Pioner FM","sources":{"streams":["https://live.zhanafm.kz:8443/pionerfm"]},"languages":["eng","kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"5TdbyooVEMANNe","name":"Qazaq Radiosy","sources":{"streams":["https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"]},"languages":["kaz"],"country":"kz","isGeoBlocked":false},{"nanoid":"LjcEXSEtKU545n","name":"Radio 90s Eurodance","sources":{"streams":["https://listen1.myradio24.com/5967"]},"languages":["rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"b98gyBB22twOOC","name":"Radio Alau","sources":{"streams":["https://usa16.fastcast4u.com/proxy/radal/stream"]},"languages":["kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"7zQjzIFJG2tbOI","name":"Radio Azamat","sources":{"streams":["https://listen4.myradio24.com/8162"]},"languages":["kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"kzHAMoTcvE92kc","name":"Radio Bulbul","sources":{"streams":["https://radiobulbul.stream.laut.fm/radiobulbul"]},"languages":["kaz"],"country":"kz","isGeoBlocked":false},{"nanoid":"GrRSCE4Nsvcb8V","name":"Radio Rauan","sources":{"streams":["https://listen4.myradio24.com/rauan"]},"languages":["eng","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"8rLQBKweEkcdAc","name":"Radio Sana","sources":{"streams":["https://listen4.myradio24.com/radiosana"]},"languages":["rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"vK6RbQDxbfyFW4","name":"Radio Talap","sources":{"streams":["https://okeyradio.ru/okey"]},"languages":["kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"A0U3KnM3eKZdC3","name":"Radio TMK","sources":{"streams":["https://a4.radioheart.ru:9036/RH13170","https://listen.myrh.ru/radiotmk"]},"languages":["tat"],"country":"kz","isGeoBlocked":false},{"nanoid":"XvNMPJi349PiPL","name":"Russian Dance Radio","sources":{"streams":["https://lux-radio.com:8015/stream"]},"languages":["rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"HZnEuGuLxubPOz","name":"Shalqar Radiosy","sources":{"streams":["https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio"]},"languages":["kaz"],"country":"kz","isGeoBlocked":false},{"nanoid":"yqjkJBYaXfw8ET","name":"Vashe Radio","sources":{"streams":["https://live.zhanafm.kz:8443/vasheradio"]},"languages":["eng","kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"ozzC6p8etCNExe","name":"Zhana FM","sources":{"streams":["https://live.zhanafm.kz:8443/zhanafm_onair"]},"languages":["kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"vFEeT3VUeDUoaO","name":"Zhana Lounge","sources":{"streams":["https://live.zhanafm.kz:8443/zhanalounge"]},"languages":["eng","kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"Vc6d5NkGFr2DdL","name":"Zhana MIX","sources":{"streams":["https://live.zhanafm.kz:8443/zhanamix"]},"languages":["eng","kaz","rus"],"country":"kz","isGeoBlocked":false},{"nanoid":"fZN7ZMKPcyGEJe","name":"Zhana Rock","sources":{"streams":["https://live.zhanafm.kz:8443/zhanarock"]},"languages":["eng","kaz","rus"],"country":"kz","isGeoBlocked":false}]
+[
+  {
+    "nanoid": "R1JVx0tJJiJxOw",
+    "name": "Beu FM",
+    "sources": {
+      "streams": [
+        "https://stream.beufm.kz/beufm"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6WHuy2TPSkuioi",
+    "name": "Classic Radio",
+    "sources": {
+      "streams": [
+        "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "doV6JXS9jULLnn",
+    "name": "Europa Plus",
+    "sources": {
+      "streams": [
+        "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kyUWfLQIZkaQui",
+    "name": "Palmera Blanca radio",
+    "sources": {
+      "streams": [
+        "https://daystream.palmerablanca.com/daystream-128.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Maw7ShFNpt6hHD",
+    "name": "Pioner FM",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8443/pionerfm"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5TdbyooVEMANNe",
+    "name": "Qazaq Radiosy",
+    "sources": {
+      "streams": [
+        "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LjcEXSEtKU545n",
+    "name": "Radio 90s Eurodance",
+    "sources": {
+      "streams": [
+        "https://listen1.myradio24.com/5967"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b98gyBB22twOOC",
+    "name": "Radio Alau",
+    "sources": {
+      "streams": [
+        "https://usa16.fastcast4u.com/proxy/radal/stream"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7zQjzIFJG2tbOI",
+    "name": "Radio Azamat",
+    "sources": {
+      "streams": [
+        "https://listen4.myradio24.com/8162"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kzHAMoTcvE92kc",
+    "name": "Radio Bulbul",
+    "sources": {
+      "streams": [
+        "https://radiobulbul.stream.laut.fm/radiobulbul"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GrRSCE4Nsvcb8V",
+    "name": "Radio Rauan",
+    "sources": {
+      "streams": [
+        "https://listen4.myradio24.com/rauan"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8rLQBKweEkcdAc",
+    "name": "Radio Sana",
+    "sources": {
+      "streams": [
+        "https://listen4.myradio24.com/radiosana"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vK6RbQDxbfyFW4",
+    "name": "Radio Talap",
+    "sources": {
+      "streams": [
+        "https://okeyradio.ru/okey"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A0U3KnM3eKZdC3",
+    "name": "Radio TMK",
+    "sources": {
+      "streams": [
+        "https://a4.radioheart.ru:9036/RH13170",
+        "https://listen.myrh.ru/radiotmk"
+      ]
+    },
+    "languages": [
+      "tat"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XvNMPJi349PiPL",
+    "name": "Russian Dance Radio",
+    "sources": {
+      "streams": [
+        "https://lux-radio.com:8015/stream"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HZnEuGuLxubPOz",
+    "name": "Shalqar Radiosy",
+    "sources": {
+      "streams": [
+        "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yqjkJBYaXfw8ET",
+    "name": "Vashe Radio",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8443/vasheradio"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ozzC6p8etCNExe",
+    "name": "Zhana FM",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8443/zhanafm_onair"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFEeT3VUeDUoaO",
+    "name": "Zhana Lounge",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8443/zhanalounge"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Vc6d5NkGFr2DdL",
+    "name": "Zhana MIX",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8443/zhanamix"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZN7ZMKPcyGEJe",
+    "name": "Zhana Rock",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8443/zhanarock"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  }
+]

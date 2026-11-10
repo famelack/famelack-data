@@ -1,1 +1,202 @@
-[{"nanoid":"EME4N9khfw88cn","name":"AnewZ TV","sources":{"youtube":["https://www.youtube-nocookie.com/embed/8YaJcaMqRwA"]},"languages":["eng"],"country":"az","isGeoBlocked":false},{"nanoid":"UuxAvZJ7qbOfux","name":"Ayaz TV","sources":{"streams":["https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"vnxbgWDlvR5HkO","name":"Az TV","sources":{"streams":["https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"BhIE684tnvCL5c","name":"Azad TV","sources":{"streams":["https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"YejyDaiXX0bP2n","name":"Azad TV","sources":{"streams":["https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"]},"languages":[],"country":"az","isGeoBlocked":false},{"nanoid":"n8aV4qPr7267ok","name":"Baku.TV","sources":{"streams":["https://rtmp.baku.tv/hls/bakutv.m3u8"],"youtube":["https://www.youtube-nocookie.com/embed/-EKURZCbl7M"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"KsjaxPP1L7V1lh","name":"Biznes TV","sources":{"youtube":["https://www.youtube-nocookie.com/embed/FeIHmzo9pR0"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"B5yE0mrBECzUCL","name":"EL TV","sources":{"streams":["https://live.eltv.az/live/eltv/playlist.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"itLokaJAiNkQNU","name":"Kanal S","sources":{"streams":["https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"BBI8YUriXrMPZH","name":"KN Music TV","sources":{"streams":["https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"wChqagdBuBmsH1","name":"Konul Music TV","sources":{"streams":["https://cdn4.yayin.com.tr/bakixebertv/video.m3u8"]},"languages":["eng","rus"],"country":"az","isGeoBlocked":false},{"nanoid":"i8ut8D1XN8xZFx","name":"Konul TV","sources":{"streams":["https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8"]},"languages":["eng","rus"],"country":"az","isGeoBlocked":false},{"nanoid":"IANMk04rMlqc8y","name":"MAX TV","sources":{"streams":["https://cdn4.yayin.com.tr/maxtv/video.m3u8"]},"languages":["aze"],"country":"az","isGeoBlocked":false},{"nanoid":"nJUg7d1NQf1aEX","name":"Vilayet TV","sources":{"streams":["https://nl.livekadeh.com/hls2/vilayet.m3u8"]},"languages":["ara","aze"],"country":"az","isGeoBlocked":false}]
+[
+  {
+    "nanoid": "EME4N9khfw88cn",
+    "name": "AnewZ TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8YaJcaMqRwA"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UuxAvZJ7qbOfux",
+    "name": "Ayaz TV",
+    "sources": {
+      "streams": [
+        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vnxbgWDlvR5HkO",
+    "name": "Az TV",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BhIE684tnvCL5c",
+    "name": "Azad TV",
+    "sources": {
+      "streams": [
+        "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YejyDaiXX0bP2n",
+    "name": "Azad TV",
+    "sources": {
+      "streams": [
+        "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n8aV4qPr7267ok",
+    "name": "Baku.TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.baku.tv/hls/bakutv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-EKURZCbl7M"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KsjaxPP1L7V1lh",
+    "name": "Biznes TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FeIHmzo9pR0"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B5yE0mrBECzUCL",
+    "name": "EL TV",
+    "sources": {
+      "streams": [
+        "https://live.eltv.az/live/eltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "itLokaJAiNkQNU",
+    "name": "Kanal S",
+    "sources": {
+      "streams": [
+        "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BBI8YUriXrMPZH",
+    "name": "KN Music TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wChqagdBuBmsH1",
+    "name": "Konul Music TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.yayin.com.tr/bakixebertv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i8ut8D1XN8xZFx",
+    "name": "Konul TV",
+    "sources": {
+      "streams": [
+        "https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IANMk04rMlqc8y",
+    "name": "MAX TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.yayin.com.tr/maxtv/video.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nJUg7d1NQf1aEX",
+    "name": "Vilayet TV",
+    "sources": {
+      "streams": [
+        "https://nl.livekadeh.com/hls2/vilayet.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  }
+]

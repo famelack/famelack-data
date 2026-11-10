@@ -1,1 +1,223 @@
-[{"nanoid":"Zpcb6dPZj431wJ","name":"Abante TV","sources":{"streams":["https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"]},"languages":["eng"],"country":"ph","isGeoBlocked":false},{"nanoid":"jJ5KY3frn8Mets","name":"Bilyonaryo News Channel","sources":{"streams":["https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"]},"languages":["eng","fil"],"country":"ph","isGeoBlocked":true},{"nanoid":"k6kILJ1P88D8yy","name":"CLTV 36","sources":{"streams":["https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"]},"languages":["eng","pam","tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"k1le9DNzsDpeDQ","name":"DZRH News TV","sources":{"youtube":["https://www.youtube-nocookie.com/embed/VzS75VuvLxs"]},"languages":["tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"9PIhXT4JQnRopv","name":"Hope Channel Philippines","sources":{"streams":["https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8"]},"languages":["ceb","eng","fil"],"country":"ph","isGeoBlocked":false},{"nanoid":"VsGOkYCrhM3lob","name":"INC Radio","sources":{"streams":["https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8"]},"languages":["eng","tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"4kmi2bWEnJ5k7S","name":"INC TV","sources":{"streams":["https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8"]},"languages":["tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"681XV5aGJin4Gd","name":"INTRAVEL Philippines","sources":{"streams":["https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8","https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8","https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"]},"languages":["eng"],"country":"ph","isGeoBlocked":true},{"nanoid":"50fISDUbgXCYss","name":"Living Asia Channel","sources":{"streams":["https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"]},"languages":["eng","tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"RhkfgHInexT7iQ","name":"Mindanow Network TV","sources":{"streams":["https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"]},"languages":["ceb","eng","tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"vX2Vm81TXt010f","name":"Premier Sports","sources":{"streams":["https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"]},"languages":["eng"],"country":"ph","isGeoBlocked":false},{"nanoid":"ZSj74UmnkvuvdN","name":"Premier Sports 2","sources":{"streams":["https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"]},"languages":["eng"],"country":"ph","isGeoBlocked":false},{"nanoid":"2gkarGO4fauZPH","name":"SMNI","sources":{"streams":["https://stream.kdlc.click/hls/0/stream.m3u8"]},"languages":["tgl"],"country":"ph","isGeoBlocked":false},{"nanoid":"rMoRf8GmgTzF1C","name":"TAP Sports","sources":{"streams":["https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8"]},"languages":["eng"],"country":"ph","isGeoBlocked":true},{"nanoid":"hMNBoVmzvLJ9tI","name":"UNTV News and Rescue","sources":{"youtube":["https://www.youtube-nocookie.com/embed/UxQZ1yOqbQE"]},"languages":["tgl"],"country":"ph","isGeoBlocked":false}]
+[
+  {
+    "nanoid": "Zpcb6dPZj431wJ",
+    "name": "Abante TV",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jJ5KY3frn8Mets",
+    "name": "Bilyonaryo News Channel",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "k6kILJ1P88D8yy",
+    "name": "CLTV 36",
+    "sources": {
+      "streams": [
+        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pam",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k1le9DNzsDpeDQ",
+    "name": "DZRH News TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VzS75VuvLxs"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9PIhXT4JQnRopv",
+    "name": "Hope Channel Philippines",
+    "sources": {
+      "streams": [
+        "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8"
+      ]
+    },
+    "languages": [
+      "ceb",
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VsGOkYCrhM3lob",
+    "name": "INC Radio",
+    "sources": {
+      "streams": [
+        "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4kmi2bWEnJ5k7S",
+    "name": "INC TV",
+    "sources": {
+      "streams": [
+        "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "681XV5aGJin4Gd",
+    "name": "INTRAVEL Philippines",
+    "sources": {
+      "streams": [
+        "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "50fISDUbgXCYss",
+    "name": "Living Asia Channel",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RhkfgHInexT7iQ",
+    "name": "Mindanow Network TV",
+    "sources": {
+      "streams": [
+        "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ceb",
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vX2Vm81TXt010f",
+    "name": "Premier Sports",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSj74UmnkvuvdN",
+    "name": "Premier Sports 2",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2gkarGO4fauZPH",
+    "name": "SMNI",
+    "sources": {
+      "streams": [
+        "https://stream.kdlc.click/hls/0/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rMoRf8GmgTzF1C",
+    "name": "TAP Sports",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "hMNBoVmzvLJ9tI",
+    "name": "UNTV News and Rescue",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/UxQZ1yOqbQE"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  }
+]

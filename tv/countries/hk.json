@@ -1,1 +1,76 @@
-[{"nanoid":"F2ze7vbKV6XjQT","name":"KIX","sources":{"streams":["https://freem3u.xyz/api/live/play.m3u8?vid=9901"]},"languages":["eng","ind","msa","zho"],"country":"hk","isGeoBlocked":false},{"nanoid":"jzFKU5qfcCYERI","name":"NewsWorld FAST","sources":{"streams":["https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8"]},"languages":["eng"],"country":"hk","isGeoBlocked":false},{"nanoid":"cq6tthzEoEuekR","name":"Pet Club TV","sources":{"streams":["https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"]},"languages":["yue"],"country":"hk","isGeoBlocked":false},{"nanoid":"fY95vrYP3HAi8i","name":"RTHK TV 31","sources":{"streams":["https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8","https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"]},"languages":["zho"],"country":"hk","isGeoBlocked":true},{"nanoid":"3BsCNdHaOVE1Yl","name":"鳳凰資訊 PhoenixTVNews","sources":{"youtube":["https://www.youtube-nocookie.com/embed/Ry--eMIjYLQ"]},"languages":["zho"],"country":"hk","isGeoBlocked":false}]
+[
+  {
+    "nanoid": "F2ze7vbKV6XjQT",
+    "name": "KIX",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9901"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ind",
+      "msa",
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jzFKU5qfcCYERI",
+    "name": "NewsWorld FAST",
+    "sources": {
+      "streams": [
+        "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cq6tthzEoEuekR",
+    "name": "Pet Club TV",
+    "sources": {
+      "streams": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "yue"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fY95vrYP3HAi8i",
+    "name": "RTHK TV 31",
+    "sources": {
+      "streams": [
+        "https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8",
+        "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "3BsCNdHaOVE1Yl",
+    "name": "鳳凰資訊 PhoenixTVNews",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Ry--eMIjYLQ"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  }
+]
