@@ -184,20 +184,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0Bp1uWDwZ9RGmr",
-    "name": "Cristo Vision Canal 31",
-    "sources": {
-      "streams": [
-        "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xMyWNZNLNYysjq",
     "name": "Enlace",
     "sources": {
@@ -341,6 +327,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UTisNlOtHENqTI",
+    "name": "Luz Naciente TV",
+    "sources": {
+      "streams": [
+        "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fNzNQyxrdQA2dG",
     "name": "Multimedios Costa Rica",
     "sources": {
@@ -442,20 +442,6 @@
     "sources": {
       "streams": [
         "https://lstv.duckdns.org:449/hls/stv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
       ]
     },
     "languages": [

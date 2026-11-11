@@ -130,8 +130,8 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
-        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -258,7 +258,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lPycLHLkV1s"
+        "https://www.youtube-nocookie.com/embed/aAZrlqWzYj8"
       ]
     },
     "languages": [
@@ -402,8 +402,8 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/10/master.m3u8",
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
-        "https://fta.ektv.in/live/335/master.m3u8"
+        "https://fta.ektv.in/live/335/master.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/mHn0m9pSWkk"
@@ -817,6 +817,20 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MENDV9zQPKUclz",
+    "name": "Kemet TV",
+    "sources": {
+      "streams": [
+        "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
     "isGeoBlocked": false
   },
   {
