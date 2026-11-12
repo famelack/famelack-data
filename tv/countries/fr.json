@@ -1258,11 +1258,35 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "4OHJUKjDj7pE2U",
+    "name": "Rakuten TV Films Drames",
     "sources": {
       "streams": [
-        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+        "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iLva87P8XGqzZK",
+    "name": "Rakuten TV Films Romance",
+    "sources": {
+      "streams": [
+        "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AIirayhr6r6kA6",
+    "name": "Rakuten TV Films Thriller",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
       ]
     },
     "languages": [],
@@ -1511,144 +1535,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iznqZt4QDsmnlv",
-    "name": "Trace Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mWE4kH6ibcq6b4",
-    "name": "Trace Afrikora",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0NnzYHacRaT04R",
-    "name": "Trace Ayiti",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "URBHUsZAHdGmEN",
     "name": "Trace Brazuca",
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
       ]
     },
     "languages": [
       "por"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yLCxHzKZ8frJd2",
-    "name": "Trace Caribbean",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "70sX04jX14d4dB",
-    "name": "Trace Gospel",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y4qPq23OdBqrZm",
-    "name": "Trace Gospel Nigeria and East Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qlnlzIINox50mW",
-    "name": "Trace Gospel Southern Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y5SbJctYBPjs3D",
-    "name": "Trace Jama",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GOL0LeAC5fNTzD",
-    "name": "Trace Kitoko",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -1670,83 +1566,13 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "0fWZLIAvkDVD4z",
-    "name": "Trace Mboa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IQN10ZdvEALsRy",
-    "name": "Trace Muzika",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qXN7ug2DpHuKzM",
-    "name": "Trace Mziki",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zjjPyizDsavmnG",
-    "name": "Trace Naija",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kqMUlhv25saDO5",
-    "name": "Trace Ngoma",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8sJgzboMg4ThSQ",
     "name": "Trace Sport Stars",
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8",
-        "https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8",
-        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8"
+        "https://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8",
+        "https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8"
       ]
     },
     "languages": [
@@ -1755,20 +1581,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "4sRs2yNNylt0rj",
-    "name": "Trace Toca",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "wIUeNDlNNSx9pm",
@@ -1787,76 +1599,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "eNC1h7N1CurUSa",
-    "name": "Trace Urban Africa Franco",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ikUOfTTqyRQA06",
-    "name": "Trace Urban Caribbean and Indian Ocean",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jXgccKBeTddkaK",
-    "name": "Trace Urban International",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4aWG7gXKEliA0U",
-    "name": "Trace Urban Southern Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPDEacVJIZ5Ext",
-    "name": "Trace Vanilla Islands",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "inGlxKW8S2QpWf",

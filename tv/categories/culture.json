@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FjdLgphriWW4if",
     "name": "Al-Kawthar TV",
     "sources": {
@@ -130,29 +144,14 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bYTvtLA2rlhnbu",
-    "name": "Bonaire.tv",
-    "sources": {
-      "streams": [
-        "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld",
-      "pap"
-    ],
-    "country": "bq",
     "isGeoBlocked": false
   },
   {
@@ -258,7 +257,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/aAZrlqWzYj8"
+        "https://www.youtube-nocookie.com/embed/V6htTSidD1E"
       ]
     },
     "languages": [
@@ -332,6 +331,9 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-kooOhIodAk"
       ]
     },
     "languages": [
@@ -817,20 +819,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MENDV9zQPKUclz",
-    "name": "Kemet TV",
-    "sources": {
-      "streams": [
-        "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "cm",
     "isGeoBlocked": false
   },
   {
@@ -1354,7 +1342,8 @@
     "name": "Sanskar TV",
     "sources": {
       "streams": [
-        "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8"
+        "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8"
       ]
     },
     "languages": [

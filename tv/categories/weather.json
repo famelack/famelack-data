@@ -34,9 +34,9 @@
     "name": "Fox Weather",
     "sources": {
       "streams": [
+        "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
         "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
-        "https://247wlive.foxweather.com/stream/index.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
+        "https://247wlive.foxweather.com/stream/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
@@ -96,9 +96,9 @@
     "name": "WeatherNation",
     "sources": {
       "streams": [
+        "https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8",
         "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
-        "https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8",
-        "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
+        "https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8"
       ]
     },
     "languages": [

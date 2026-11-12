@@ -88,8 +88,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -206,20 +205,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -888,6 +873,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GW0gwGPjDJCVmB",
+    "name": "Reelz Famous & Infamous",
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
+        "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "sources": {
@@ -939,6 +938,20 @@
     "sources": {
       "streams": [
         "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JrgwoqyrOu7vQQ",
+    "name": "TERRA",
+    "sources": {
+      "streams": [
+        "https://s1.merlive.am/TerraHD/index.m3u8"
       ]
     },
     "languages": [

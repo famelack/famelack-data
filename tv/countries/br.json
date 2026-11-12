@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CtdqbL5wtTjnvo",
-    "name": "AgroCanal",
-    "sources": {
-      "streams": [
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wjGP3n4DkSPVQ1",
     "name": "Amazon Sat",
     "sources": {
@@ -116,8 +102,8 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -276,7 +262,7 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/d0ZldSR2tkA"
+        "https://www.youtube-nocookie.com/embed/BVoH1jtXJuU"
       ]
     },
     "languages": [
@@ -446,6 +432,20 @@
     "sources": {
       "streams": [
         "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GhFNKINnqmhJYK",
+    "name": "Fonte TV",
+    "sources": {
+      "streams": [
+        "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
       ]
     },
     "languages": [
@@ -668,7 +668,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XY-OuMfF3FQ"
+        "https://www.youtube-nocookie.com/embed/NWWyzAg72jg"
       ]
     },
     "languages": [
@@ -696,7 +696,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hVmokmC3UvI"
+        "https://www.youtube-nocookie.com/embed/j1seEXieI-4"
       ]
     },
     "languages": [
@@ -769,7 +769,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fJwhExjLM7I"
+        "https://www.youtube-nocookie.com/embed/uVYtLKSvbLE"
       ]
     },
     "languages": [
@@ -924,7 +924,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/QS1xMplVcPw"
+        "https://www.youtube-nocookie.com/embed/Yb2HEJIOW6c"
       ]
     },
     "languages": [
@@ -1047,20 +1047,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AobTBdQ6p1JxiG",
-    "name": "TikTok Radio Brasil",
-    "sources": {
-      "streams": [
-        "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nYK5boMixVyZNl",
     "name": "TV A Critica",
     "sources": {
@@ -1163,7 +1149,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/qDf1gIxSnAU"
+        "https://www.youtube-nocookie.com/embed/dXO9jyw_TH4"
       ]
     },
     "languages": [
@@ -1595,11 +1581,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AOrzbD7QEj8vaf",
+    "name": "TV Sim Cachoeiro",
+    "sources": {
+      "streams": [
+        "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "26hxUXThjWRyJw",
     "name": "TV Sim Sao Mateus",
     "sources": {
       "streams": [
         "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3SFbEQ5XiHL1nO",
+    "name": "TV Sul Bahia",
+    "sources": {
+      "streams": [
+        "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       ]
     },
     "languages": [

@@ -88,7 +88,8 @@
     "name": "All Time Movies",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8"
+        "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+        "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
       ]
     },
     "languages": [
@@ -291,7 +292,8 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -498,11 +500,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
+    "nanoid": "Wc02nSZr6VuoIF",
+    "name": "City Eden KinoAsia",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
+        "https://cityeden.catcast.tv/content/34393/index.m3u8"
       ]
     },
     "languages": [
@@ -512,11 +514,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
+    "nanoid": "8Ucx5FG7ngDLh5",
+    "name": "City Eden KinoDetektiv",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/45269/index.m3u8"
+        "https://cityeden.catcast.tv/content/41327/index.m3u8"
       ]
     },
     "languages": [
@@ -526,11 +528,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
+    "nanoid": "N0XF0zTYtjf6Vc",
+    "name": "City Eden KinoKomediya",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
+        "https://cityeden.catcast.tv/content/41331/index.m3u8"
       ]
     },
     "languages": [
@@ -540,11 +542,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xjnk7dNYRv7edj",
-    "name": "City Eden KinoKlassika",
+    "nanoid": "hYJqIp24qMnNqd",
+    "name": "City Eden KinoMistika",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/34185/index.m3u8"
+        "https://cityeden.catcast.tv/content/40783/index.m3u8"
       ]
     },
     "languages": [
@@ -1216,7 +1218,6 @@
     "name": "Jalsha Movies",
     "sources": {
       "streams": [
-        "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
         "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1355,6 +1356,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QyIQ9kOGZDQke9",
+    "name": "Kinouzhas",
+    "sources": {
+      "streams": [
+        "https://s1.merlive.am/Kinoujas/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b7x9FsdKa3CXRR",
     "name": "Kuriakos Cine",
     "sources": {
@@ -1445,7 +1460,7 @@
     "sources": {
       "streams": [
         "https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8",
-        "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1011/master.m3u8",
         "https://fta.ektv.in/live/19/master.m3u8"
       ]
     },
@@ -1546,8 +1561,8 @@
     "name": "Movie Punjab",
     "sources": {
       "streams": [
-        "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
-        "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8"
+        "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8",
+        "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8"
       ]
     },
     "languages": [
@@ -1690,8 +1705,8 @@
     "name": "NEW K.MOVIES",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ30000122O&channel_id=newid_342&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -1925,6 +1940,7 @@
     "sources": {
       "streams": [
         "https://gtc.ottlive.co.in/punjabshort/index.m3u8",
+        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8",
         "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
       ]
     },
@@ -1935,45 +1951,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xPU4Ep9UnoE2H1",
-    "name": "Raj Digital Plus",
+    "nanoid": "pVq6NYAblJFq99",
+    "name": "Rakuten TV Drama Movies Italy",
     "sources": {
       "streams": [
-        "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4XypCIgUkqx4tL",
-    "name": "Rakuten TV Action Movies Italy",
-    "sources": {
-      "streams": [
-        "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
       ]
     },
     "languages": [
       "ita"
     ],
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
-    "sources": {
-      "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1991,17 +1979,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bM1ajyE0MLR0WL",
-    "name": "Rakuten TV Family Movies UK",
+    "nanoid": "7UK6GTwohWhEMF",
+    "name": "Rakuten TV Family Movies Italy",
     "sources": {
       "streams": [
-        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+        "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "ita"
     ],
-    "country": "uk",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -2253,6 +2241,7 @@
     "name": "Star Cinema",
     "sources": {
       "streams": [
+        "https://s1.merlive.am/starsinema/index.m3u8",
         "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8"
       ]
     },

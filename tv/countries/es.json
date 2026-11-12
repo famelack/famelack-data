@@ -585,7 +585,8 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -782,7 +783,7 @@
     "name": "El Futuro En tu Mano",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kLPT0Y1zi4o"
+        "https://www.youtube-nocookie.com/embed/755fCC36reQ"
       ]
     },
     "languages": [
@@ -833,35 +834,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vBQYI4XuRuNh2P",
-    "name": "Estepona Television",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8022/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "awUBqlQNui5V6X",
@@ -1045,20 +1017,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9YxHU0Ug32YMW",
-    "name": "HOLA! Play",
-    "sources": {
-      "streams": [
-        "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c53RhFBvJqM5zG",
     "name": "Ideas en 5 minutos",
     "sources": {
@@ -1151,6 +1109,18 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "sources": {
+      "streams": [
+        "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1437,11 +1407,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
+    "nanoid": "SqdL0M66Q2lMl2",
+    "name": "Rakuten TV Cine Español",
     "sources": {
       "streams": [
-        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
+        "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Fk85FNF4cdSWr",
+    "name": "Rakuten TV Sci-Fi Spain",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
       ]
     },
     "languages": [],
@@ -1619,20 +1601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9WgfAeppTstCFn",
-    "name": "Tele Safor",
-    "sources": {
-      "streams": [
-        "https://video.telesafor.com/hls/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QXO7Ca6Qev84ww",
     "name": "Teleganes",
     "sources": {
@@ -1652,9 +1620,6 @@
     "sources": {
       "streams": [
         "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/1m4a88XikDc"
       ]
     },
     "languages": [
@@ -1911,20 +1876,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gyVcJ1bLnu4kuk",
-    "name": "TVOMIX",
-    "sources": {
-      "streams": [
-        "https://cloud.tvomix.com/TVOMIX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P3ESPrzfdoSoj9",
     "name": "TVReus",
     "sources": {
@@ -1934,6 +1885,20 @@
     },
     "languages": [
       "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2uGXU96QMW7Acl",
+    "name": "Univers TV",
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

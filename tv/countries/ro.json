@@ -581,6 +581,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zPI0sdm1ojmTzf",
+    "name": "Info HD",
+    "sources": {
+      "streams": [
+        "https://netstreaming.eu/InfoHd.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dwPib6Di7weUvt",
     "name": "Informatia TV",
     "sources": {
@@ -699,20 +713,6 @@
     "sources": {
       "streams": [
         "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FOsU86TnzYmDGQ",
-    "name": "MISA TV",
-    "sources": {
-      "streams": [
-        "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1236,6 +1236,20 @@
     "sources": {
       "streams": [
         "https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DKhhhSET195MGM",
+    "name": "TV1",
+    "sources": {
+      "streams": [
+        "https://netstreaming.eu/tv1.m3u8"
       ]
     },
     "languages": [

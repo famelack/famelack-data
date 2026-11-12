@@ -44,20 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YD8ihVxcEILfkx",
-    "name": "Azan TV",
-    "sources": {
-      "streams": [
-        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vLJxCfSjAO72Wd",
     "name": "Belmedia TV",
     "sources": {
@@ -204,6 +190,7 @@
     "name": "CBC News Network",
     "sources": {
       "streams": [
+        "https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8",
         "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
         "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
       ],
@@ -389,20 +376,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZXvLfybRDCi9xD",
-    "name": "DesheBideshe TV",
-    "sources": {
-      "streams": [
-        "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -662,81 +635,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qTBBfgVQPSWPrA",
-    "name": "Ici Radio-Canada Télé",
-    "sources": {
-      "streams": [
-        "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "w1gxGK7i1Tu1x2",
-    "name": "Ici Radio-Canada Télé Alberta (CBXFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "YEdrOCcoQa6dKG",
-    "name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "nHDxIofgkugzZk",
-    "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "rpQ8RA1mbZgwRB",
-    "name": "Ici Radio-Canada Télé Estrie (CKSH-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "lefO7v4n3VvVMP",
     "name": "Ici Radio-Canada Télé Ontario (CBLFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PY9x4pkcZHp0a4",
+    "name": "Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
       ]
     },
     "languages": [
@@ -786,34 +703,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "AtNMmaZyA3uXwI",
-    "name": "Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "VW8nguM4FsiBz7",
-    "name": "Ici RDI",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "j79baqwQIoh0JH",
@@ -1092,6 +981,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CID3rJMl0Ytixb",
+    "name": "Prime Asia TV",
+    "sources": {
+      "streams": [
+        "https://stream.ottlive.co.in/primeasia/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZegDKx8OsbVOFA",
     "name": "PTC Punjabi Canada",
     "sources": {
@@ -1129,6 +1032,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vYhff99inYZrDY",
+    "name": "Radio Tele Evangile Sans Limite",
+    "sources": {
+      "streams": [
+        "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -2056,6 +1973,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "bXKVlszQEGdoup",
+    "name": "TV Témis",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/L9rgoBUfBe4"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "l4n46BVDM7izVj",

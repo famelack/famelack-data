@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CtdqbL5wtTjnvo",
-    "name": "AgroCanal",
-    "sources": {
-      "streams": [
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2iEMu7y7Pfmad9",
     "name": "Al Hiwar TV",
     "sources": {
@@ -89,8 +75,8 @@
     "name": "Bem Mais TV",
     "sources": {
       "streams": [
-        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
-        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8"
+        "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
+        "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -203,6 +189,9 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-kooOhIodAk"
       ]
     },
     "languages": [
@@ -538,21 +527,6 @@
     "sources": {
       "streams": [
         "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPUnfb9kCWJfnO",
-    "name": "DLTV 13",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv13.m3u8"
       ]
     },
     "languages": [
@@ -1635,6 +1609,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8192/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JvGEcuMecAcih8",
     "name": "Unison TV",
     "sources": {
@@ -1660,20 +1648,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9FdyA2xz0oQ"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {

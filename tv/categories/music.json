@@ -105,6 +105,7 @@
     "name": "7X Music",
     "sources": {
       "streams": [
+        "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
         "https://cdn2.in/7xPunjabihls/live.m3u8"
       ]
     },
@@ -857,20 +858,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
-    "sources": {
-      "streams": [
-        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "96eR5wTMfDjbi2",
     "name": "Buenisima Radio TV",
     "sources": {
@@ -1474,6 +1461,20 @@
       "spa"
     ],
     "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HQxmczuRTCLJHk",
+    "name": "Ellinikos FM",
+    "sources": {
+      "streams": [
+        "https://rtmp.win:3603/live/ellinikosfmlive.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
     "isGeoBlocked": false
   },
   {
@@ -3301,8 +3302,8 @@
     "name": "Music India",
     "sources": {
       "streams": [
-        "https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8",
         "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
+        "https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8",
         "https://cdn.pishow.tv/ott/live/226/master.m3u8"
       ]
     },
@@ -3424,6 +3425,20 @@
       "ukr"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KiwbZFxfIOXSsb",
+    "name": "Nande Portetepe TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -4251,7 +4266,7 @@
     "name": "Punjabi Hits",
     "sources": {
       "streams": [
-        "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+        "https://livingindia.ottlive.co.in/punjabihits/index.m3u8",
         "https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8",
         "https://legitpro.co.in/punjabihits/punjabihits/index.m3u8"
       ]
@@ -4928,8 +4943,8 @@
     "name": "Raj Musix Kannada",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8",
-        "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8"
+        "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
+        "https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -4949,20 +4964,6 @@
     },
     "languages": [
       "mal"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8NYQl6XZSN5KI",
-    "name": "Raj Musix Tamil",
-    "sources": {
-      "streams": [
-        "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -5283,7 +5284,8 @@
     "name": "Sana Plus",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+        "https://stream.ottlive.co.in/sanaplus/index.m3u8"
       ]
     },
     "languages": [
@@ -6117,7 +6119,7 @@
     "name": "SuriaTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0S1GB4o7Crc"
+        "https://www.youtube-nocookie.com/embed/bODhjinU-ow"
       ]
     },
     "languages": [
@@ -6352,20 +6354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AobTBdQ6p1JxiG",
-    "name": "TikTok Radio Brasil",
-    "sources": {
-      "streams": [
-        "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bPZnKZBJpINge0",
     "name": "Tjil TV",
     "sources": {
@@ -6507,158 +6495,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iznqZt4QDsmnlv",
-    "name": "Trace Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mWE4kH6ibcq6b4",
-    "name": "Trace Afrikora",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0NnzYHacRaT04R",
-    "name": "Trace Ayiti",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "URBHUsZAHdGmEN",
     "name": "Trace Brazuca",
     "sources": {
       "streams": [
         "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
-        "https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
       ]
     },
     "languages": [
       "por"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yLCxHzKZ8frJd2",
-    "name": "Trace Caribbean",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "70sX04jX14d4dB",
-    "name": "Trace Gospel",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y4qPq23OdBqrZm",
-    "name": "Trace Gospel Nigeria and East Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qlnlzIINox50mW",
-    "name": "Trace Gospel Southern Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D5MYV8sWL3x6ui",
-    "name": "Trace Ivoire",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y5SbJctYBPjs3D",
-    "name": "Trace Jama",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GOL0LeAC5fNTzD",
-    "name": "Trace Kitoko",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -6680,96 +6526,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "0fWZLIAvkDVD4z",
-    "name": "Trace Mboa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IQN10ZdvEALsRy",
-    "name": "Trace Muzika",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qXN7ug2DpHuKzM",
-    "name": "Trace Mziki",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zjjPyizDsavmnG",
-    "name": "Trace Naija",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kqMUlhv25saDO5",
-    "name": "Trace Ngoma",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4sRs2yNNylt0rj",
-    "name": "Trace Toca",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QMKR1Xfs0rC7EV",
     "name": "Trace UK",
     "sources": {
       "streams": [
-        "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
-        "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8"
+        "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8"
       ]
     },
     "languages": [
@@ -6795,76 +6556,6 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "eNC1h7N1CurUSa",
-    "name": "Trace Urban Africa Franco",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ikUOfTTqyRQA06",
-    "name": "Trace Urban Caribbean and Indian Ocean",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jXgccKBeTddkaK",
-    "name": "Trace Urban International",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4aWG7gXKEliA0U",
-    "name": "Trace Urban Southern Africa",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPDEacVJIZ5Ext",
-    "name": "Trace Vanilla Islands",
-    "sources": {
-      "streams": [
-        "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "SUR27YVxiEVQoo",
@@ -7038,20 +6729,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gyVcJ1bLnu4kuk",
-    "name": "TVOMIX",
-    "sources": {
-      "streams": [
-        "https://cloud.tvomix.com/TVOMIX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pZ7DVIEngrRQGF",
     "name": "TVR Folclor",
     "sources": {
@@ -7098,7 +6775,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/eujDFmYmaN0"
+        "https://www.youtube-nocookie.com/embed/wH97c6B3RJo"
       ]
     },
     "languages": [
@@ -7709,20 +7386,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XjpTFUX5g4pbgr",
-    "name": "Zoom Nepal",
-    "sources": {
-      "streams": [
-        "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
-    ],
-    "country": "np",
     "isGeoBlocked": false
   },
   {
