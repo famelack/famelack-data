@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g4A3bB8HmwN8Zj",
+    "name": "CTV 9",
+    "sources": {
+      "streams": [
+        "https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sFPfedqXXPJW5f",
     "name": "EAC News TV",
     "sources": {
@@ -51,20 +65,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "o1ZCj1yQeD7Xnc",
-    "name": "EBC General Education",
-    "sources": {
-      "streams": [
-        "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
     ],
     "country": "kh",
     "isGeoBlocked": false
@@ -101,6 +101,20 @@
     "sources": {
       "streams": [
         "https://seatv.netlinkbroadcaster.com/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lXrzXvqgLtph14",
+    "name": "Town TV",
+    "sources": {
+      "streams": [
+        "https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8"
       ]
     },
     "languages": [

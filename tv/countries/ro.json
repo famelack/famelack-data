@@ -637,21 +637,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "sources": {
-      "streams": [
-        "https://jobtvserver.eu/hls/stream.m3u8",
-        "https://jobtvserver.eu/hls/stream_src/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "H8lAJKYghBWOpW",
     "name": "Kanal D",
     "sources": {
@@ -862,6 +847,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "19bVQttgqOEZ2W",
+    "name": "NHL AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Xb6sSVxIqQCLnS",
     "name": "Nostalgia TV",
     "sources": {
@@ -966,20 +965,6 @@
     "sources": {
       "streams": [
         "https://media.3netmedia.ro/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BEYVH24fbdnqEV",
-    "name": "Radio Romania Antena Satelor 720p",
-    "sources": {
-      "streams": [
-        "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
       ]
     },
     "languages": [

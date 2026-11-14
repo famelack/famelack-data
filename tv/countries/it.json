@@ -292,20 +292,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JiP5cLnzC72htv",
-    "name": "Canale 2 Altamura",
-    "sources": {
-      "streams": [
-        "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5HdR8I0ojOAnOH",
     "name": "Canale 5",
     "sources": {
@@ -891,6 +877,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "99nLbZS1PkL0qS",
+    "name": "La Nuova TV",
+    "sources": {
+      "streams": [
+        "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5LLVHmQ8JEsCfJ",
     "name": "La TR3 Marsala",
     "sources": {
@@ -924,20 +924,6 @@
     "sources": {
       "streams": [
         "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GVTfU86YlWYBhq",
-    "name": "Lazio Style Channel",
-    "sources": {
-      "streams": [
-        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1724,16 +1710,28 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pVq6NYAblJFq99",
-    "name": "Rakuten TV Drama Movies Italy",
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
     "sources": {
       "streams": [
-        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
       ]
     },
     "languages": [
       "ita"
     ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oURW9nLoHQEwxm",
+    "name": "Rakuten TV Sci-Fi Italy",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "it",
     "isGeoBlocked": false
   },
