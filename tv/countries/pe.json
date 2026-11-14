@@ -295,20 +295,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XzRqOxUzNRtPhH",
-    "name": "ECO Television",
-    "sources": {
-      "streams": [
-        "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "M8nsyNmz1k1pVX",
     "name": "Exitosa TV",
     "sources": {
@@ -328,6 +314,20 @@
     "sources": {
       "streams": [
         "https://mc.servidor.stream:19360/8274/8274.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IJ7gZA2UwesadP",
+    "name": "Galactica TV",
+    "sources": {
+      "streams": [
+        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
       ]
     },
     "languages": [
@@ -844,8 +844,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -887,6 +887,7 @@
     "name": "Solar Television",
     "sources": {
       "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
         "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
       ]
     },
@@ -1281,7 +1282,7 @@
     "name": "Willax Televisión",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KbKnMmu0Rqo"
+        "https://www.youtube-nocookie.com/embed/lT2EGgU6ny0"
       ]
     },
     "languages": [

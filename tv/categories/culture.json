@@ -155,6 +155,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bYTvtLA2rlhnbu",
+    "name": "Bonaire.tv",
+    "sources": {
+      "streams": [
+        "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld",
+      "pap"
+    ],
+    "country": "bq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5b9R7v4eVMOgWj",
     "name": "BX Arts",
     "sources": {
@@ -225,20 +240,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kcUlTpEd2EjJLo",
-    "name": "Capital 21",
-    "sources": {
-      "streams": [
-        "https://video.cdmx.gob.mx/redes/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vUd9BZTcBgBOm3",
     "name": "Catamarca TV",
     "sources": {
@@ -257,7 +258,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/V6htTSidD1E"
+        "https://www.youtube-nocookie.com/embed/ccqN7qml3-A"
       ]
     },
     "languages": [
@@ -404,8 +405,8 @@
     "sources": {
       "streams": [
         "https://cdn.pishow.tv/ott/live/10/master.m3u8",
-        "https://fta.ektv.in/live/335/master.m3u8",
-        "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
+        "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+        "https://fta.ektv.in/live/335/master.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/mHn0m9pSWkk"
@@ -1493,6 +1494,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "J4eb8pMfTeVAGZ",

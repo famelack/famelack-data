@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kN6c4SihXsoCuA",
-    "name": "1HD Music Television",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YF7mndaBAlEUjm",
     "name": "3ABN Praise Him Music Network",
     "sources": {
@@ -46,8 +32,7 @@
     "name": "4 Fun TV",
     "sources": {
       "streams": [
-        "https://stream.4fun.tv:8888/hls/4f.m3u8",
-        "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8"
+        "https://stream.4fun.tv:8888/hls/4f.m3u8"
       ]
     },
     "languages": [
@@ -858,6 +843,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "96eR5wTMfDjbi2",
     "name": "Buenisima Radio TV",
     "sources": {
@@ -975,6 +974,20 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/34364/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lk2MXbqIFnMEMM",
+    "name": "City Eden Classic Music",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47400/index.m3u8"
       ]
     },
     "languages": [
@@ -1317,6 +1330,21 @@
     },
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kxfwLfpFpzHMm2",
+    "name": "Deluxe Rap",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -1720,20 +1748,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qa7OPq5nNktcSd",
-    "name": "FON Music",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v32sHMlPXTjtGY",
     "name": "frequenzy: Acoustic/Folk",
     "sources": {
@@ -1843,6 +1857,20 @@
       "fra"
     ],
     "country": "mq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IJ7gZA2UwesadP",
+    "name": "Galactica TV",
+    "sources": {
+      "streams": [
+        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -3102,20 +3130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8JZH2jVeoWilfK",
-    "name": "Melody FM",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5gU0KM4Sn73Y6s",
     "name": "Messatida TV",
     "sources": {
@@ -3270,6 +3284,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SYVm1WAAWqQHek",
+    "name": "Montones TV",
+    "sources": {
+      "streams": [
+        "https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0vWRP5qYJXkBiC",
     "name": "Mosaique FM",
     "sources": {
@@ -3302,8 +3330,8 @@
     "name": "Music India",
     "sources": {
       "streams": [
-        "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
         "https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8",
+        "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
         "https://cdn.pishow.tv/ott/live/226/master.m3u8"
       ]
     },
@@ -3474,8 +3502,8 @@
     "name": "NEW K-POP",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -3587,8 +3615,7 @@
     "sources": {
       "streams": [
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
-        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4131,6 +4158,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tadaKAwuktrkov",
+    "name": "Power 101.7 FM",
+    "sources": {
+      "streams": [
+        "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fEdPdOM5VlxlUw",
     "name": "Power Dance",
     "sources": {
@@ -4222,8 +4265,8 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1501/master.m3u8"
+        "https://fta.ektv.in/live/181/master.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8"
       ]
     },
     "languages": [
@@ -4336,7 +4379,7 @@
     "name": "Quang Lập Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/2CD-lLZW_gg"
+        "https://www.youtube-nocookie.com/embed/NxZcA8Yh6lw"
       ]
     },
     "languages": [
@@ -5300,7 +5343,8 @@
     "sources": {
       "streams": [
         "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1143/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/1143/master.m3u8",
+        "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8"
       ]
     },
     "languages": [
@@ -5496,6 +5540,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "sources": {
+      "streams": [
+        "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -6119,7 +6177,7 @@
     "name": "SuriaTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bODhjinU-ow"
+        "https://www.youtube-nocookie.com/embed/1SfiZ5XGdSQ"
       ]
     },
     "languages": [
@@ -6226,6 +6284,20 @@
       "fra"
     ],
     "country": "mq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Njn8bJGKqOkI3F",
+    "name": "Tele7music",
+    "sources": {
+      "streams": [
+        "https://live.tele7music.ro/hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -6729,6 +6801,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gyVcJ1bLnu4kuk",
+    "name": "TVOMIX",
+    "sources": {
+      "streams": [
+        "https://cloud.tvomix.com/TVOMIX/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pZ7DVIEngrRQGF",
     "name": "TVR Folclor",
     "sources": {
@@ -6775,7 +6861,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/wH97c6B3RJo"
+        "https://www.youtube-nocookie.com/embed/2t_awOYY-lE"
       ]
     },
     "languages": [

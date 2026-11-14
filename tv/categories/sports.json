@@ -8,7 +8,7 @@
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/nol9os2B8zE"
+        "https://www.youtube-nocookie.com/embed/U4psHiEhciE"
       ]
     },
     "languages": [
@@ -76,20 +76,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jx16M3Ax3MMQIW",
-    "name": "AFSOC 360",
-    "sources": {
-      "streams": [
-        "https://stream-hls.castr.net/66a8e23ab0c0cb0dea59faf0/live_2a83b670835111f0b3527dc3e528545a/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "roeCDcGE1uwKQ6",
     "name": "Al Iraqia Sport",
     "sources": {
@@ -111,6 +97,9 @@
         "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
         "https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.afid=405342864&ads.asnw=169843&ads.channelId=99993042&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99993042&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
         "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/AsR0_j_0YI8"
       ]
     },
     "languages": [
@@ -317,6 +306,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0vPnZheEHBV86R",
+    "name": "Colimdo TV",
+    "sources": {
+      "streams": [
+        "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wuceitzgHl5DOL",
     "name": "CRTV",
     "sources": {
@@ -351,7 +354,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://fta.ektv.in/live/280/master.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
       ]
     },
     "languages": [
@@ -553,6 +556,35 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lbyfmgKEc7ZRqZ",
+    "name": "Eurosport",
+    "sources": {
+      "streams": [
+        "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4vOFCDijqZFXmc",
     "name": "Eurosport 1 Russia",
     "sources": {
@@ -744,8 +776,8 @@
     "name": "FON TV",
     "sources": {
       "streams": [
-        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
-        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8"
+        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8"
       ]
     },
     "languages": [
@@ -755,18 +787,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vJVb5mO9wEX9a8",
-    "name": "Fox Deportes",
+    "nanoid": "DS0ehq9kdFE5AD",
+    "name": "Formula 1 AntenaPlay",
     "sources": {
       "streams": [
-        "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+        "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "spa"
+      "eng"
     ],
-    "country": "us",
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -1388,6 +1419,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1790,8 +1822,8 @@
     "name": "Sportitalia Solocalcio",
     "sources": {
       "streams": [
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
         "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
@@ -1834,6 +1866,7 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
+        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1950,7 +1983,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2073,6 +2107,20 @@
       "spa"
     ],
     "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "46bhWZVm1EdjmB",
+    "name": "TV Cartago Digital",
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -2246,6 +2294,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wmwjQ27aToc3v2",
+    "name": "Voyo Sport 1",
+    "sources": {
+      "streams": [
+        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "sources": {
@@ -2364,7 +2426,7 @@
     "name": "WWE",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LRV7bYvJEf4"
+        "https://www.youtube-nocookie.com/embed/x23UltG-hJA"
       ]
     },
     "languages": [

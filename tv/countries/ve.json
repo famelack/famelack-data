@@ -28,11 +28,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ciUS0lRhmTtePT",
-    "name": "Anzoategui TV",
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
     "sources": {
       "streams": [
-        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
     "sources": {
       "streams": [
-        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
       ]
     },
     "languages": [
@@ -365,20 +365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hf8hQXiCJxWSk6",
-    "name": "Somos TV",
-    "sources": {
-      "streams": [
-        "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qRZZMGSFXehDnV",
     "name": "TAM TV",
     "sources": {
@@ -484,6 +470,20 @@
     "sources": {
       "streams": [
         "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
+    "sources": {
+      "streams": [
+        "https://live.teve.pro/live/tvoasis/index.m3u8"
       ]
     },
     "languages": [

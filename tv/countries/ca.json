@@ -555,8 +555,8 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
+        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
       ]
     },
@@ -635,11 +635,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lefO7v4n3VvVMP",
-    "name": "Ici Radio-Canada Télé Ontario (CBLFT-DT)",
+    "nanoid": "w1gxGK7i1Tu1x2",
+    "name": "Ici Radio-Canada Télé Alberta (CBXFT-DT)",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MxGLQzbmn1eRI9",
+    "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
       ]
     },
     "languages": [
@@ -663,20 +677,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "qpj1oGnAfj0tNs",
-    "name": "Ici Radio-Canada Télé Québec (CBVT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "v8YRKpn8C7SA8f",
     "name": "Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT)",
     "sources": {
@@ -691,11 +691,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "fEhQEHi1zhQ9J9",
-    "name": "Ici Radio-Canada Télé Saskatchewan (CBKFT-DT)",
+    "nanoid": "AtNMmaZyA3uXwI",
+    "name": "Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT)",
     "sources": {
       "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+        "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
       ]
     },
     "languages": [
@@ -703,6 +703,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VW8nguM4FsiBz7",
+    "name": "Ici RDI",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "j79baqwQIoh0JH",
@@ -1798,7 +1812,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/omJhIvk5eu8"
+        "https://www.youtube-nocookie.com/embed/r6YSN7MvoAw"
       ]
     },
     "languages": [
@@ -1812,7 +1826,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mRVp0bEqTPA"
+        "https://www.youtube-nocookie.com/embed/RJg6cYV9Hho"
       ]
     },
     "languages": [

@@ -469,6 +469,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DS0ehq9kdFE5AD",
+    "name": "Formula 1 AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lhCxqE1AXbE8qH",
     "name": "HD365 TV",
     "sources": {
@@ -717,6 +731,62 @@
     },
     "languages": [
       "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FOsU86TnzYmDGQ",
+    "name": "MISA TV",
+    "sources": {
+      "streams": [
+        "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uFc4JRQCXBgXRD",
+    "name": "MISA TV Czech",
+    "sources": {
+      "streams": [
+        "https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yJ3aMpGOP5xWgf",
+    "name": "MISA TV English",
+    "sources": {
+      "streams": [
+        "https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ebMqZekNSUI3t1",
+    "name": "MISA TV Hungarian",
+    "sources": {
+      "streams": [
+        "https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -1102,6 +1172,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Njn8bJGKqOkI3F",
+    "name": "Tele7music",
+    "sources": {
+      "streams": [
+        "https://live.tele7music.ro/hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hIj4Fm6gOaC8Wj",
     "name": "TeleMoldova +",
     "sources": {
@@ -1135,6 +1219,20 @@
     "sources": {
       "streams": [
         "https://stream.tequilamusic.net/hls/tequila_tv.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u0hkmFoeexuAOa",
+    "name": "Timeless Dizi Channel",
+    "sources": {
+      "streams": [
+        "https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -1455,11 +1553,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wmwjQ27aToc3v2",
+    "name": "Voyo Sport 1",
+    "sources": {
+      "streams": [
+        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wEoUUNJpcYsZs6",
     "name": "Z-TV",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/35UbhLWpyZ0"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mWfFlD5CEk8pJo",
+    "name": "Zece TV",
+    "sources": {
+      "streams": [
+        "https://zecetv.ilink.ro:8088/hls/live.m3u8"
       ]
     },
     "languages": [
