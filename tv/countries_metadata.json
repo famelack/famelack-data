@@ -55,6 +55,14 @@
     "hasChannels": true,
     "channelCount": 3
   },
+  "AQ": {
+    "country": "Antarctica",
+    "capital": "",
+    "timeZone": "",
+    "note": "No permanent population",
+    "hasChannels": false,
+    "channelCount": 0
+  },
   "AR": {
     "country": "Argentina",
     "capital": "Buenos Aires",
@@ -227,6 +235,7 @@
     "country": "Bouvet Island",
     "capital": "",
     "timeZone": "",
+    "note": "Uninhabited island",
     "hasChannels": false,
     "channelCount": 0
   },
@@ -1464,8 +1473,9 @@
   },
   "TF": {
     "country": "French Southern Territories",
-    "capital": "N/A",
+    "capital": "",
     "timeZone": "Indian/Kerguelen",
+    "note": "No permanent population",
     "hasChannels": false,
     "channelCount": 0
   },
@@ -1492,8 +1502,9 @@
   },
   "TK": {
     "country": "Tokelau",
-    "capital": "N/A",
+    "capital": "",
     "timeZone": "Pacific/Fakaofo",
+    "note": "Leadership rotates among atolls",
     "hasChannels": false,
     "channelCount": 0
   },
