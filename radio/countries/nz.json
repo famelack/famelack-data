@@ -218,8 +218,8 @@
     "name": "Coast Access Radio 104.7 FM",
     "sources": {
       "streams": [
-        "https://live.accessmedia.nz/Coast.stream/playlist.m3u8",
-        "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8"
+        "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8",
+        "https://live.accessmedia.nz/Coast.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -728,8 +728,8 @@
     "name": "Plains FM 96.9",
     "sources": {
       "streams": [
-        "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
-        "https://live.accessmedia.nz/plains.stream/playlist.m3u8"
+        "https://live.accessmedia.nz/plains.stream/playlist.m3u8",
+        "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1435,20 +1435,6 @@
     "sources": {
       "streams": [
         "https://live.accessmedia.nz/Wellington.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rfncxUgMtd9ZKU",
-    "name": "World FM 88.2",
-    "sources": {
-      "streams": [
-        "https://www.worldfm.co.nz:8882/worldfm.aac"
       ]
     },
     "languages": [

@@ -93,8 +93,8 @@
     "name": "Rádio Kussundé FM",
     "sources": {
       "streams": [
-        "https://s40.maxcast.com.br:8136/live",
-        "https://s40.maxcast.com.br:8136/autodj"
+        "https://s40.maxcast.com.br:8136/autodj",
+        "https://s40.maxcast.com.br:8136/live"
       ]
     },
     "languages": [
@@ -135,6 +135,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rTZSTVmmXFb35R",
+    "name": "Rádio Universitária",
+    "sources": {
+      "streams": [
+        "https://bissau.radio/listen/4378"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "gw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hY7a7p7Vz5G16Y",
     "name": "Rádio Voz da Guiné",
     "sources": {
@@ -149,6 +163,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TcJdc0N3VkvX3E",
+    "name": "Rádio Voz de Esperança Bissau",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/c857sevbu18uv"
+      ]
+    },
+    "languages": [
+      "por",
+      "pov"
+    ],
+    "country": "gw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IOZSNgJu7mb2Kf",
     "name": "Rádio Voz de Quelélé",
     "sources": {
@@ -158,6 +187,21 @@
     },
     "languages": [
       "fra",
+      "por",
+      "pov"
+    ],
+    "country": "gw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCfafMweWPxz1o",
+    "name": "Radiodifusão Nacional da Guiné-Bissau",
+    "sources": {
+      "streams": [
+        "https://sp0.redeaudio.com:10918/;"
+      ]
+    },
+    "languages": [
       "por",
       "pov"
     ],

@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zy2HLDOWoOFkai",
-    "name": "Radio ABC 100.1 FM",
-    "sources": {
-      "streams": [
-        "https://streaming.rcs.com.sv/proxy/abc/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i6BSn3RShXwFuP",
     "name": "Radio Astral 102.9 FM",
     "sources": {
@@ -144,8 +130,8 @@
     "name": "Radio Cadena YSKL 104.1 FM",
     "sources": {
       "streams": [
-        "https://media.dominiocreativo.com:8000/stream/1/",
-        "https://media.dominiocreativo.com:8000/radioyskl"
+        "https://media.dominiocreativo.com:8000/radioyskl",
+        "https://media.dominiocreativo.com:8000/stream/1/"
       ]
     },
     "languages": [
@@ -385,6 +371,20 @@
     "sources": {
       "streams": [
         "https://cloudstream2036.conectarhosting.com/8168/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uwBEG3gZ9DKB1Z",
+    "name": "Radio YSUCA 91.7 FM",
+    "sources": {
+      "streams": [
+        "https://fast.citrus3.com:8314/stream"
       ]
     },
     "languages": [

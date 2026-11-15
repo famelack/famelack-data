@@ -787,8 +787,8 @@
     "name": "FREIRAD - Freies Radio Innsbruck",
     "sources": {
       "streams": [
-        "https://stream.freirad.at/live.mp3",
-        "https://stream.freirad.at/live.ogg"
+        "https://stream.freirad.at/live.ogg",
+        "https://stream.freirad.at/live.mp3"
       ]
     },
     "languages": [
@@ -889,8 +889,8 @@
     "name": "JazzW3",
     "sources": {
       "streams": [
-        "https://air.jazz.w3.at/jazzw3.ogg",
-        "https://air.jazz.w3.at/jazzw3.mp3"
+        "https://air.jazz.w3.at/jazzw3.mp3",
+        "https://air.jazz.w3.at/jazzw3.ogg"
       ]
     },
     "languages": [
@@ -933,8 +933,8 @@
     "name": "Kronehit Digital",
     "sources": {
       "streams": [
-        "https://secureonair.krone.at/kronehit64.aac",
-        "https://secureonair.krone.at/kronehit-hp.mp3"
+        "https://secureonair.krone.at/kronehit-hp.mp3",
+        "https://secureonair.krone.at/kronehit64.aac"
       ]
     },
     "languages": [
@@ -1598,20 +1598,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y7oUjRiCSnIlpZ",
-    "name": "Radio 3: The DJ Johnson Somerset Remixes",
-    "sources": {
-      "streams": [
-        "https://radio.eduneu.eu:8020/radio.mp3"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aOupz4Y3vPOmZn",
     "name": "Radio Alpenstar",
     "sources": {
@@ -1824,8 +1810,8 @@
     "name": "Radio Arabella Rock",
     "sources": {
       "streams": [
-        "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile",
-        "https://edge83.streams.arabella.at/arabella-rock"
+        "https://edge83.streams.arabella.at/arabella-rock",
+        "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile"
       ]
     },
     "languages": [
@@ -2460,8 +2446,8 @@
     "sources": {
       "streams": [
         "https://live.u1-radio.at/",
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
+        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
       ]
     },
     "languages": [
@@ -2546,13 +2532,27 @@
     "name": "Radio Wien",
     "sources": {
       "streams": [
-        "https://ors-sn05.ors-shoutcast.at/wie-q2a",
         "https://orf-live.ors-shoutcast.at/wie-q2a",
-        "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
+        "https://ors-sn05.ors-shoutcast.at/wie-q2a",
+        "https://orf-live.ors-shoutcast.at/wie-q1a"
       ]
     },
     "languages": [
       "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hSTdCLnJtl1wpk",
+    "name": "Radio X-MAS",
+    "sources": {
+      "streams": [
+        "https://www.radio-xmas.at/xmas"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "at",
     "isGeoBlocked": false
@@ -2734,8 +2734,8 @@
     "name": "Spirit Live Radio",
     "sources": {
       "streams": [
-        "https://server7606.streamplus.de/listen.pls/",
-        "https://server7606.streamplus.de/;"
+        "https://server7606.streamplus.de/;",
+        "https://server7606.streamplus.de/listen.pls/"
       ]
     },
     "languages": [

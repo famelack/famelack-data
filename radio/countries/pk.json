@@ -263,6 +263,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5hRrFR1VIQgaR0",
+    "name": "Radio Pakistan FM 93 Gilgit",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:8090/stream"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MNrCqySYBZmzBy",
     "name": "Radio Pakistan FM 93 Karachi",
     "sources": {
@@ -492,6 +506,21 @@
     },
     "languages": [
       "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TkcOfg6dyeQvPa",
+    "name": "Radio Pakistan Karachi MW 639",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:7000/MW639khi"
+      ]
+    },
+    "languages": [
+      "snd",
       "urd"
     ],
     "country": "pk",

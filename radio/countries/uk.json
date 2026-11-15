@@ -561,20 +561,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iPs9F9xukdPgZO",
-    "name": "80s Music Station",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/1fm38n8f74zuv"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "meCGfw28SCmoeb",
     "name": "80s Rhythm",
     "sources": {
@@ -1099,8 +1085,8 @@
     "name": "BBC Arabic",
     "sources": {
       "streams": [
-        "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
-        "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+        "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
       ]
     },
     "languages": [
@@ -1157,8 +1143,8 @@
     "name": "BBC News",
     "sources": {
       "streams": [
-        "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d48000.norewind.m3u8",
+        "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8"
       ]
     },
@@ -1246,9 +1232,9 @@
     "name": "BBC Radio 2",
     "sources": {
       "streams": [
+        "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8",
-        "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8",
-        "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8"
+        "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8"
       ]
     },
     "languages": [
@@ -1262,8 +1248,8 @@
     "name": "BBC Radio 3",
     "sources": {
       "streams": [
-        "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
+        "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8"
       ]
     },
@@ -1306,8 +1292,8 @@
     "name": "BBC Radio 4",
     "sources": {
       "streams": [
-        "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8",
+        "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8"
       ]
     },
@@ -1351,9 +1337,9 @@
     "name": "BBC Radio 6 Music",
     "sources": {
       "streams": [
+        "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8",
         "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
-        "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8",
-        "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8"
+        "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8"
       ]
     },
     "languages": [
@@ -1591,8 +1577,8 @@
     "name": "BBC Radio Ulster",
     "sources": {
       "streams": [
-        "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8",
-        "https://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8"
+        "https://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8",
+        "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8"
       ]
     },
     "languages": [
@@ -1719,20 +1705,6 @@
     "sources": {
       "streams": [
         "https://bcfmradiomain.radioca.st/live.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RAKofmiZx4DBC8",
-    "name": "Beat Geeks Radio",
-    "sources": {
-      "streams": [
-        "https://broadcast.shoutstream.co.uk:8050/stream"
       ]
     },
     "languages": [
@@ -1901,7 +1873,7 @@
     "name": "BFBS Edge",
     "sources": {
       "streams": [
-        "https://edge-audio-03-gos2.sharp-stream.com:80/ssvcbfbs22.mp3",
+        "https://edge-audio-w1-04.sharp-stream.com:80/ssvcbfbs22.mp3",
         "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac"
       ]
     },
@@ -2654,8 +2626,8 @@
     "name": "Capital Dance",
     "sources": {
       "streams": [
-        "https://ice-sov.musicradio.com/CapitalDanceMP3",
-        "https://icecast.thisisdax.com/CapitalDanceMP3"
+        "https://icecast.thisisdax.com/CapitalDanceMP3",
+        "https://ice-sov.musicradio.com/CapitalDanceMP3"
       ]
     },
     "languages": [
@@ -2711,8 +2683,8 @@
     "name": "Capital London",
     "sources": {
       "streams": [
-        "https://media-ssl.musicradio.com/CapitalMP3",
         "https://media-ice.musicradio.com/CapitalMP3",
+        "https://media-ssl.musicradio.com/CapitalMP3",
         "https://ice-the.musicradio.com/Capital"
       ]
     },
@@ -2741,8 +2713,8 @@
     "name": "Capital Nottinghamshire",
     "sources": {
       "streams": [
-        "https://media-ice.musicradio.com/CapitalNottinghamshireMP3",
         "https://icecast.thisisdax.com/CapitalNottinghamshireMP3",
+        "https://media-ice.musicradio.com/CapitalNottinghamshireMP3",
         "https://icecast.thisisdax.com/CapitalNottinghamshire"
       ]
     },
@@ -2969,8 +2941,8 @@
     "name": "Chocolate Radio",
     "sources": {
       "streams": [
-        "https://stream.radio.co/sa7336b687/low",
-        "https://stream.radio.co/sa7336b687/listen"
+        "https://stream.radio.co/sa7336b687/listen",
+        "https://stream.radio.co/sa7336b687/low"
       ]
     },
     "languages": [
@@ -3040,9 +3012,9 @@
     "name": "Classic FM",
     "sources": {
       "streams": [
-        "https://media-ice.musicradio.com/ClassicFMMP3",
+        "https://ice-the.musicradio.com/ClassicFMMP3",
         "https://ice-sov.musicradio.com/ClassicFMMP3",
-        "https://ice-the.musicradio.com/ClassicFMMP3"
+        "https://media-ice.musicradio.com/ClassicFMMP3"
       ]
     },
     "languages": [
@@ -3520,20 +3492,6 @@
       "streams": [
         "https://stream3.themediasite.co.uk/stream/danceanthems",
         "https://stream3.themediasite.co.uk:8302/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XP3CTz027EyGwA",
-    "name": "Dance Classics",
-    "sources": {
-      "streams": [
-        "https://stream4.themediasite.co.uk/stream/danceclassics"
       ]
     },
     "languages": [
@@ -4245,6 +4203,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQSrXtDkmMlh7V",
+    "name": "Festive 365",
+    "sources": {
+      "streams": [
+        "https://uk2-pn.mixstream.net/8394/listen.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ihIqko7MNPhnEl",
     "name": "Fishnet Radio",
     "sources": {
@@ -4868,9 +4840,9 @@
     "name": "Global Pride",
     "sources": {
       "streams": [
+        "https://media-the.musicradio.com/Global-M-Pride",
         "https://media-ice.musicradio.com/Global-M-Pride",
-        "https://media-sov.musicradio.com/Global-M-Pride",
-        "https://media-ssl.musicradio.com/Global-M-Pride"
+        "https://media-sov.musicradio.com/Global-M-Pride"
       ]
     },
     "languages": [
@@ -5334,9 +5306,9 @@
     "name": "Heart 80s",
     "sources": {
       "streams": [
-        "https://media-ssl.musicradio.com/Heart80sMP3",
+        "https://ice-sov.musicradio.com/Heart80sMP3",
         "https://icecast.thisisdax.com/Heart80sMP3",
-        "https://ice-sov.musicradio.com/Heart80sMP3"
+        "https://media-ice.musicradio.com/Heart80sMP3"
       ]
     },
     "languages": [
@@ -5506,8 +5478,8 @@
     "name": "Heart London",
     "sources": {
       "streams": [
-        "https://ice-the.musicradio.com/HeartLondonMP3",
         "https://ice-sov.musicradio.com/HeartLondonMP3",
+        "https://ice-the.musicradio.com/HeartLondonMP3",
         "https://media-ice.musicradio.com/HeartLondon"
       ]
     },
@@ -6434,20 +6406,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "djqEAoO01yw5f3",
-    "name": "Jingle Ark Jukebox",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/6q0ftbdzk2zuv"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ARANsPCq4fLxvI",
     "name": "Johnstone Sound",
     "sources": {
@@ -6863,9 +6821,9 @@
     "name": "LBC News",
     "sources": {
       "streams": [
-        "https://media-ssl.musicradio.com/LBCNewsUK",
+        "https://media-ice.musicradio.com/LBC1152",
         "https://icecast.thisisdax.com/LBC1152",
-        "https://media-ice.musicradio.com/LBCUKMP3Low"
+        "https://media-ssl.musicradio.com/LBCNewsUK"
       ]
     },
     "languages": [
@@ -7237,8 +7195,8 @@
     "name": "London Soul Radio",
     "sources": {
       "streams": [
-        "https://londonsoulradio.out.airtime.pro/londonsoulradio_a",
-        "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a"
+        "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+        "https://londonsoulradio.out.airtime.pro/londonsoulradio_a"
       ]
     },
     "languages": [
@@ -7756,6 +7714,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ro8uvDA5zHN2SZ",
+    "name": "Mix365 Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nt8dck6whnwuv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zpKzqVKIFPK9NL",
     "name": "Mixx Radio",
     "sources": {
@@ -7873,8 +7845,8 @@
     "name": "Music Galaxy Radio",
     "sources": {
       "streams": [
-        "https://eu10.fastcast4u.com/themusi2",
-        "https://eu10.fastcast4u.com:1390/;"
+        "https://eu10.fastcast4u.com:1390/;",
+        "https://eu10.fastcast4u.com/themusi2"
       ]
     },
     "languages": [
@@ -8171,8 +8143,8 @@
     "sources": {
       "streams": [
         "https://live.flashbackcentral.co.uk/radio/8000/apple",
-        "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
-        "https://live.flashbackcentral.co.uk/radio/8050/radio.mp3"
+        "https://live.flashbackcentral.co.uk/radio/8050/radio.mp3",
+        "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3"
       ]
     },
     "languages": [
@@ -8281,20 +8253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tYOD1fTq9GH4g6",
-    "name": "North Manchester FM",
-    "sources": {
-      "streams": [
-        "https://radio.canstream.co.uk:8061/live.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WDbX6DpVgD98ep",
     "name": "Northants 1",
     "sources": {
@@ -8343,20 +8301,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/ihij6rdighvtv"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fSkxib8jQvHP3V",
-    "name": "Now Rock",
-    "sources": {
-      "streams": [
-        "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -8637,6 +8581,20 @@
     "sources": {
       "streams": [
         "https://numanme.stream.laut.fm/numanme"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YxZdUCRTGXyUfV",
+    "name": "OC Radio",
+    "sources": {
+      "streams": [
+        "https://stream.digilinkconnect.co.uk:2020/stream/oldhamcollegeradio"
       ]
     },
     "languages": [
@@ -10475,8 +10433,8 @@
     "name": "RadioSEGA",
     "sources": {
       "streams": [
-        "https://icecast.radiosega.net/live",
-        "https://icecast.radiosega.net/rs-flac.ogg"
+        "https://icecast.radiosega.net/rs-flac.ogg",
+        "https://icecast.radiosega.net/live"
       ]
     },
     "languages": [
@@ -10767,20 +10725,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tLNUSrENagwnSj",
-    "name": "Roch Valley Radio",
-    "sources": {
-      "streams": [
-        "https://rochvalley.radioca.st/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9SdQDJ3D98OsRx",
     "name": "Rockin50s Radio",
     "sources": {
@@ -10913,6 +10857,20 @@
     "sources": {
       "streams": [
         "https://streaming05.liveboxstream.uk/proxy/roksta12/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WpXL3IhYpiMfNb",
+    "name": "Royal Free Radio",
+    "sources": {
+      "streams": [
+        "https://royalfreeradio.radioca.st/listen.pls/"
       ]
     },
     "languages": [
@@ -11362,7 +11320,7 @@
     "sources": {
       "streams": [
         "https://icecast.thisisdax.com/ChillMP3",
-        "https://media-ice.musicradio.com/ChillMP3",
+        "https://media-ssl.musicradio.com/ChillMP3",
         "https://icecast.thisisdax.com/SmoothChillMP3"
       ]
     },
@@ -12598,8 +12556,8 @@
     "name": "Truck Stop Radio",
     "sources": {
       "streams": [
-        "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
-        "https://oreo.truckstopradio.co.uk/listen/truckstopradio/radio.mp3"
+        "https://oreo.truckstopradio.co.uk/listen/truckstopradio/radio.mp3",
+        "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3"
       ]
     },
     "languages": [

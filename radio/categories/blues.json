@@ -46,9 +46,9 @@
     "name": "5MBS 99.9 FM",
     "sources": {
       "streams": [
+        "https://stream01.sigile.net/5mbs-128-mp3",
         "https://stream.sigile.net/5mbs-128-mp3",
-        "https://stream.sigile.net/5mbs-64-aac",
-        "https://stream01.sigile.net/5mbs-128-mp3"
+        "https://stream.sigile.net/5mbs-64-aac"
       ]
     },
     "languages": [
@@ -420,8 +420,8 @@
     "name": "Bottle o' Groove",
     "sources": {
       "streams": [
-        "https://n06.radiojar.com/n8buhxbsk9duv",
-        "https://n0a.radiojar.com/n8buhxbsk9duv"
+        "https://n0a.radiojar.com/n8buhxbsk9duv",
+        "https://n06.radiojar.com/n8buhxbsk9duv"
       ]
     },
     "languages": [
@@ -477,7 +477,7 @@
     "name": "CBC Music Atlantic",
     "sources": {
       "streams": [
-        "https://17813.live.streamtheworld.com/CBH_CBC_SC",
+        "https://26183.live.streamtheworld.com/CBH_CBC_SC",
         "https://26733.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8"
       ]
@@ -508,8 +508,8 @@
     "name": "CBC Radio One Calgary",
     "sources": {
       "streams": [
+        "https://22983.live.streamtheworld.com/CBR1FM_CBC_SC",
         "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC",
-        "https://26373.live.streamtheworld.com/CBR1FM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
       ]
     },
@@ -667,8 +667,8 @@
     "name": "Exclusively Bonnie Raitt",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/bonnieraitt/icecast.audio",
-        "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio"
+        "https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio",
+        "https://2.mystreaming.net/er/bonnieraitt/icecast.audio"
       ]
     },
     "languages": [
@@ -725,8 +725,8 @@
     "name": "Exclusively Tom Waits",
     "sources": {
       "streams": [
-        "https://nl4.mystreaming.net/er/tomwaits/icecast.audio",
-        "https://streaming.exclusive.radio/er/tomwaits/icecast.audio"
+        "https://streaming.exclusive.radio/er/tomwaits/icecast.audio",
+        "https://nl4.mystreaming.net/er/tomwaits/icecast.audio"
       ]
     },
     "languages": [
@@ -1039,8 +1039,8 @@
     "name": "JazzW3",
     "sources": {
       "streams": [
-        "https://air.jazz.w3.at/jazzw3.ogg",
-        "https://air.jazz.w3.at/jazzw3.mp3"
+        "https://air.jazz.w3.at/jazzw3.mp3",
+        "https://air.jazz.w3.at/jazzw3.ogg"
       ]
     },
     "languages": [
@@ -1409,9 +1409,9 @@
     "name": "Music City Roadhouse",
     "sources": {
       "streams": [
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
         "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
-        "https://streaming.live365.com/a73754",
-        "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
+        "https://streaming.live365.com/a73754"
       ]
     },
     "languages": [
@@ -1680,8 +1680,8 @@
     "sources": {
       "streams": [
         "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
-        "https://streams.radiobob.de/blues/mp3-192/homepage",
-        "https://streams.radiobob.de/blues/mp3-192/mediaplayer"
+        "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/blues/mp3-192/homepage"
       ]
     },
     "languages": [
@@ -1711,9 +1711,9 @@
     "name": "RADIO BOB! Southern Rock",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/southernrock/mp3-192/mediaplayer",
         "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de",
-        "https://streams.radiobob.de/southernrock/aac-64/mediaplayer"
+        "https://streams.radiobob.de/southernrock/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -2081,8 +2081,8 @@
     "sources": {
       "streams": [
         "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
-        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
-        "https://stream.rockantenne.de/blues-rock/stream/mp3"
+        "https://stream.rockantenne.de/hair-metal/stream/mp3",
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3"
       ]
     },
     "languages": [
@@ -2157,6 +2157,20 @@
     },
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qAyVohlgjoa0MC",
+    "name": "Southern Rock Radio",
+    "sources": {
+      "streams": [
+        "https://southern-rock_radio.stream.laut.fm/southern-rock_radio"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -2416,8 +2430,8 @@
     "name": "WUSF 89.7 FM",
     "sources": {
       "streams": [
-        "https://streaming.wusf.fm/wusf",
-        "https://wusf.streamguys1.com/wusf-web"
+        "https://wusf.streamguys1.com/wusf-web",
+        "https://streaming.wusf.fm/wusf"
       ]
     },
     "languages": [
@@ -2431,8 +2445,8 @@
     "name": "WWOZ 90.7 FM",
     "sources": {
       "streams": [
-        "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
         "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+        "https://wwoz-sc.streamguys1.com/wwoz-lo.mp3",
         "https://www.wwoz.org/listen/hi"
       ]
     },

@@ -1,12 +1,26 @@
 [
   {
+    "nanoid": "qwPX4jxcZZ7vcH",
+    "name": "011 Radio",
+    "sources": {
+      "streams": [
+        "https://sv2.famcast.co.za/stream/011_radio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9EzUBMpOO1s7pT",
     "name": "702",
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://22673.live.streamtheworld.com/FM702_SC",
-        "https://22603.live.streamtheworld.com/FM702_SC"
+        "https://22193.live.streamtheworld.com/FM702_SC",
+        "https://25693.live.streamtheworld.com/FM702_SC"
       ]
     },
     "languages": [
@@ -36,8 +50,8 @@
     "sources": {
       "streams": [
         "https://29073.live.streamtheworld.com/FM947_SC",
-        "https://19983.live.streamtheworld.com/FM947AAC_SC",
-        "https://22673.live.streamtheworld.com/FM947AAC_SC"
+        "https://28513.live.streamtheworld.com/FM947AAC_SC",
+        "https://28933.live.streamtheworld.com/FM947_SC"
       ]
     },
     "languages": [
@@ -197,9 +211,9 @@
     "name": "Cape Talk",
     "sources": {
       "streams": [
-        "https://25503.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://25453.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC"
+        "https://22193.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://25633.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC"
       ]
     },
     "languages": [
@@ -359,8 +373,8 @@
     "sources": {
       "streams": [
         "https://live.ecr.co.za/ecrhigh.mp3",
-        "https://live.ecr.co.za/ecrlow.aac",
-        "https://edge.iono.fm/xice/ecr_live_medium.aac"
+        "https://edge.iono.fm/xice/ecr_live_medium.aac",
+        "https://live.ecr.co.za/ecrlow.aac"
       ]
     },
     "languages": [

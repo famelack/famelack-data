@@ -46,8 +46,8 @@
     "name": "Acuario Estéreo 1010 AM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC.aac"
       ]
     },
     "languages": [
@@ -584,8 +584,8 @@
     "name": "Blu Radio",
     "sources": {
       "streams": [
-        "https://24373.live.streamtheworld.com/BLURADIO_SC",
-        "https://24403.live.streamtheworld.com/BLURADIO_SC"
+        "https://26573.live.streamtheworld.com/BLURADIO_SC",
+        "https://27323.live.streamtheworld.com/BLURADIO_SC"
       ]
     },
     "languages": [
@@ -819,11 +819,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JLtPd2LjGLsLWO",
-    "name": "Calentura Stereo",
+    "nanoid": "REZc6nTlb9W44U",
+    "name": "Calidad Stereo 100.6 FM",
     "sources": {
       "streams": [
-        "https://emisorasdigitales2.com/8174/stream"
+        "https://sonic.paulatina.co/7070/stream.mp3/live"
       ]
     },
     "languages": [
@@ -833,11 +833,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "REZc6nTlb9W44U",
-    "name": "Calidad Stereo 100.6 FM",
+    "nanoid": "fgOVEkPjFtqL2p",
+    "name": "Caliente Stereo 90.2 FM",
     "sources": {
       "streams": [
-        "https://sonic.paulatina.co/7070/stream.mp3/live"
+        "https://play8.tikast.com:20003/stream"
       ]
     },
     "languages": [
@@ -865,8 +865,8 @@
     "name": "Candela Estéreo 101.9 FM",
     "sources": {
       "streams": [
-        "https://24283.live.streamtheworld.com/CANDELAESTEREO_SC",
-        "https://27373.live.streamtheworld.com/CANDELAESTEREO_SC",
+        "https://24483.live.streamtheworld.com/CANDELAESTEREO_SC",
+        "https://27583.live.streamtheworld.com/CANDELAESTEREO_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO_SC"
       ]
     },
@@ -909,8 +909,8 @@
     "name": "Caracol Radio",
     "sources": {
       "streams": [
-        "https://24503.live.streamtheworld.com/CARACOL_RADIOAAC_SC",
-        "https://27693.live.streamtheworld.com/CARACOL_RADIOAAC_SC"
+        "https://24273.live.streamtheworld.com/CARACOL_RADIOAAC_SC",
+        "https://27593.live.streamtheworld.com/CARACOL_RADIOAAC_SC"
       ]
     },
     "languages": [
@@ -938,8 +938,8 @@
     "name": "Caracol Radio 100.9 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac"
       ]
     },
     "languages": [
@@ -1089,20 +1089,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VelKtIDcuR9UZk",
-    "name": "Colmundo Radio 1040 AM",
-    "sources": {
-      "streams": [
-        "https://streaming.shoutcast.com/colmundo-radio-bogota"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "w8UZYsPlHK0o5u",
     "name": "Conectando Estéreo 91.5 FM",
     "sources": {
@@ -1220,20 +1206,6 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/8mklmefaucjuv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WWotjlFcf4N8dZ",
-    "name": "DiscoRumba 95.4 FM",
-    "sources": {
-      "streams": [
-        "https://virtual1.emisorasvirtuales.com:8050/live"
       ]
     },
     "languages": [
@@ -1551,20 +1523,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q0xOP7ek2VwcPy",
-    "name": "Fiesta FM 102.7",
-    "sources": {
-      "streams": [
-        "https://server1.intermediacolombia.com:8008/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S85vgwPr8jzyTz",
     "name": "Fiesta FM 106.2",
     "sources": {
@@ -1598,20 +1556,6 @@
     "sources": {
       "streams": [
         "https://streaming.radiosenlinea.com.ar/8744/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4qxpYQvsv3pd3Z",
-    "name": "Florencia Emisora Comunitaria 104.1 FM",
-    "sources": {
-      "streams": [
-        "https://streamyes.alsolnet.com/comunitariafm/live/chunklist_w7037173.m3u8"
       ]
     },
     "languages": [
@@ -1724,8 +1668,8 @@
     "name": "HuilaGeek Radio",
     "sources": {
       "streams": [
-        "https://stream-50.zeno.fm/8smiwwvtfxxvv",
-        "https://stream.zeno.fm/8smiwwvtfxxvv"
+        "https://stream.zeno.fm/8smiwwvtfxxvv",
+        "https://stream-50.zeno.fm/8smiwwvtfxxvv"
       ]
     },
     "languages": [
@@ -1823,8 +1767,8 @@
     "name": "La 1070 de Radio Santa Fe",
     "sources": {
       "streams": [
-        "https://24373.live.streamtheworld.com/QHUBO_BOGOTAAAC_SC",
-        "https://27573.live.streamtheworld.com/QHUBO_BOGOTAAAC_SC"
+        "https://26663.live.streamtheworld.com/QHUBO_BOGOTAAAC_SC",
+        "https://27403.live.streamtheworld.com/QHUBO_BOGOTAAAC_SC"
       ]
     },
     "languages": [
@@ -2049,8 +1993,8 @@
     "name": "La Ochentera 91.9 FM",
     "sources": {
       "streams": [
-        "https://tupanel.info/stream/emisora919fm",
-        "https://tupanel.info:8018/stream"
+        "https://tupanel.info:8018/stream",
+        "https://tupanel.info/stream/emisora919fm"
       ]
     },
     "languages": [
@@ -2303,8 +2247,8 @@
     "name": "La Voz de Mi Tierrita 94.1 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/u8zxutp7mzzuv",
-        "https://radiohd4.streaminghd.co:8040/stream"
+        "https://radiohd4.streaminghd.co:8040/stream",
+        "https://stream.zeno.fm/u8zxutp7mzzuv"
       ]
     },
     "languages": [
@@ -3131,6 +3075,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1HQEErpndMCokb",
+    "name": "Radio Energía 102.5 FM",
+    "sources": {
+      "streams": [
+        "https://audio1.energia1025.com/radio/8000/stream.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pMCEKnK2WVGJXg",
     "name": "Radio Expreso Latino",
     "sources": {
@@ -3418,8 +3376,8 @@
     "name": "Radio Tiempo",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac"
       ]
     },
     "languages": [
@@ -3602,8 +3560,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3",
-        "https://14073.live.streamtheworld.com/RADIO_ACTIVAAAC_SC",
-        "https://24363.live.streamtheworld.com/RADIO_ACTIVAAAC_SC"
+        "https://27433.live.streamtheworld.com/RADIO_ACTIVAAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac"
       ]
     },
     "languages": [
@@ -3617,8 +3575,8 @@
     "name": "Radioacktiva Medellín 102.3 FM",
     "sources": {
       "streams": [
-        "https://26643.live.streamtheworld.com/RADIOACKTIVA_MEDAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac",
+        "https://26643.live.streamtheworld.com/RADIOACKTIVA_MEDAAC.aac"
       ]
     },
     "languages": [
@@ -3678,21 +3636,6 @@
       ]
     },
     "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w4jHbiN7hLQMz3",
-    "name": "Rencordradio",
-    "sources": {
-      "streams": [
-        "https://sonicpanel.streaming10.net/8134/stream"
-      ]
-    },
-    "languages": [
-      "eng",
       "spa"
     ],
     "country": "co",
@@ -4000,8 +3943,8 @@
     "name": "Tropicana Bogotá 102.9 FM",
     "sources": {
       "streams": [
-        "https://24273.live.streamtheworld.com/TROPICANA_SC",
-        "https://27443.live.streamtheworld.com/TROPICANA_SC"
+        "https://26653.live.streamtheworld.com/TROPICANA_SC",
+        "https://26493.live.streamtheworld.com/TROPICANA_SC"
       ]
     },
     "languages": [
@@ -4183,8 +4126,8 @@
     "name": "Vibra Bogotá 104.9 FM",
     "sources": {
       "streams": [
-        "https://23243.live.streamtheworld.com/VIBRAAAC_SC",
-        "https://24493.live.streamtheworld.com/VIBRAAAC_SC",
+        "https://26453.live.streamtheworld.com/VIBRAAAC_SC",
+        "https://24413.live.streamtheworld.com/VIBRAAAC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRAAAC_SC"
       ]
     },
@@ -4284,8 +4227,8 @@
     "name": "W Radio",
     "sources": {
       "streams": [
-        "https://24273.live.streamtheworld.com/WRADIO_SC",
         "https://24503.live.streamtheworld.com/WRADIO_SC",
+        "https://27583.live.streamtheworld.com/WRADIO_SC",
         "https://27403.live.streamtheworld.com/WRADIOAAC.aac"
       ]
     },

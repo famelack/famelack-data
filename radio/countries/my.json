@@ -327,20 +327,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c438OuUUEuRmzQ",
-    "name": "MyFriends Station",
-    "sources": {
-      "streams": [
-        "https://cast3.asurahosting.com/proxy/myfriend/stream"
-      ]
-    },
-    "languages": [
-      "msa"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QoHGa0cFDRZnvY",
     "name": "Nasional FM",
     "sources": {
@@ -416,8 +402,8 @@
     "name": "Radio Klasik",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
-        "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac"
+        "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3"
       ]
     },
     "languages": [

@@ -173,8 +173,8 @@
     "name": "Dabar Radio",
     "sources": {
       "streams": [
-        "https://a1.asurahosting.com:8720/radio.mp3",
-        "https://a1.asurahosting.com:8720/radio.mp3/;"
+        "https://a1.asurahosting.com:8720/radio.mp3/;",
+        "https://a1.asurahosting.com:8720/radio.mp3"
       ]
     },
     "languages": [
@@ -359,6 +359,20 @@
     "sources": {
       "streams": [
         "https://centova.hostingtico.com:7008/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BzzGZkO5AIhciN",
+    "name": "Radio Revolución",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ftcx2988uwzuv"
       ]
     },
     "languages": [

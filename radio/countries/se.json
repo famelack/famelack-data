@@ -88,8 +88,8 @@
     "name": "BozRadio",
     "sources": {
       "streams": [
-        "https://ais-edge08-live365-dal02.cdnstream.com/a80252",
-        "https://streaming.live365.com/a80252"
+        "https://streaming.live365.com/a80252",
+        "https://ais-edge08-live365-dal02.cdnstream.com/a80252"
       ]
     },
     "languages": [
@@ -603,8 +603,8 @@
     "name": "Radio Nostalgi",
     "sources": {
       "streams": [
-        "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
-        "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp"
+        "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+        "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3"
       ]
     },
     "languages": [
@@ -717,20 +717,6 @@
     "sources": {
       "streams": [
         "https://retreatradio.out.airtime.pro:8000/retreatradio_b"
-      ]
-    },
-    "languages": [
-      "swe"
-    ],
-    "country": "se",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IvIHeSxpok36zk",
-    "name": "Retro FM Skåne",
-    "sources": {
-      "streams": [
-        "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp"
       ]
     },
     "languages": [
@@ -975,8 +961,8 @@
     "sources": {
       "streams": [
         "https://edge1.sr.se/p3-aac-320",
-        "https://live1.sr.se/p3-aac-320",
-        "https://live1.sr.se/p3-mp3-96"
+        "https://live1.sr.se/p3-mp3-96",
+        "https://live1.sr.se/p3-aac-320"
       ]
     },
     "languages": [

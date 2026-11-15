@@ -198,20 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d7b9ULLnyp1G98",
-    "name": "103.5 The Game",
-    "sources": {
-      "streams": [
-        "https://ice6.securenetsystems.net/KGA"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NAwyXa1WKC4WUm",
     "name": "103.7 The Buzz (KABZ)",
     "sources": {
@@ -551,8 +537,8 @@
     "name": "ADN Radio",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac",
-        "https://27413.live.streamtheworld.com/ADNAAC.aac"
+        "https://27413.live.streamtheworld.com/ADNAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
       ]
     },
     "languages": [
@@ -608,7 +594,7 @@
     "name": "AM 570 LA Sports",
     "sources": {
       "streams": [
-        "https://n31b-e2.revma.ihrhls.com/zc189"
+        "https://n22b-e2.revma.ihrhls.com/zc189"
       ]
     },
     "languages": [
@@ -671,6 +657,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CiETKPTzW2PxaJ",
+    "name": "AO Radio",
+    "sources": {
+      "streams": [
+        "https://streams.radiomast.io/32fda7c0-5457-4c24-8afb-d7ab1b9f9fc0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
     "isGeoBlocked": false
   },
   {
@@ -1530,6 +1530,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8oXI8nVSitbMYB",
+    "name": "Eye Radio",
+    "sources": {
+      "streams": [
+        "https://listen.radio.primcast.com/c/mediasb/150/stream"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "country": "ss",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CIPZyMK1xGW1ks",
     "name": "FDP Radio",
     "sources": {
@@ -1690,8 +1705,8 @@
     "name": "Fox Sports 1450 (KTZR)",
     "sources": {
       "streams": [
-        "https://stream.revma.ihrhls.com/zc3286",
-        "https://n1db-e2.revma.ihrhls.com/zc3286"
+        "https://n1db-e2.revma.ihrhls.com/zc3286",
+        "https://stream.revma.ihrhls.com/zc3286"
       ]
     },
     "languages": [
@@ -2327,8 +2342,8 @@
     "name": "Metropolis 95.5",
     "sources": {
       "streams": [
-        "https://metromedia.live24.gr/metropolis955thess",
-        "https://metropolis.live24.gr/metropolis955thess"
+        "https://metropolis.live24.gr/metropolis955thess",
+        "https://metromedia.live24.gr/metropolis955thess"
       ]
     },
     "languages": [
@@ -2379,20 +2394,6 @@
       "hau"
     ],
     "country": "ne",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cncdjH8q5Vpl2A",
-    "name": "Nanjing Sports Radio",
-    "sources": {
-      "streams": [
-        "https://hls.njgb.com/live_hls/3/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -2498,8 +2499,8 @@
     "name": "Qingdao Music & Sports Radio",
     "sources": {
       "streams": [
-        "https://lhttp.qingting.fm/live/1677/64k.mp3",
-        "https://video10.qtv.com.cn/zhiboytgb/manifest.m3u8"
+        "https://video10.qtv.com.cn/zhiboytgb/manifest.m3u8",
+        "https://lhttp.qingting.fm/live/1677/64k.mp3"
       ]
     },
     "languages": [
@@ -3067,7 +3068,8 @@
     "name": "Radio Laziale",
     "sources": {
       "streams": [
-        "https://stream9.xdevel.com/audio3s975363-2397/stream/icecast.audio"
+        "https://stream9.xdevel.com/audio3s975363-2397/stream/icecast.audio",
+        "https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -3477,20 +3479,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dIg9FyDaYdQIwr",
-    "name": "Rete Sport",
-    "sources": {
-      "streams": [
-        "https://icecast.ithost.it/retesport.ogg"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ksZNumVsbI39Co",
     "name": "RG La Deportiva",
     "sources": {
@@ -3623,8 +3611,8 @@
     "name": "San Diego Sports 760",
     "sources": {
       "streams": [
-        "https://stream.revma.ihrhls.com/zc249",
-        "https://n35b-e2.revma.ihrhls.com/zc249"
+        "https://n35b-e2.revma.ihrhls.com/zc249",
+        "https://stream.revma.ihrhls.com/zc249"
       ]
     },
     "languages": [
@@ -3836,8 +3824,8 @@
     "name": "Sports 1440",
     "sources": {
       "streams": [
-        "https://newcap.leanstream.co/CKJRAM",
-        "https://newcap.leanstream.co/CKJRAM-MP3"
+        "https://newcap.leanstream.co/CKJRAM-MP3",
+        "https://newcap.leanstream.co/CKJRAM"
       ]
     },
     "languages": [
@@ -4338,8 +4326,8 @@
     "name": "Sportsnet 590 The Fan",
     "sources": {
       "streams": [
-        "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8",
-        "https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8"
+        "https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8",
+        "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4834,8 +4822,8 @@
     "name": "W Deportes 730 AM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac"
       ]
     },
     "languages": [
@@ -4877,7 +4865,7 @@
     "name": "WDAE Tampa Bay's Sports Radio",
     "sources": {
       "streams": [
-        "https://n21b-e2.revma.ihrhls.com/zc673"
+        "https://n42b-e2.revma.ihrhls.com/zc673"
       ]
     },
     "languages": [
@@ -4898,20 +4886,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WjXQSicBdHfcue",
-    "name": "West Coast Radio 95.3",
-    "sources": {
-      "streams": [
-        "https://westcoast.gm:8480/stream"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "gm",
     "isGeoBlocked": false
   },
   {

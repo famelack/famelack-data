@@ -128,6 +128,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ap08MN2XWymZwq",
+    "name": "Fresh Rock",
+    "sources": {
+      "streams": [
+        "https://stream.freshrock.net/24.aac",
+        "https://stream.freshrock.net/320.mp3",
+        "https://stream.freshrock.net/128.mp3"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c961KiMnKFs4wn",
     "name": "Fress FM",
     "sources": {
@@ -263,8 +279,8 @@
     "name": "Lounge FM",
     "sources": {
       "streams": [
-        "https://cast.mediaonline.net.ua/chillout320",
-        "https://cast.mediaonline.net.ua/loungefm320"
+        "https://cast.mediaonline.net.ua/loungefm320",
+        "https://cast.mediaonline.net.ua/chillout320"
       ]
     },
     "languages": [
@@ -565,8 +581,8 @@
     "name": "Radio ROKS - Ballads",
     "sources": {
       "streams": [
-        "https://online.radioroks.ua/RadioROKS_Ballads",
-        "https://online.radioroks.ua/RadioROKS_Ballads_HD"
+        "https://online.radioroks.ua/RadioROKS_Ballads_HD",
+        "https://online.radioroks.ua/RadioROKS_Ballads"
       ]
     },
     "languages": [
@@ -873,8 +889,8 @@
     "name": "True Black Metal Radio",
     "sources": {
       "streams": [
-        "https://trueblackmetalradio.com:666/radio",
-        "https://trueblackmetalradio.com:8000/radio"
+        "https://trueblackmetalradio.com:8000/radio",
+        "https://trueblackmetalradio.com:666/radio"
       ]
     },
     "languages": [
@@ -959,8 +975,8 @@
     "name": "Бліц-FM (Blitz FM)",
     "sources": {
       "streams": [
-        "https://stream.blits-fm.ua/stream64",
-        "https://stream.blits-fm.ua/aac32"
+        "https://stream.blits-fm.ua/aac32",
+        "https://stream.blits-fm.ua/stream64"
       ]
     },
     "languages": [
@@ -1100,9 +1116,9 @@
     "name": "Люкс FM (Lux FM)",
     "sources": {
       "streams": [
-        "https://icecast.luxnet.ua/luxlviv",
         "https://icecast.luxnet.ua/lux",
-        "https://icecastdc.luxnet.ua/lux_mp3_128"
+        "https://icecastdc.luxnet.ua/lux_mp3_128",
+        "https://icecast.luxnet.ua/luxlviv"
       ]
     },
     "languages": [

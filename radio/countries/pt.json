@@ -34,9 +34,9 @@
     "name": "Antena 1",
     "sources": {
       "streams": [
+        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8",
-        "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
-        "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
+        "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8"
       ]
     },
     "languages": [
@@ -155,8 +155,8 @@
     "name": "Antena 3",
     "sources": {
       "streams": [
-        "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
+        "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena380a.mp3"
       ]
     },
@@ -825,8 +825,8 @@
     "name": "Rádio Comercial Portugal",
     "sources": {
       "streams": [
-        "https://stream-icy.bauermedia.pt/comercial.mp3",
-        "https://stream-icy.bauermedia.pt/rctuga.aac"
+        "https://stream-icy.bauermedia.pt/rctuga.aac",
+        "https://stream-icy.bauermedia.pt/comercial.mp3"
       ]
     },
     "languages": [
@@ -1436,8 +1436,8 @@
     "name": "RFM",
     "sources": {
       "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
         "https://22593.live.streamtheworld.com/RFMAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
         "https://23603.live.streamtheworld.com/RFMAAC.aac"
       ]
     },
