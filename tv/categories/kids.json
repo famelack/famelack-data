@@ -244,6 +244,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JCokef05ozWI8Y",
+    "name": "Balapan International",
+    "sources": {
+      "streams": [
+        "https://live-3.otcnet.ru/Balapan/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cGjSaev20uBBta",
     "name": "Banijay Mr Bean Animé",
     "sources": {
@@ -467,21 +481,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "0lVBw32w9JPjcN",
-    "name": "Cartoon Network",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "QFKHFoExvGyTwt",
@@ -1023,7 +1022,6 @@
     "name": "Duronto TV",
     "sources": {
       "streams": [
-        "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8",
         "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
       ]
     },
@@ -1045,6 +1043,20 @@
       "kor"
     ],
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nLjmNpKEQoalYU",
+    "name": "El Chavo TV",
+    "sources": {
+      "streams": [
+        "https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1090,6 +1102,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x4BIIx4CJ3TF95",
+    "name": "France 4",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hTAa42S6ckdNs5",
     "name": "Garfield & Friends",
     "sources": {
@@ -1108,6 +1134,7 @@
     "name": "Giggle Mug",
     "sources": {
       "streams": [
+        "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
         "https://tvsen6.aynaott.com/ytv/index.m3u8"
       ]
     },
@@ -1360,6 +1387,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "sources": {
@@ -1461,20 +1502,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e5EXvO8ucfhlsQ",
-    "name": "Leo Si Penjaga Alam",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/I0GtIFDwUXE"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aWUdvngHDj9fCb",
     "name": "Logos TV Kids",
     "sources": {
@@ -1557,20 +1584,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zYIClJMSMxWG01",
-    "name": "Minimax",
-    "sources": {
-      "streams": [
-        "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1759,6 +1772,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rnin2I584VXva5",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SD0NAzWeVoCwdJ",
     "name": "Nickelodeon CIS",
     "sources": {
@@ -1770,6 +1797,20 @@
       "rus"
     ],
     "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L4ZFZP7ttfYScY",
+    "name": "Nickelodeon Junior",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1791,13 +1832,27 @@
     "name": "Nicktoons",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oJpRKvl3Kfo"
+        "https://www.youtube-nocookie.com/embed/zLs1K_9uH4k"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Uf5MZTNANqgUUi",
+    "name": "Nicktoons",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -2015,7 +2070,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Nv2x3H0w3os"
+        "https://www.youtube-nocookie.com/embed/QlTHL4v6AoY"
       ]
     },
     "languages": [
@@ -2180,20 +2235,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GzjkBwRPP1x8dy",
-    "name": "Reino Infantil",
-    "sources": {
-      "streams": [
-        "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "mz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "50AOLuz78mWfKm",
     "name": "RiC",
     "sources": {
@@ -2213,7 +2254,7 @@
     "name": "Rubble & Crew",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MH6A97sTHDg"
+        "https://www.youtube-nocookie.com/embed/t3viQA_6ax8"
       ]
     },
     "languages": [
@@ -2392,20 +2433,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "W12MJtCI2qv2s8",
-    "name": "SpongeBob SquarePants Official",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/9v0tJsY61HU"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h9eDkCfbFxUPDf",
     "name": "Sunny Bunnies",
     "sources": {
@@ -2424,7 +2451,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/r6YSN7MvoAw"
+        "https://www.youtube-nocookie.com/embed/9tPzYfDqfHM"
       ]
     },
     "languages": [
@@ -2438,7 +2465,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RJg6cYV9Hho"
+        "https://www.youtube-nocookie.com/embed/BsWmcrhcniw"
       ]
     },
     "languages": [

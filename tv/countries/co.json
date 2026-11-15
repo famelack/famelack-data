@@ -142,20 +142,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t77vURUv4tfKdi",
-    "name": "Canal 9 Cosespu",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/canal9cosespu/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pxpERTjTLU5biZ",
     "name": "Canal CHD",
     "sources": {
@@ -204,21 +190,6 @@
       "streams": [
         "https://movil.ejeserver.com/live/teledoradahd.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QA1x5OQRH7UVPJ",
-    "name": "Canal Nets",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/nets.m3u8",
-        "https://video.ejeserver.com/live/nets.m3u8"
       ]
     },
     "languages": [
@@ -355,21 +326,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5UNNnPvR2HyEJi",
-    "name": "CNC Bugavision",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/cncbuga.m3u8",
-        "https://video.ejeserver.com/live/cncbuga.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vlNh6cGmLuP4h1",
     "name": "CNC Pereira",
     "sources": {
@@ -488,6 +444,20 @@
     "sources": {
       "streams": [
         "https://eu1.servers10.com:8081/8178/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
+    "sources": {
+      "streams": [
+        "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
       ]
     },
     "languages": [
@@ -851,20 +821,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HgBlAsHZW8C65f",
-    "name": "Tele Mocoa Canal 10",
-    "sources": {
-      "streams": [
-        "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "sources": {
@@ -942,6 +898,20 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w1ixTwFBg5nJH1",
+    "name": "TVGracia",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/diego_57244803/index.m3u8"
       ]
     },
     "languages": [

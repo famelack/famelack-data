@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "OzdPy3Brp6JZA9",
-    "name": "Alpha Digital",
+    "nanoid": "t2mBHms7Nuow3E",
+    "name": "Ark TV",
     "sources": {
       "streams": [
-        "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+        "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8"
       ]
     },
     "languages": [
@@ -14,15 +14,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BAl5rYC3FH50BY",
-    "name": "BTV",
+    "nanoid": "RgMMgkjkxfK5cI",
+    "name": "Bukedde TV 1",
     "sources": {
       "streams": [
-        "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
+        "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "lug"
     ],
     "country": "ug",
     "isGeoBlocked": false
@@ -42,16 +42,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S1KgpgFLSsbIi2",
-    "name": "Dream TV",
+    "nanoid": "2vE7EJChsrCtLB",
+    "name": "FORT TV",
     "sources": {
       "streams": [
-        "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
+        "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8"
       ]
     },
     "languages": [
-      "eng",
-      "lug"
+      "eng"
     ],
     "country": "ug",
     "isGeoBlocked": false
@@ -67,6 +66,57 @@
     "languages": [
       "eng",
       "lug"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ICEyy7pM67OTL",
+    "name": "Tayari West TV",
+    "sources": {
+      "streams": [
+        "https://stream.hydeinnovations.com/tarari-west/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cgg",
+      "lug"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ibOddTJcAbkJ9l",
+    "name": "TV West",
+    "sources": {
+      "streams": [
+        "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cgg",
+      "nyn",
+      "nyo",
+      "ttj"
+    ],
+    "country": "ug",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2MNeOOhZfnkjQV",
+    "name": "Wan Luo TV",
+    "sources": {
+      "streams": [
+        "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ach",
+      "adh",
+      "alz",
+      "kdi",
+      "laj",
+      "luo"
     ],
     "country": "ug",
     "isGeoBlocked": false

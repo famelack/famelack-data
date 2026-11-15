@@ -458,17 +458,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "lbyfmgKEc7ZRqZ",
-    "name": "Eurosport",
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
     "sources": {
       "streams": [
-        "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8"
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "cat"
     ],
-    "country": "in",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -483,6 +484,20 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6jC5qKEL0sXmCZ",
+    "name": "Eurosport 1 Italy",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -514,6 +529,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "49lptpeQS0pr15",
+    "name": "Eurosport 2 Italy",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zHRzx1BQHIMJEZ",
     "name": "Eurosport 2 Russia",
     "sources": {
@@ -525,6 +554,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZOr9nYpwGquRjo",
+    "name": "Eurosport 2 UK",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -744,20 +787,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1jYy0MieRH4RsH",
-    "name": "FOX Sports YT",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/A-K5ehW4Sd0"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KKtmG6U0zua4oT",
     "name": "FTF Sports",
     "sources": {
@@ -841,6 +870,20 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zSqcM4N6tJjo6K",
+    "name": "Futbol TV",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -983,6 +1026,20 @@
     ],
     "country": "jo",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Klztpl3qWOPgsU",
+    "name": "Kabaddi 24x7",
+    "sources": {
+      "streams": [
+        "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ReX8AreJwWmYHR",
@@ -1738,8 +1795,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1929,6 +1986,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ukKzNgxOkpQ"
       ]
     },
     "languages": [

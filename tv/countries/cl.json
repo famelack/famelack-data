@@ -337,20 +337,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Vrn45RY7y1zcD6",
-    "name": "Canal Chilote",
-    "sources": {
-      "streams": [
-        "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GF8ZEeIOAVHYJF",
     "name": "Canal ISB",
     "sources": {
@@ -440,7 +426,7 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ck6WWFxWlJ0"
+        "https://www.youtube-nocookie.com/embed/LTLt_OC6h_c"
       ]
     },
     "languages": [
@@ -539,6 +525,20 @@
     "sources": {
       "streams": [
         "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MCkVqvgRh7ovAp",
+    "name": "Cooperativa",
+    "sources": {
+      "streams": [
+        "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -842,20 +842,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8gsIGJHNjegWLu",
-    "name": "Genial TV",
-    "sources": {
-      "streams": [
-        "https://v1.tustreaming.cl/genialtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xZPdiS2AIsXbXV",
     "name": "GVision",
     "sources": {
@@ -1114,7 +1100,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/jPwUGf4wfXk"
+        "https://www.youtube-nocookie.com/embed/Tw6B39CbaEc"
       ]
     },
     "languages": [],
@@ -1183,20 +1169,6 @@
     "sources": {
       "streams": [
         "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P6lzZnxjomDNhM",
-    "name": "Nina TV",
-    "sources": {
-      "streams": [
-        "https://tv1.ninatv.cl/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -1338,9 +1310,6 @@
     "sources": {
       "streams": [
         "https://pnt.janusmedia.tv/hls/pnt.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/fsXGmZolPjI"
       ]
     },
     "languages": [
@@ -2040,20 +2009,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k0nYFEHOKnqOiZ",
-    "name": "TNE",
-    "sources": {
-      "streams": [
-        "https://v2.tustreaming.cl/tnetv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8XIUg59NAWU8Uh",
     "name": "TNT Sports Premium",
     "sources": {
@@ -2268,8 +2223,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

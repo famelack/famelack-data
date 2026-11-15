@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "svGY8beXjWs2oE",
+    "name": "6ter",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rcGItYdOTI8N1Z",
     "name": "20 Minutes TV",
     "sources": {
@@ -134,6 +148,7 @@
     "name": "arte",
     "sources": {
       "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8",
         "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
       ]
     },
@@ -148,7 +163,7 @@
     "name": "B SMART",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/rnOofjBW7iM"
+        "https://www.youtube-nocookie.com/embed/BtsDLthJbH4"
       ]
     },
     "languages": [
@@ -492,6 +507,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qYSMSKqnZIIWoO",
+    "name": "Comedy Central",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4TFbQdQIR6USV5",
     "name": "DBM TV",
     "sources": {
@@ -581,7 +610,8 @@
     "name": "Euronews Spanish",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8",
+        "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk"
@@ -738,13 +768,69 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DMMYPqh1G7X36E",
+    "name": "France 2",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b65bQWE2gboaEl",
+    "name": "France 3 National",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x4BIIx4CJ3TF95",
+    "name": "France 4",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BHz2nmyP4OPXlU",
+    "name": "France 5",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S9vpRWeeHUeMAA",
     "name": "France 24 Arabic",
     "sources": {
       "streams": [
         "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
         "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
-        "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8"
+        "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8"
       ]
     },
     "languages": [
@@ -810,7 +896,7 @@
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=10007",
         "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
-        "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8"
+        "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/a47ckXKZjxI"
@@ -826,6 +912,9 @@
     "nanoid": "H49EeQ4bvodyQ7",
     "name": "Franceinfo",
     "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/NG7ZX42nZKc"
       ]
@@ -959,6 +1048,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Usy4T1oPrjqvlr",
+    "name": "LCI",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "30bfOGEz7cdNL8",
     "name": "LCP",
     "sources": {
@@ -1076,6 +1179,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CpZZCNRPTXaipO",
+    "name": "MTV",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "frxoUV6KIlJwd1",
     "name": "MyTime Movie Network France",
     "sources": {
@@ -1093,6 +1210,62 @@
     "sources": {
       "streams": [
         "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rnin2I584VXva5",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L4ZFZP7ttfYScY",
+    "name": "Nickelodeon Junior",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Uf5MZTNANqgUUi",
+    "name": "Nicktoons",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kTuIaBZvnaLqV1",
+    "name": "NOVO19",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1284,35 +1457,23 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "sources": {
+      "streams": [
+        "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3UupDDnNXaxwcR",
     "name": "Rakuten TV Films Comédie",
     "sources": {
       "streams": [
         "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4OHJUKjDj7pE2U",
-    "name": "Rakuten TV Films Drames",
-    "sources": {
-      "streams": [
-        "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
-    "sources": {
-      "streams": [
-        "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
       ]
     },
     "languages": [],
@@ -1513,6 +1674,35 @@
       ]
     },
     "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SGCez0VJRFjGUW",
+    "name": "TF1 Series Films",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xr9GORhfEbIqas",
+    "name": "TFX",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "fra"
     ],
     "country": "fr",
