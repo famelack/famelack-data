@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "f4J3TEsOIcCxKd",
+    "name": "4Dmas Noticias TV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zhUhSGilKc6sOP",
     "name": "AGR FM TV",
     "sources": {
@@ -47,6 +61,20 @@
     "sources": {
       "streams": [
         "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p69caBRji1PKLv",
+    "name": "Canal 8 C&C Producciones",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8"
       ]
     },
     "languages": [
@@ -145,6 +173,34 @@
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FuiSRD0mYmX331",
+    "name": "Farra Play",
+    "sources": {
+      "streams": [
+        "https://stream.farra.com.py/live/farra_low.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -328,20 +384,6 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HxsHxTV92v3WvN",
-    "name": "Oviedo TV",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [

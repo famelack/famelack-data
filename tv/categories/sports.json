@@ -76,6 +76,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jx16M3Ax3MMQIW",
+    "name": "AFSOC 360",
+    "sources": {
+      "streams": [
+        "https://stream-hls.castr.net/66a8e23ab0c0cb0dea59faf0/live_2a83b670835111f0b3527dc3e528545a/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "roeCDcGE1uwKQ6",
     "name": "Al Iraqia Sport",
     "sources": {
@@ -354,7 +368,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
       ]
     },
     "languages": [
@@ -456,21 +470,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "a08lgTdLkTtCWW",
@@ -612,20 +611,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "JcHwNfl9qusdoD",
-    "name": "Fast Sports",
-    "sources": {
-      "streams": [
-        "https://s7.merlive.am/Fastsports/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hye"
-    ],
-    "country": "am",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "QC400UPdsbVwAc",
@@ -1113,6 +1098,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GVTfU86YlWYBhq",
+    "name": "Lazio Style Channel",
+    "sources": {
+      "streams": [
+        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hQwO2hX6QgN3n6",
     "name": "M Sports",
     "sources": {
@@ -1301,20 +1300,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "19bVQttgqOEZ2W",
-    "name": "NHL AntenaPlay",
-    "sources": {
-      "streams": [
-        "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dZNlCzQICHPeq8",
     "name": "NHL Network",
     "sources": {
@@ -1391,7 +1376,6 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
-        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1795,8 +1779,8 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
+        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1861,20 +1845,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ojnexrR2Xhymi2",
-    "name": "Star Sports 2 Telugu",
-    "sources": {
-      "streams": [
-        "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tel"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1955,8 +1925,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1986,29 +1955,12 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ukKzNgxOkpQ"
       ]
     },
     "languages": [
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XIUg59NAWU8Uh",
-    "name": "TNT Sports Premium",
-    "sources": {
-      "streams": [
-        "https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {

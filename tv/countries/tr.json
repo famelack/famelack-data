@@ -208,6 +208,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Zzw5XdFQULzoOQ",
+    "name": "Aras TV",
+    "sources": {
+      "streams": [
+        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -632,6 +646,20 @@
     "sources": {
       "streams": [
         "https://cdn.ekoturk.net/hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZF8u92PVuJI4iM",
+    "name": "EKOTÜRK TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/N0B9T8T-yyM"
       ]
     },
     "languages": [
@@ -1956,9 +1984,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ukKzNgxOkpQ"
       ]
     },
     "languages": [
@@ -1994,6 +2019,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bzh3LBtnY69p4n",
+    "name": "TRT 2",
+    "sources": {
+      "streams": [
+        "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Tsl1TXkC1cdSTl",
@@ -2165,7 +2204,7 @@
     "name": "TRT عربي",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/sat-YpJQ-fg"
+        "https://www.youtube-nocookie.com/embed/TzfFcz3wd0o"
       ]
     },
     "languages": [
