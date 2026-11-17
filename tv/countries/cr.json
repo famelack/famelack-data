@@ -75,8 +75,7 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
-        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -199,6 +198,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xMyWNZNLNYysjq",
+    "name": "Enlace",
+    "sources": {
+      "streams": [
+        "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ejJZfMgOR7K5m8",
     "name": "Extrema Kids TV",
     "sources": {
@@ -218,20 +232,6 @@
     "sources": {
       "streams": [
         "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GD6GIT9MV0x6kz",
-    "name": "Garabito TV",
-    "sources": {
-      "streams": [
-        "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -360,6 +360,20 @@
     "sources": {
       "streams": [
         "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4hISVyUvSKd79p",
+    "name": "Norte Informativo TV",
+    "sources": {
+      "streams": [
+        "https://videohd.live:19360/8076/8076.m3u8"
       ]
     },
     "languages": [
@@ -638,6 +652,20 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1lxmOusZyEa4Zg",
+    "name": "Zurqui TV",
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
       ]
     },
     "languages": [

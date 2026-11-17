@@ -1530,8 +1530,7 @@
     "name": "American Stories",
     "sources": {
       "streams": [
-        "https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/asn/playlist.m3u8"
+        "https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1665,20 +1664,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "seqaCHQa1FBzut",
-    "name": "Antiks Cartoons: Antiks",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Qc1wvOdvwn0"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "F1gJBTGOmz90yb",
@@ -1993,7 +1978,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2001,20 +1987,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "wAhOZxTBn6q208",
-    "name": "Barbie",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/l4kv0_OK_nU"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "UtVhgsKrS7UYJy",
@@ -2661,7 +2633,7 @@
     "name": "Bob Ross",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GL05p5qI7e0"
+        "https://www.youtube-nocookie.com/embed/JoWTxdBdv2c"
       ]
     },
     "languages": [
@@ -3150,6 +3122,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fOG1qbogQZTVfu",
+    "name": "CAN TV21",
+    "sources": {
+      "streams": [
+        "https://cantv.streamguys1.com/cantv/cantv21hls/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8Cr0FQW3gzyE90",
     "name": "CAN TV27",
     "sources": {
@@ -3426,7 +3412,7 @@
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yP-vl4KBsys"
+        "https://www.youtube-nocookie.com/embed/ASwsKXCT2qI"
       ]
     },
     "languages": [
@@ -3682,20 +3668,6 @@
       ]
     },
     "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RMJta2uB0RhiFk",
-    "name": "Channel One",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CBYsMgUhJxM"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -4082,20 +4054,6 @@
     "sources": {
       "streams": [
         "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j4D1370IbcmDeK",
-    "name": "CMAC 2",
-    "sources": {
-      "streams": [
-        "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
       ]
     },
     "languages": [
@@ -6411,7 +6369,7 @@
     "name": "Food Network",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/q9YfFLlIRhQ"
+        "https://www.youtube-nocookie.com/embed/VaolUdgzS5k"
       ]
     },
     "languages": [
@@ -7464,21 +7422,6 @@
     "sources": {
       "streams": [
         "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hmn",
-      "vie"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g07HYkIFcgQ1r4",
-    "name": "Hmong TV Network",
-    "sources": {
-      "streams": [
-        "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -10338,6 +10281,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
+        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -10821,7 +10765,7 @@
         "https://pb-o6czxr182vtiv.akamaized.net/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/p3Iqs2N9THg"
+        "https://www.youtube-nocookie.com/embed/GQXZIzMiXow"
       ]
     },
     "languages": [
@@ -11255,7 +11199,7 @@
     "name": "Nicktoons",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zLs1K_9uH4k"
+        "https://www.youtube-nocookie.com/embed/_GLTkoYOMn0"
       ]
     },
     "languages": [
@@ -11538,7 +11482,7 @@
     "name": "Oddbods",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/HEwgqHvRXBY"
+        "https://www.youtube-nocookie.com/embed/Hz4CQUvhj5U"
       ]
     },
     "languages": [
@@ -11829,6 +11773,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -11988,6 +11933,20 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5DO8ONOyVLghIc",
+    "name": "PBC Tapesh TV",
+    "sources": {
+      "streams": [
+        "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -12565,7 +12524,7 @@
       "streams": [
         "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
         "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8"
+        "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12776,21 +12735,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "luAPAaCs2NwCsO",
-    "name": "Radio Tele Puissance",
-    "sources": {
-      "streams": [
-        "https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "fra"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -13914,6 +13858,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i3xr0qWNj713tk",
+    "name": "Shout! Studios: Bonanza (Español)",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/yZ9q_XdtT_M"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MmvGAkIJ1Y1or8",
     "name": "Shout! Studios: Dennis the Menace",
     "sources": {
@@ -14297,6 +14255,20 @@
     "sources": {
       "streams": [
         "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "W12MJtCI2qv2s8",
+    "name": "SpongeBob SquarePants Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/PU4emHQmC2o"
       ]
     },
     "languages": [
@@ -14748,6 +14720,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "APbUyl1xqd0rB4",
+    "name": "TBN Armenia",
+    "sources": {
+      "streams": [
+        "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "blbCExf1dFJxfD",
     "name": "TBN Pacific",
     "sources": {
@@ -15054,7 +15040,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -15181,8 +15168,7 @@
     "name": "The Country Network",
     "sources": {
       "streams": [
-        "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8"
+        "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -15872,7 +15858,7 @@
     "name": "TokuSHOUTsu: Kamen Rider Series",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-87ytMOm-tE"
+        "https://www.youtube-nocookie.com/embed/hEcgMnssWAE"
       ]
     },
     "languages": [
@@ -15928,7 +15914,7 @@
     "name": "ToonGoggles",
     "sources": {
       "streams": [
-        "https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8",
+        "https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8",
         "https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8",
         "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8"
       ]
@@ -16916,6 +16902,9 @@
         "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8",
         "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/m_aq9fIkIfA"
       ]
     },
     "languages": [
@@ -18447,7 +18436,7 @@
     "name": "WWE Vault",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hfzYxYztX4c"
+        "https://www.youtube-nocookie.com/embed/X0GJeiEv9Rs"
       ]
     },
     "languages": [

@@ -368,7 +368,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
       ]
     },
     "languages": [
@@ -382,20 +382,6 @@
       "tel"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VW0YFydw9mhrOx",
-    "name": "Deportes TVC",
-    "sources": {
-      "streams": [
-        "https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -758,6 +744,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IMncHMrJjF21TQ",
+    "name": "Formula 2 AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t5msHgNGG9QAPb",
     "name": "Fox Sports News",
     "sources": {
@@ -1074,7 +1074,8 @@
     "name": "L'Equipe",
     "sources": {
       "streams": [
-        "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
+        "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1095,20 +1096,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GVTfU86YlWYBhq",
-    "name": "Lazio Style Channel",
-    "sources": {
-      "streams": [
-        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1185,20 +1172,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GanSEAudCfBZ2t",
-    "name": "Monterrico TV",
-    "sources": {
-      "streams": [
-        "https://h.jcp.live.opencaster.com/play_src/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xYgLb0tc6pAHED",
     "name": "More Than Sports TV",
     "sources": {
@@ -1238,6 +1211,20 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9xUJv2oeOBDuxS",
+    "name": "NBA AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -1376,6 +1363,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1758,13 +1746,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kCoc9rR86J1iBd",
+    "name": "Sport1",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "sources": {
       "streams": [
         "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
+        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1848,6 +1849,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ojnexrR2Xhymi2",
+    "name": "Star Sports 2 Telugu",
+    "sources": {
+      "streams": [
+        "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GmuLHBaEdwRnFv",
     "name": "Swerve Combat",
     "sources": {
@@ -1925,7 +1940,8 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1955,6 +1971,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EX2SjLd6J5Q"
       ]
     },
     "languages": [
@@ -2221,20 +2240,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wmwjQ27aToc3v2",
-    "name": "Voyo Sport 1",
-    "sources": {
-      "streams": [
-        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jZEkpGlt5AGs91",
     "name": "WCW",
     "sources": {
@@ -2367,7 +2372,7 @@
     "name": "WWE Vault",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hfzYxYztX4c"
+        "https://www.youtube-nocookie.com/embed/X0GJeiEv9Rs"
       ]
     },
     "languages": [

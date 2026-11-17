@@ -871,6 +871,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "5zsvZbp5i40Gds",
+    "name": "Motorvision+",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YY7dAU666LVx7L",
     "name": "Munchen TV",
     "sources": {
@@ -911,18 +925,6 @@
     ],
     "country": "de",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "4YOpv1CYox1W50",
-    "name": "Naruto Germany",
-    "sources": {
-      "streams": [
-        "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "ZUrwxBDVVmyicG",
@@ -1361,11 +1363,23 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "SMFkP3zTr5LosF",
-    "name": "Rakuten TV German Cinema",
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
     "sources": {
       "streams": [
-        "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
+        "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SE1h1zk5kvUylr",
+    "name": "Rakuten TV Thrillers Germany",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
       ]
     },
     "languages": [],
@@ -1736,6 +1750,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kCoc9rR86J1iBd",
+    "name": "Sport1",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -2314,6 +2342,7 @@
     "sources": {
       "streams": [
         "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8",
         "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8"
       ]
     },
@@ -2328,7 +2357,8 @@
     "name": "ZDFinfo",
     "sources": {
       "streams": [
-        "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8"
+        "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2342,7 +2372,8 @@
     "name": "ZDFneo",
     "sources": {
       "streams": [
-        "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
+        "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8"
       ]
     },
     "languages": [

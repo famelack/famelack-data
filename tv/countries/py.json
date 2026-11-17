@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zhUhSGilKc6sOP",
-    "name": "AGR FM TV",
+    "nanoid": "QBRXrLX8BpJY3f",
+    "name": "A24 Paraguay",
     "sources": {
       "streams": [
-        "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8"
+        "https://a24-live.argosworkspace.com/a24/index.m3u8"
       ]
     },
     "languages": [
@@ -33,6 +33,34 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uGCjnDiIPhWb6B",
+    "name": "Alt Media TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "meMWuFLy6CiQXJ",
+    "name": "America Paraguay",
+    "sources": {
+      "streams": [
+        "https://america-live.argosworkspace.com/america/index.m3u8"
       ]
     },
     "languages": [
@@ -224,20 +252,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OETM24DdxaHZfM",
-    "name": "Invasiva TV",
-    "sources": {
-      "streams": [
-        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "sources": {
@@ -280,39 +294,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ksZqh8hqVd6zjZ",
-    "name": "MiTV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QPORKefjqCpm3X",
     "name": "Monumental TV",
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KiwbZFxfIOXSsb",
-    "name": "Nande Portetepe TV",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8"
       ]
     },
     "languages": [
@@ -384,6 +370,20 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HxsHxTV92v3WvN",
+    "name": "Oviedo TV",
+    "sources": {
+      "streams": [
+        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [
@@ -469,20 +469,6 @@
     "sources": {
       "streams": [
         "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TeqRUHz0t6Kdc6",
-    "name": "Radio TV El Arca del Pacto",
-    "sources": {
-      "streams": [
-        "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
       ]
     },
     "languages": [
@@ -632,11 +618,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9KkStjSrl7VxIY",
-    "name": "Venus Media",
+    "nanoid": "nx1oFHhjhBuFCV",
+    "name": "UniRadio TV",
     "sources": {
       "streams": [
-        "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
+        "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8"
       ]
     },
     "languages": [
@@ -646,11 +632,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9Ihh2szFUbQs2q",
-    "name": "Villa Elisa Radio TV",
+    "nanoid": "9KkStjSrl7VxIY",
+    "name": "Venus Media",
     "sources": {
       "streams": [
-        "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion"
+        "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
       ]
     },
     "languages": [

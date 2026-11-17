@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sqyRj6w6s9a5QQ",
+    "name": "Animaux",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "sources": {
@@ -220,20 +234,6 @@
     "sources": {
       "streams": [
         "https://cloudflare.tv/hls/live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j4D1370IbcmDeK",
-    "name": "CMAC 2",
-    "sources": {
-      "streams": [
-        "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8"
       ]
     },
     "languages": [
@@ -615,6 +615,20 @@
     "sources": {
       "streams": [
         "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "giP8gsCtm4HmkP",
+    "name": "EBC Lifelong Learning",
+    "sources": {
+      "streams": [
+        "https://iptv.ebc.edu.kh/iptv/channel/2.m3u8"
       ]
     },
     "languages": [
@@ -1400,6 +1414,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "sources": {
+      "streams": [
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wG03qaF80rSneK",
     "name": "Telepace 3",
     "sources": {
@@ -1635,6 +1663,20 @@
       "spa"
     ],
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {

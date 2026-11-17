@@ -142,6 +142,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sP0CXBsFgd0MCf",
+    "name": "Antenna Sicilia",
+    "sources": {
+      "streams": [
+        "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita",
+      "scn"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qVg6FeIeH4mzo2",
     "name": "Aurora Arte",
     "sources": {
@@ -222,6 +237,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ocmn3dnsuq3E7g",
+    "name": "Bike Channel",
+    "sources": {
+      "streams": [
+        "https://018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C2iSEG6ol5I30Q",
     "name": "Boing",
     "sources": {
@@ -264,20 +293,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YuBy0QEyEVrO0O",
-    "name": "Calabria TV",
-    "sources": {
-      "streams": [
-        "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UTKM2yB8tUj85p",
     "name": "Camera dei Deputati",
     "sources": {
@@ -310,7 +325,8 @@
     "name": "Canale 5",
     "sources": {
       "streams": [
-        "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+        "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -772,6 +788,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "87UVZWobKcrcQ6",
+    "name": "Italia 1",
+    "sources": {
+      "streams": [
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "g6nacBZmY3YsUr",
     "name": "Italia 2",
     "sources": {
@@ -791,6 +821,9 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/CAZkx1dD7n8"
       ]
     },
     "languages": [
@@ -902,20 +935,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "99nLbZS1PkL0qS",
-    "name": "La Nuova TV",
-    "sources": {
-      "streams": [
-        "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5LLVHmQ8JEsCfJ",
     "name": "La TR3 Marsala",
     "sources": {
@@ -934,7 +953,8 @@
     "name": "LA7",
     "sources": {
       "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8"
+        "https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8",
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/la_7/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -949,20 +969,6 @@
     "sources": {
       "streams": [
         "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GVTfU86YlWYBhq",
-    "name": "Lazio Style Channel",
-    "sources": {
-      "streams": [
-        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1054,6 +1060,20 @@
     ],
     "country": "it",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a5yRdw9tROrwo0",
+    "name": "Mediaset Extra",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "rHFsmVO1xzZ8xd",
@@ -1188,6 +1208,20 @@
     "sources": {
       "streams": [
         "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V3b7nvXml8zERG",
+    "name": "Paci Contemporary Channel",
+    "sources": {
+      "streams": [
+        "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1541,6 +1575,7 @@
     "name": "Rai 1",
     "sources": {
       "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8",
         "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
       ]
     },
@@ -1555,7 +1590,8 @@
     "name": "Rai 2",
     "sources": {
       "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8"
+        "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8",
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_due/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1570,6 +1606,7 @@
     "sources": {
       "streams": [
         "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_tre/live.livx/playlist.m3u8",
         "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
       ]
     },
@@ -1683,7 +1720,8 @@
     "name": "Rai News 24",
     "sources": {
       "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8"
+        "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8",
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1735,14 +1773,30 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LEHhe8FljTY3bK",
-    "name": "Rakuten TV Asian Cinema Italy",
+    "nanoid": "rW6tKgiQ7jM4rF",
+    "name": "Rakuten TV Comedy Movies Italy",
     "sources": {
       "streams": [
-        "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+        "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pVq6NYAblJFq99",
+    "name": "Rakuten TV Drama Movies Italy",
+    "sources": {
+      "streams": [
+        "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1752,6 +1806,18 @@
     "sources": {
       "streams": [
         "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oURW9nLoHQEwxm",
+    "name": "Rakuten TV Sci-Fi Italy",
+    "sources": {
+      "streams": [
+        "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
       ]
     },
     "languages": [],
@@ -1778,6 +1844,20 @@
     "sources": {
       "streams": [
         "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eYwyGDu2uBi4Eo",
+    "name": "Rete 4",
+    "sources": {
+      "streams": [
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2073,8 +2153,7 @@
     "sources": {
       "streams": [
         "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
+        "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2528,7 +2607,8 @@
     "name": "TGCom24",
     "sources": {
       "streams": [
-        "https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8"
+        "https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8",
+        "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2599,6 +2679,20 @@
     "sources": {
       "streams": [
         "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kVRqkfw56FIDW8",
+    "name": "TV Yes Italia",
+    "sources": {
+      "streams": [
+        "https://stream1.aswifi.it/radioyes/live/index.m3u8"
       ]
     },
     "languages": [

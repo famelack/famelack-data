@@ -255,6 +255,7 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -318,21 +319,6 @@
     "sources": {
       "streams": [
         "https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9cbMZrwOtdSUeq",
-    "name": "Bir TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/birtv/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1984,6 +1970,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EX2SjLd6J5Q"
       ]
     },
     "languages": [
@@ -2019,20 +2008,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bzh3LBtnY69p4n",
-    "name": "TRT 2",
-    "sources": {
-      "streams": [
-        "https://tv-trt2.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "Tsl1TXkC1cdSTl",
@@ -2104,20 +2079,6 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BpkMtsoRspK7u5",
-    "name": "TRT Genc",
-    "sources": {
-      "streams": [
-        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "owJJC4tX2SQL4u",

@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mj1YeHn29dAddM",
-    "name": "Amazonica TV",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9dieqKJjrLdvX8",
     "name": "America Internacional",
     "sources": {
@@ -323,6 +309,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IJ7gZA2UwesadP",
+    "name": "Galactica TV",
+    "sources": {
+      "streams": [
+        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mHRulAqsRUqjO2",
     "name": "Genios TV",
     "sources": {
@@ -534,20 +534,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IuaZCWClQdGZcM",
-    "name": "Metropolitana del Cuzco",
-    "sources": {
-      "streams": [
-        "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZgK3gN33Rh7QOj",
     "name": "Miel TV",
     "sources": {
@@ -588,20 +574,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GanSEAudCfBZ2t",
-    "name": "Monterrico TV",
-    "sources": {
-      "streams": [
-        "https://h.jcp.live.opencaster.com/play_src/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XzSZitrjlgF4Zh",
     "name": "Nacional Tv Peru",
     "sources": {
@@ -635,20 +607,6 @@
     "sources": {
       "streams": [
         "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zJfNt7gPSar8fv",
-    "name": "NZK Television",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8258/index.m3u8"
       ]
     },
     "languages": [
@@ -830,8 +788,8 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live.obslivestream.com/selvatv/index.m3u8",
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+        "https://live.obslivestream.com/selvatv/index.m3u8"
       ]
     },
     "languages": [
@@ -873,6 +831,7 @@
     "name": "Solar Television",
     "sources": {
       "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
         "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
       ]
     },
@@ -939,11 +898,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wmJ1QxQIvPF4LM",
-    "name": "Teleselva",
+    "nanoid": "StOVmvLhNdQ5uq",
+    "name": "Television Tarapoto",
     "sources": {
       "streams": [
-        "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -953,11 +912,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "StOVmvLhNdQ5uq",
-    "name": "Television Tarapoto",
+    "nanoid": "K0qZuL6YkWBA5O",
+    "name": "Tevesur",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1151,6 +1110,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HYnHHpCe4o5p06",
+    "name": "Universitaria TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RTi7RphrlOJFLh",
     "name": "Uranio TV",
     "sources": {
@@ -1239,7 +1212,7 @@
     "name": "Willax Televisión",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6O-Mb29kb2E"
+        "https://www.youtube-nocookie.com/embed/Xpt739VeNwc"
       ]
     },
     "languages": [
