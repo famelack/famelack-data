@@ -440,8 +440,8 @@
     "name": "Hard Rock FM Jakarta",
     "sources": {
       "streams": [
-        "https://n13.radiojar.com/7csmg90fuqruv",
-        "https://stream.radiojar.com/7csmg90fuqruv"
+        "https://stream.radiojar.com/7csmg90fuqruv",
+        "https://n13.radiojar.com/7csmg90fuqruv"
       ]
     },
     "languages": [
@@ -525,9 +525,9 @@
     "name": "I-Radio Jakarta",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/4ywdgup3bnzuv",
         "https://n07.radiojar.com/4ywdgup3bnzuv",
-        "https://n11.radiojar.com/4ywdgup3bnzuv"
+        "https://n11.radiojar.com/4ywdgup3bnzuv",
+        "https://stream.radiojar.com/4ywdgup3bnzuv"
       ]
     },
     "languages": [
@@ -951,8 +951,8 @@
     "name": "MGT Radio",
     "sources": {
       "streams": [
-        "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio",
-        "https://s1.gntr.net/listen/mgtradio/mgtradio"
+        "https://s1.gntr.net/listen/mgtradio/mgtradio",
+        "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio"
       ]
     },
     "languages": [
@@ -1002,6 +1002,21 @@
     "languages": [
       "eng",
       "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tewUXzGRKqAoax",
+    "name": "Nur FM Rembang",
+    "sources": {
+      "streams": [
+        "https://ssi.streamingmurah.com:8002/live"
+      ]
+    },
+    "languages": [
+      "ind",
+      "jav"
     ],
     "country": "id",
     "isGeoBlocked": false

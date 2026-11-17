@@ -173,8 +173,8 @@
     "name": "Dabar Radio",
     "sources": {
       "streams": [
-        "https://a1.asurahosting.com:8720/radio.mp3/;",
-        "https://a1.asurahosting.com:8720/radio.mp3"
+        "https://a1.asurahosting.com:8720/radio.mp3",
+        "https://a1.asurahosting.com:8720/radio.mp3/;"
       ]
     },
     "languages": [
@@ -373,6 +373,20 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/ftcx2988uwzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dBSwtFn4ssqV72",
+    "name": "Radio Tierra Deseable",
+    "sources": {
+      "streams": [
+        "https://s3.free-shoutcast.com/stream/18068"
       ]
     },
     "languages": [

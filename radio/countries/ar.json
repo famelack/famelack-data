@@ -231,9 +231,9 @@
     "name": "Aspen 102.3 FM",
     "sources": {
       "streams": [
-        "https://26643.live.streamtheworld.com/ASPEN.mp3",
+        "https://27383.live.streamtheworld.com/ASPEN.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
-        "https://27383.live.streamtheworld.com/ASPEN.mp3"
+        "https://26643.live.streamtheworld.com/ASPEN.mp3"
       ]
     },
     "languages": [
@@ -391,6 +391,20 @@
     "sources": {
       "streams": [
         "https://node-35.zeno.fm/uyd6h9w162quv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3iKXVI1eobVYYv",
+    "name": "Cadena Express 88.1 FM",
+    "sources": {
+      "streams": [
+        "https://streamall.alsolnet.com/cadenaexpress"
       ]
     },
     "languages": [
@@ -1262,20 +1276,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ArnJq5YHeslK0G",
-    "name": "FM Cristo Rey 105.1",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/ujs4w68jh93uv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0sTGnnhvX5MEcQ",
     "name": "FM Del Buen Ayre 105.3",
     "sources": {
@@ -2109,6 +2109,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9UPV0CgxhPn1cN",
+    "name": "La RZ",
+    "sources": {
+      "streams": [
+        "https://streamlky.alsolnet.com/larz"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oIIghr4KiWS6yv",
     "name": "La Universidad del Cuarteto",
     "sources": {
@@ -2282,8 +2296,8 @@
     "name": "Metro 95.1 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC.aac"
       ]
     },
     "languages": [
@@ -2560,11 +2574,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "swIcQ28X3ETbKI",
+    "name": "Radio 1: Electric Circus",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8zXX7Bfi1i6ctV",
+    "name": "Radio 2: The Monday Revolution",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8010/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KddVNyxMJHX9qG",
     "name": "Radio 4: Rock & Pop Argentino",
     "sources": {
       "streams": [
+        "https://radio.eduneu.eu:8030/radio.mp3",
         "https://radio.eduneu.eu/hls/radio4/live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VbVmak2J2RCJXR",
+    "name": "Radio 5 100.5 FM",
+    "sources": {
+      "streams": [
+        "https://streaming2.locucionar.com/proxy/radio5fm/stream"
       ]
     },
     "languages": [
@@ -2760,8 +2817,8 @@
     "name": "Radio Britannia",
     "sources": {
       "streams": [
-        "https://01.solumedia.com.ar:8472/stream/;",
-        "https://01.solumedia.com.ar:8472/stream/listen.pls/"
+        "https://01.solumedia.com.ar:8472/stream/listen.pls/",
+        "https://01.solumedia.com.ar:8472/stream/;"
       ]
     },
     "languages": [
@@ -2847,6 +2904,20 @@
     "sources": {
       "streams": [
         "https://irrati.radio105.ar/1069.opus"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L5GajcAWdPliVN",
+    "name": "Radio Colegio AMEN",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8050/radio.mp3"
       ]
     },
     "languages": [
@@ -3002,6 +3073,20 @@
     "sources": {
       "streams": [
         "https://streaming6.locucionar.com:24248/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FV1dNRmKKxSgP0",
+    "name": "Radio Del Puerto 92.1 FM",
+    "sources": {
+      "streams": [
+        "https://streaming.escuchanosonline.com:7106/stream"
       ]
     },
     "languages": [
@@ -3660,8 +3745,8 @@
     "name": "Radio Provincia AM 1270",
     "sources": {
       "streams": [
-        "https://streaming.provinciaradio.com.ar:7008/am",
-        "https://streaming.provinciaradio.com.ar:7007/am"
+        "https://streaming.provinciaradio.com.ar:7007/am",
+        "https://streaming.provinciaradio.com.ar:7008/am"
       ]
     },
     "languages": [

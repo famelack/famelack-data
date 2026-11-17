@@ -19,8 +19,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://22193.live.streamtheworld.com/FM702_SC",
-        "https://25693.live.streamtheworld.com/FM702_SC"
+        "https://27743.live.streamtheworld.com/FM702_SC",
+        "https://22183.live.streamtheworld.com/FM702_SC"
       ]
     },
     "languages": [
@@ -34,8 +34,8 @@
     "name": "919",
     "sources": {
       "streams": [
-        "https://edge.iono.fm/xice/112_medium.aac",
-        "https://edge.iono.fm/xice/112_low.aac"
+        "https://edge.iono.fm/xice/112_low.aac",
+        "https://edge.iono.fm/xice/112_medium.aac"
       ]
     },
     "languages": [
@@ -49,9 +49,9 @@
     "name": "947",
     "sources": {
       "streams": [
-        "https://29073.live.streamtheworld.com/FM947_SC",
-        "https://28513.live.streamtheworld.com/FM947AAC_SC",
-        "https://28933.live.streamtheworld.com/FM947_SC"
+        "https://25533.live.streamtheworld.com/FM947_SC",
+        "https://27913.live.streamtheworld.com/FM947_SC",
+        "https://22663.live.streamtheworld.com/FM947AAC_SC"
       ]
     },
     "languages": [
@@ -82,7 +82,13 @@
         "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "sot",
+      "tsn",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -94,7 +100,10 @@
         "https://edge.iono.fm/xice/54_high.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -123,7 +132,10 @@
         "https://icast1.streamcom.net/Atiawa"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "mri"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -174,8 +186,8 @@
     "name": "BOX Chillwave",
     "sources": {
       "streams": [
-        "https://boxradio-edge-00.streamafrica.net/chillwave",
-        "https://play.streamafrica.net/chillwave"
+        "https://play.streamafrica.net/chillwave",
+        "https://boxradio-edge-00.streamafrica.net/chillwave"
       ]
     },
     "languages": [],
@@ -202,7 +214,11 @@
         "https://zas4.ndx.co.za:9100/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -211,8 +227,8 @@
     "name": "Cape Talk",
     "sources": {
       "streams": [
-        "https://22193.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://25633.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://25533.live.streamtheworld.com/CAPE_TALK_SC",
         "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC"
       ]
     },
@@ -287,7 +303,10 @@
         "https://zas1.ndx.co.za:8008/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "heb"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -299,7 +318,13 @@
         "https://27743.live.streamtheworld.com/CA247AAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "fra",
+      "nya",
+      "por",
+      "swa"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -311,7 +336,9 @@
         "https://edge.iono.fm/xice/109_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -363,7 +390,9 @@
         "https://live.ecr.co.za/ecrgoldhigh.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -373,8 +402,8 @@
     "sources": {
       "streams": [
         "https://live.ecr.co.za/ecrhigh.mp3",
-        "https://edge.iono.fm/xice/ecr_live_medium.aac",
-        "https://live.ecr.co.za/ecrlow.aac"
+        "https://live.ecr.co.za/ecrlow.aac",
+        "https://edge.iono.fm/xice/ecr_live_medium.aac"
       ]
     },
     "languages": [
@@ -391,7 +420,11 @@
         "https://iceant.antfarm.co.za/EdenFM"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -403,7 +436,10 @@
         "https://edge.iono.fm/xhls/fmr_live_medium.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -415,7 +451,10 @@
         "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -439,7 +478,10 @@
         "https://27873.live.streamtheworld.com/GOODHOPEFMAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -463,7 +505,9 @@
         "https://edge.iono.fm/xice/330_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -519,7 +563,9 @@
         "https://edge.iono.fm/xice/57_high.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -543,7 +589,9 @@
         "https://27873.live.streamtheworld.com/IKWEKWEZIAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "nbl"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -555,7 +603,9 @@
         "https://maggie.torontocast.com:8014/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -567,7 +617,10 @@
         "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -655,7 +708,11 @@
         "https://s44.myradiostream.com/9128/listen.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "sot",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -710,7 +767,11 @@
         "https://zas1-2-3-6.ndx.co.za/stream/lekoafm"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "sot",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -723,7 +784,9 @@
         "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC"
       ]
     },
-    "languages": [],
+    "languages": [
+      "sot"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -778,7 +841,14 @@
         "https://27863.live.streamtheworld.com/LOTUSFMAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "guj",
+      "hin",
+      "tam",
+      "tel",
+      "urd"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -805,7 +875,10 @@
         "https://cast3.my-control-panel.com/proxy/malutifm/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -836,6 +909,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JZtPhJH01I4sDk",
+    "name": "Merafong 360 Online Radio",
+    "sources": {
+      "streams": [
+        "https://sv2.famcast.co.za/stream/merafong"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O9fO5J5BLrJnUZ",
     "name": "Metro FM",
     "sources": {
@@ -843,7 +928,9 @@
         "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFM_SC"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -908,7 +995,9 @@
         "https://28933.live.streamtheworld.com/MOTSWEDINGAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "tsn"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -920,7 +1009,9 @@
         "https://27793.live.streamtheworld.com/MUNGANALONENEAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "tso"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1038,7 +1129,10 @@
         "https://zas7.ndx.co.za:8044/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1050,7 +1144,9 @@
         "https://29083.live.streamtheworld.com/PHALAPHALAAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "ven"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1114,7 +1210,9 @@
         "https://27863.live.streamtheworld.com/RADIO2000AAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1126,7 +1224,11 @@
         "https://edge.iono.fm/xice/127_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1138,7 +1240,9 @@
         "https://stream-152.zeno.fm/w0cyqt4cyy8uv"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1164,7 +1268,10 @@
         "https://zas2.ndx.co.za:8046/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1190,7 +1297,9 @@
         "https://vm65162.streamerr.co/listen/radio_namaste/radio.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "hin"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1202,7 +1311,10 @@
         "https://edge.iono.fm/xice/189_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1228,7 +1340,12 @@
         "https://zas2.ndx.co.za:8006/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "tsn",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1254,7 +1371,10 @@
         "https://iceant.eclipse-streaming.co.za/radio-turf.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "nso"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1266,7 +1386,12 @@
         "https://zas5.ndx.co.za:9618/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "por",
+      "sot",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1278,7 +1403,9 @@
         "https://vm65162.streamerr.co/listen/radio_vilakku/radio.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "tam"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1290,7 +1417,9 @@
         "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "hin"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1302,7 +1431,11 @@
         "https://edge.iono.fm/xice/74_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1341,7 +1474,14 @@
         "https://edge.iono.fm/xice/73_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "nbl",
+      "nso",
+      "ssw",
+      "tso",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1381,7 +1521,9 @@
         "https://stream.zeno.fm/k8cqvwu2za0uv"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1464,7 +1606,10 @@
         "https://springbokradio.xyz:8443/main"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1501,7 +1646,9 @@
         "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "nso"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1513,7 +1660,10 @@
         "https://27743.live.streamtheworld.com/TRUFMAAC.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "xho"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1591,7 +1741,11 @@
         "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1643,7 +1797,11 @@
         "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "afr",
+      "eng",
+      "sot"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1667,7 +1825,10 @@
         "https://edge.iono.fm/xice/77_medium.aac"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "zul"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },
@@ -1705,7 +1866,10 @@
         "https://streaming.fabrik.fm/youfm/echocast/audio/low/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "tsn"
+    ],
     "country": "za",
     "isGeoBlocked": false
   },

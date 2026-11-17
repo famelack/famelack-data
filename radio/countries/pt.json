@@ -108,8 +108,8 @@
     "name": "Antena 2",
     "sources": {
       "streams": [
-        "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
         "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
+        "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena280a.mp3"
       ]
     },
@@ -155,8 +155,8 @@
     "name": "Antena 3",
     "sources": {
       "streams": [
-        "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8",
+        "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
         "https://radiocast.rtp.pt/antena380a.mp3"
       ]
     },
@@ -825,8 +825,8 @@
     "name": "Rádio Comercial Portugal",
     "sources": {
       "streams": [
-        "https://stream-icy.bauermedia.pt/rctuga.aac",
-        "https://stream-icy.bauermedia.pt/comercial.mp3"
+        "https://stream-icy.bauermedia.pt/comercial.mp3",
+        "https://stream-icy.bauermedia.pt/rctuga.aac"
       ]
     },
     "languages": [
@@ -1249,8 +1249,8 @@
     "sources": {
       "streams": [
         "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3"
       ]
     },
     "languages": [
@@ -1436,9 +1436,9 @@
     "name": "RFM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
         "https://22593.live.streamtheworld.com/RFMAAC.aac",
-        "https://23603.live.streamtheworld.com/RFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac"
       ]
     },
     "languages": [

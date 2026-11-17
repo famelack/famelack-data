@@ -560,8 +560,8 @@
     "name": "Bombo Radyo La Union",
     "sources": {
       "streams": [
-        "https://stream.zenolive.com/n6wgdtu78heuv",
-        "https://stream.zeno.fm/n6wgdtu78heuv"
+        "https://stream.zeno.fm/n6wgdtu78heuv",
+        "https://stream.zenolive.com/n6wgdtu78heuv"
       ]
     },
     "languages": [
@@ -727,21 +727,6 @@
     "sources": {
       "streams": [
         "https://cagayanstream.brigadanews.ph/"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ueehFper0GWtLx",
-    "name": "Brigada News FM Cauayan",
-    "sources": {
-      "streams": [
-        "https://cauayanstream.brigadanews.ph/"
       ]
     },
     "languages": [
@@ -992,6 +977,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bUAaMRIb1hilUM",
+    "name": "Brigada News FM Valencia",
+    "sources": {
+      "streams": [
+        "https://valenciastream.brigadanews.ph/"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "USMzJWr7Bc7CLZ",
     "name": "Brigada News FM Zamboanga",
     "sources": {
@@ -1026,8 +1026,8 @@
     "name": "Budots FM 98.9",
     "sources": {
       "streams": [
-        "https://stream-171.zeno.fm/2uhuu5hvzqzuv",
-        "https://stream.zeno.fm/2uhuu5hvzqzuv"
+        "https://stream.zeno.fm/2uhuu5hvzqzuv",
+        "https://stream-171.zeno.fm/2uhuu5hvzqzuv"
       ]
     },
     "languages": [
@@ -1207,7 +1207,7 @@
     "sources": {
       "streams": [
         "https://stream.radiojar.com/yus0r2bghd3vv",
-        "https://n09.radiojar.com/yus0r2bghd3vv",
+        "https://n06.radiojar.com/yus0r2bghd3vv",
         "https://n0d.radiojar.com/yus0r2bghd3vv"
       ]
     },
@@ -2233,6 +2233,21 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/9td2da86gg8uv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cEBcLMXwFPXmo1",
+    "name": "Radio Natin",
+    "sources": {
+      "streams": [
+        "https://in-icecast.eradioportal.com:8443/radyo_natin"
       ]
     },
     "languages": [
@@ -3339,21 +3354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kqqLbPOUZv5O4g",
-    "name": "Star FM Davao",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/sdtv271nz9duv"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BP7t7k3alUHnHV",
     "name": "Star FM Dipolog",
     "sources": {
@@ -3691,9 +3691,24 @@
     "name": "Yes The Best",
     "sources": {
       "streams": [
-        "https://yesfmiligan.radioca.st/listen.pls/",
         "https://yesfmdumaguete.radioca.st/listen.pls/",
+        "https://yesfmiligan.radioca.st/listen.pls/",
         "https://yesfmvalencia.radioca.st/listen.pls/"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y1TgiF6LcPhKht",
+    "name": "Yes The Best 102.7",
+    "sources": {
+      "streams": [
+        "https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls"
       ]
     },
     "languages": [

@@ -356,21 +356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yTWAeOR7xGy89I",
-    "name": "NRK P1 Oslo og Akershus",
-    "sources": {
-      "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l"
-      ]
-    },
-    "languages": [
-      "nor"
-    ],
-    "country": "no",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aDUklOGsPHZduo",
     "name": "NRK P1 Østfold",
     "sources": {
@@ -431,7 +416,8 @@
     "name": "NRK P1 Stor-Oslo",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l"
       ]
     },
     "languages": [
@@ -557,8 +543,8 @@
     "name": "NRK P13",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p13_aac_h",
         "https://lyd.nrk.no/nrk_radio_p13_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_p13_aac_h",
         "https://lyd.nrk.no/nrk_radio_p13_mp3_l"
       ]
     },
@@ -823,6 +809,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fZakHKACUh9lQa",
+    "name": "Radio 3 Bodø",
+    "sources": {
+      "streams": [
+        "https://stream.radio3.no/Radio3Bodo48"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iNUeAge0T9QqVw",
     "name": "Radio 3,16",
     "sources": {
@@ -1040,8 +1040,8 @@
     "name": "Radio Topp 40",
     "sources": {
       "streams": [
-        "https://live-bauerno.sharp-stream.com/top40_no_mp3",
-        "https://live-bauerno.sharp-stream.com/top40_no_aac"
+        "https://live-bauerno.sharp-stream.com/top40_no_aac",
+        "https://live-bauerno.sharp-stream.com/top40_no_mp3"
       ]
     },
     "languages": [

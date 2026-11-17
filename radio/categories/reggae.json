@@ -105,7 +105,9 @@
         "https://listen.181fm.com/181-reggae_128k.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -278,6 +280,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JoCVxHoWiYVMTo",
+    "name": "Calm Radio - Reggae",
+    "sources": {
+      "streams": [
+        "https://streams.calmradio.com:18928/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -1280,8 +1296,8 @@
     "name": "Music Galaxy Radio",
     "sources": {
       "streams": [
-        "https://eu10.fastcast4u.com:1390/;",
-        "https://eu10.fastcast4u.com/themusi2"
+        "https://eu10.fastcast4u.com/themusi2",
+        "https://eu10.fastcast4u.com:1390/;"
       ]
     },
     "languages": [
@@ -2080,8 +2096,8 @@
     "name": "Roots Legacy Radio",
     "sources": {
       "streams": [
-        "https://l.rootslegacy.fr/;",
-        "https://l.rootslegacy.fr/mp3test"
+        "https://l.rootslegacy.fr/mp3test",
+        "https://l.rootslegacy.fr/;"
       ]
     },
     "languages": [
@@ -2241,8 +2257,8 @@
     "sources": {
       "streams": [
         "https://ice2.somafm.com/dubstep-128-aac",
-        "https://ice2.somafm.com/dubstep-128-mp3",
-        "https://ice6.somafm.com/dubstep-128-aac"
+        "https://ice6.somafm.com/dubstep-128-aac",
+        "https://ice2.somafm.com/dubstep-128-mp3"
       ]
     },
     "languages": [
@@ -2688,7 +2704,9 @@
         "https://aud1.sjamz.com/8132/stream"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },

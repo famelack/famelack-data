@@ -364,7 +364,7 @@
       "streams": [
         "https://s3-webradio.antenne.de/das-schlager-karussell",
         "https://mp3channels.webradio.antenne.de/das-schlager-karussell",
-        "https://s3-webradio.antenne.de/das-schlager-karussell/stream/aacp"
+        "https://s10-webradio.antenne.de/das-schlager-karussell.aac"
       ]
     },
     "languages": [
@@ -608,8 +608,8 @@
     "name": "FFH Schlagerkult",
     "sources": {
       "streams": [
-        "https://mp3.ffh.de/ffhchannels/hqschlager.mp3?aw_0_req.gdpr=true",
         "https://mp3.ffh.de/ffhchannels/hqschlager.aac",
+        "https://mp3.ffh.de/ffhchannels/hqschlager.mp3?aw_0_req.gdpr=true",
         "https://mp3.ffh.de/ffhchannels/schlager.aac?aw_0_req.gdpr=true"
       ]
     },
@@ -737,7 +737,7 @@
     "name": "HITRADIO RTL - Schlager",
     "sources": {
       "streams": [
-        "https://edge81.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
+        "https://edge59.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
       ]
     },
     "languages": [
@@ -878,8 +878,8 @@
     "name": "Karneval Radio",
     "sources": {
       "streams": [
-        "https://karneval.stream.laut.fm/karneval",
-        "https://karneval-radio.stream.laut.fm/karneval-radio"
+        "https://karneval-radio.stream.laut.fm/karneval-radio",
+        "https://karneval.stream.laut.fm/karneval"
       ]
     },
     "languages": [
@@ -1265,8 +1265,8 @@
     "name": "Perfect Radio - Schlageroldies",
     "sources": {
       "streams": [
-        "https://n0b.radiojar.com/rk8e9x2vetzuv",
-        "https://stream.radiojar.com/rk8e9x2vetzuv"
+        "https://stream.radiojar.com/rk8e9x2vetzuv",
+        "https://n0b.radiojar.com/rk8e9x2vetzuv"
       ]
     },
     "languages": [
@@ -1294,7 +1294,7 @@
     "name": "R.SA - Schlager",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsen60erold5866133-mp3-192-1592541?sABC=6ns8ns80%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1794682752"
+        "https://rsa.streamabc.net/regc-rsasachsen60erold5866133-mp3-192-1592541?sABC=6nso0o92%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1794837394"
       ]
     },
     "languages": [
@@ -1318,7 +1318,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FiSvc9oFb8iUp8",
+    "nanoid": "PDPkrYyylGb24g",
     "name": "Radio 700",
     "sources": {
       "streams": [
@@ -1328,7 +1328,7 @@
     "languages": [
       "deu"
     ],
-    "country": "de",
+    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -1424,8 +1424,8 @@
     "name": "RADIO BOLLERWAGEN",
     "sources": {
       "streams": [
-        "https://ffn-de-hz-fal-stream06-cluster01.radiohost.de/radiobollerwagen_mp3-192",
         "https://stream.ffn.de/radiobollerwagen/mp3-192",
+        "https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192",
         "https://stream.ffn.de/radiobollerwagen/mp3-192/stream.mp3"
       ]
     },
@@ -1441,7 +1441,8 @@
     "sources": {
       "streams": [
         "https://radiobreidenbach.spcast.eu/stream",
-        "https://radiobreidenbach.sp.radio.fm/stream"
+        "https://radiobreidenbach.sp.radio.fm/stream",
+        "https://saurus.streampanel.cloud:5650/stream"
       ]
     },
     "languages": [
@@ -2015,8 +2016,8 @@
     "name": "Radio Schwany - Heimatwelle",
     "sources": {
       "streams": [
-        "https://bone.streampanel.cloud/12-hoamatwelle",
-        "https://hoamatwelle.schwany.de/"
+        "https://hoamatwelle.schwany.de/",
+        "https://bone.streampanel.cloud/12-hoamatwelle"
       ]
     },
     "languages": [
@@ -2118,7 +2119,7 @@
     "sources": {
       "streams": [
         "https://souvenir2.spcast.eu/stream",
-        "https://schwany.streampanel.cloud/13-souvenir2",
+        "https://twix.streampanel.cloud/13-souvenir2",
         "https://souvenir2.hoamatwelle.de/"
       ]
     },
@@ -2193,9 +2194,9 @@
     "name": "Radio Schwany 3 - Echte Volksmusik",
     "sources": {
       "streams": [
-        "https://volksmusik.sp.radio.fm/stream",
-        "https://schwany.streampanel.cloud/3-dieechte",
-        "https://charly.streampanel.net/3-dieechte"
+        "https://schwany3volksmusik.hoamatwelle.de/",
+        "https://charly.streampanel.net/3-dieechte",
+        "https://volksmusik.sp.radio.fm/stream"
       ]
     },
     "languages": [
@@ -2211,7 +2212,7 @@
       "streams": [
         "https://blasmusik.sp.radio.fm/stream",
         "https://bone.streampanel.cloud/4-blasmusik",
-        "https://twix.streampanel.cloud/4-blasmusik"
+        "https://schwany.streampanel.cloud/4-blasmusik"
       ]
     },
     "languages": [
@@ -2225,9 +2226,9 @@
     "name": "Radio Schwany 5 - Oberkrainer",
     "sources": {
       "streams": [
-        "https://schwany5oberkrain.hoamatwelle.de/",
         "https://oberkrain.sp.radio.fm/stream",
-        "https://charly.streampanel.net/5-oberkrain"
+        "https://charly.streampanel.net/5-oberkrain",
+        "https://schwany.streampanel.cloud/5-oberkrain"
       ]
     },
     "languages": [
@@ -2255,9 +2256,9 @@
     "name": "Radio SRF Musikwelle",
     "sources": {
       "streams": [
+        "https://stream.srg-ssr.ch/m/drsmw/mp3_128",
         "https://stream.srg-ssr.ch/srgssr/srfmw/aac/96",
-        "https://stream.srg-ssr.ch/srgssr/srfmw/mp3/128",
-        "https://stream.srg-ssr.ch/m/drsmw/mp3_128"
+        "https://stream.srg-ssr.ch/srgssr/srfmw/mp3/128"
       ]
     },
     "languages": [
@@ -2302,8 +2303,8 @@
     "sources": {
       "streams": [
         "https://live.u1-radio.at/",
-        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },
     "languages": [
@@ -2491,8 +2492,8 @@
     "name": "RauteMusik Best of Schlager",
     "sources": {
       "streams": [
-        "https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-best-of-schlager_mp3-192",
-        "https://best-of-schlager-high.rautemusik.fm/"
+        "https://best-of-schlager-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-best-of-schlager_mp3-192"
       ]
     },
     "languages": [
@@ -2506,8 +2507,8 @@
     "name": "RauteMusik Christmas Schlager",
     "sources": {
       "streams": [
-        "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192",
-        "https://christmas-schlager-high.rautemusik.fm/"
+        "https://christmas-schlager-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192"
       ]
     },
     "languages": [
@@ -2877,8 +2878,8 @@
     "name": "SWR4 Freiburg",
     "sources": {
       "streams": [
-        "https://liveradio.swr.de/sw282p3/swr4fr/play.mp3",
-        "https://liveradio.swr.de/sw282p3/swr4fr"
+        "https://liveradio.swr.de/sw282p3/swr4fr",
+        "https://liveradio.swr.de/sw282p3/swr4fr/play.mp3"
       ]
     },
     "languages": [
@@ -2948,8 +2949,8 @@
     "name": "SWR4 Koblenz",
     "sources": {
       "streams": [
-        "https://liveradio.swr.de/sw282p3/swr4ko",
-        "https://liveradio.swr.de/sw282p3/swr4rp"
+        "https://liveradio.swr.de/sw282p3/swr4rp",
+        "https://liveradio.swr.de/sw282p3/swr4ko"
       ]
     },
     "languages": [

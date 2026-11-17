@@ -787,8 +787,8 @@
     "name": "FREIRAD - Freies Radio Innsbruck",
     "sources": {
       "streams": [
-        "https://stream.freirad.at/live.ogg",
-        "https://stream.freirad.at/live.mp3"
+        "https://stream.freirad.at/live.mp3",
+        "https://stream.freirad.at/live.ogg"
       ]
     },
     "languages": [
@@ -847,21 +847,6 @@
         "https://orf-live.ors-shoutcast.at/oe3-q2a",
         "https://orf-live.ors-shoutcast.at/oe3-q1a",
         "https://ors-sn03.ors-shoutcast.at/oe3-q1a"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T5HWLmSH2AeiSp",
-    "name": "I Love Deutschrap First",
-    "sources": {
-      "streams": [
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst",
-        "https://streams.ilovemusic.de/iloveradio104.mp3"
       ]
     },
     "languages": [
@@ -933,8 +918,8 @@
     "name": "Kronehit Digital",
     "sources": {
       "streams": [
-        "https://secureonair.krone.at/kronehit-hp.mp3",
-        "https://secureonair.krone.at/kronehit64.aac"
+        "https://secureonair.krone.at/kronehit64.aac",
+        "https://secureonair.krone.at/kronehit-hp.mp3"
       ]
     },
     "languages": [
@@ -1188,7 +1173,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oSrx4mEipxFxOK",
+    "nanoid": "R7SpNdw94zgUeT",
     "name": "LoungeFM Wien",
     "sources": {
       "streams": [
@@ -1598,6 +1583,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Y7oUjRiCSnIlpZ",
+    "name": "Radio 3: The DJ Johnson Somerset Remixes",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8020/radio.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aOupz4Y3vPOmZn",
     "name": "Radio Alpenstar",
     "sources": {
@@ -1810,8 +1809,8 @@
     "name": "Radio Arabella Rock",
     "sources": {
       "streams": [
-        "https://edge83.streams.arabella.at/arabella-rock",
-        "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile"
+        "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile",
+        "https://edge83.streams.arabella.at/arabella-rock"
       ]
     },
     "languages": [
@@ -2150,20 +2149,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "R7SpNdw94zgUeT",
-    "name": "Radio LoungeFM - UKW Wien",
-    "sources": {
-      "streams": [
-        "https://s35.derstream.net/ukwwien.mp3"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UGwMiSz6mQzRxI",
     "name": "Radio Maria Österreich",
     "sources": {
@@ -2446,8 +2431,8 @@
     "sources": {
       "streams": [
         "https://live.u1-radio.at/",
-        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },
     "languages": [
@@ -2764,21 +2749,6 @@
     "sources": {
       "streams": [
         "https://stahlradio.spcast.eu/stream"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7C8xJTE7Gn9Owk",
-    "name": "Styria Lounge",
-    "sources": {
-      "streams": [
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
-        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [

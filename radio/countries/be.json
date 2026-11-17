@@ -46,9 +46,9 @@
     "name": "AFN 360 Benelux",
     "sources": {
       "streams": [
+        "https://28993.live.streamtheworld.com/AFNE_BLX_SC",
         "https://25583.live.streamtheworld.com/AFNE_BLX_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC",
-        "https://25553.live.streamtheworld.com/AFNE_BLX_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC"
       ]
     },
     "languages": [
@@ -686,8 +686,8 @@
     "name": "Fun Radio Belgique",
     "sources": {
       "streams": [
-        "https://funradiobe.ice.infomaniak.ch/funradiobe-high",
-        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+        "https://funradiobe.ice.infomaniak.ch/funradiobe-high"
       ]
     },
     "languages": [
@@ -920,8 +920,8 @@
     "name": "Klara Continuo",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-        "https://icecast.vrtcdn.be/klaracontinuo.aac"
+        "https://icecast.vrtcdn.be/klaracontinuo.aac",
+        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
       ]
     },
     "languages": [
@@ -951,20 +951,6 @@
       "streams": [
         "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067",
         "https://radios.rtbf.be/laprem1ere-128.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ciPAYVm9jWKJ4h",
-    "name": "LN Radio",
-    "sources": {
-      "streams": [
-        "https://stream.rcs.revma.com/yp6mhdt3pzzuv"
       ]
     },
     "languages": [
@@ -1174,8 +1160,8 @@
     "name": "Nostalgie",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
         "https://22193.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3",
         "https://stream.rcs.revma.com/5gd04cwptg0uv"
       ]
     },
@@ -2226,8 +2212,8 @@
     "name": "RTBF La Première",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/laprem1erebxl-128.mp3",
-        "https://radios.rtbf.be/laprem1ere-64.aac"
+        "https://radios.rtbf.be/laprem1ere-64.aac",
+        "https://radios.rtbf.be/laprem1erebxl-128.mp3"
       ]
     },
     "languages": [
@@ -2411,8 +2397,8 @@
     "sources": {
       "streams": [
         "https://icecast.vrtcdn.be/stubru.aac",
-        "https://icecast.vrtcdn.be/stubru-mid.mp3",
-        "https://icecast.vrtcdn.be/stubru-high.mp3"
+        "https://icecast.vrtcdn.be/stubru-high.mp3",
+        "https://icecast.vrtcdn.be/stubru-mid.mp3"
       ]
     },
     "languages": [
@@ -2469,8 +2455,8 @@
     "name": "Studio Brussel Vuurland",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/stubru_tgs-high.mp3",
-        "https://icecast.vrtcdn.be/stubru_tgs.aac"
+        "https://icecast.vrtcdn.be/stubru_tgs.aac",
+        "https://icecast.vrtcdn.be/stubru_tgs-high.mp3"
       ]
     },
     "languages": [
@@ -2697,7 +2683,7 @@
       "streams": [
         "https://icecast.vrtcdn.be/radio1-high.mp3",
         "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
-        "https://icecast.vrtcdn.be/radio1.aac"
+        "https://icecast.vrtcdn.be/radio1-mid.mp3"
       ]
     },
     "languages": [
@@ -2838,9 +2824,9 @@
     "name": "Willy Class X",
     "sources": {
       "streams": [
-        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
         "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
-        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3"
+        "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
       ]
     },
     "languages": [

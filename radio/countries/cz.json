@@ -381,25 +381,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZqLBxE8iU07WXT",
-    "name": "ČRo Radio Prague International",
-    "sources": {
-      "streams": [
-        "https://rozhlas.stream/radio_prague_int_high.aac"
-      ]
-    },
-    "languages": [
-      "ces",
-      "deu",
-      "eng",
-      "fra",
-      "rus",
-      "spa"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yyH3ClkLu9QsFw",
     "name": "ČRo Rádio Praha",
     "sources": {
@@ -521,20 +502,6 @@
       "streams": [
         "https://rozhlas.stream/vltava_high.aac",
         "https://amp.cesnet.cz:8443/cro3.flac"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LuwDUBlFTiERDw",
-    "name": "ČRo Vysočina",
-    "sources": {
-      "streams": [
-        "https://rozhlas.stream/vysocina_high.aac"
       ]
     },
     "languages": [
@@ -947,8 +914,8 @@
     "name": "Hitrádio Osmdesátka",
     "sources": {
       "streams": [
-        "https://ice.abradio.cz/hit80128.mp3",
-        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
+        "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
+        "https://ice.abradio.cz/hit80128.mp3"
       ]
     },
     "languages": [
@@ -1313,9 +1280,9 @@
     "name": "Radio 1",
     "sources": {
       "streams": [
+        "https://icecast6.play.cz/radio1-128.mp3",
         "https://icecast2.play.cz/radio1-64.mp3",
-        "https://icecast2.play.cz/radio1.mp3",
-        "https://icecast6.play.cz/radio1-128.mp3"
+        "https://icecast2.play.cz/radio1.mp3"
       ]
     },
     "languages": [
@@ -1358,8 +1325,8 @@
     "sources": {
       "streams": [
         "https://icecast2.play.cz/beat128aac",
-        "https://icecast1.play.cz/beat64.mp3",
-        "https://icecast2.play.cz/radiobeat128.mp3"
+        "https://icecast2.play.cz/radiobeat128.mp3",
+        "https://icecast1.play.cz/beat64.mp3"
       ]
     },
     "languages": [
@@ -1373,9 +1340,9 @@
     "name": "Rádio Blaník",
     "sources": {
       "streams": [
-        "https://ice.abradio.cz/blanikfm128.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac",
-        "https://ice.abradio.cz/blanikcz128.mp3"
+        "https://ice.abradio.cz/blanikcz128.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+        "https://ice.abradio.cz/blanikfm128.mp3"
       ]
     },
     "languages": [
@@ -1532,8 +1499,8 @@
     "name": "Radio Farda",
     "sources": {
       "streams": [
-        "https://n01.radiojar.com/cp13r2cpn3quv",
         "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
+        "https://n01.radiojar.com/cp13r2cpn3quv",
         "https://stream.radiojar.com/cp13r2cpn3quv"
       ]
     },
@@ -1675,9 +1642,9 @@
     "name": "Radio Kiss",
     "sources": {
       "streams": [
-        "https://icecast4.play.cz/kiss128.mp3",
+        "https://icecast1.play.cz/kissdelta128.mp3",
         "https://icecast8.play.cz/kisshady128.mp3",
-        "https://icecast1.play.cz/kissdelta128.mp3"
+        "https://icecast4.play.cz/kiss128.mp3"
       ]
     },
     "languages": [
@@ -1811,8 +1778,11 @@
     },
     "languages": [
       "ces",
+      "deu",
       "eng",
-      "fra"
+      "fra",
+      "rus",
+      "spa"
     ],
     "country": "cz",
     "isGeoBlocked": false
@@ -2282,9 +2252,9 @@
     "name": "Радио Свобода",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/hcrb063nn3quv",
-        "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04",
-        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
+        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
+        "https://n01.radiojar.com/hcrb063nn3quv",
+        "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
       ]
     },
     "languages": [

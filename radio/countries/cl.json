@@ -503,8 +503,8 @@
     "name": "FMDOS",
     "sources": {
       "streams": [
-        "https://23243.live.streamtheworld.com/FMDOSAAC_SC",
-        "https://24273.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://24373.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://27583.live.streamtheworld.com/FMDOSAAC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC"
       ]
     },
@@ -618,8 +618,8 @@
     "name": "LOS40",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC"
       ]
     },
     "languages": [
@@ -717,8 +717,8 @@
     "name": "Radio 24/7 Chile",
     "sources": {
       "streams": [
-        "https://broadcast.radio247.net/radio/8000/;",
-        "https://broadcast.radio247.net/listen/live/radio.mp3"
+        "https://broadcast.radio247.net/listen/live/radio.mp3",
+        "https://broadcast.radio247.net/radio/8000/;"
       ]
     },
     "languages": [
@@ -932,9 +932,9 @@
     "name": "Radio Bío-Bío",
     "sources": {
       "streams": [
-        "https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio",
+        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio",
         "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
-        "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio"
+        "https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio"
       ]
     },
     "languages": [
@@ -1019,20 +1019,6 @@
     "sources": {
       "streams": [
         "https://streaming.prositel.cl/8374/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7Am5o4Lklo70NG",
-    "name": "Radio Caramelo",
-    "sources": {
-      "streams": [
-        "https://cast.radioservicios.cl:8316/sanvicente"
       ]
     },
     "languages": [
@@ -1239,28 +1225,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "68fPq7veUjJZZv",
-    "name": "Radio Colombina",
-    "sources": {
-      "streams": [
-        "https://cast.radioservicios.cl:8314/radio"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iOB2DJuFyvz6kk",
     "name": "Radio Concierto",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC"
       ]
     },
     "languages": [
@@ -1614,8 +1585,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC"
       ]
     },
     "languages": [
@@ -2360,6 +2331,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bmbFT4laSRnAeT",
+    "name": "Radio Sol Latina",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7435"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wC1ghIzIzks5If",
     "name": "Radio Sunrise Lounge",
     "sources": {
@@ -2561,7 +2546,7 @@
     "sources": {
       "streams": [
         "https://stream.zeno.fm/pvs6hqz3crtvv",
-        "https://26453.live.streamtheworld.com/ACTIVA_SC",
+        "https://24493.live.streamtheworld.com/ACTIVA_SC",
         "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3"
       ]
     },
@@ -2620,9 +2605,9 @@
     "name": "Rock & Pop",
     "sources": {
       "streams": [
-        "https://24373.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
-        "https://27343.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC"
+        "https://24453.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC",
+        "https://27343.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
       ]
     },
     "languages": [

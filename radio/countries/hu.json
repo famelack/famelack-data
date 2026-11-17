@@ -15,18 +15,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mYkOcAAwVBAPGP",
-    "name": "A ROCK 103.9 FM",
-    "sources": {
-      "streams": [
-        "https://icast.connectmedia.hu/5301/live.mp3"
-      ]
-    },
-    "languages": [],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dCqM3HTFM9uXt7",
     "name": "AdventNET Rádió",
     "sources": {
@@ -48,7 +36,9 @@
         "https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "hu",
     "isGeoBlocked": false
   },
@@ -202,7 +192,8 @@
     "sources": {
       "streams": [
         "https://admin.biasradio.com/listen/bias_radio/live",
-        "https://admin.biasradio.com/radio/8000/flac"
+        "https://admin.biasradio.com/listen/bias_radio/mobile",
+        "https://admin.biasradio.com/listen/bias_radio/flac"
       ]
     },
     "languages": [
@@ -230,8 +221,8 @@
     "name": "Campus Rádió FM90",
     "sources": {
       "streams": [
-        "https://stream.fm90.hu:8000/stream/1/",
-        "https://stream.fm90.hu:8000/;"
+        "https://stream.fm90.hu:8000/;",
+        "https://stream.fm90.hu:8000/stream/1/"
       ]
     },
     "languages": [
@@ -731,7 +722,8 @@
       ]
     },
     "languages": [
-      "eng"
+      "eng",
+      "hun"
     ],
     "country": "hu",
     "isGeoBlocked": false
@@ -772,7 +764,7 @@
       "streams": [
         "https://stream.danubiusradio.hu/danubius_320k",
         "https://stream.danubiusradio.hu/danubius_192k",
-        "https://danubiusradio.hu/live.mp3"
+        "https://stream.danubiusradio.hu/danubius_128k"
       ]
     },
     "languages": [
@@ -1027,8 +1019,8 @@
     "name": "Lahmacun Radio",
     "sources": {
       "streams": [
-        "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
-        "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3"
+        "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
+        "https://streaming.lahmacun.hu/radio/8000/radio.mp3"
       ]
     },
     "languages": [
@@ -1704,22 +1696,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FbW4RDOIXsWqyJ",
-    "name": "Radio Bias",
-    "sources": {
-      "streams": [
-        "https://admin.biasradio.com/listen/bias_radio/live",
-        "https://admin.biasradio.com/listen/bias_radio/mobile",
-        "https://admin.biasradio.com/listen/bias_radio/flac"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wrs2Oi52OyjJsk",
     "name": "Rádió Dikh",
     "sources": {
@@ -1853,9 +1829,9 @@
     "name": "Retro Rádió",
     "sources": {
       "streams": [
-        "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a",
         "https://icast.connectmedia.hu/5001/live.mp3",
-        "https://icast.connectmedia.hu/5002/live.mp3"
+        "https://icast.connectmedia.hu/5002/live.mp3",
+        "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a"
       ]
     },
     "languages": [

@@ -4,8 +4,8 @@
     "name": ".977 The Mix",
     "sources": {
       "streams": [
-        "https://15113.live.streamtheworld.com/977_MIX_SC",
-        "https://24293.live.streamtheworld.com/977_MIX_SC"
+        "https://26343.live.streamtheworld.com/977_MIX_SC",
+        "https://15113.live.streamtheworld.com/977_MIX_SC"
       ]
     },
     "languages": [
@@ -532,7 +532,7 @@
       "streams": [
         "https://streams.90s90s.de/eurodance/mp3-192/radiode",
         "https://streams.90s90s.de/eurodance/mp3-192/vradio",
-        "https://streams.90s90s.de/eurodance/mp3-128/radiode"
+        "https://streams.90s90s.de/danceradio/mp3-128/streams.90s90s.de"
       ]
     },
     "languages": [
@@ -546,8 +546,8 @@
     "name": "90s90s Grunge",
     "sources": {
       "streams": [
-        "https://streams.90s90s.de/grunge/mp3-192",
-        "https://streams.90s90s.de/grunge/mp3-192/streams.90s90s.de"
+        "https://streams.90s90s.de/grunge/mp3-192/streams.90s90s.de",
+        "https://streams.90s90s.de/grunge/mp3-192"
       ]
     },
     "languages": [
@@ -577,7 +577,7 @@
     "name": "90s90s In The Mix",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440?sABC=6ns8n9s1%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794681329",
+        "https://regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440?sABC=6nso1q14%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794841876",
         "https://streams.90s90s.de/inthemix/aac-64/streams.90s90s.de"
       ]
     },
@@ -664,9 +664,9 @@
     "name": "94,3 rs2",
     "sources": {
       "streams": [
+        "https://topradio-de-hz-fal-stream09-cluster01.radiohost.de/rs2_mp3-128",
         "https://stream.rs2.de/rs2/mp3-128/internetradio",
-        "https://topradio-de-hz-fal-stream08-cluster01.radiohost.de/rs2_mp3-128",
-        "https://stream.rs2.de/rs2/mp3-128/playlist"
+        "https://topradio-de-hz-fal-stream08-cluster01.radiohost.de/rs2_mp3-128"
       ]
     },
     "languages": [
@@ -737,7 +737,8 @@
     "name": "100Hitz - 90s Alternative",
     "sources": {
       "streams": [
-        "https://pureplay.cdnstream1.com/6040_128.mp3"
+        "https://pureplay.cdnstream1.com/6040_128.mp3",
+        "https://pureplay.cdnstream1.com/6040_64.aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -779,7 +780,6 @@
     "name": "101FM - 90er",
     "sources": {
       "streams": [
-        "https://0-24_90er_pop_rock.stream.laut.fm/0-24_90er_pop_rock",
         "https://0-2490erpoprock.stream.laut.fm/0-24_90er_pop_rock"
       ]
     },
@@ -1123,9 +1123,9 @@
     "name": "Antenne Niedersachsen - 90er",
     "sources": {
       "streams": [
-        "https://antnds.streamabc.net/ands-antnds90er-aacplus-64-3454913",
-        "https://antnds.streamabc.net/ands-antnds90er-aacplus-64-3454913?sABC=6ns8n25q%230%236rpss038nqr8rq96q0145688375p5296%23fgernz.nagraar.pbz&aw_0_1st.playerid=stream.antenne.com&amsparams=playerid:stream.antenne.com;skey:1794679389",
-        "https://stream.antenne.com/antenne-nds-90er/aac-64/radiosure"
+        "https://antnds.streamabc.net/ands-antnds90er-aacplus-64-3454913?sABC=6nso0s9o%230%236rpss038nqr8rq96q0145688375p5296%23fgernz.nagraar.pbz&aw_0_1st.playerid=stream.antenne.com&amsparams=playerid:stream.antenne.com;skey:1794838427",
+        "https://stream.antenne.com/antenne-nds-90er/aac-64/radiosure",
+        "https://antnds.streamabc.net/ands-antnds90er-aacplus-64-3454913"
       ]
     },
     "languages": [
@@ -1252,6 +1252,20 @@
       "tur"
     ],
     "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bScjqNwqC2iicf",
+    "name": "Back In Time",
+    "sources": {
+      "streams": [
+        "https://back_in_time.stream.laut.fm/back_in_time"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1484,8 +1498,8 @@
     "sources": {
       "streams": [
         "https://breakz-2012-high.rautemusik.fm/",
-        "https://rautemusik-de-hz-fal-stream17.radiohost.de/breakz",
-        "https://radio.breakz.fm/?upd-meta&upd-scheme=https&_art=dD0xNzk0NjgyODMyJmQ9YjZjMTNjZTdmYjk1MDg3YmQxMGQ"
+        "https://radio.breakz.fm/?upd-meta&upd-scheme=https&_art=dD0xNzk0ODQwOTY0JmQ9MWQyMmExMzFkMWI5NzE0YzAyZmI",
+        "https://rautemusik-de-hz-fal-stream17.radiohost.de/breakz"
       ]
     },
     "languages": [
@@ -1643,8 +1657,8 @@
     "name": "Coast FM 96.3",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3"
       ]
     },
     "languages": [
@@ -1686,9 +1700,9 @@
     "name": "Coles Radio",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_TAS.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_VIC.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_WA.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_WA.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_SA_NT.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_TAS.mp3"
       ]
     },
     "languages": [
@@ -1775,7 +1789,7 @@
       "streams": [
         "https://stream.danubiusradio.hu/danubius_320k",
         "https://stream.danubiusradio.hu/danubius_192k",
-        "https://danubiusradio.hu/live.mp3"
+        "https://stream.danubiusradio.hu/danubius_128k"
       ]
     },
     "languages": [
@@ -2654,7 +2668,7 @@
     "name": "HITRADIO OHR - 90er",
     "sources": {
       "streams": [
-        "https://edge01.streamonkey.net/fho-hitradioohr90er/stream/aacp?aggregator=smk-m3u-aac"
+        "https://edge06.streamonkey.net/fho-hitradioohr90er/stream/aacp?aggregator=smk-m3u-aac"
       ]
     },
     "languages": [
@@ -2893,8 +2907,8 @@
     "sources": {
       "streams": [
         "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
-        "https://stream.joe.nl/joe/mp3",
-        "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac"
+        "https://stream.joe.nl/joe/aachigh",
+        "https://stream.joe.nl/joe/mp3"
       ]
     },
     "languages": [
@@ -3063,8 +3077,8 @@
     "name": "KINK 90's",
     "sources": {
       "streams": [
-        "https://22333.live.streamtheworld.com/KINK_90S_SC",
-        "https://29023.live.streamtheworld.com/KINK_90S_SC"
+        "https://29093.live.streamtheworld.com/KINK_90S_SC",
+        "https://22323.live.streamtheworld.com/KINK_90S_SC"
       ]
     },
     "languages": [
@@ -3649,8 +3663,8 @@
     "sources": {
       "streams": [
         "https://live.flashbackcentral.co.uk/radio/8000/apple",
-        "https://live.flashbackcentral.co.uk/radio/8050/radio.mp3",
-        "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3"
+        "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+        "https://live.flashbackcentral.co.uk/radio/8050/radio.mp3"
       ]
     },
     "languages": [
@@ -3991,8 +4005,8 @@
     "name": "Play Gold",
     "sources": {
       "streams": [
-        "https://n02.radiojar.com/431m8b6qcm5tv",
-        "https://n0d.radiojar.com/431m8b6qcm5tv"
+        "https://n0d.radiojar.com/431m8b6qcm5tv",
+        "https://n02.radiojar.com/431m8b6qcm5tv"
       ]
     },
     "languages": [
@@ -4121,7 +4135,9 @@
         "https://s3.myradiostream.com:7620/listen.m4a"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "zm",
     "isGeoBlocked": false
   },
@@ -4145,8 +4161,8 @@
     "name": "Qmusic 90s & 00s",
     "sources": {
       "streams": [
-        "https://stream.qmusic.nl/90s-00s/aachigh",
-        "https://stream.qmusic.nl/90s-00s/aaclow"
+        "https://stream.qmusic.nl/90s-00s/aaclow",
+        "https://stream.qmusic.nl/90s-00s/aachigh"
       ]
     },
     "languages": [
@@ -4161,7 +4177,7 @@
     "name": "R.SA - 1.000 90er",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsa1000neunziger-mp3-192-5678094?sABC=6ns8o297%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1794683543"
+        "https://rsa.streamabc.net/regc-rsa1000neunziger-mp3-192-5678094?sABC=6nso1rpn%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1794842314"
       ]
     },
     "languages": [
@@ -4220,8 +4236,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC"
       ]
     },
     "languages": [
@@ -4304,13 +4320,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g0MWrM8JxrYqNh",
-    "name": "RADIO BOB! 90er Rock",
+    "nanoid": "ItEeCPAS3vQVUe",
+    "name": "RADIO BOB!",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-90srock/mp3-192/homepage",
-        "https://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer",
-        "https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de"
+        "https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/bob-national/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -4320,11 +4336,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "98AxcTYJRZAgIy",
-    "name": "RADIO BOB! Livestream National",
+    "nanoid": "g0MWrM8JxrYqNh",
+    "name": "RADIO BOB! 90er Rock",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de"
+        "https://streams.radiobob.de/bob-90srock/mp3-192/homepage",
+        "https://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -4465,8 +4483,8 @@
     "name": "Radio Dresden 90er",
     "sources": {
       "streams": [
-        "https://streams.bcs-systems.de/slp/90er/dresden/mp3/web/playlist.m3u",
-        "https://streaming.radiodresden.de/radio-dresden_90er_192k_mp3"
+        "https://streaming.radiodresden.de/radio-dresden_90er_192k_mp3",
+        "https://streams.bcs-systems.de/slp/90er/dresden/mp3/web/playlist.m3u"
       ]
     },
     "languages": [
@@ -4540,9 +4558,9 @@
       ]
     },
     "languages": [
-      "pol"
+      "eng"
     ],
-    "country": "pl",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -4691,8 +4709,8 @@
     "name": "Radio Leipzig - 90er XXL",
     "sources": {
       "streams": [
-        "https://streaming.radioleipzig.de/radio-leipzig_90er_192k_mp3",
-        "https://streams.bcs-systems.de/slp/90er/leipzig/mp3/web/playlist.m3u"
+        "https://streams.bcs-systems.de/slp/90er/leipzig/mp3/web/playlist.m3u",
+        "https://streaming.radioleipzig.de/radio-leipzig_90er_192k_mp3"
       ]
     },
     "languages": [
@@ -4861,7 +4879,7 @@
     "name": "Radio PSR - 90er",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-psr90er3200690-mp3-192-1068091?sABC=6ns8o8o7%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794685111",
+        "https://regiocast.streamabc.net/regc-psr90er3200690-mp3-192-1068091?sABC=6nso0r23%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794838051",
         "https://streams.radiopsr.de/psr-90er/aac-64/streams.radiopsr.de",
         "https://streams.radiopsr.de/psr-90er/mp3-192/www.radio-browser.info/play.m3u8"
       ]
@@ -4877,7 +4895,7 @@
     "name": "Radio PSR - 90er Dance",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-psr90erdance2408061-mp3-192-9728950?sABC=6ns8n87r%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794680958"
+        "https://regiocast.streamabc.net/regc-psr90erdance2408061-mp3-192-9728950?sABC=6nso23p4%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794843588"
       ]
     },
     "languages": [
@@ -5005,8 +5023,8 @@
     "sources": {
       "streams": [
         "https://stream.radiosaw.de/saw-90er/mp3-192/radio-browser",
-        "https://stream.saw-musikwelt.de/saw-90er/mp3-128/radio-browser/stream.mp3",
-        "https://stream.saw-musikwelt.de/saw-90er/stream.mp3"
+        "https://stream.saw-musikwelt.de/saw-90er/stream.mp3",
+        "https://stream.saw-musikwelt.de/saw-90er/mp3-128/radio-browser/stream.mp3"
       ]
     },
     "languages": [
@@ -5248,8 +5266,8 @@
     "name": "RauteMusik Goldies",
     "sources": {
       "streams": [
-        "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies",
         "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies",
+        "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies",
         "https://goldies-high.rautemusik.fm/"
       ]
     },
@@ -5264,8 +5282,8 @@
     "name": "RauteMusik Main",
     "sources": {
       "streams": [
-        "https://main-high.rautemusik.fm/",
         "https://rautemusik-de-hz-fal-stream12.radiohost.de/main",
+        "https://main-high.rautemusik.fm/",
         "https://rautemusik-de-hz-fal-stream11.radiohost.de/main_aacp"
       ]
     },
@@ -5889,8 +5907,8 @@
     "name": "Stereo Cien",
     "sources": {
       "streams": [
-        "https://29321.live.streamtheworld.com/XHMMFMAAC_SC",
-        "https://26303.live.streamtheworld.com/XHMMFMAAC_SC"
+        "https://15313.live.streamtheworld.com/XHMMFMAAC_SC",
+        "https://29308.live.streamtheworld.com/XHMMFMAAC_SC"
       ]
     },
     "languages": [

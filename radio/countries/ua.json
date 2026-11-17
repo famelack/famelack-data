@@ -128,36 +128,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ap08MN2XWymZwq",
-    "name": "Fresh Rock",
-    "sources": {
-      "streams": [
-        "https://stream.freshrock.net/24.aac",
-        "https://stream.freshrock.net/320.mp3",
-        "https://stream.freshrock.net/128.mp3"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c961KiMnKFs4wn",
-    "name": "Fress FM",
-    "sources": {
-      "streams": [
-        "https://streaming.fressfm.com:11185/stream"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d65bPtAOlSdVVa",
     "name": "Kharkiv Surf Rock",
     "sources": {
@@ -874,8 +844,8 @@
     "sources": {
       "streams": [
         "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3",
-        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a",
-        "https://iceantstats.eclipse-streaming.co.za/TWR-ukraine.mp3"
+        "https://iceantstats.eclipse-streaming.co.za/TWR-ukraine.mp3",
+        "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a"
       ]
     },
     "languages": [
@@ -889,8 +859,8 @@
     "name": "True Black Metal Radio",
     "sources": {
       "streams": [
-        "https://trueblackmetalradio.com:8000/radio",
-        "https://trueblackmetalradio.com:666/radio"
+        "https://trueblackmetalradio.com:666/radio",
+        "https://trueblackmetalradio.com:8000/radio"
       ]
     },
     "languages": [
@@ -975,8 +945,8 @@
     "name": "Бліц-FM (Blitz FM)",
     "sources": {
       "streams": [
-        "https://stream.blits-fm.ua/aac32",
-        "https://stream.blits-fm.ua/stream64"
+        "https://stream.blits-fm.ua/stream64",
+        "https://stream.blits-fm.ua/aac32"
       ]
     },
     "languages": [
@@ -1117,8 +1087,8 @@
     "sources": {
       "streams": [
         "https://icecast.luxnet.ua/lux",
-        "https://icecastdc.luxnet.ua/lux_mp3_128",
-        "https://icecast.luxnet.ua/luxlviv"
+        "https://icecast.luxnet.ua/luxlviv",
+        "https://icecastdc.luxnet.ua/lux_mp3_128"
       ]
     },
     "languages": [
@@ -1698,20 +1668,6 @@
     "sources": {
       "streams": [
         "https://live.radio1.com.ua/liveradio64"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WfufwHn8228wZR",
-    "name": "Радіо ПТРК",
-    "sources": {
-      "streams": [
-        "https://service.ptrk.tv:8443/PTRK"
       ]
     },
     "languages": [

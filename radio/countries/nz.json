@@ -218,8 +218,8 @@
     "name": "Coast Access Radio 104.7 FM",
     "sources": {
       "streams": [
-        "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8",
-        "https://live.accessmedia.nz/Coast.stream/playlist.m3u8"
+        "https://live.accessmedia.nz/Coast.stream/playlist.m3u8",
+        "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8"
       ]
     },
     "languages": [
@@ -728,8 +728,8 @@
     "name": "Plains FM 96.9",
     "sources": {
       "streams": [
-        "https://live.accessmedia.nz/plains.stream/playlist.m3u8",
-        "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8"
+        "https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
+        "https://live.accessmedia.nz/plains.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1114,21 +1114,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AaCLBdt11EFHnR",
-    "name": "SayHiFM",
-    "sources": {
-      "streams": [
-        "https://play.radioking.io/sayhifm"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tgl"
     ],
     "country": "nz",
     "isGeoBlocked": false

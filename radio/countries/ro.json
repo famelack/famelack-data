@@ -2423,6 +2423,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bD306nrtbdBAy4",
+    "name": "Radio Romanian Dance",
+    "sources": {
+      "streams": [
+        "https://asculta.radioromanian.net:8100/;"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2AmMtbh08yMMnS",
     "name": "Radio Romantic",
     "sources": {
@@ -3017,8 +3031,8 @@
     "name": "Radio Turda",
     "sources": {
       "streams": [
-        "https://live.aftech.ro/listen/radio_turda/radio.mp3",
-        "https://live.aftech.ro/radio/8010/radio.mp3"
+        "https://live.aftech.ro/radio/8010/radio.mp3",
+        "https://live.aftech.ro/listen/radio_turda/radio.mp3"
       ]
     },
     "languages": [
@@ -3511,21 +3525,8 @@
     "name": "Space FM Dance",
     "sources": {
       "streams": [
+        "https://spacefm.live/listen/spacefm_romania/spacefm192",
         "https://spacefm.live/radio/8000/spacefm128"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BsFy6XXnF7FwdK",
-    "name": "SpaceFM Dance",
-    "sources": {
-      "streams": [
-        "https://spacefm.live/listen/spacefm_romania/spacefm192"
       ]
     },
     "languages": [
@@ -3567,8 +3568,8 @@
     "name": "Sport Total FM",
     "sources": {
       "streams": [
-        "https://livesptfm.com/SPTFM/Live/chunklist.m3u8",
-        "https://livesptfm.com/SPTFM/Live/playlist.m3u8"
+        "https://livesptfm.com/SPTFM/Live/playlist.m3u8",
+        "https://livesptfm.com/SPTFM/Live/chunklist.m3u8"
       ]
     },
     "languages": [

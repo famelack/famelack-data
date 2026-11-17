@@ -187,6 +187,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BJRsGuXBvxeXUn",
+    "name": "Radio Aranduka 87.9 FM",
+    "sources": {
+      "streams": [
+        "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+        "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gI5zcm2dLzpzhM",
     "name": "Radio Aspen 102.7 FM",
     "sources": {
@@ -273,20 +288,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CZugHQCCCSnMWO",
-    "name": "Radio Mix 90.1 FM",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vDsXy8hCCki9eH",
     "name": "Radio Monumental 1080 AM",
     "sources": {
@@ -349,8 +350,8 @@
     "name": "Radio Vibras 92.7 FM",
     "sources": {
       "streams": [
-        "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8",
-        "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
+        "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
+        "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8"
       ]
     },
     "languages": [

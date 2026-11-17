@@ -259,8 +259,8 @@
     "name": "Kontakt Radio",
     "sources": {
       "streams": [
-        "https://mojstream.eu:8114/kontaktradio",
-        "https://s1.mojstream.eu:8114/;"
+        "https://s1.mojstream.eu:8114/;",
+        "https://mojstream.eu:8114/kontaktradio"
       ]
     },
     "languages": [
@@ -1292,6 +1292,20 @@
     },
     "languages": [
       "hrv"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f5aeOmU9rFryU4",
+    "name": "RadiYo Active",
+    "sources": {
+      "streams": [
+        "https://activezenica.radiokitstream.org/activezenica.mp3"
+      ]
+    },
+    "languages": [
+      "bos"
     ],
     "country": "ba",
     "isGeoBlocked": false

@@ -4,8 +4,8 @@
     "name": "Anti Radio",
     "sources": {
       "streams": [
-        "https://stream.antiradio.net/radio/8000/mp3",
-        "https://stream.antiradio.net/listen/anti_radio/mp3"
+        "https://stream.antiradio.net/listen/anti_radio/mp3",
+        "https://stream.antiradio.net/radio/8000/mp3"
       ]
     },
     "languages": [
@@ -138,23 +138,10 @@
   },
   {
     "nanoid": "1l91hqh7JwA2Qw",
-    "name": "Ictimai Radio 90 FM",
-    "sources": {
-      "streams": [
-        "https://stream.itv.az/rtmp:/radio/chunks.m3u8"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MjE9NEzoK7dkDb",
     "name": "İctimai Radio 90 FM",
     "sources": {
       "streams": [
+        "https://stream.itv.az/rtmp:/radio/chunks.m3u8",
         "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
       ]
     },

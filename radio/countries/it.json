@@ -146,8 +146,8 @@
     "name": "AFN Aviano",
     "sources": {
       "streams": [
+        "https://28563.live.streamtheworld.com/AFNE_AVN_SC",
         "https://25453.live.streamtheworld.com/AFNE_AVN_SC",
-        "https://27913.live.streamtheworld.com/AFNE_AVN_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVN_SC"
       ]
     },
@@ -162,8 +162,8 @@
     "name": "AFN Naples",
     "sources": {
       "streams": [
-        "https://28503.live.streamtheworld.com/AFNE_NAP_SC",
         "https://25443.live.streamtheworld.com/AFNE_NAP_SC",
+        "https://25703.live.streamtheworld.com/AFNE_NAP_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_NAP_SC"
       ]
     },
@@ -178,7 +178,7 @@
     "name": "AFN Sigonella",
     "sources": {
       "streams": [
-        "https://28513.live.streamtheworld.com/AFNE_SIG_SC",
+        "https://23543.live.streamtheworld.com/AFNE_SIG_SC",
         "https://25633.live.streamtheworld.com/AFNE_SIG_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SIG_SC"
       ]
@@ -194,8 +194,8 @@
     "name": "AFN Vicenza",
     "sources": {
       "streams": [
-        "https://29053.live.streamtheworld.com/AFNE_VIC_SC",
-        "https://25633.live.streamtheworld.com/AFNE_VIC_SC",
+        "https://28513.live.streamtheworld.com/AFNE_VIC_SC",
+        "https://22653.live.streamtheworld.com/AFNE_VIC_SC",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_VIC_SC"
       ]
     },
@@ -224,8 +224,8 @@
     "name": "Antennaweb Radio",
     "sources": {
       "streams": [
-        "https://mars.streamerr.co/8066/stream",
-        "https://italiavera.radioca.st/stream"
+        "https://italiavera.radioca.st/stream",
+        "https://mars.streamerr.co/8066/stream"
       ]
     },
     "languages": [
@@ -949,8 +949,8 @@
     "name": "Gargano FM",
     "sources": {
       "streams": [
-        "https://onlineradiobox.com/json/it/gargano/play",
-        "https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio"
+        "https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio",
+        "https://onlineradiobox.com/json/it/gargano/play"
       ]
     },
     "languages": [
@@ -1913,8 +1913,8 @@
     "name": "R101",
     "sources": {
       "streams": [
-        "https://icecast.unitedradio.it/r101",
         "https://icecast.unitedradio.it/r101_mp3",
+        "https://icecast.unitedradio.it/r101",
         "https://icy.unitedradio.it/R101_558.aac"
       ]
     },
@@ -3370,6 +3370,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CAqJC64vl0E1yt",
+    "name": "Radio Centrale",
+    "sources": {
+      "streams": [
+        "https://s1.forstream.it:8070/radiocentrale.mp3"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGYdaue7TifuiX",
     "name": "Radio Centrale Cesena",
     "sources": {
@@ -4007,6 +4021,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NexuhecFVjdMWG",
+    "name": "Radio Fiesta",
+    "sources": {
+      "streams": [
+        "https://stream9.xdevel.com/audio0s976413-1194/stream/icecast.audio"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "W3cSEuak54QsIq",
     "name": "Radio Firenze",
     "sources": {
@@ -4409,8 +4437,8 @@
     "name": "Radio Italia Anni 60",
     "sources": {
       "streams": [
-        "https://str01.fluidstream.net/anni60.mp3",
-        "https://icy.unitedradio.it/um014.mp3"
+        "https://icy.unitedradio.it/um014.mp3",
+        "https://str01.fluidstream.net/anni60.mp3"
       ]
     },
     "languages": [
@@ -4594,8 +4622,8 @@
     "name": "Radio Italia solomusicaitaliana",
     "sources": {
       "streams": [
-        "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8",
-        "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8"
+        "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+        "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8"
       ]
     },
     "languages": [
@@ -5388,8 +5416,8 @@
     "sources": {
       "streams": [
         "https://giffard.streampunk.cc/_stream/merdamalata.ogg",
-        "https://s.streampunk.cc/_stream/merdamalata.mp3",
-        "https://s.streampunk.cc/merdamalata.ogg"
+        "https://s.streampunk.cc/merdamalata.ogg",
+        "https://s.streampunk.cc/_stream/merdamalata.mp3"
       ]
     },
     "languages": [
@@ -6437,8 +6465,8 @@
     "name": "Radio Rouge",
     "sources": {
       "streams": [
-        "https://nl1.streamingpulse.com/ssl/radiorougeitaly",
-        "https://nl1.streamingpulse.com/ssl/radiorouge993"
+        "https://nl1.streamingpulse.com/ssl/radiorouge993",
+        "https://nl1.streamingpulse.com/ssl/radiorougeitaly"
       ]
     },
     "languages": [
@@ -6495,6 +6523,20 @@
     "sources": {
       "streams": [
         "https://screaming.radioscreamitalia.it/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "obc2bRlHGmHXgY",
+    "name": "Radio Sei",
+    "sources": {
+      "streams": [
+        "https://icecast.ithost.it/radiosei.ogg"
       ]
     },
     "languages": [
@@ -6835,8 +6877,8 @@
     "name": "Radio Studio Nord Rock Cafè",
     "sources": {
       "streams": [
-        "https://nr6.newradio.it:19363/;",
-        "https://nr6.newradio.it:19363/listen.pls/"
+        "https://nr6.newradio.it:19363/listen.pls/",
+        "https://nr6.newradio.it:19363/;"
       ]
     },
     "languages": [
@@ -7265,8 +7307,8 @@
     "name": "Radio WoW",
     "sources": {
       "streams": [
-        "https://ice10.fluidstream.net/fluid_wow.aac",
-        "https://sphera.fluidstream.eu/fluid_wow.aac"
+        "https://sphera.fluidstream.eu/fluid_wow.aac",
+        "https://ice10.fluidstream.net/fluid_wow.aac"
       ]
     },
     "languages": [
@@ -7385,6 +7427,21 @@
     },
     "languages": [
       "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ck6fWxrG8EQMFD",
+    "name": "Radiolina",
+    "sources": {
+      "streams": [
+        "https://streaming.shoutcast.com/radiolina"
+      ]
+    },
+    "languages": [
+      "ita",
+      "srd"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -7773,8 +7830,8 @@
     "sources": {
       "streams": [
         "https://icstream.rds.radio/rds64k",
-        "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8",
-        "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8"
+        "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8",
+        "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8"
       ]
     },
     "languages": [
@@ -7803,8 +7860,8 @@
     "sources": {
       "streams": [
         "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
-        "https://icstream.rds.radio/rdsrelax",
-        "https://icstream.rds.radio/DS2"
+        "https://icstream.rds.radio/DS2",
+        "https://icstream.rds.radio/rdsrelax"
       ]
     },
     "languages": [
@@ -7847,6 +7904,20 @@
     "sources": {
       "streams": [
         "https://reteradioazzurra.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIg9FyDaYdQIwr",
+    "name": "Rete Sport",
+    "sources": {
+      "streams": [
+        "https://icecast.ithost.it/retesport.ogg"
       ]
     },
     "languages": [
@@ -8045,8 +8116,8 @@
     "name": "Rocket Radio",
     "sources": {
       "streams": [
-        "https://n05.radiojar.com/nvvyes7gud5tv",
-        "https://stream.radiojar.com/nvvyes7gud5tv"
+        "https://stream.radiojar.com/nvvyes7gud5tv",
+        "https://n05.radiojar.com/nvvyes7gud5tv"
       ]
     },
     "languages": [
@@ -9185,8 +9256,8 @@
     "name": "White Radio",
     "sources": {
       "streams": [
-        "https://streaming.gheri.it:8020/;",
-        "https://streaming.gheri.it:8020/radio.mp3"
+        "https://streaming.gheri.it:8020/radio.mp3",
+        "https://streaming.gheri.it:8020/;"
       ]
     },
     "languages": [

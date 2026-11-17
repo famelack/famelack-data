@@ -259,8 +259,8 @@
     "name": "RTHK Radio 1",
     "sources": {
       "streams": [
-        "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",
         "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
+        "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",
         "https://stm1.rthk.hk/radio1"
       ]
     },
@@ -289,9 +289,9 @@
     "name": "RTHK Radio 2",
     "sources": {
       "streams": [
-        "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8",
         "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
-        "https://stm2.rthk.hk/radio2"
+        "https://stm2.rthk.hk/radio2",
+        "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8"
       ]
     },
     "languages": [
@@ -319,9 +319,9 @@
     "name": "RTHK Radio 3",
     "sources": {
       "streams": [
-        "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
         "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8",
-        "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8"
+        "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8",
+        "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8"
       ]
     },
     "languages": [
@@ -381,9 +381,9 @@
     "name": "RTHK Radio 5",
     "sources": {
       "streams": [
-        "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8",
         "https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8",
-        "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8"
+        "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+        "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8"
       ]
     },
     "languages": [
