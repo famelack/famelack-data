@@ -82,7 +82,7 @@
     "name": "A Para",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/00ou6964CYI"
+        "https://www.youtube-nocookie.com/embed/e4aknqwzqPw"
       ]
     },
     "languages": [
@@ -512,20 +512,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5ZXjzA9WC4UY7k",
-    "name": "Çocuklar Duymasın",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/g7oVIIevRMk"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GcJmEq9rilBOie",
     "name": "Deniz Postasi TV",
     "sources": {
@@ -645,7 +631,7 @@
     "name": "EKOTÜRK TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N0B9T8T-yyM"
+        "https://www.youtube-nocookie.com/embed/Sxkj7OuMj-Y"
       ]
     },
     "languages": [
@@ -1527,20 +1513,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rXzETOXt9hjdyU",
-    "name": "NOW",
-    "sources": {
-      "streams": [
-        "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9sOGMCEeuzj6PV",
     "name": "NTV",
     "sources": {
@@ -1970,9 +1942,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/EX2SjLd6J5Q"
       ]
     },
     "languages": [
@@ -2008,6 +1977,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bzh3LBtnY69p4n",
+    "name": "TRT 2",
+    "sources": {
+      "streams": [
+        "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Tsl1TXkC1cdSTl",
@@ -2081,6 +2064,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "owJJC4tX2SQL4u",
     "name": "TRT Haber",
     "sources": {
@@ -2146,8 +2143,8 @@
     "name": "TRT World",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
         "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
         "https://cdn.pishow.tv/ott/live/266/master.m3u8"
       ],
       "youtube": [

@@ -224,6 +224,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IUX8TFnb9XiEJu",
+    "name": "AVA Media",
+    "sources": {
+      "streams": [
+        "https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I677KvGkPDPSil",
     "name": "Avar TV",
     "sources": {
@@ -266,21 +280,6 @@
       "ara",
       "eng",
       "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MIpBDCxySOyKyM",
-    "name": "Dijlah TV",
-    "sources": {
-      "streams": [
-        "https://ghaasiflu.online/Dijlah/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "eng"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -452,20 +451,6 @@
     "sources": {
       "streams": [
         "https://vmi747311.contaboserver.net/hls/livetv.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zm44xwiDL9fsin",
-    "name": "Marjaeyat TV Arabic",
-    "sources": {
-      "streams": [
-        "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8"
       ]
     },
     "languages": [
