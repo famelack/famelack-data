@@ -641,8 +641,7 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       ]
     },
     "languages": [
@@ -665,6 +664,20 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Pckvfd0U1p60iP",
+    "name": "Ciudades del Ocio TV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8024/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Dc4FxqftW4YwtA",
@@ -888,6 +901,18 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awUBqlQNui5V6X",
+    "name": "Estilo y Vida",
+    "sources": {
+      "streams": [
+        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1171,6 +1196,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "sources": {
+      "streams": [
+        "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vc83h8nvdBt03n",
     "name": "Love The Planet English",
     "sources": {
@@ -1439,6 +1476,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "79RGODupZW3p8n",
+    "name": "Radio Carnaval TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8116/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5yu8uNtNIpaTKc",
     "name": "Radio Television Marbella",
     "sources": {
@@ -1477,11 +1528,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
+    "nanoid": "azCmZT5s8W62Ny",
+    "name": "Rakuten TV Romance Movies Spain",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+        "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
       ]
     },
     "languages": [],
@@ -1596,6 +1647,21 @@
       ]
     },
     "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAur6WI03rCzWr",
+    "name": "SpektraTV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "es",

@@ -5,6 +5,9 @@
     "sources": {
       "streams": [
         "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8AisZ5MGwlU"
       ]
     },
     "languages": [
@@ -434,6 +437,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0KHOlcS3CSZQO6",
+    "name": "JapanimTV",
+    "sources": {
+      "streams": [
+        "https://foxkidstv.be:3369/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KFX8r91Rf69oJB",
     "name": "Kapitan Bomba",
     "sources": {
@@ -636,7 +653,7 @@
     "name": "PJ Masks Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1Ejk-E1IQnM"
+        "https://www.youtube-nocookie.com/embed/oSpqL7oLvxk"
       ]
     },
     "languages": [
@@ -714,20 +731,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/MtfnsWIGUIU"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {

@@ -18,7 +18,8 @@
     "name": "Ayaz TV",
     "sources": {
       "streams": [
-        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8",
+        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8"
       ]
     },
     "languages": [
@@ -32,6 +33,7 @@
     "name": "Az TV",
     "sources": {
       "streams": [
+        "https://operativmm.az/tvs/az/stream9/index.m3u8",
         "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -68,6 +70,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ydO55kThx80zKP",
+    "name": "Baku TV",
+    "sources": {
+      "streams": [
+        "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n8aV4qPr7267ok",
     "name": "Baku.TV",
     "sources": {
@@ -75,7 +89,7 @@
         "https://rtmp.baku.tv/hls/bakutv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VNVmwYjiKDs"
+        "https://www.youtube-nocookie.com/embed/D9dOj5A0pKo"
       ]
     },
     "languages": [

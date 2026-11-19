@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lMUlcN7Dxmh2r1",
-    "name": "ABC 5 Boston MA (WCVB)",
-    "sources": {
-      "streams": [
-        "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "34gREsfRVEOJ6z",
     "name": "All Reality by WE tv",
     "sources": {
@@ -74,7 +60,6 @@
     "name": "Always Funny Videos",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8",
         "https://d24l3uppudokci.cloudfront.net/playlist.m3u8"
       ]
     },
@@ -103,7 +88,6 @@
     "name": "Anger Management Channel",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
         "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
       ]
     },
@@ -118,9 +102,9 @@
     "name": "Are We There Yet?",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8",
         "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
       ]
     },
     "languages": [
@@ -177,9 +161,9 @@
     "name": "Baywatch US",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8",
         "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
-        "https://baywatch-xumo.amagi.tv/playlist.m3u8"
+        "https://baywatch-xumo.amagi.tv/playlist.m3u8",
+        "https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8"
       ]
     },
     "languages": [
@@ -246,20 +230,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -321,9 +291,9 @@
     "name": "Deal or No Deal",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/65eef95b-7b52-42be-8b08-faa459153ed9/playlist.m3u8",
         "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8",
-        "https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8"
+        "https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8",
+        "https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -524,8 +494,8 @@
     "name": "Fear Factor US",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8",
         "https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8",
+        "https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8",
         "https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8"
       ]
     },
@@ -631,6 +601,7 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -640,20 +611,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "F09oBavECO18ZL",
-    "name": "Johnny Carson TV",
-    "sources": {
-      "streams": [
-        "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "8Sy3wSrKI5zIqF",
@@ -772,7 +729,6 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
         "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
       ]
     },
@@ -817,9 +773,9 @@
     "name": "Nosey US",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/f111d6c2-02bf-45fb-9a90-2e55b18d9f70/playlist.m3u8",
         "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8",
+        "https://samsungau-nosey-intl-1-samsungau-50d5x.amagi.tv/playlist/samsungau-nosey-intl-1-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
@@ -946,6 +902,21 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "DPVRFD3T4IAzai",
+    "name": "Sci Fi",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/sci-fi.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "R193ToXFYYRnV4",
@@ -1315,6 +1286,20 @@
       "rus"
     ],
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jgnDMGs6YwBwIs",
+    "name": "Viva Telenovelas",
+    "sources": {
+      "streams": [
+        "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
     "isGeoBlocked": false
   },
   {

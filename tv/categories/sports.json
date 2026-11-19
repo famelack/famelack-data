@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t6PCF2kvsvMDhP",
+    "name": "5Max",
+    "sources": {
+      "streams": [
+        "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KlLY27uzQ3F3g8",
     "name": "5Plus",
     "sources": {
@@ -92,7 +106,7 @@
         "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/U4psHiEhciE"
+        "https://www.youtube-nocookie.com/embed/DwFLd1Mg0eE"
       ]
     },
     "languages": [
@@ -246,20 +260,6 @@
       "swe"
     ],
     "country": "se",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "L4rlrnY8qxe1Zl",
-    "name": "Azteca Deportes Network",
-    "sources": {
-      "streams": [
-        "https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -817,8 +817,8 @@
     "name": "FON TV",
     "sources": {
       "streams": [
-        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
-        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8"
+        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
+        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -847,6 +847,20 @@
     "sources": {
       "streams": [
         "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c9lHBV63rH2gmu",
+    "name": "Formula Academy AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8"
       ]
     },
     "languages": [
@@ -953,20 +967,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "zSqcM4N6tJjo6K",
-    "name": "Futbol TV",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -1197,6 +1197,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GVTfU86YlWYBhq",
+    "name": "Lazio Style Channel",
+    "sources": {
+      "streams": [
+        "https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hQwO2hX6QgN3n6",
     "name": "M Sports",
     "sources": {
@@ -1245,7 +1259,6 @@
     "name": "MLB",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8",
         "https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8"
       ]
     },
@@ -1403,7 +1416,6 @@
     "name": "NHRA TV",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8",
         "https://d265y4sk8257lt.cloudfront.net/nh.m3u8"
       ]
     },
@@ -1426,6 +1438,20 @@
       "eng"
     ],
     "country": "om",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fj8CbrX1zlNIod",
+    "name": "One 2",
+    "sources": {
+      "streams": [
+        "https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "heb"
+    ],
+    "country": "il",
     "isGeoBlocked": false
   },
   {
@@ -1461,6 +1487,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1497,6 +1524,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "SG9Ve3JSbgUv0y",
+    "name": "Pickleball Now",
+    "sources": {
+      "streams": [
+        "https://distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
     "isGeoBlocked": true
   },
   {
@@ -1948,7 +1989,6 @@
     "name": "Stadium",
     "sources": {
       "streams": [
-        "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8",
         "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8"
       ]
     },
@@ -2050,8 +2090,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [

@@ -87,20 +87,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wgCHFkD8F6PNpc",
-    "name": "Astha TV",
-    "sources": {
-      "streams": [
-        "https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJjt1kMM9xV6J0",
     "name": "Astro Blitar TV",
     "sources": {
@@ -339,20 +325,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hae4Rh59QFhZLW",
-    "name": "I Am Channel",
-    "sources": {
-      "streams": [
-        "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4XTEtIon4adh6d",
     "name": "Indonesiana.TV",
     "sources": {
@@ -372,6 +344,20 @@
     "sources": {
       "streams": [
         "https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
       ]
     },
     "languages": [
@@ -539,9 +525,6 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
-      "streams": [
-        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/tiIOHgDI3Ow"
       ]
@@ -628,34 +611,6 @@
     "sources": {
       "streams": [
         "https://pujatv.siar.us/live/pujatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ha2zWLoq5d13uY",
-    "name": "Radar Lampung TV",
-    "sources": {
-      "streams": [
-        "https://www.streaming.radartv.co.id/hls/test.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3v2UZx2WqrnRDM",
-    "name": "Radar Tasikmalaya TV",
-    "sources": {
-      "streams": [
-        "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
       ]
     },
     "languages": [
