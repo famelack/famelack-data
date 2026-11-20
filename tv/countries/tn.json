@@ -1,5 +1,35 @@
 [
   {
+    "nanoid": "lDxRAC8VIZPSTr",
+    "name": "El Watania 1",
+    "sources": {
+      "streams": [
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR",
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "tn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4B3FCVdFtbVK3X",
+    "name": "El Watania 2",
+    "sources": {
+      "streams": [
+        "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "tn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WF7F3udkjEQj6D",
     "name": "Elyssa TV",
     "sources": {
@@ -46,7 +76,7 @@
     "name": "Watania2 Replay",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b6YvvYrIfRo"
+        "https://www.youtube-nocookie.com/embed/3m-vlfm_uiY"
       ]
     },
     "languages": [

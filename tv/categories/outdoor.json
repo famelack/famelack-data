@@ -286,6 +286,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "8oGSgOh8Xrsu3u",
+    "name": "Moya Planeta",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7So41AwRHhgiOh",
     "name": "Nasha Tema",
     "sources": {
@@ -523,7 +537,8 @@
     "name": "Red Bull TV US",
     "sources": {
       "streams": [
-        "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
+        "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+        "https://freqsyndlin.redbull.com/644/vizio/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -651,7 +666,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8",
-        "https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8",
+        "https://amg00381-waypointcommuni-waypointtv-vizious-v9qqa.amagi.tv/playlist/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8",
         "https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8"
       ]
     },

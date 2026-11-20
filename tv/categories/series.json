@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "34gREsfRVEOJ6z",
-    "name": "All Reality by WE tv",
+    "nanoid": "yyjBAswQtNyvfr",
+    "name": "50 Cent Action",
     "sources": {
       "streams": [
-        "https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8"
+        "https://amg00353-amg00353c49-vizio-us-7989.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +56,28 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "6DT2CZ9jL47ilp",
+    "name": "A&E Duck Dynasty",
+    "sources": {
+      "streams": [
+        "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00276-amg00276c2-vizio-us-4044.playouts.now.amagi.tv/playlist.m3u8",
+        "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "mDm8G0VbiW7Zb2",
     "name": "Always Funny Videos",
     "sources": {
       "streams": [
-        "https://d24l3uppudokci.cloudfront.net/playlist.m3u8"
+        "https://d24l3uppudokci.cloudfront.net/playlist.m3u8",
+        "https://linear-12.frequency.stream/mt/vizio/12/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -88,6 +105,7 @@
     "name": "Anger Management Channel",
     "sources": {
       "streams": [
+        "https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8",
         "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
       ]
     },
@@ -102,9 +120,9 @@
     "name": "Are We There Yet?",
     "sources": {
       "streams": [
+        "https://amg00353-lionsgatestudio-arewethereyet-vizious-1b2pj.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-vizious/playlist.m3u8",
         "https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -112,21 +130,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "dWew6qx5gHEn1X",
-    "name": "At Home with Family Handyman",
-    "sources": {
-      "streams": [
-        "https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8",
-        "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "2FlUnahRPoXRU8",
@@ -162,8 +165,8 @@
     "sources": {
       "streams": [
         "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8",
-        "https://baywatch-xumo.amagi.tv/playlist.m3u8",
-        "https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8"
+        "https://amg00145-buzzr-bigballs-baywatch-vizious-ky2ls.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-vizious/playlist.m3u8",
+        "https://baywatch-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -171,6 +174,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Q7Ufv0saz087CP",
+    "name": "BBC Drama Classics",
+    "sources": {
+      "streams": [
+        "https://linear-938.frequency.stream/mt/vizio/938/hls/master/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ByVhPHhbBMgsJX",
@@ -230,6 +247,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CZ0c6ZasjBnZ4w",
+    "name": "City Eden TeleNovella",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -249,6 +294,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8",
+        "https://amg00276-amg00276c3-vizio-us-4063.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8"
       ]
     },
@@ -294,6 +340,20 @@
         "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8",
         "https://pb-gnznqq6l66wre.akamaized.net/Deal_or_No_Deal.m3u8",
         "https://amg00627-amg00627c21-samsung-gb-3869.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "PGXRaaEsfzzpW0",
+    "name": "Degrassi US",
+    "sources": {
+      "streams": [
+        "https://amg01927-amg01927c6-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg01927-amg01927c6-amgplt0022/playlist.m3u8"
       ]
     },
     "languages": [
@@ -365,6 +425,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8",
+        "https://amg00276-amg00276c10-vizio-us-4062.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8"
       ]
     },
@@ -376,9 +437,10 @@
   },
   {
     "nanoid": "BtGcx9v6eZu6vK",
-    "name": "Dog Whisperer UK",
+    "name": "Dog Whisperer with Cesar Millan",
     "sources": {
       "streams": [
+        "https://amg01201-amg01201c30-vizio-us-4216.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
       ]
     },
@@ -414,21 +476,6 @@
     "languages": [],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6DT2CZ9jL47ilp",
-    "name": "Duck Dynasty UK",
-    "sources": {
-      "streams": [
-        "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8",
-        "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "cesmFf1AKT7Tqh",
@@ -495,15 +542,15 @@
     "sources": {
       "streams": [
         "https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8",
-        "https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8",
-        "https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8"
+        "https://d2y1l0qikd751h.cloudfront.net/Fear_Factor.m3u8",
+        "https://amg00627-banijaygroup-fearfactor-samsungnz-zhrro.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "0r210a3FA40XwI",
@@ -539,9 +586,9 @@
     "name": "Ghost Hunters UK",
     "sources": {
       "streams": [
+        "https://amg00353-amg00353c18-vizio-us-2661.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-vizious/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8",
-        "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8"
       ]
     },
     "languages": [
@@ -556,7 +603,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
-        "https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8",
+        "https://amg00346-vizioinc-haunttvus-vizio-vizious-gczvd.amagi.tv/playlist/amg00346-vizioinc-haunttvus-vizio-vizious/playlist.m3u8",
         "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8"
       ]
     },
@@ -564,7 +611,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "X0zblbZ45u2Fyw",
@@ -583,18 +630,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "Vtr3HBEloexH0v",
-    "name": "Home.Made.Nation",
+    "nanoid": "1LJEoPMXFF83Xa",
+    "name": "HerSphere",
     "sources": {
       "streams": [
-        "https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+        "https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "9IlfLSM7VoPFbk",
@@ -610,6 +657,34 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "F09oBavECO18ZL",
+    "name": "Johnny Carson TV",
+    "sources": {
+      "streams": [
+        "https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n7QKwp4Sh9Xd5y",
+    "name": "Judge Faith",
+    "sources": {
+      "streams": [
+        "https://amg18477-mycode-amg18477c1-vizio-us-9644.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": true
   },
   {
@@ -653,6 +728,20 @@
     ],
     "country": "pe",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmgTKPCj7l8lir",
+    "name": "Love Thy Neighbor",
+    "sources": {
+      "streams": [
+        "https://amg00353-amg00353c48-vizio-us-8534.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "YTibXODPOUAgaa",
@@ -759,6 +848,7 @@
     "name": "Nash Bridges",
     "sources": {
       "streams": [
+        "https://amg00353-amg00353c35-vizio-us-8780.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
@@ -773,16 +863,16 @@
     "name": "Nosey US",
     "sources": {
       "streams": [
+        "https://amg00514-amg00514c7-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
         "https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8",
-        "https://samsungau-nosey-intl-1-samsungau-50d5x.amagi.tv/playlist/samsungau-nosey-intl-1-samsungau/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "fvdk4Kaaoqz9LQ",
@@ -803,6 +893,7 @@
     "name": "On Patrol: Live",
     "sources": {
       "streams": [
+        "https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8"
       ]
     },
@@ -818,7 +909,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8",
-        "https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8",
+        "https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8",
         "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
       ]
     },
@@ -965,7 +1056,8 @@
     "name": "Smotrim 100% Lyubov",
     "sources": {
       "streams": [
-        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
+        "https://stream.smotrim.ru/hls2/fasttv01/playlist_2.m3u8"
       ]
     },
     "languages": [
@@ -979,7 +1071,8 @@
     "name": "Smotrim 100% Muzhskoe",
     "sources": {
       "streams": [
-        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
+        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
+        "https://stream.smotrim.ru/hls2/fasttv02/playlist_3.m3u8"
       ]
     },
     "languages": [
@@ -1093,6 +1186,7 @@
     "name": "The Bob Ross Channel",
     "sources": {
       "streams": [
+        "https://wurlcineverse.global.transmit.live/hls/678863ef58870f59fceabf94/v1/cinedigm_entertainment_corp_thebobrosschannel_1/vizio_us/latest/main/hls/playlist.m3u8",
         "https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
@@ -1122,6 +1216,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8",
+        "https://amg00353-amg00353c36-vizio-us-4756.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1301,6 +1396,20 @@
     ],
     "country": "il",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phyUWnrvblkJpH",
+    "name": "Weeds & Nurse Jackie",
+    "sources": {
+      "streams": [
+        "https://amg00353-amg00353c38-vizio-us-10595.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "IQrnnNNldjOCl4",

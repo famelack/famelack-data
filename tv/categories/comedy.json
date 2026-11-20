@@ -32,6 +32,7 @@
     "name": "AFV",
     "sources": {
       "streams": [
+        "https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8",
         "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8"
       ]
     },
@@ -46,6 +47,7 @@
     "name": "Anger Management Channel",
     "sources": {
       "streams": [
+        "https://amg00346-vizioinc-angermgmtvizio-vizious-ju2sh.amagi.tv/playlist/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8",
         "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
       ]
     },
@@ -146,7 +148,8 @@
     "sources": {
       "streams": [
         "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8",
-        "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8"
+        "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8",
+        "https://linear-903.frequency.stream/mt/vizio/903/hls/master/playlist.m3u8"
       ]
     },
     "languages": [
@@ -240,6 +243,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FQSubtcfzFNlcS",
+    "name": "Kevin Hart's LOL! Network",
+    "sources": {
+      "streams": [
+        "https://amg00375-amg00375c14-vizio-us-9816.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "JUh78ibwjZjSWp",
+    "name": "Kinokomedija",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gw5BJTz0LOIeHh",
     "name": "KVN TV",
     "sources": {
@@ -266,6 +297,20 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pnZpx3JDwAuIsQ",
+    "name": "Laff More",
+    "sources": {
+      "streams": [
+        "https://amg01438-amg01438c45-vizio-us-9921.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "e8szC96ftGfIR5",
@@ -326,7 +371,7 @@
     "name": "Mystery Science Theater 3000",
     "sources": {
       "streams": [
-        "https://mst3k-vizio.amagi.tv/playlist.m3u8",
+        "https://vizioaaaa-mst3k-vizio-eclzp.amagi.tv/playlist/vizioAAAA-mst3k-vizio/playlist.m3u8",
         "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
       ]
     },
@@ -485,6 +530,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8",
+        "https://amg00353-amg00353c36-vizio-us-4756.playouts.now.amagi.tv/playlist.m3u8",
         "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },

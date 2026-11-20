@@ -91,8 +91,8 @@
     "sources": {
       "streams": [
         "https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/221/master.m3u8",
-        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+        "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/221/master.m3u8"
       ]
     },
     "languages": [
@@ -134,8 +134,8 @@
     "name": "Biz TV",
     "sources": {
       "streams": [
-        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+        "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+        "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -156,6 +156,20 @@
       "eng"
     ],
     "country": "tt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YZaEcuR5rA1yZv",
+    "name": "Canal Guapa",
+    "sources": {
+      "streams": [
+        "https://guapa-live.argosworkspace.com/guapa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -184,6 +198,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -264,6 +292,7 @@
     "name": "Domashnie Zhivotnye",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -278,6 +307,7 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
@@ -286,20 +316,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "IgIhtSlDnhWcsL",
-    "name": "El Futuro En tu Mano",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/755fCC36reQ"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "sNGgqsLaPmiNb6",
@@ -750,21 +766,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZFUAyI6f5T43PD",
-    "name": "Revry",
-    "sources": {
-      "streams": [
-        "https://d36jpyyja698yd.cloudfront.net/playlist.m3u8",
-        "https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NM4IM0OOuCrdjl",
     "name": "Revry Queer",
     "sources": {
@@ -855,6 +856,7 @@
     "name": "The Jamie Oliver Channel",
     "sources": {
       "streams": [
+        "https://amg01545-buzzfeedinc-jamieoliver-vizious-xqrpr.amagi.tv/playlist/amg01545-buzzfeedinc-jamieoliver-vizious/playlist.m3u8",
         "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
         "https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8"
       ]

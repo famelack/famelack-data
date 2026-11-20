@@ -214,8 +214,8 @@
     "name": "Bio Bio TV",
     "sources": {
       "streams": [
-        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
-        "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+        "https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -421,20 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Rk7MjjMU4jW3Hu",
-    "name": "Central TV",
-    "sources": {
-      "streams": [
-        "https://freya.mivideo.pro/centraltv/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eko7uFhNP2g6vo",
     "name": "Chile Channel",
     "sources": {
@@ -454,14 +440,14 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/umIl155zDRo"
+        "https://www.youtube-nocookie.com/embed/J_7O-KmEmz0"
       ]
     },
     "languages": [
       "spa"
     ],
     "country": "cl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "eDESw3Ox4wXwbn",
@@ -983,6 +969,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tjoXlhaA3QUOnH",
+    "name": "Juntos TV",
+    "sources": {
+      "streams": [
+        "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ho8Vr9RWEm8tw1",
     "name": "La Chilena TV",
     "sources": {
@@ -1156,7 +1156,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zGKIzoO6qDE"
+        "https://www.youtube-nocookie.com/embed/epAb_R1Dvc0"
       ]
     },
     "languages": [],
@@ -1267,6 +1267,20 @@
     "sources": {
       "streams": [
         "https://v2.tustreaming.cl/odiseatv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pBr1jh0mgnQFNt",
+    "name": "Oli TV",
+    "sources": {
+      "streams": [
+        "https://v4.tustreaming.cl/retroplaytv/index.m3u8"
       ]
     },
     "languages": [

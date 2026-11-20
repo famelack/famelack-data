@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pkHEX4Fdp34W0V",
+    "name": "ARB 24",
+    "sources": {
+      "streams": [
+        "https://operativmm.az/tvs/arb24/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UuxAvZJ7qbOfux",
     "name": "Ayaz TV",
     "sources": {
@@ -41,7 +55,7 @@
       "aze"
     ],
     "country": "az",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "BhIE684tnvCL5c",
@@ -51,9 +65,7 @@
         "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
       ]
     },
-    "languages": [
-      "aze"
-    ],
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -70,11 +82,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ydO55kThx80zKP",
-    "name": "Baku TV",
+    "nanoid": "j7RiToRAePH65U",
+    "name": "Azstar TV HD",
     "sources": {
       "streams": [
-        "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
+        "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -86,10 +98,11 @@
     "name": "Baku.TV",
     "sources": {
       "streams": [
-        "https://rtmp.baku.tv/hls/bakutv.m3u8"
+        "https://rtmp.baku.tv/hls/bakutv.m3u8",
+        "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/D9dOj5A0pKo"
+        "https://www.youtube-nocookie.com/embed/j2n_9aTpOn8"
       ]
     },
     "languages": [
@@ -103,7 +116,7 @@
     "name": "Biznes TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Oes5NZvQr88"
+        "https://www.youtube-nocookie.com/embed/Y8__-YCstH0"
       ]
     },
     "languages": [
@@ -195,6 +208,18 @@
     "languages": [
       "aze"
     ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RUdPhPK7LBkD8f",
+    "name": "Son Umid TV",
+    "sources": {
+      "streams": [
+        "https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   },

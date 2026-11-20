@@ -220,21 +220,8 @@
     "name": "Balapan",
     "sources": {
       "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JCokef05ozWI8Y",
-    "name": "Balapan International",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Balapan/index.m3u8"
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+        "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv"
       ]
     },
     "languages": [
@@ -453,6 +440,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "J6iMoLxR0lXzRq",
+    "name": "Carousel International",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "0lVBw32w9JPjcN",
@@ -1332,20 +1333,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "sources": {
-      "streams": [
-        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "sources": {
@@ -1444,20 +1431,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e5EXvO8ucfhlsQ",
-    "name": "Leo Si Penjaga Alam",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/RzW_rbrGqbA"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1703,10 +1676,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pZCVQARMPmXKYC",
+    "name": "Mult International",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pl9PpHSjGV5iKN",
     "name": "Multilandia",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -2053,11 +2041,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KgB26NNa0dj75a",
+    "name": "PBS Retro",
+    "sources": {
+      "streams": [
+        "https://amg02333-pbs-amg02333c6-vizio-us-4416.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "2SkwDt1DzEdQq9",
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lhm3sgp9oPY"
+        "https://www.youtube-nocookie.com/embed/IalvJyEv3DM"
       ]
     },
     "languages": [
@@ -2270,14 +2272,15 @@
     "sources": {
       "streams": [
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8",
-        "https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8"
+        "https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8",
+        "https://pocketwat-ryan-friends-vizio-fr7uq.amagi.tv/playlist/pocketwat-ryan-friends-vizio/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "b3MNVX3z2oxA71",
@@ -2305,20 +2308,6 @@
       "ara"
     ],
     "country": "cy",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E3BHAyBMKjTQ8M",
-    "name": "Sesame Street",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/O2dsmwHm_oE"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2367,7 +2356,8 @@
     "name": "Smotrim 100% Detskoe",
     "sources": {
       "streams": [
-        "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8"
+        "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+        "https://stream.smotrim.ru/hls2/fasttv05/playlist_3.m3u8"
       ]
     },
     "languages": [
@@ -2487,7 +2477,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/u1oG5IXlk-8"
+        "https://www.youtube-nocookie.com/embed/1A9Cusk04HM"
       ]
     },
     "languages": [
@@ -2501,7 +2491,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/p2iGn1HNl30"
+        "https://www.youtube-nocookie.com/embed/CI1CV-Dp-Nw"
       ]
     },
     "languages": [
@@ -2860,6 +2850,7 @@
     "name": "V gostyakh u skazki",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
       ]
     },

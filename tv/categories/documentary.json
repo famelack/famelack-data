@@ -4,6 +4,7 @@
     "name": "365 days TV",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -88,7 +89,9 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8",
+        "https://fusexl-vizio.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -128,29 +131,12 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "WH7adDfFfMrDqi",
-    "name": "Bloomberg Originals US",
-    "sources": {
-      "streams": [
-        "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
-        "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zV7a20HW4WTHRY",
     "name": "BritBox Mysteries",
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
+        "https://linear-796.frequency.stream/mt/vizio/796/hls/master/playlist.m3u8",
         "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8"
       ]
     },
@@ -222,6 +208,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "b3SY5CGeJGKaQq",
     "name": "CNA Insider",
     "sources": {
@@ -257,7 +257,7 @@
       "streams": [
         "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
+        "https://wurlewscripps.global.transmit.live/hls/6913ad861e71ac7d1225dd7c/v1/scripps_courttv_2/vizio_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -285,6 +285,7 @@
     "name": "Danger TV",
     "sources": {
       "streams": [
+        "https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8",
         "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
@@ -471,16 +472,16 @@
     "name": "History Hit",
     "sources": {
       "streams": [
+        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
-        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
       ]
     },
     "languages": [
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "IweKaw5SjiSSz1",
@@ -543,6 +544,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vWHREmfFSnsmrs",
+    "name": "Istoriya",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YhG2yKqVnyrY83",
     "name": "Italiana",
     "sources": {
@@ -585,21 +600,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "feuZPyWhX6la0P",
-    "name": "Law & Crime",
-    "sources": {
-      "streams": [
-        "https://cdn.lawandcrime.net/rewind/playlist.m3u8",
-        "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ECyw9lmqQ9xfIM",
     "name": "Love Pets US",
     "sources": {
@@ -613,7 +613,7 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "xwu9RwQkvtgOhW",
@@ -759,6 +759,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "jDb8tgaBS3dpwH",
+    "name": "National Geographic",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FmClQA6aIx4mGP",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AbcJxYxf3cyf3H",
     "name": "Nature Time",
     "sources": {
@@ -892,6 +920,7 @@
     "sources": {
       "streams": [
         "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8",
+        "https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8",
         "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8"
       ]
     },
@@ -952,7 +981,8 @@
     "name": "Smotrim 100% Fakty",
     "sources": {
       "streams": [
-        "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
+        "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+        "https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8"
       ]
     },
     "languages": [
@@ -1074,10 +1104,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pZthsgjcG9ZCMb",
+    "name": "viju Explore",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8XdbeDHcvZuIPU",
+    "name": "viju History",
+    "sources": {
+      "streams": [
+        "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lHhrFobodop0gc",
     "name": "viju Nature",
     "sources": {
       "streams": [
+        "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
         "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
       ]
     },

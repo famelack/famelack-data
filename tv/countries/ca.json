@@ -18,7 +18,6 @@
     "name": "Az Star TV",
     "sources": {
       "streams": [
-        "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
         "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
       ]
     },
@@ -570,7 +569,7 @@
       "streams": [
         "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+        "https://gusto-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -704,39 +703,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "rpQ8RA1mbZgwRB",
-    "name": "Ici Radio-Canada Télé Estrie (CKSH-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "F9aDzRqkUxfvHV",
     "name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MxGLQzbmn1eRI9",
-    "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
       ]
     },
     "languages": [
@@ -765,20 +736,6 @@
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "qpj1oGnAfj0tNs",
-    "name": "Ici Radio-Canada Télé Québec (CBVT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
       ]
     },
     "languages": [
@@ -1937,7 +1894,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/u1oG5IXlk-8"
+        "https://www.youtube-nocookie.com/embed/1A9Cusk04HM"
       ]
     },
     "languages": [
@@ -1951,7 +1908,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/p2iGn1HNl30"
+        "https://www.youtube-nocookie.com/embed/CI1CV-Dp-Nw"
       ]
     },
     "languages": [

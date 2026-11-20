@@ -18,9 +18,9 @@
     "name": "AccuWeather NOW",
     "sources": {
       "streams": [
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-        "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
-        "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
+        "https://amg00684-amg00684c1-vizio-us-7303.playouts.now.amagi.tv/playlist.m3u8",
+        "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8",
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
       ]
     },
     "languages": [
@@ -30,13 +30,55 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "1kPn5WUN1FAQwp",
+    "name": "FOX 2 San Francisco CA (KTVU)",
+    "sources": {
+      "streams": [
+        "https://amg00488-foxdigital-fox2sanfranciscoktvu-vizious-cshim.amagi.tv/playlist/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kEgOUfSUjjJtof",
+    "name": "FOX 32 Chicago IL (WFLD)",
+    "sources": {
+      "streams": [
+        "https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "cbCoXMuG4X0boF",
+    "name": "FOX 35 Orlando FL (WOFL)",
+    "sources": {
+      "streams": [
+        "https://amg00488-foxdigital-fox35orlandowofl-vizious-i7zzw.amagi.tv/playlist/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IP9BtoTfdM66NO",
     "name": "Fox Weather",
     "sources": {
       "streams": [
         "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
-        "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
-        "https://247wlive.foxweather.com/stream/index.m3u8"
+        "https://amg01542-foxweatherllc-weather-vizious-exojt.amagi.tv/playlist/amg01542-foxweatherllc-weather-vizious/playlist.m3u8",
+        "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
@@ -97,22 +139,6 @@
       "streams": [
         "https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8",
         "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rsgBN1CiczuZvL",
-    "name": "WeatherNation",
-    "sources": {
-      "streams": [
-        "https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8",
-        "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
-        "https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8"
       ]
     },
     "languages": [

@@ -24,6 +24,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6DT2CZ9jL47ilp",
+    "name": "A&E Duck Dynasty",
+    "sources": {
+      "streams": [
+        "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00276-amg00276c2-vizio-us-4044.playouts.now.amagi.tv/playlist.m3u8",
+        "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "turqYJXBVnoXc5",
     "name": "Aastha UK",
     "sources": {
@@ -161,20 +177,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E3w7foWiEC1jDQ",
-    "name": "Archie's Weird Mysteries",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/z5kh_v4D2o8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "onSJgNyiJclkFt",
     "name": "Artist of the Year",
     "sources": {
@@ -274,20 +276,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "BUsm8kgtVtmneU",
-    "name": "BBC News North America",
-    "sources": {
-      "streams": [
-        "https://tvsen1.aynaott.com/shn6jGTk/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "JhHpiYec647IOL",
@@ -587,6 +575,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "upZUS4jnd1EPJG",
+    "name": "Chelsea Football Club",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qVImbYk4whU"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1Rki2QXOUbCd5",
     "name": "Classic Mr Bean",
     "sources": {
@@ -808,20 +810,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5n1sIDsJoG2CPj",
-    "name": "Der TV",
-    "sources": {
-      "streams": [
-        "https://stream.berosat.live/hls/der-tv/der-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dQ9sIG5xcxVjIW",
     "name": "Dog the Bounty Hunter UK",
     "sources": {
@@ -838,25 +826,11 @@
   },
   {
     "nanoid": "BtGcx9v6eZu6vK",
-    "name": "Dog Whisperer UK",
+    "name": "Dog Whisperer with Cesar Millan",
     "sources": {
       "streams": [
+        "https://amg01201-amg01201c30-vizio-us-4216.playouts.now.amagi.tv/playlist.m3u8",
         "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "6DT2CZ9jL47ilp",
-    "name": "Duck Dynasty UK",
-    "sources": {
-      "streams": [
-        "https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8",
-        "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
       ]
     },
     "languages": [
@@ -1133,9 +1107,9 @@
     "name": "Ghost Hunters UK",
     "sources": {
       "streams": [
+        "https://amg00353-amg00353c18-vizio-us-2661.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-vizious/playlist.m3u8",
         "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
-        "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8",
-        "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
+        "https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1199,21 +1173,6 @@
       ]
     },
     "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8VTGeN5gQOkuFc",
-    "name": "Hala London",
-    "sources": {
-      "streams": [
-        "https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
       "eng"
     ],
     "country": "uk",
@@ -1885,6 +1844,7 @@
     "name": "Mystery TV UK",
     "sources": {
       "streams": [
+        "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
         "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8"
       ]
@@ -1988,7 +1948,8 @@
     "sources": {
       "streams": [
         "https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8",
-        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+        "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
+        "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2111,7 +2072,7 @@
       "streams": [
         "https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
-        "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+        "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2238,11 +2199,49 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
+    "nanoid": "bM1ajyE0MLR0WL",
+    "name": "Rakuten TV Family Movies UK",
     "sources": {
       "streams": [
-        "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+        "https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pCghkk05sIwmT1",
+    "name": "Rakuten TV Reality UK",
+    "sources": {
+      "streams": [
+        "https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
+    "sources": {
+      "streams": [
+        "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
       ]
     },
     "languages": [],
@@ -2260,6 +2259,18 @@
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RekrBPbX5KKpZp",
+    "name": "Real Crime",
+    "sources": {
+      "streams": [
+        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "jNN9ef0ljzGJ7E",
@@ -2378,6 +2389,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NuvvidQhPAw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2713,6 +2738,7 @@
     "sources": {
       "streams": [
         "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+        "https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8",
         "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8"
       ]
     },
