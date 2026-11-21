@@ -25,20 +25,18 @@
       "aze"
     ],
     "country": "az",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "UuxAvZJ7qbOfux",
-    "name": "Ayaz TV",
+    "nanoid": "VARm1n4F9ImcFq",
+    "name": "Ayaz TV HD",
     "sources": {
       "streams": [
         "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8",
         "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8"
       ]
     },
-    "languages": [
-      "aze"
-    ],
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -82,7 +80,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j7RiToRAePH65U",
+    "nanoid": "VoeOEDhf4eWtPT",
     "name": "Azstar TV HD",
     "sources": {
       "streams": [
@@ -94,20 +92,41 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n8aV4qPr7267ok",
-    "name": "Baku.TV",
+    "nanoid": "omV01DH7xfQHR6",
+    "name": "Baku TV",
     "sources": {
       "streams": [
         "https://rtmp.baku.tv/hls/bakutv.m3u8",
         "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
-      ],
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n8aV4qPr7267ok",
+    "name": "Baku.TV",
+    "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/j2n_9aTpOn8"
+        "https://www.youtube-nocookie.com/embed/79YCxSCgV9g"
       ]
     },
     "languages": [
       "aze"
     ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "R4z2SqWx7FBlM8",
+    "name": "BalacanTV",
+    "sources": {
+      "streams": [
+        "https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -126,16 +145,62 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B5yE0mrBECzUCL",
+    "nanoid": "UXFmwVkfynxH9C",
+    "name": "DigiNet Cinema",
+    "sources": {
+      "streams": [
+        "https://a8.radyotelekom.com.tr:3276/stream/play.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "LxMPIWjbVvCpHA",
     "name": "EL TV",
     "sources": {
       "streams": [
         "https://live.eltv.az/live/eltv/playlist.m3u8"
       ]
     },
-    "languages": [
-      "aze"
-    ],
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ei2MqFs9mDfNiU",
+    "name": "FTV",
+    "sources": {
+      "streams": [
+        "https://stream.ftv.az/live/ftv.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oZvXdartPaI4A6",
+    "name": "GunAZ TV",
+    "sources": {
+      "streams": [
+        "https://tv.gunaz.tv/hls/live.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sClgOblSXk1byG",
+    "name": "KANAL 65 Music",
+    "sources": {
+      "streams": [
+        "https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -154,16 +219,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BBI8YUriXrMPZH",
+    "nanoid": "GX35SDVbDUVfUd",
     "name": "KN Music TV",
     "sources": {
       "streams": [
-        "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
+        "https://cdn4.yayin.com.tr/kntv/video.m3u8"
       ]
     },
-    "languages": [
-      "aze"
-    ],
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -212,7 +275,43 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RUdPhPK7LBkD8f",
+    "nanoid": "kirw8f55ekZVDT",
+    "name": "MUSIC AZERBAIJAN",
+    "sources": {
+      "streams": [
+        "https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bq2qdHFfjJagOH",
+    "name": "NOW Music az",
+    "sources": {
+      "streams": [
+        "https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VKcoA2HKPdI8GJ",
+    "name": "SHIRVAN TV",
+    "sources": {
+      "streams": [
+        "https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Tv0s2MSi5y1W5v",
     "name": "Son Umid TV",
     "sources": {
       "streams": [
@@ -224,17 +323,50 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nJUg7d1NQf1aEX",
+    "nanoid": "nIHwCgftSRatlg",
+    "name": "Space",
+    "sources": {
+      "streams": [
+        "https://operativmm.az/tvs/space/stream8/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9hZPlgh9uADyd8",
+    "name": "Ulduz Music az",
+    "sources": {
+      "streams": [
+        "https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kFsBkN6338943a",
     "name": "Vilayet TV",
     "sources": {
       "streams": [
         "https://nl.livekadeh.com/hls2/vilayet.m3u8"
       ]
     },
-    "languages": [
-      "ara",
-      "aze"
-    ],
+    "languages": [],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v9rUZxcO9M3nrw",
+    "name": "ZAHRA TV",
+    "sources": {
+      "streams": [
+        "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "az",
     "isGeoBlocked": false
   }

@@ -404,34 +404,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "upZUS4jnd1EPJG",
-    "name": "Chelsea Football Club",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/qVImbYk4whU"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0vPnZheEHBV86R",
-    "name": "Colimdo TV",
-    "sources": {
-      "streams": [
-        "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wuceitzgHl5DOL",
     "name": "CRTV",
     "sources": {
@@ -554,6 +526,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "a08lgTdLkTtCWW",
@@ -769,20 +756,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "sources": {
-      "streams": [
-        "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WFwHBC1wCRvRfv",
     "name": "FightBox",
     "sources": {
@@ -845,8 +818,8 @@
     "name": "FON TV",
     "sources": {
       "streams": [
-        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
-        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8"
+        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8"
       ]
     },
     "languages": [
@@ -909,6 +882,20 @@
       "eng"
     ],
     "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1jYy0MieRH4RsH",
+    "name": "FOX Sports YT",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/GsUedfwy3YM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1009,20 +996,6 @@
     ],
     "country": "pt",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "zSqcM4N6tJjo6K",
-    "name": "Futbol TV",
-    "sources": {
-      "streams": [
-        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "3PWIwG9FFIlO5Y",
@@ -1584,8 +1557,7 @@
     "sources": {
       "streams": [
         "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-        "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-        "https://pac12-vizio.amagi.tv/playlist.m3u8"
+        "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2116,7 +2088,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://vizioaaaa-sportsgrid-vizio-ugub0.amagi.tv/playlist/vizioAAAA-sportsgrid-vizio/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -2252,6 +2223,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/N2QB1tNk4Yw"
       ]
     },
     "languages": [
@@ -2503,6 +2477,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wmwjQ27aToc3v2",
+    "name": "Voyo Sport 1",
+    "sources": {
+      "streams": [
+        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {

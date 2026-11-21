@@ -185,20 +185,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0ql8ScPnCzsSJo",
-    "name": "28 kanala",
-    "sources": {
-      "streams": [
-        "https://streaming.28kanala.eus/hls/z.m3u8"
-      ]
-    },
-    "languages": [
-      "eus"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OR5Sc38TWBS2JN",
     "name": "A Punt",
     "sources": {
@@ -348,20 +334,6 @@
     },
     "languages": [
       "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nZxdZLBQ6KuYOb",
-    "name": "Cadena Elite",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -821,6 +793,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IgIhtSlDnhWcsL",
+    "name": "El Futuro En tu Mano",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mllUStLZ_bc"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "sources": {
@@ -862,6 +848,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "vBQYI4XuRuNh2P",
@@ -1055,20 +1056,6 @@
       ]
     },
     "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d6sampxmKXCisS",
-    "name": "Interalmeria TV",
-    "sources": {
-      "streams": [
-        "https://interalmeria.tv/directo/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1509,16 +1496,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5yu8uNtNIpaTKc",
-    "name": "Radio Television Marbella",
+    "nanoid": "cWeIWfx3JTfA50",
+    "name": "Rakuten TV Crime Series Spain",
     "sources": {
       "streams": [
-        "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+        "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1528,6 +1513,18 @@
     "sources": {
       "streams": [
         "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "sources": {
+      "streams": [
+        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
       ]
     },
     "languages": [],
