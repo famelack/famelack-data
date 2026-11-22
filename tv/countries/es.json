@@ -185,6 +185,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0ql8ScPnCzsSJo",
+    "name": "28 kanala",
+    "sources": {
+      "streams": [
+        "https://streaming.28kanala.eus/hls/z.m3u8"
+      ]
+    },
+    "languages": [
+      "eus"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OR5Sc38TWBS2JN",
     "name": "A Punt",
     "sources": {
@@ -339,20 +353,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YKXcBcU301g5xd",
-    "name": "Canal 1 Mar Menor Torre Pacheco",
-    "sources": {
-      "streams": [
-        "https://directo.tuwebtv.es/canal1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SjHQwsq7IlkAid",
     "name": "Canal 3 TV Biar",
     "sources": {
@@ -377,20 +377,6 @@
     "languages": [
       "cat",
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CnfcZWHdpy1vl5",
-    "name": "Canal 10 Emporda",
-    "sources": {
-      "streams": [
-        "https://ventdelnord.tv:8080/escala/directe.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -879,18 +865,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "awUBqlQNui5V6X",
-    "name": "Estilo y Vida",
-    "sources": {
-      "streams": [
-        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mCiVfIGYDaqE2r",
     "name": "EsTuTele",
     "sources": {
@@ -1086,20 +1060,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nz9bzSNm6psD2N",
-    "name": "Kidz",
-    "sources": {
-      "streams": [
-        "https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "0PUyDm92WwiPWX",
     "name": "La 8 Mediterraneo",
     "sources": {
@@ -1166,6 +1126,18 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yZT8JeLEndYnMC",
+    "name": "Los Gipsy Kings",
+    "sources": {
+      "streams": [
+        "https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1382,20 +1354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w0BuuYkb1LM5NS",
-    "name": "Onda Valencia TV",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8116/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
     "sources": {
@@ -1530,44 +1488,6 @@
       ]
     },
     "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6Fk85FNF4cdSWr",
-    "name": "Rakuten TV Sci-Fi Spain",
-    "sources": {
-      "streams": [
-        "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yoWnDlFSJLbaIM",
-    "name": "Rakuten TV Thrillers Spain",
-    "sources": {
-      "streams": [
-        "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0LyDCyOi0Q8ryz",
-    "name": "Real Madrid TV",
-    "sources": {
-      "streams": [
-        "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "es",
     "isGeoBlocked": false
   },

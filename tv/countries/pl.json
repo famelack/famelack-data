@@ -183,20 +183,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "sources": {
-      "streams": [
-        "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
@@ -416,6 +402,20 @@
       ]
     },
     "languages": [],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJ7YczawHcfulu",
+    "name": "Polsat 1",
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/yaskar661-lgtm/poland-iptv/refs/heads/main/test/polsat1.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
     "country": "pl",
     "isGeoBlocked": false
   },

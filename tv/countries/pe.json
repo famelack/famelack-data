@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Mj1YeHn29dAddM",
-    "name": "Amazonica TV",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9dieqKJjrLdvX8",
     "name": "America Internacional",
     "sources": {
@@ -337,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJ7gZA2UwesadP",
-    "name": "Galactica TV",
-    "sources": {
-      "streams": [
-        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mHRulAqsRUqjO2",
     "name": "Genios TV",
     "sources": {
@@ -412,20 +384,6 @@
     "sources": {
       "streams": [
         "https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jxlsDXo2Z9WhXZ",
-    "name": "Kora TV",
-    "sources": {
-      "streams": [
-        "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
       ]
     },
     "languages": [
@@ -700,6 +658,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oBr4zkSxr69b4X",
+    "name": "Onda TV",
+    "sources": {
+      "streams": [
+        "https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4C3gMyaIqWiPj3",
     "name": "Ozono TV",
     "sources": {
@@ -858,8 +830,36 @@
     "name": "RSelvaTV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
-        "https://live.obslivestream.com/selvatv/index.m3u8"
+        "https://live.obslivestream.com/selvatv/index.m3u8",
+        "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mYux2wxOtmZQ0D",
+    "name": "SanjuaneraTV",
+    "sources": {
+      "streams": [
+        "https://live.obslivestream.com/sanjuanera/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PbmhykZhDhhgku",
+    "name": "SelvaTV",
+    "sources": {
+      "streams": [
+        "https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8"
       ]
     },
     "languages": [
@@ -917,6 +917,20 @@
     "sources": {
       "streams": [
         "https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r5tTqgnp1yoMTQ",
+    "name": "Sullana TV",
+    "sources": {
+      "streams": [
+        "https://mundial.cpustream.com:8081/sullanatv/video.m3u8"
       ]
     },
     "languages": [
@@ -1209,11 +1223,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HYnHHpCe4o5p06",
+    "name": "Universitaria TV",
+    "sources": {
+      "streams": [
+        "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RTi7RphrlOJFLh",
     "name": "Uranio TV",
     "sources": {
       "streams": [
         "https://live.obslivestream.com/uraniotv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WLhYrvwHEftFlA",
+    "name": "USIL TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8162/index.m3u8"
       ]
     },
     "languages": [

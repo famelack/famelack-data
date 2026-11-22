@@ -241,6 +241,7 @@
     "sources": {
       "streams": [
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
         "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
       ],
       "youtube": [
@@ -320,20 +321,6 @@
       "streams": [
         "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
         "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -444,9 +431,6 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/-kooOhIodAk"
       ]
     },
     "languages": [
@@ -783,6 +767,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4WUKZJPvirxz3S",
+    "name": "FRT TV",
+    "sources": {
+      "streams": [
+        "https://edge1.taksimbilisim.com/frttv/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I6D9IHQIDu6y7l",
     "name": "Güldür Güldür Show",
     "sources": {
@@ -917,7 +915,7 @@
     "name": "ibrahimlive",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0JRD2AdrJiQ"
+        "https://www.youtube-nocookie.com/embed/qHSq4bhN4bM"
       ]
     },
     "languages": [
@@ -1220,21 +1218,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tTuLPLvkfWTeJZ",
-    "name": "Kocaeli TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "axZRIy6sk182NP",
     "name": "Konya Olay TV",
     "sources": {
@@ -1386,6 +1369,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kAe6ZeSL18s1wy",
+    "name": "Meltem TV",
+    "sources": {
+      "streams": [
+        "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oLXvhYRIcgw3Zr",
     "name": "Mercan TV",
     "sources": {
@@ -1434,20 +1431,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/eXUdwggJhLU"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rXzETOXt9hjdyU",
-    "name": "NOW",
-    "sources": {
-      "streams": [
-        "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8"
       ]
     },
     "languages": [
@@ -1888,7 +1871,7 @@
         "https://tjktv-live.tjk.org/tjktv.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/N2QB1tNk4Yw"
+        "https://www.youtube-nocookie.com/embed/rWTMJl2qGAU"
       ]
     },
     "languages": [
@@ -2009,6 +1992,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BpkMtsoRspK7u5",
+    "name": "TRT Genc",
+    "sources": {
+      "streams": [
+        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "owJJC4tX2SQL4u",

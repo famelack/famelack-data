@@ -85,6 +85,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dsP2vFghVIv6Kj",
+    "name": "Da Vinci Asia Vietnam",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=214"
+      ]
+    },
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aHLC2ZM9DagUy4",
     "name": "Dak Lak TV",
     "sources": {
@@ -155,11 +170,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6EdtrtcTzJTHBM",
-    "name": "HTV4",
+    "nanoid": "GE1AZgtrNGhunn",
+    "name": "HTV1",
     "sources": {
       "streams": [
-        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+        "https://freem3u.xyz/api/live/play.m3u8?vid=190"
       ]
     },
     "languages": [
@@ -169,11 +184,65 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IzIeB6PQT3Mcyn",
+    "name": "HTV3",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=192"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6EdtrtcTzJTHBM",
+    "name": "HTV4",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9ZSN52LIo3A5tR",
     "name": "HTV5",
     "sources": {
       "streams": [
         "https://freem3u.xyz/api/live/play.m3u8?vid=151"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6DolkI5thPr6tu",
+    "name": "HTV7",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=193"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "tZZYFUzbbvaZ5U",
+    "name": "HTV9",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=194"
       ]
     },
     "languages": [
@@ -746,8 +815,7 @@
     "name": "Vietnam Today",
     "sources": {
       "streams": [
-        "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
-        "https://live.tvon.vn/s8/hls/vntoday/index.m3u8"
+        "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8"
       ]
     },
     "languages": [

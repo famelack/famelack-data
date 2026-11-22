@@ -154,20 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JzJqSKhZTC60f6",
-    "name": "AM Canal",
-    "sources": {
-      "streams": [
-        "https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Md7ez9PVBYFZg7",
     "name": "Antofagasta TV",
     "sources": {
@@ -412,20 +398,6 @@
     "sources": {
       "streams": [
         "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rk7MjjMU4jW3Hu",
-    "name": "Central TV",
-    "sources": {
-      "streams": [
-        "https://freya.mivideo.pro/centraltv/video.m3u8"
       ]
     },
     "languages": [
@@ -1170,7 +1142,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5Rp7uVAFfyI"
+        "https://www.youtube-nocookie.com/embed/mmTgV_ytVCw"
       ]
     },
     "languages": [],
@@ -1290,20 +1262,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pBr1jh0mgnQFNt",
-    "name": "Oli TV",
-    "sources": {
-      "streams": [
-        "https://v4.tustreaming.cl/retroplaytv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gOHRYjgt1TQNJc",
     "name": "Patagonia Radio TV",
     "sources": {
@@ -1410,8 +1368,8 @@
     "name": "Radio America TV",
     "sources": {
       "streams": [
-        "https://v2.tustreaming.cl/radioamericatv/index.m3u8",
-        "https://v2.tustreaming.cl/americamovil/index.m3u8"
+        "https://v2.tustreaming.cl/americamovil/index.m3u8",
+        "https://v2.tustreaming.cl/radioamericatv/index.m3u8"
       ]
     },
     "languages": [
@@ -1547,6 +1505,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J3nTc19sodyB7X",
+    "name": "Radio Nuble",
+    "sources": {
+      "streams": [
+        "https://tv.telselec.cl:3376/live/nublefmlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qn58qijj5GaR6h",
     "name": "Radio Panoramica",
     "sources": {
@@ -1660,20 +1632,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fo7DN1X7oyXYal",
-    "name": "Radio Universal",
-    "sources": {
-      "streams": [
-        "https://videostream.chileservidores.com:8081/universal/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3cleB86oNnPmCR",
     "name": "Radio USACH",
     "sources": {
@@ -1748,8 +1706,8 @@
     "name": "Ritoque TV",
     "sources": {
       "streams": [
-        "https://streaming.purum.cl/ritoquetv/index.m3u8",
-        "https://v2.tustreaming.cl/unetev/index.m3u8"
+        "https://v2.tustreaming.cl/unetev/index.m3u8",
+        "https://streaming.purum.cl/ritoquetv/index.m3u8"
       ]
     },
     "languages": [
@@ -2296,8 +2254,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [
