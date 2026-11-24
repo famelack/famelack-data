@@ -1,10 +1,24 @@
 [
   {
-    "nanoid": "Krnvg7lhNu9QZe",
-    "name": "Diadora TV",
+    "nanoid": "3l5doVjMXjwPIT",
+    "name": "CMC TV",
     "sources": {
       "streams": [
-        "https://diadoratv.stream/live/diadora/playlist.m3u8"
+        "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ],
+    "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A6l4ELIarmqL6n",
+    "name": "Klape i Tambure TV",
+    "sources": {
+      "streams": [
+        "https://stream.cmctv.hr:49998/kit/live.m3u8"
       ]
     },
     "languages": [

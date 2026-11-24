@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pgiVm4B2WU0ANk",
-    "name": "16tv Budapest",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IAuzwfi3ffN5aQ",
     "name": "Alfold TV",
     "sources": {
@@ -242,6 +228,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vyv7aN2DLRtAEV",
     "name": "Oxygen Music",
     "sources": {
@@ -317,20 +317,6 @@
     "sources": {
       "streams": [
         "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V9OoiU0u2pwSNH",
-    "name": "TV Keszthely",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
       ]
     },
     "languages": [

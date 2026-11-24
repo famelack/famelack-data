@@ -9,10 +9,24 @@
     },
     "languages": [
       "eng",
-      "fre"
+      "fra"
     ],
     "country": "cm",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KhnM4S53bCT3Jr",
+    "name": "Balafon TV",
+    "sources": {
+      "streams": [
+        "https://broadcasting-channels.com:9044/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "vSeAetx7SHaifK",
@@ -66,6 +80,20 @@
     },
     "languages": [
       "eng",
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kAGSorpcyVgeyz",
+    "name": "Laura Dave Media TV",
+    "sources": {
+      "streams": [
+        "https://streaming.lauradavemedia.com/ldm/index.m3u8"
+      ]
+    },
+    "languages": [
       "fra"
     ],
     "country": "cm",

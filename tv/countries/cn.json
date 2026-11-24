@@ -70,6 +70,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "qF4K7YKWjkSybG",
+    "name": "Bread TV",
+    "sources": {
+      "streams": [
+        "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+      ]
+    },
+    "languages": [
+      "cmn"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jPny5x45PjO9YA",
     "name": "CCTV-1",
     "sources": {
@@ -179,6 +193,7 @@
     "name": "CGTN Arabic",
     "sources": {
       "streams": [
+        "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
         "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8"
       ]
     },
@@ -205,26 +220,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HWaY4PvApDJTzN",
-    "name": "CGTN Europe",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/wkU-OnTY0wk"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sgEf7rAVkwQW3T",
     "name": "CGTN French",
     "sources": {
       "streams": [
         "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8"
+        "https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8",
+        "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/oPLa1msqG7E"
@@ -256,7 +258,8 @@
     "name": "CGTN Russian",
     "sources": {
       "streams": [
-        "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8",
+        "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -271,7 +274,8 @@
     "sources": {
       "streams": [
         "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
+        "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8",
+        "https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -734,7 +738,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/quln7ex5__k"
+        "https://www.youtube-nocookie.com/embed/5a-wGO_fBQg"
       ]
     },
     "languages": [

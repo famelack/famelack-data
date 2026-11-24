@@ -1110,6 +1110,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4WEiFY5k9mJhz",
+    "name": "Orszaggyules: OGY plenaris",
+    "sources": {
+      "streams": [
+        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1272,6 +1286,7 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+        "https://fta.ektv.in/live/718/master.m3u8",
         "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
       ]
     },
@@ -1288,8 +1303,8 @@
     "sources": {
       "streams": [
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-        "https://fta.ektv.in/live/298/master.m3u8"
+        "https://fta.ektv.in/live/298/master.m3u8",
+        "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
       ]
     },
     "languages": [
@@ -1325,6 +1340,20 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QvfZ45T9wvpbFD",
+    "name": "SFGovTV",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1404,7 +1433,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pcMI2MJT2Iw"
+        "https://www.youtube-nocookie.com/embed/w7Ic0ZMTPXk"
       ]
     },
     "languages": [

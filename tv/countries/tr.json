@@ -208,6 +208,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Zzw5XdFQULzoOQ",
+    "name": "Aras TV",
+    "sources": {
+      "streams": [
+        "https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "laMNKAVyTuHniN",
     "name": "AS TV",
     "sources": {
@@ -321,6 +335,20 @@
       "streams": [
         "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
         "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z7tHup27v1j2Td",
+    "name": "Bodrum Kent TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -588,6 +616,20 @@
     "sources": {
       "streams": [
         "https://cdn.ekoturk.net/hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZF8u92PVuJI4iM",
+    "name": "EKOTÜRK TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vLg3tFOXizY"
       ]
     },
     "languages": [
@@ -1218,6 +1260,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tTuLPLvkfWTeJZ",
+    "name": "Kocaeli TV",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+        "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "axZRIy6sk182NP",
     "name": "Konya Olay TV",
     "sources": {
@@ -1236,7 +1293,7 @@
     "name": "Koza TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KlqQwKOS67E"
+        "https://www.youtube-nocookie.com/embed/Ez-4JbAGfdg"
       ]
     },
     "languages": [],
@@ -1431,6 +1488,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/eXUdwggJhLU"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rXzETOXt9hjdyU",
+    "name": "NOW",
+    "sources": {
+      "streams": [
+        "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8"
       ]
     },
     "languages": [
@@ -1869,9 +1940,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/rWTMJl2qGAU"
       ]
     },
     "languages": [
