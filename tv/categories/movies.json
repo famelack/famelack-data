@@ -202,7 +202,7 @@
     "name": "Bhojpuri Cinema",
     "sources": {
       "streams": [
-        "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+        "https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8",
         "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1033/master.m3u8"
       ]
@@ -989,7 +989,9 @@
         "https://dz05z8iljgvbe.cloudfront.net/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1115,8 +1117,8 @@
     "sources": {
       "streams": [
         "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8"
+        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
       ]
     },
     "languages": [
@@ -1311,20 +1313,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hd13Q7pEG37tJd",
-    "name": "India Talkies",
-    "sources": {
-      "streams": [
-        "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iq4LfiXtlMe7B1",
     "name": "Indiyskoye Kino",
     "sources": {
@@ -1385,8 +1373,8 @@
     "name": "Kairali We",
     "sources": {
       "streams": [
-        "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
         "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8",
+        "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1530/master.m3u8"
       ]
     },
@@ -1764,21 +1752,6 @@
       "ara"
     ],
     "country": "eg",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQxSfN4to8TdvK",
-    "name": "Movie Punjab",
-    "sources": {
-      "streams": [
-        "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
-        "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pan"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2163,9 +2136,9 @@
     "name": "Punjabi Shorts",
     "sources": {
       "streams": [
-        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
         "https://gtc.ottlive.co.in/punjabshort/index.m3u8",
-        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8"
+        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8",
+        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
       ]
     },
     "languages": [
@@ -2215,6 +2188,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oYf2d7SSDVu6lL",
+    "name": "Rotana Cinema KSA",
+    "sources": {
+      "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "18JmrTzb6X8HlM",
@@ -2376,34 +2363,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wP3h2q38orwPv2",
-    "name": "Sonar Bangla",
-    "sources": {
-      "streams": [
-        "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B9B92TIsr5iTV4",
-    "name": "Soneri Cinema",
-    "sources": {
-      "streams": [
-        "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "mar"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ht9o2VjqoyTfPz",
     "name": "Sony Max",
     "sources": {
@@ -2539,7 +2498,7 @@
       "streams": [
         "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
         "https://cdn.pishow.tv/ott/live/276/master.m3u8",
-        "https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+        "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/StudioOnePlus.m3u8"
       ]
     },
     "languages": [

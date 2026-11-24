@@ -344,8 +344,8 @@
     "name": "CMB Television",
     "sources": {
       "streams": [
-        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
-        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
+        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
       ]
     },
     "languages": [
@@ -928,20 +928,6 @@
     "sources": {
       "streams": [
         "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Fvqin9l62Fj8Z2",
-    "name": "Tu Universo TV",
-    "sources": {
-      "streams": [
-        "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
       ]
     },
     "languages": [

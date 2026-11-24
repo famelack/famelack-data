@@ -224,6 +224,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IUX8TFnb9XiEJu",
+    "name": "AVA Media",
+    "sources": {
+      "streams": [
+        "https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8"
+      ]
+    },
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I677KvGkPDPSil",
     "name": "Avar TV",
     "sources": {
@@ -515,6 +529,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nQkZSTKhGcmOYs",
+    "name": "NRT Sport",
+    "sources": {
+      "streams": [
+        "https://andam.uk/ytlive/nrtsport/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ckb"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z1xarEkNQ77Icp",
     "name": "Payam TV",
     "sources": {
@@ -540,6 +568,20 @@
     },
     "languages": [
       "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PhXDu5yXp9uaMZ",
+    "name": "Samarra TV",
+    "sources": {
+      "streams": [
+        "https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -595,7 +637,9 @@
         "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "ckb"
+    ],
     "country": "iq",
     "isGeoBlocked": false
   }

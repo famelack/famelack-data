@@ -24,23 +24,11 @@
         "https://svln.li/anewz.m3u8"
       ]
     },
-    "languages": [],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pkHEX4Fdp34W0V",
-    "name": "ARB 24",
-    "sources": {
-      "streams": [
-        "https://operativmm.az/tvs/arb24/stream/index.m3u8"
-      ]
-    },
     "languages": [
-      "aze"
+      "eng"
     ],
     "country": "az",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "UuxAvZJ7qbOfux",
@@ -63,7 +51,6 @@
     "name": "Az TV",
     "sources": {
       "streams": [
-        "https://operativmm.az/tvs/az/stream9/index.m3u8",
         "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -81,7 +68,9 @@
         "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -93,7 +82,9 @@
         "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -105,7 +96,9 @@
         "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -118,7 +111,9 @@
         "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -131,7 +126,7 @@
         "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/br1sBCi1xmE"
+        "https://www.youtube-nocookie.com/embed/SLkc76WvWLA"
       ]
     },
     "languages": [
@@ -148,7 +143,9 @@
         "https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -174,7 +171,9 @@
         "https://a8.radyotelekom.com.tr:3276/stream/play.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": true
   },
@@ -200,7 +199,9 @@
         "https://stream.ftv.az/live/ftv.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -212,7 +213,9 @@
         "https://tv.gunaz.tv/hls/live.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -224,7 +227,9 @@
         "https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -247,7 +252,8 @@
     "name": "KN Music TV",
     "sources": {
       "streams": [
-        "https://cdn4.yayin.com.tr/kntv/video.m3u8"
+        "https://cdn4.yayin.com.tr/kntv/video.m3u8",
+        "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -272,6 +278,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "i8ut8D1XN8xZFx",
+    "name": "Konul TV",
+    "sources": {
+      "streams": [
+        "https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8",
+        "https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IANMk04rMlqc8y",
     "name": "MAX TV",
     "sources": {
@@ -286,18 +308,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kirw8f55ekZVDT",
-    "name": "MUSIC AZERBAIJAN",
-    "sources": {
-      "streams": [
-        "https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Bq2qdHFfjJagOH",
     "name": "NOW Music az",
     "sources": {
@@ -305,7 +315,9 @@
         "https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -317,7 +329,9 @@
         "https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -329,7 +343,9 @@
         "https://rtmp.showplus.tv/hls/myshow.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -341,7 +357,9 @@
         "https://rtmp.showplus.tv/hls/myshow.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -351,30 +369,6 @@
     "sources": {
       "streams": [
         "https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nIHwCgftSRatlg",
-    "name": "Space",
-    "sources": {
-      "streams": [
-        "https://operativmm.az/tvs/space/stream8/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "26SGsBNssiiZc7",
-    "name": "Space TV",
-    "sources": {
-      "streams": [
-        "https://operativmm.az/tvs/space/stream8/index.m3u8"
       ]
     },
     "languages": [
@@ -391,7 +385,9 @@
         "https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -403,7 +399,10 @@
         "https://nl.livekadeh.com/hls2/vilayet.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "ara",
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
@@ -430,7 +429,9 @@
         "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   }

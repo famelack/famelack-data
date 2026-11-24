@@ -830,7 +830,9 @@
         "https://freem3u.xyz/api/live/play.m3u8?vid=9"
       ]
     },
-    "languages": [],
+    "languages": [
+      "vie"
+    ],
     "country": "vn",
     "isGeoBlocked": false
   },
@@ -1028,20 +1030,6 @@
       "eng"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tqCNZa0HLCee0u",
-    "name": "Midpen Media Center Channel 28",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1354,20 +1342,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sI8hLOEw48l5jP",
     "name": "Santa Cecilia TV",
     "sources": {
@@ -1463,6 +1437,20 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bBv6zB9QdJENZV",
+    "name": "Televisao Academica",
+    "sources": {
+      "streams": [
+        "https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "mz",
     "isGeoBlocked": false
   },
   {
@@ -1687,20 +1675,6 @@
       "spa"
     ],
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "sources": {
-      "streams": [
-        "https://stream.unison.mx/hls/unisontvatem.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

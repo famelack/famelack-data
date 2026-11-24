@@ -89,7 +89,6 @@
     "sources": {
       "streams": [
         "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8",
         "https://fusexl-vizio.amagi.tv/playlist.m3u8"
       ]
     },
@@ -471,9 +470,9 @@
     "name": "History Hit",
     "sources": {
       "streams": [
-        "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
         "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8",
-        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8"
+        "https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8",
+        "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -508,7 +507,9 @@
         "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "hin"
+    ],
     "country": "in",
     "isGeoBlocked": true
   },

@@ -440,7 +440,7 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8qLw30RjYYI"
+        "https://www.youtube-nocookie.com/embed/pGaXyPVdORU"
       ]
     },
     "languages": [
@@ -496,7 +496,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6hhr6uVK9H4"
+        "https://www.youtube-nocookie.com/embed/i1ewZSIhI5A"
       ]
     },
     "languages": [
@@ -1184,10 +1184,12 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/tVzjA8MPhFk"
+        "https://www.youtube-nocookie.com/embed/vmpxJGnl0Ss"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -1786,20 +1788,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "weA8rjP034Saqz",
-    "name": "Rial TV",
-    "sources": {
-      "streams": [
-        "https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wbxTJadDYrDCsD",
     "name": "Ritoque TV",
     "sources": {
@@ -1848,6 +1836,20 @@
     "sources": {
       "streams": [
         "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ktEDI2D3vAFfqP",
+    "name": "Sabor TV",
+    "sources": {
+      "streams": [
+        "https://v1.tustreaming.cl/sabortv/index.m3u8"
       ]
     },
     "languages": [
@@ -2005,7 +2007,9 @@
         "https://www.youtube-nocookie.com/embed/h5efji0_wtQ"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -2352,8 +2356,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

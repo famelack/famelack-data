@@ -197,20 +197,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sfu9EhmwBmV8Ny",
-    "name": "Bihor TV",
-    "sources": {
-      "streams": [
-        "https://bihor-tv.ro/hls/bihortv.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TZNdjDVfVrlQUD",
     "name": "Bollywood Classic Romania",
     "sources": {
@@ -310,20 +296,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KgrYaFrigx2SNG",
-    "name": "Digi 4K",
-    "sources": {
-      "streams": [
-        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "rpSBQXW9F7j6Ri",
     "name": "Dotto TV",
     "sources": {
@@ -382,21 +354,6 @@
     ],
     "country": "ro",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fbVO6AiSo6hpNV",
-    "name": "Eurosport 4K Romania",
-    "sources": {
-      "streams": [
-        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "Zuuz0ec4YwcYzF",
@@ -469,15 +426,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IMncHMrJjF21TQ",
-    "name": "Formula 2 AntenaPlay",
+    "nanoid": "DS0ehq9kdFE5AD",
+    "name": "Formula 1 AntenaPlay",
     "sources": {
       "streams": [
-        "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+        "https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8"
       ]
     },
     "languages": [
-      "ron"
+      "eng"
     ],
     "country": "ro",
     "isGeoBlocked": false
@@ -1473,7 +1430,8 @@
     "name": "TVR International",
     "sources": {
       "streams": [
-        "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8"
+        "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tvr_international/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1516,34 +1474,6 @@
     "sources": {
       "streams": [
         "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lCGm4msWtl1OQW",
-    "name": "UTV",
-    "sources": {
-      "streams": [
-        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wmwjQ27aToc3v2",
-    "name": "Voyo Sport 1",
-    "sources": {
-      "streams": [
-        "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
       ]
     },
     "languages": [

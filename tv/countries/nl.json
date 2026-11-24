@@ -490,20 +490,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qUy0NOK2hQdQ38",
-    "name": "LON TV",
-    "sources": {
-      "streams": [
-        "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nnzZPCLnvZFXmg",
     "name": "Magic PowerRadio",
     "sources": {
@@ -961,7 +947,9 @@
         "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "nld"
+    ],
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -1380,7 +1368,9 @@
         "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -1406,7 +1396,9 @@
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "nl",
     "isGeoBlocked": false
   },

@@ -43,6 +43,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KbaV0qyfK90k60",
+    "name": "Aeolos TV",
+    "sources": {
+      "streams": [
+        "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Vy0AuCngWxJT2u",
     "name": "Aigaio TV",
     "sources": {
@@ -355,8 +369,7 @@
     "name": "Hellenic Parliament TV",
     "sources": {
       "streams": [
-        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
-        "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8"
       ]
     },
     "languages": [
@@ -385,20 +398,6 @@
     "sources": {
       "streams": [
         "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xWjSZw9S9xgZ2w",
-    "name": "Kos TV",
-    "sources": {
-      "streams": [
-        "https://eu1.streams.gr:8081/kostv/index.m3u8"
       ]
     },
     "languages": [
@@ -711,7 +710,9 @@
         "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "ell"
+    ],
     "country": "gr",
     "isGeoBlocked": false
   }

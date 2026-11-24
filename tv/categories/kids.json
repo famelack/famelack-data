@@ -653,20 +653,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ioAW5Hy7e9f7fU",
-    "name": "Chithiram",
-    "sources": {
-      "streams": [
-        "https://cdn.pishow.tv/ott/live/1243/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZGN8qIsLaa0z0Z",
     "name": "Cine+ Kids",
     "sources": {
@@ -1416,6 +1402,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "sources": {
+      "streams": [
+        "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "sources": {
@@ -1601,6 +1601,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hhUo0EEZEaHSNk",
+    "name": "Mini Disco",
+    "sources": {
+      "streams": [
+        "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "UuFMTGs8Wi2JhV",
     "name": "Minika Cocuk",
     "sources": {
@@ -1676,9 +1690,9 @@
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
         "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
-        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8",
+        "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
     "languages": [
@@ -1709,7 +1723,9 @@
         "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2155,7 +2171,7 @@
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kamR6a5ZBJo"
+        "https://www.youtube-nocookie.com/embed/tp4biyJDa_c"
       ]
     },
     "languages": [
@@ -2443,7 +2459,9 @@
         "https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "rus"
+    ],
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -2573,7 +2591,7 @@
     "name": "Super Simple: Bedtime Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1A9Cusk04HM"
+        "https://www.youtube-nocookie.com/embed/-RVGk6H4sME"
       ]
     },
     "languages": [
@@ -2587,7 +2605,7 @@
     "name": "Super Simple: Simple Songs",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CI1CV-Dp-Nw"
+        "https://www.youtube-nocookie.com/embed/ChH7KoWQC7Q"
       ]
     },
     "languages": [
@@ -3124,25 +3142,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
-    "sources": {
-      "streams": [
-        "https://server.zillarbarta.com/zbcatun/video.m3u8"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hWDQZeOraxs"
+        "https://www.youtube-nocookie.com/embed/pBOw6WTwhM8"
       ]
     },
     "languages": [

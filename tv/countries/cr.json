@@ -75,7 +75,8 @@
     "name": "BestClasicosTV",
     "sources": {
       "streams": [
-        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+        "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+        "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
       ]
     },
     "languages": [
@@ -341,20 +342,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fNzNQyxrdQA2dG",
-    "name": "Multimedios Costa Rica",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/e68IwodPYJs"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L1OBT7Lnf5SKDh",
     "name": "NicoyaTV",
     "sources": {
@@ -390,7 +377,9 @@
         "https://video07.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "cr",
     "isGeoBlocked": false
   },
