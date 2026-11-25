@@ -270,20 +270,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "enzlbWUJPkIQyG",
-    "name": "Bom Cine",
-    "sources": {
-      "streams": [
-        "https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5fPdHbPWBlhNGl",
     "name": "Boreal",
     "sources": {
@@ -360,8 +346,7 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
-        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
       ]
     },
     "languages": [
@@ -601,20 +586,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
       ]
     },
     "languages": [
@@ -1117,8 +1088,8 @@
     "sources": {
       "streams": [
         "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
+        "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8"
       ]
     },
     "languages": [
@@ -1310,6 +1281,20 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hd13Q7pEG37tJd",
+    "name": "India Talkies",
+    "sources": {
+      "streams": [
+        "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1755,6 +1740,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQxSfN4to8TdvK",
+    "name": "Movie Punjab",
+    "sources": {
+      "streams": [
+        "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
+        "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4JeYX90lm5Sxdq",
     "name": "Movie Star",
     "sources": {
@@ -1932,8 +1932,8 @@
     "sources": {
       "streams": [
         "https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8",
-        "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
-        "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8"
+        "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8",
+        "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2136,9 +2136,9 @@
     "name": "Punjabi Shorts",
     "sources": {
       "streams": [
+        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
         "https://gtc.ottlive.co.in/punjabshort/index.m3u8",
-        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8",
-        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
+        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8"
       ]
     },
     "languages": [
@@ -2363,6 +2363,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wP3h2q38orwPv2",
+    "name": "Sonar Bangla",
+    "sources": {
+      "streams": [
+        "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B9B92TIsr5iTV4",
+    "name": "Soneri Cinema",
+    "sources": {
+      "streams": [
+        "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8"
+      ]
+    },
+    "languages": [
+      "mar"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ht9o2VjqoyTfPz",
     "name": "Sony Max",
     "sources": {
@@ -2450,24 +2478,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xcwWLcxQLXFJjD",
-    "name": "Squirrel",
-    "sources": {
-      "streams": [
-        "https://cdn78-at.azotosolutions.com/cdnedge39/Canale1/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bGtZkBQX1pajI4",
     "name": "Star Cinema",
     "sources": {
       "streams": [
+        "https://s7.merlive.am/starsinema/index.m3u8",
         "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8"
       ]
     },
@@ -2503,20 +2518,6 @@
     },
     "languages": [
       "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9XCIxSDz7ScIo3",
-    "name": "Suriyan TV",
-    "sources": {
-      "streams": [
-        "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
     ],
     "country": "in",
     "isGeoBlocked": false

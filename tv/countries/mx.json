@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dKvffVf67Ibo9n",
-    "name": "Acustik TV",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6AYObDCpHjAFK9",
     "name": "ADN 40",
     "sources": {
@@ -47,6 +33,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/PC8nOb8cTNg"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "drwJ1KWzBTlLLz",
+    "name": "Alcance TV",
+    "sources": {
+      "streams": [
+        "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -340,20 +340,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CrHxjo8TlGVNjG",
-    "name": "Despierta TV",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/despiertatv/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7B5TL7KhdmamWP",
     "name": "El Chavo del 8",
     "sources": {
@@ -540,7 +526,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/AZtn6yVx-Os"
+        "https://www.youtube-nocookie.com/embed/f4dHaZWcnkw"
       ]
     },
     "languages": [
@@ -873,20 +859,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
-    "sources": {
-      "streams": [
-        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "arUwONnDyiIo6o",
     "name": "Tele Yucatan",
     "sources": {
@@ -943,11 +915,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CjylGBv72H1pko",
-    "name": "Televisa Ciudad Juarez",
+    "nanoid": "CV0J6mHYbHQoth",
+    "name": "Teleplay Sureste",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/u79tBl_YmkQ"
+      "streams": [
+        "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+        "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
       ]
     },
     "languages": [
@@ -962,6 +935,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/x73HVfDt7gY"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EDHdYFZTyUWlzE",
+    "name": "Televisa Del Golfo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dYiokonPF9A"
       ]
     },
     "languages": [
@@ -1031,7 +1018,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Zf1DV4QcSyw"
+        "https://www.youtube-nocookie.com/embed/tf0LWmuoemM"
       ]
     },
     "languages": [
@@ -1045,7 +1032,7 @@
     "name": "Televisa Piedras Negras",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oBdUIliR_BU"
+        "https://www.youtube-nocookie.com/embed/qBnVFjTIBks"
       ]
     },
     "languages": [
@@ -1083,11 +1070,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tCjDqfGsbMfsZi",
+    "name": "Televisa Sinaloa",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RS7w0bS-Mn4"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Rds4SfQCR5Bcp9",
     "name": "Televisa Sonora",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/w0P2uM7jH_c"
+        "https://www.youtube-nocookie.com/embed/M7XHAS3HN8s"
       ]
     },
     "languages": [
@@ -1321,20 +1322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CXFEfwBakQ1YSI",
-    "name": "TVP Los Mochis",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bUg0odmxv7tPNK",
     "name": "TVP Mazatlan",
     "sources": {
@@ -1382,6 +1369,20 @@
     "sources": {
       "streams": [
         "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JvGEcuMecAcih8",
+    "name": "Unison TV",
+    "sources": {
+      "streams": [
+        "https://stream.unison.mx/hls/unisontvatem.m3u8"
       ]
     },
     "languages": [

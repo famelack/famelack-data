@@ -3,9 +3,6 @@
     "nanoid": "EME4N9khfw88cn",
     "name": "AnewZ TV",
     "sources": {
-      "streams": [
-        "https://svln.li/anewz.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/8YaJcaMqRwA"
       ]
@@ -17,18 +14,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y0CG4LyvkdZ3df",
-    "name": "ANewZ TV",
+    "nanoid": "pkHEX4Fdp34W0V",
+    "name": "ARB 24",
     "sources": {
       "streams": [
-        "https://svln.li/anewz.m3u8"
+        "https://operativmm.az/tvs/arb24/stream/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "aze"
     ],
     "country": "az",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "UuxAvZJ7qbOfux",
@@ -51,6 +48,7 @@
     "name": "Az TV",
     "sources": {
       "streams": [
+        "https://operativmm.az/tvs/az/stream9/index.m3u8",
         "https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -126,7 +124,7 @@
         "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SLkc76WvWLA"
+        "https://www.youtube-nocookie.com/embed/Omt_0gLE-IA"
       ]
     },
     "languages": [
@@ -176,20 +174,6 @@
     ],
     "country": "az",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "B5yE0mrBECzUCL",
-    "name": "EL TV",
-    "sources": {
-      "streams": [
-        "https://live.eltv.az/live/eltv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Ei2MqFs9mDfNiU",
@@ -369,6 +353,34 @@
     "sources": {
       "streams": [
         "https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nIHwCgftSRatlg",
+    "name": "Space",
+    "sources": {
+      "streams": [
+        "https://operativmm.az/tvs/space/stream8/index.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "26SGsBNssiiZc7",
+    "name": "Space TV",
+    "sources": {
+      "streams": [
+        "https://operativmm.az/tvs/space/stream8/index.m3u8"
       ]
     },
     "languages": [

@@ -362,8 +362,8 @@
     "name": "FashionTV",
     "sources": {
       "streams": [
-        "https://samitaorigin.tangotv.in/FASHIONTV/SAMITAORIGIN/index.m3u8",
-        "https://mumt01.tangotv.in/O5aw8Zn3FASHIONTV/index.m3u8"
+        "https://mumt01.tangotv.in/O5aw8Zn3FASHIONTV/index.m3u8",
+        "https://samitaorigin.tangotv.in/FASHIONTV/SAMITAORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -450,7 +450,7 @@
     "name": "Friends of Felines Rescue Center",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6Aq-E-6juTE"
+        "https://www.youtube-nocookie.com/embed/sA9GybHRtiE"
       ]
     },
     "languages": [
@@ -517,6 +517,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "liBr1gRFDG2zfv",
+    "name": "HGTV Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streaming.onnethn.com/HGTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f4STSe9tgyRVf3",
     "name": "Hobby Maker",
     "sources": {
@@ -545,20 +559,6 @@
     ],
     "country": "nl",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "TgLpqjb9zic5hc",
-    "name": "Kaloopy TV",
-    "sources": {
-      "streams": [
-        "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "dKTtrFcAzjZPS1",
@@ -829,7 +829,9 @@
         "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "pl",
     "isGeoBlocked": false
   },

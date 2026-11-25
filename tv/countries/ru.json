@@ -285,48 +285,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "gs5l6kcQ4WrNGb",
-    "name": "BRIDGE Rap",
-    "sources": {
-      "streams": [
-        "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "YWGbfoIPEp9f4Z",
-    "name": "BRIDGE RNB",
-    "sources": {
-      "streams": [
-        "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "K4Tz1fGuEJnLbE",
-    "name": "BRIDGE Soul",
-    "sources": {
-      "streams": [
-        "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "a94T7RWWzC1lkL",
     "name": "BRIDGE Symphony",
     "sources": {
@@ -541,20 +499,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lk2MXbqIFnMEMM",
-    "name": "City Eden Classic Music",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47400/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gUswhqxHZdKrP1",
     "name": "City Eden KinoAction",
     "sources": {
@@ -611,39 +555,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FQwfx6NTcjE41o",
     "name": "City Eden KinoDrama",
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzxh5uo44jq1FL",
-    "name": "City Eden KinoFantastika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45268/index.m3u8"
       ]
     },
     "languages": [
@@ -812,6 +728,20 @@
     "sources": {
       "streams": [
         "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xUgG4Xe5635smX",
+    "name": "Dikij",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -2745,8 +2675,8 @@
     "name": "Shanson TV",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/7009.m3u8",
-        "https://catchup.videoline.ru/shanson/index.m3u8"
+        "https://catchup.videoline.ru/shanson/index.m3u8",
+        "https://streaming.thestream.cyou/live/7009.m3u8"
       ]
     },
     "languages": [
@@ -3021,6 +2951,7 @@
     "name": "Star Cinema",
     "sources": {
       "streams": [
+        "https://s7.merlive.am/starsinema/index.m3u8",
         "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8"
       ]
     },

@@ -113,6 +113,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sYvKtrPKv77vYD",
+    "name": "Chacra TV",
+    "sources": {
+      "streams": [
+        "https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SyDvJ95qRIEQ4K",
     "name": "Chasse & Peche",
     "sources": {
@@ -134,15 +148,29 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
-        "https://cdn.pishow.tv/ott/live/223/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8",
+        "https://fta.ektv.in/live/148/148_0.m3u8"
       ]
     },
     "languages": [
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xUgG4Xe5635smX",
+    "name": "Dikij",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -307,21 +335,6 @@
       "streams": [
         "https://d1e354daam8g5r.cloudfront.net/playlist.m3u8",
         "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yWx96N1LT28ilx",
-    "name": "Outdoor Channel",
-    "sources": {
-      "streams": [
-        "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
       ]
     },
     "languages": [

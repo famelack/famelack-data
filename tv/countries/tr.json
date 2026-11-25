@@ -268,6 +268,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lHa4V9RdrTKUbj",
+    "name": "ATV Alanya",
+    "sources": {
+      "streams": [
+        "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "sources": {
@@ -562,20 +576,6 @@
     "sources": {
       "streams": [
         "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WhJMVtLO9qlGWk",
-    "name": "Dost TV",
-    "sources": {
-      "streams": [
-        "https://dost.stream.emsal.im/tv/live.m3u8"
       ]
     },
     "languages": [
@@ -1313,7 +1313,7 @@
     "name": "Koza TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Ez-4JbAGfdg"
+        "https://www.youtube-nocookie.com/embed/Upe7kEomEO0"
       ]
     },
     "languages": [
@@ -1617,6 +1617,20 @@
     ],
     "country": "tr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Kh4lyaX0vxjcuK",
+    "name": "Pati TV",
+    "sources": {
+      "streams": [
+        "https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "pGp24DvGOMHEiZ",
@@ -1968,9 +1982,6 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/DBiS5vskONQ"
       ]
     },
     "languages": [
@@ -2158,7 +2169,8 @@
     "name": "TRT Turk",
     "sources": {
       "streams": [
-        "https://tv-trtturk.medya.trt.com.tr/master.m3u8"
+        "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2276,6 +2288,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4WSvLRk83-c"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZdxrMEOa28PZnq",
+    "name": "TV 264",
+    "sources": {
+      "streams": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
       ]
     },
     "languages": [

@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "96eR5wTMfDjbi2",
-    "name": "Buenisima Radio TV",
-    "sources": {
-      "streams": [
-        "https://canal.mediaserver.com.co/live/buenisimatv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gg9cAjQw6QXEKr",
     "name": "BUM Television",
     "sources": {
@@ -331,21 +317,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/bUFWXxn7s8E"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DJujsKbajr1MwV",
-    "name": "CMB Television",
-    "sources": {
-      "streams": [
-        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
       ]
     },
     "languages": [
@@ -928,6 +899,20 @@
     "sources": {
       "streams": [
         "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fvqin9l62Fj8Z2",
+    "name": "Tu Universo TV",
+    "sources": {
+      "streams": [
+        "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
       ]
     },
     "languages": [

@@ -197,6 +197,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sfu9EhmwBmV8Ny",
+    "name": "Bihor TV",
+    "sources": {
+      "streams": [
+        "https://bihor-tv.ro/hls/bihortv.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TZNdjDVfVrlQUD",
     "name": "Bollywood Classic Romania",
     "sources": {
@@ -819,11 +833,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "19bVQttgqOEZ2W",
+    "name": "NHL AntenaPlay",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Xb6sSVxIqQCLnS",
     "name": "Nostalgia TV",
     "sources": {
       "streams": [
         "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZsTledk1vEeV9E",
+    "name": "Orizont TV",
+    "sources": {
+      "streams": [
+        "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8"
       ]
     },
     "languages": [
@@ -923,20 +965,6 @@
     "sources": {
       "streams": [
         "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0hTvnidOr78iNU",
-    "name": "Radio Romania Iasi",
-    "sources": {
-      "streams": [
-        "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
       ]
     },
     "languages": [

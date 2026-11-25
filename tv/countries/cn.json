@@ -42,20 +42,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uzMnROBDMiNzKY",
-    "name": "Anhui TV",
-    "sources": {
-      "streams": [
-        "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -102,6 +88,7 @@
     "name": "CCTV-4 Europe",
     "sources": {
       "streams": [
+        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8",
         "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
       ]
     },
@@ -429,20 +416,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DmRj3yhamAblyQ",
-    "name": "Hunan TV",
-    "sources": {
-      "streams": [
-        "https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ixOgDfLWthKimS",
     "name": "Jiangsu Public & News Channel",
     "sources": {
@@ -581,6 +554,20 @@
     },
     "languages": [
       "uig"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VzepbqP86gbVbt",
+    "name": "Xinjiang TV 3",
+    "sources": {
+      "streams": [
+        "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
     ],
     "country": "cn",
     "isGeoBlocked": false

@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PuOdackS09IXBO",
+    "name": "Bolivia TV",
+    "sources": {
+      "streams": [
+        "https://hls.tvabierta.net/hls/boliviatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TeFmbSu18GnAQ",
     "name": "Cadena A",
     "sources": {
@@ -103,20 +117,6 @@
     "sources": {
       "streams": [
         "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SooUevgpXFkIw6",
-    "name": "Delta TV",
-    "sources": {
-      "streams": [
-        "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -267,11 +267,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Q1DpAyjLmeLL9v",
-    "name": "PI MEDIA TV",
+    "nanoid": "YIKke4PY7wnkdl",
+    "name": "Palenque TV",
     "sources": {
       "streams": [
-        "https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8"
+        "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
       ]
     },
     "languages": [
@@ -527,20 +527,6 @@
       "streams": [
         "https://master.tucableip.com/tvlatina/index.m3u8",
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ztTWlTaxLQDSi1",
-    "name": "TV OFF",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/tvoff/index.m3u8"
       ]
     },
     "languages": [

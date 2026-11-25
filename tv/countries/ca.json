@@ -600,9 +600,9 @@
     "name": "Gusto TV",
     "sources": {
       "streams": [
-        "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
         "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
-        "https://gusto-xumo.amagi.tv/playlist.m3u8"
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+        "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8"
       ]
     },
     "languages": [
@@ -647,7 +647,9 @@
         "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "zxx"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -722,53 +724,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "nHDxIofgkugzZk",
+    "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT)",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "rpQ8RA1mbZgwRB",
     "name": "Ici Radio-Canada Télé Estrie (CKSH-DT)",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "F9aDzRqkUxfvHV",
-    "name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "MxGLQzbmn1eRI9",
-    "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lefO7v4n3VvVMP",
-    "name": "Ici Radio-Canada Télé Ontario (CBLFT-DT)",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
       ]
     },
     "languages": [
@@ -1505,7 +1479,9 @@
         "https://lotus.stingray.com/manifest/ose-815ads-montreal/samsungtvplus/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "zxx"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1660,7 +1636,9 @@
         "https://lotus.stingray.com/manifest/ose-814ads-montreal/samsungtvplus/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "zxx"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1715,7 +1693,9 @@
         "https://lotus.stingray.com/manifest/ose-807ads-montreal/samsungtvplus/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "zxx"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1980,7 +1960,9 @@
         "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "zxx"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -2172,7 +2154,7 @@
     "name": "TV Témis",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/xin1i_Ib9Jc"
+        "https://www.youtube-nocookie.com/embed/JcMijJQ9ZH8"
       ]
     },
     "languages": [
