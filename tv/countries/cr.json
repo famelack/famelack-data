@@ -85,6 +85,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
+    "sources": {
+      "streams": [
+        "https://vid.canal1cr.com:3424/multi_live/play.m3u8",
+        "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Rbhi1IeYnyJ3gG",
     "name": "Cedros TV",
     "sources": {
@@ -169,25 +184,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
+    "nanoid": "0Bp1uWDwZ9RGmr",
+    "name": "Cristo Vision Canal 31",
     "sources": {
       "streams": [
-        "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2oDIGkwBMwsy6",
-    "name": "Extrema TV",
-    "sources": {
-      "streams": [
-        "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+        "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8"
       ]
     },
     "languages": [

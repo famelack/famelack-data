@@ -42,11 +42,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PuOdackS09IXBO",
-    "name": "Bolivia TV",
+    "nanoid": "w3bpP2FDGFGLPQ",
+    "name": "AYNI TV",
     "sources": {
       "streams": [
-        "https://hls.tvabierta.net/hls/boliviatv.m3u8"
+        "https://edge.enhdtv.com/aynitv/index.m3u8"
       ]
     },
     "languages": [
@@ -117,6 +117,20 @@
     "sources": {
       "streams": [
         "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SooUevgpXFkIw6",
+    "name": "Delta TV",
+    "sources": {
+      "streams": [
+        "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -281,11 +295,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ctXKtPRIVgnD2j",
-    "name": "Poder de Dios TV",
+    "nanoid": "Q1DpAyjLmeLL9v",
+    "name": "PI MEDIA TV",
     "sources": {
       "streams": [
-        "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8"
+        "https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8"
       ]
     },
     "languages": [
@@ -295,11 +309,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dDn4lSZg9HGccz",
-    "name": "RA Television",
+    "nanoid": "ctXKtPRIVgnD2j",
+    "name": "Poder de Dios TV",
     "sources": {
       "streams": [
-        "https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8"
+        "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8"
       ]
     },
     "languages": [
@@ -356,20 +370,6 @@
     "sources": {
       "streams": [
         "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5l0fINLf3yaxrw",
-    "name": "Radio TV Mega",
-    "sources": {
-      "streams": [
-        "https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8"
       ]
     },
     "languages": [
@@ -451,6 +451,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QDaNWXkHDkKiy2",
+    "name": "Sol TV",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/soltv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "za6KpDi86ZZAJu",
     "name": "SPC Canal 15",
     "sources": {
@@ -479,11 +493,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "87xKAUIruoYGZK",
-    "name": "TDT Multimedia",
+    "nanoid": "VvgjeRVvJxgn4n",
+    "name": "TELE 6",
     "sources": {
       "streams": [
-        "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8"
+        "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
       ]
     },
     "languages": [
@@ -493,11 +507,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VvgjeRVvJxgn4n",
-    "name": "TELE 6",
+    "nanoid": "oOiARRZ91GwBKV",
+    "name": "TL Estrella",
     "sources": {
       "streams": [
-        "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
+        "https://edge.enhdtv.com/teleestrella/index.m3u8"
       ]
     },
     "languages": [
@@ -527,6 +541,20 @@
       "streams": [
         "https://master.tucableip.com/tvlatina/index.m3u8",
         "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ztTWlTaxLQDSi1",
+    "name": "TV OFF",
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/tvoff/index.m3u8"
       ]
     },
     "languages": [

@@ -202,9 +202,9 @@
     "name": "Bhojpuri Cinema",
     "sources": {
       "streams": [
+        "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
         "https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8",
-        "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1033/master.m3u8"
+        "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -530,76 +530,6 @@
     "sources": {
       "streams": [
         "https://cityeden.catcast.tv/content/41333/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "n4R8lzuArvLNkC",
-    "name": "City Eden KinoArt",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38398/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wc02nSZr6VuoIF",
-    "name": "City Eden KinoAsia",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34393/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Ucx5FG7ngDLh5",
-    "name": "City Eden KinoDetektiv",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/41327/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FQwfx6NTcjE41o",
-    "name": "City Eden KinoDrama",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/45269/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xjnk7dNYRv7edj",
-    "name": "City Eden KinoKlassika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/34185/index.m3u8"
       ]
     },
     "languages": [
@@ -967,20 +897,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xbUgKyNJkUd9WG",
-    "name": "FilmUA Live",
-    "sources": {
-      "streams": [
-        "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0r210a3FA40XwI",
     "name": "FilmUADrama",
     "sources": {
@@ -1087,9 +1003,9 @@
     "name": "Goldmines Movies",
     "sources": {
       "streams": [
-        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
-        "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8"
+        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
       ]
     },
     "languages": [
@@ -1358,8 +1274,8 @@
     "name": "Kairali We",
     "sources": {
       "streams": [
-        "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8",
         "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
+        "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1530/master.m3u8"
       ]
     },
@@ -2136,9 +2052,9 @@
     "name": "Punjabi Shorts",
     "sources": {
       "streams": [
-        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
         "https://gtc.ottlive.co.in/punjabshort/index.m3u8",
-        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8"
+        "https://punjabishorts.akamaized.net/punjabshort/index.m3u8",
+        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
       ]
     },
     "languages": [
@@ -2518,6 +2434,20 @@
     },
     "languages": [
       "tel"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9XCIxSDz7ScIo3",
+    "name": "Suriyan TV",
+    "sources": {
+      "streams": [
+        "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "in",
     "isGeoBlocked": false

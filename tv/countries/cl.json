@@ -102,7 +102,7 @@
     "name": "24 Horas",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/TrqtbBJQ_yU"
+        "https://www.youtube-nocookie.com/embed/zdxQbykGHtw"
       ]
     },
     "languages": [
@@ -365,6 +365,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4oe5gSL3PaBzNh",
+    "name": "Canal Latino 54",
+    "sources": {
+      "streams": [
+        "https://videostream.chileservidores.com:8081/latina/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "otJr4H53cIbGUw",
     "name": "Canal Local",
     "sources": {
@@ -426,7 +440,7 @@
     "name": "ChileVision",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Km0A6Pbin2Q"
+        "https://www.youtube-nocookie.com/embed/cQHs5n9SxF0"
       ]
     },
     "languages": [
@@ -482,7 +496,7 @@
     "name": "CHV Noticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mwoTl-iL-OQ"
+        "https://www.youtube-nocookie.com/embed/OFB_YBYsJPE"
       ]
     },
     "languages": [
@@ -912,20 +926,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HZTvc09dQotF6t",
-    "name": "ISA TV",
-    "sources": {
-      "streams": [
-        "https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KSt72TrfiNqRpX",
     "name": "Islita TV",
     "sources": {
@@ -946,6 +946,20 @@
       "streams": [
         "https://redirector.dps.live/hls/itv/playlist.m3u8",
         "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tjoXlhaA3QUOnH",
+    "name": "Juntos TV",
+    "sources": {
+      "streams": [
+        "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8"
       ]
     },
     "languages": [
@@ -1002,20 +1016,6 @@
     "sources": {
       "streams": [
         "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jTLLLn47f5A3NB",
-    "name": "La Melinkana TV",
-    "sources": {
-      "streams": [
-        "https://v1.tustreaming.cl/melinkana/index.m3u8"
       ]
     },
     "languages": [
@@ -1156,7 +1156,7 @@
     "name": "Meganoticias",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/57Pd4-G6MhU"
+        "https://www.youtube-nocookie.com/embed/sbfwxLR2pds"
       ]
     },
     "languages": [
@@ -2342,8 +2342,8 @@
     "name": "UATV",
     "sources": {
       "streams": [
-        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8",
-        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
+        "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
       ]
     },
     "languages": [

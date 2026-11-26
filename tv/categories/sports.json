@@ -188,6 +188,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "roeCDcGE1uwKQ6",
+    "name": "Al Iraqia Sport",
+    "sources": {
+      "streams": [
+        "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jPCSXg0t7lpFfg",
     "name": "American Ninja Warrior",
     "sources": {
@@ -204,6 +218,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xNO3EJp4mhTrDD",
+    "name": "AS3 Sport TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -424,7 +452,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://fta.ektv.in/live/280/master.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
       ]
     },
     "languages": [
@@ -484,20 +512,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2Py1rlDZ4tGPLq",
-    "name": "ESPN Latin America Mexico",
-    "sources": {
-      "streams": [
-        "https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "G7PrVny1yyiQQU",
     "name": "ESPN8 The Ocho",
     "sources": {
@@ -525,21 +539,6 @@
     ],
     "country": "es",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "a08lgTdLkTtCWW",
@@ -827,20 +826,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UNTYMDH16cCR0B",
-    "name": "FOX",
-    "sources": {
-      "streams": [
-        "https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t5msHgNGG9QAPb",
     "name": "Fox Sports News",
     "sources": {
@@ -956,6 +941,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "zSqcM4N6tJjo6K",
+    "name": "Futbol TV",
+    "sources": {
+      "streams": [
+        "https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "sources": {
@@ -981,20 +980,6 @@
       "ces"
     ],
     "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XM7JIFylNrPk0k",
-    "name": "Golf Channel",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1385,20 +1370,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "xH0pevHQ3pK5Cx",
-    "name": "NFL Network",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/nfl/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "19bVQttgqOEZ2W",
     "name": "NHL AntenaPlay",
     "sources": {
@@ -1474,6 +1445,7 @@
     "name": "Pac-12 Insider",
     "sources": {
       "streams": [
+        "https://pac12-roku-us.amagi.tv/playlist.m3u8",
         "https://pac12-samsungus.amagi.tv/playlist.m3u8"
       ]
     },
@@ -1682,20 +1654,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0LyDCyOi0Q8ryz",
-    "name": "Real Madrid TV",
-    "sources": {
-      "streams": [
-        "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -2389,20 +2347,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eiMNDNqakzRMns",
-    "name": "Willow",
-    "sources": {
-      "streams": [
-        "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "d0G4zB6FBlCOOM",

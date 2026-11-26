@@ -1220,20 +1220,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UtzRJ2DWtCBmbh",
-    "name": "Onda TV",
-    "sources": {
-      "streams": [
-        "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "sources": {
@@ -1351,6 +1337,20 @@
     "sources": {
       "streams": [
         "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S8N3Bm3LD8AIRI",
+    "name": "Prima TV",
+    "sources": {
+      "streams": [
+        "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1608,7 +1608,6 @@
     "name": "Rai 1",
     "sources": {
       "streams": [
-        "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8",
         "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
       ]
     },
@@ -1881,20 +1880,6 @@
     "sources": {
       "streams": [
         "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NjWedgmgQT0ySg",
-    "name": "Rete Oro",
-    "sources": {
-      "streams": [
-        "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
       ]
     },
     "languages": [

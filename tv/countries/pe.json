@@ -140,20 +140,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NcbX3D5e7HA0Yx",
-    "name": "Cadena TV",
-    "sources": {
-      "streams": [
-        "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1Tx6FQUGbACDss",
     "name": "Canal 8 Catacaos",
     "sources": {
@@ -337,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJ7gZA2UwesadP",
-    "name": "Galactica TV",
-    "sources": {
-      "streams": [
-        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mHRulAqsRUqjO2",
     "name": "Genios TV",
     "sources": {
@@ -495,8 +467,8 @@
     "name": "Latina Noticias 24/7",
     "sources": {
       "streams": [
-        "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
-        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8"
+        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+        "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8"
       ]
     },
     "languages": [
@@ -945,7 +917,6 @@
     "name": "Solar Television",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
         "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8"
       ]
     },
@@ -1101,7 +1072,8 @@
     "name": "Turbo Mix Radio TV",
     "sources": {
       "streams": [
-        "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8"
+        "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+        "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
       ]
     },
     "languages": [
@@ -1337,20 +1309,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sAN5lqkNeMhvi8",
-    "name": "VNP",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3IUBVhMnjgOvDA",
     "name": "Wayra TV",
     "sources": {
@@ -1369,7 +1327,7 @@
     "name": "Willax Televisión",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bjgaifargrg"
+        "https://www.youtube-nocookie.com/embed/JfxM5HsweSk"
       ]
     },
     "languages": [

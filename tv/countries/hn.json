@@ -239,6 +239,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LIhd65TAfR2Oiq",
+    "name": "JEMR TV",
+    "sources": {
+      "streams": [
+        "https://tv.webmedialive.com/jmrtv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "YShLtvidjqB1kx",
     "name": "Kerusso TV",
     "sources": {
@@ -342,20 +357,6 @@
     "sources": {
       "streams": [
         "https://www.idealfm104-7.com/hls/0/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hj05yr3irV5W4y",
-    "name": "Radio Omega TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
       ]
     },
     "languages": [
@@ -510,20 +511,6 @@
     "sources": {
       "streams": [
         "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OPNVhQbPeZ6MyD",
-    "name": "TV Centro HD",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8"
       ]
     },
     "languages": [

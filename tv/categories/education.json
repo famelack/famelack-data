@@ -329,9 +329,9 @@
     "name": "DD Kisan",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/223/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8",
-        "https://fta.ektv.in/live/148/148_0.m3u8"
+        "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
       ]
     },
     "languages": [
@@ -879,20 +879,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gd2Fi6EkFmVQHE",
-    "name": "Kite Victers",
-    "sources": {
-      "streams": [
-        "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "mal"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "sources": {
@@ -1339,6 +1325,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "sources": {
+      "streams": [
+        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
