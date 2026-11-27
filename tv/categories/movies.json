@@ -170,6 +170,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0Bptv7gXH41ycp",
+    "name": "Asianet Cinema",
+    "sources": {
+      "streams": [
+        "https://b-tr1.planetcast.in/asianet/master.m3u8",
+        "https://d2de7cj2i2iwkc.cloudfront.net/asianet/master.m3u8",
+        "https://p-tr1.planetcast.in/asianet/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mal"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qS9h25t8tf42wr",
     "name": "Aurora Media Films",
     "sources": {
@@ -346,7 +362,8 @@
     "name": "Cine Friki",
     "sources": {
       "streams": [
-        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+        "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+        "https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -539,25 +556,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N0XF0zTYtjf6Vc",
-    "name": "City Eden KinoKomediya",
+    "nanoid": "FQwfx6NTcjE41o",
+    "name": "City Eden KinoDrama",
     "sources": {
       "streams": [
-        "https://cityeden.catcast.tv/content/41331/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hYJqIp24qMnNqd",
-    "name": "City Eden KinoMistika",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/40783/index.m3u8"
+        "https://cityeden.catcast.tv/content/45269/index.m3u8"
       ]
     },
     "languages": [
@@ -615,6 +618,7 @@
     "sources": {
       "streams": [
         "https://streaming.thestream.cyou/live/44.m3u8",
+        "https://s7.merlive.am/Domkino/index.m3u8",
         "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1004,8 +1008,8 @@
     "sources": {
       "streams": [
         "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
-        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8"
+        "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
+        "https://cdn.pishow.tv/ott/live/1461/master.m3u8"
       ]
     },
     "languages": [
@@ -1200,20 +1204,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hd13Q7pEG37tJd",
-    "name": "India Talkies",
-    "sources": {
-      "streams": [
-        "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iq4LfiXtlMe7B1",
     "name": "Indiyskoye Kino",
     "sources": {
@@ -1318,6 +1308,7 @@
     "name": "KinoHit",
     "sources": {
       "streams": [
+        "https://s7.merlive.am/Kinoxit/index.m3u8",
         "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1346,6 +1337,7 @@
     "name": "Kinopremyera",
     "sources": {
       "streams": [
+        "https://s7.merlive.am/Kinopremera/index.m3u8",
         "https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1360,6 +1352,7 @@
     "name": "Kinoseriya",
     "sources": {
       "streams": [
+        "https://s7.merlive.am/Kinoseria/index.m3u8",
         "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv"
       ]
     },
@@ -1656,12 +1649,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M5xMH8eJsKVp5N",
+    "name": "Mosfilm Gold Collection",
+    "sources": {
+      "streams": [
+        "https://s7.merlive.am/mosfilm/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQxSfN4to8TdvK",
     "name": "Movie Punjab",
     "sources": {
       "streams": [
-        "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
-        "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8"
+        "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8",
+        "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8"
       ]
     },
     "languages": [
@@ -1797,6 +1804,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KrxHSrLkP7q4Xt",
+    "name": "Nashe Lubimoe Kino",
+    "sources": {
+      "streams": [
+        "https://s7.merlive.am/lubimoekino/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -2178,6 +2199,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IpaHHz42Qd0COs",
+    "name": "Shot TV",
+    "sources": {
+      "streams": [
+        "https://s7.merlive.am/SHOTTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Nzdl8BH1gG7FXh",
     "name": "Shubh Cinema TV",
     "sources": {
@@ -2535,6 +2570,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0777Rydu6yXF9D",
+    "name": "TV 21",
+    "sources": {
+      "streams": [
+        "https://s7.merlive.am/21TV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

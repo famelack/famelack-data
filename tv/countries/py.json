@@ -224,6 +224,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FuiSRD0mYmX331",
+    "name": "Farra Play",
+    "sources": {
+      "streams": [
+        "https://stream.farra.com.py/live/farra_low.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KorxP0jgE3cFyZ",
     "name": "GO TV",
     "sources": {
@@ -365,11 +379,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VI1f12kgFZ6WBR",
-    "name": "Oasis TV",
+    "nanoid": "zFyIVU3GskBml9",
+    "name": "Occidental TV",
     "sources": {
       "streams": [
-        "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
+        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
       ]
     },
     "languages": [
@@ -379,11 +393,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zFyIVU3GskBml9",
-    "name": "Occidental TV",
+    "nanoid": "HxsHxTV92v3WvN",
+    "name": "Oviedo TV",
     "sources": {
       "streams": [
-        "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8"
+        "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
       ]
     },
     "languages": [
@@ -492,11 +506,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CghjvXX91l15l6",
+    "name": "RB TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dLi3714dJiy1F0",
     "name": "RCC TV",
     "sources": {
       "streams": [
         "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ERBtwPcBChyLTj",
+    "name": "Red Digital",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
       ]
     },
     "languages": [

@@ -163,6 +163,7 @@
     "name": "Glazami Turista",
     "sources": {
       "streams": [
+        "https://s7.merlive.am/glazamituristahd/index.m3u8",
         "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -342,6 +343,20 @@
       "fas"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p0jnHTBehgm826",
+    "name": "RTG TV",
+    "sources": {
+      "streams": [
+        "https://s7.merlive.am/rtgtv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

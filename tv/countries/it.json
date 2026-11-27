@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cZgEqGkrohLvpi",
-    "name": "50 Canale",
-    "sources": {
-      "streams": [
-        "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XwatyYfDCBPOZF",
     "name": "51 Radio TV",
     "sources": {
@@ -1220,6 +1206,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UtzRJ2DWtCBmbh",
+    "name": "Onda TV",
+    "sources": {
+      "streams": [
+        "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "sources": {
@@ -1880,6 +1880,20 @@
     "sources": {
       "streams": [
         "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NjWedgmgQT0ySg",
+    "name": "Rete Oro",
+    "sources": {
+      "streams": [
+        "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2717,7 +2731,10 @@
         "https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "ita"
+    ],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -2729,7 +2746,10 @@
         "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "eng",
+      "ita"
+    ],
     "country": "it",
     "isGeoBlocked": false
   },

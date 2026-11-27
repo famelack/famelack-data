@@ -58,6 +58,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3AVsF9F3MmLx0i",
+    "name": "KTK",
+    "sources": {
+      "streams": [
+        "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5b8XYlH65LRz6N",
     "name": "MTRK",
     "sources": {
@@ -81,20 +96,6 @@
     },
     "languages": [
       "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "a3tM5au4kJNioz",
-    "name": "Novoe televidenie",
-    "sources": {
-      "streams": [
-        "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
     ],
     "country": "kz",
     "isGeoBlocked": false
@@ -192,20 +193,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "HKWXuzT38k7GF2",
-    "name": "TDK 42",
-    "sources": {
-      "streams": [
-        "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dv33pDR0XXPjjo",
     "name": "Ulytau",
     "sources": {
@@ -215,6 +202,20 @@
     },
     "languages": [
       "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "if2kwrLRFc4oRC",
+    "name": "Телеканал 24kz",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/cTkTulj2Qw8"
+      ]
+    },
+    "languages": [
       "rus"
     ],
     "country": "kz",
