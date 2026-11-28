@@ -938,6 +938,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "99nLbZS1PkL0qS",
+    "name": "La Nuova TV",
+    "sources": {
+      "streams": [
+        "https://play.video.serverroom.net/lanuovatvbas/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5LLVHmQ8JEsCfJ",
     "name": "La TR3 Marsala",
     "sources": {
@@ -1532,20 +1546,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qw8OveH5NJ4HC0",
-    "name": "Radio Piter Pan TV",
-    "sources": {
-      "streams": [
-        "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "70aquUrXJYO7OT",
     "name": "Radio Studio Delta TV",
     "sources": {
@@ -2114,20 +2114,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hLgIEQAqf1wcoc",
-    "name": "Sophia TV",
-    "sources": {
-      "streams": [
-        "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "e4huLQp9M80Lrf",
     "name": "Sportitalia",
     "sources": {
@@ -2148,8 +2134,7 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [

@@ -1412,8 +1412,8 @@
     "name": "Epic Music",
     "sources": {
       "streams": [
-        "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
         "https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8",
+        "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
         "https://fta.ektv.in/live/469/master.m3u8"
       ]
     },
@@ -1466,6 +1466,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xoEKmYJhUCh2jH",
+    "name": "Famatv",
+    "sources": {
+      "streams": [
+        "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4JFA13OLSSJXv5",
     "name": "Fame95 FM",
     "sources": {
@@ -1477,20 +1491,6 @@
       "eng"
     ],
     "country": "jm",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FuiSRD0mYmX331",
-    "name": "Farra Play",
-    "sources": {
-      "streams": [
-        "https://stream.farra.com.py/live/farra_low.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1734,20 +1734,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJ7gZA2UwesadP",
-    "name": "Galactica TV",
-    "sources": {
-      "streams": [
-        "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8gsIGJHNjegWLu",
     "name": "Genial TV",
     "sources": {
@@ -1773,20 +1759,6 @@
       "nld"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -1973,6 +1945,21 @@
       "fra"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "R9U7gWczKcgimK",
+    "name": "HMTV",
+    "sources": {
+      "streams": [
+        "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hau"
+    ],
+    "country": "ng",
     "isGeoBlocked": false
   },
   {
@@ -3433,8 +3420,8 @@
     "name": "NEW K-POP",
     "sources": {
       "streams": [
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus",
-        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus"
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus",
+        "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus"
       ]
     },
     "languages": [
@@ -3552,7 +3539,8 @@
     "sources": {
       "streams": [
         "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
-        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8"
+        "https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8",
+        "https://lightningnow90-samsungau.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -4740,20 +4728,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qw8OveH5NJ4HC0",
-    "name": "Radio Piter Pan TV",
-    "sources": {
-      "streams": [
-        "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0Q65nmLivj4KoN",
     "name": "Radio Pudahuel",
     "sources": {
@@ -4796,11 +4770,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BEYVH24fbdnqEV",
-    "name": "Radio Romania Antena Satelor 720p",
+    "nanoid": "0hTvnidOr78iNU",
+    "name": "Radio Romania Iasi",
     "sources": {
       "streams": [
-        "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
+        "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
       ]
     },
     "languages": [
@@ -4892,21 +4866,6 @@
       "lav"
     ],
     "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DKvBoloLNtwxw9",
-    "name": "Radio Tele Hit",
-    "sources": {
-      "streams": [
-        "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "hat"
-    ],
-    "country": "ht",
     "isGeoBlocked": false
   },
   {
@@ -5295,20 +5254,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "69wABBZ5acLQs0",
-    "name": "RTV Vida",
-    "sources": {
-      "streams": [
-        "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lGfSQeiJJiMPWt",
     "name": "RU.TV",
     "sources": {
@@ -5356,8 +5301,8 @@
     "name": "Sana Plus",
     "sources": {
       "streams": [
-        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
-        "https://stream.ottlive.co.in/sanaplus/index.m3u8"
+        "https://stream.ottlive.co.in/sanaplus/index.m3u8",
+        "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8"
       ]
     },
     "languages": [
@@ -5372,8 +5317,7 @@
     "sources": {
       "streams": [
         "https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8",
-        "https://cdn.pishow.tv/ott/live/1143/master.m3u8",
-        "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8"
+        "https://cdn.pishow.tv/ott/live/1143/master.m3u8"
       ]
     },
     "languages": [
@@ -6301,8 +6245,8 @@
     "sources": {
       "streams": [
         "https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8",
-        "https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8",
-        "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8"
+        "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
+        "https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8"
       ]
     },
     "languages": [
@@ -6945,7 +6889,7 @@
     "name": "Urbana Play 104.3 FM",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kd7ZiW5gsDg"
+        "https://www.youtube-nocookie.com/embed/FH82g-9Lkqc"
       ]
     },
     "languages": [
@@ -7252,20 +7196,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9TUqw93GWA6FwZ",
-    "name": "Vos y TV",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
     "isGeoBlocked": false
   },
   {

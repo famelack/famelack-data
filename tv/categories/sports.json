@@ -102,7 +102,8 @@
     "name": "A Spor",
     "sources": {
       "streams": [
-        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/DwFLd1Mg0eE"
@@ -465,7 +466,7 @@
       "streams": [
         "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
         "https://cdn.pishow.tv/ott/live/1161/master.m3u8",
-        "https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8"
+        "https://fta.ektv.in/live/280/master.m3u8"
       ]
     },
     "languages": [
@@ -552,6 +553,21 @@
     ],
     "country": "es",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "a08lgTdLkTtCWW",
@@ -694,6 +710,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "kGDC88JV1UFs6Z",
+    "name": "Fast Sports 1",
+    "sources": {
+      "streams": [
+        "https://s7.merlive.am/Fastsports/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hye"
+    ],
+    "country": "am",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QC400UPdsbVwAc",
     "name": "Fast&FunBox",
     "sources": {
@@ -814,8 +844,8 @@
     "name": "FON TV",
     "sources": {
       "streams": [
-        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
-        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8"
+        "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
+        "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1237,20 +1267,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KzmWxIa22Fy5vF",
-    "name": "Match! Strana",
-    "sources": {
-      "streams": [
-        "https://s7.merlive.am/matchstrana/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1932,8 +1948,7 @@
     "sources": {
       "streams": [
         "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
-        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8",
-        "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        "https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1975,7 +1990,6 @@
     "name": "SportsGrid",
     "sources": {
       "streams": [
-        "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
         "https://vizioaaaa-sportsgrid-vizio-ugub0.amagi.tv/playlist/vizioAAAA-sportsgrid-vizio/playlist.m3u8",
         "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
       ]
@@ -2032,6 +2046,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J7BmdiABqVkDMa",
+    "name": "T Sports",
+    "sources": {
+      "streams": [
+        "https://rangdhonulive.samiulislamabhi.workers.dev/TSportsSD/tracks-v1a1/mono.ts.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8y46OzXMIQWutZ",
     "name": "T Sports 7",
     "sources": {
@@ -2079,8 +2107,7 @@
     "sources": {
       "streams": [
         "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8",
-        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-        "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2111,6 +2138,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1v7_qNMC0C8"
       ]
     },
     "languages": [

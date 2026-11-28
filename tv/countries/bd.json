@@ -75,7 +75,8 @@
     "name": "Duronto TV",
     "sources": {
       "streams": [
-        "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
+        "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+        "https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8"
       ]
     },
     "languages": [
@@ -145,7 +146,7 @@
     "name": "Jamuna TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/P9j_bo_dg44"
+        "https://www.youtube-nocookie.com/embed/EbUNZEQFZ78"
       ]
     },
     "languages": [
@@ -177,20 +178,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/Dztt4onk7iw"
-      ]
-    },
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDIG8PeTo2iZDe",
-    "name": "Matribhumi TV",
-    "sources": {
-      "streams": [
-        "https://live.playmax.live/matribhumi/index.m3u8"
       ]
     },
     "languages": [
@@ -274,8 +261,7 @@
     "name": "RTV",
     "sources": {
       "streams": [
-        "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
-        "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
+        "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
       ]
     },
     "languages": [
@@ -290,6 +276,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/fgE8lfBehFc"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J7BmdiABqVkDMa",
+    "name": "T Sports",
+    "sources": {
+      "streams": [
+        "https://rangdhonulive.samiulislamabhi.workers.dev/TSportsSD/tracks-v1a1/mono.ts.m3u8"
       ]
     },
     "languages": [

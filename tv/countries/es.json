@@ -370,6 +370,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CnfcZWHdpy1vl5",
+    "name": "Canal 10 Emporda",
+    "sources": {
+      "streams": [
+        "https://ventdelnord.tv:8080/escala/directe.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RXOTRvJYcdYU7o",
     "name": "Canal 33 Madrid",
     "sources": {
@@ -854,6 +868,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mCiVfIGYDaqE2r",
     "name": "EsTuTele",
     "sources": {
@@ -943,7 +972,7 @@
     "name": "EWTN Espana",
     "sources": {
       "streams": [
-        "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8"
+        "https://1211313014.rsc.cdn77.org/1211313014/index.m3u8"
       ]
     },
     "languages": [
@@ -1417,6 +1446,76 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L0dEIQTJzvEZO6",
+    "name": "PTV Cordoba",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wyi6TV1fm0mxaX",
+    "name": "PTV Granada",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV-granada/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Cliy0YRCsxozG",
+    "name": "PTV Linares",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awdi4zyBaZyzdT",
+    "name": "PTV Malaga",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV-malaga/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dZdJcGwwUlFFBA",
+    "name": "PTV Sevilla",
+    "sources": {
+      "streams": [
+        "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MUGH45wnKxFBS7",
     "name": "Punt 3",
     "sources": {
@@ -1511,20 +1610,6 @@
     },
     "languages": [
       "ron"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "69wABBZ5acLQs0",
-    "name": "RTV Vida",
-    "sources": {
-      "streams": [
-        "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

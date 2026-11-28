@@ -213,6 +213,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QA1x5OQRH7UVPJ",
+    "name": "Canal Nets",
+    "sources": {
+      "streams": [
+        "https://movil.ejeserver.com/live/nets.m3u8",
+        "https://video.ejeserver.com/live/nets.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HolomefezhLkUD",
     "name": "Canal Oracion Con Son",
     "sources": {
@@ -955,20 +970,6 @@
     "sources": {
       "streams": [
         "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AmiFkXyyhlLrz0",
-    "name": "Veo Televisión",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/veotv.m3u8"
       ]
     },
     "languages": [

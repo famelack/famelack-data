@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "n4RrCqsrdFtghH",
-    "name": "Afroculture TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FjdLgphriWW4if",
     "name": "Al-Kawthar TV",
     "sources": {
@@ -274,7 +260,7 @@
     "name": "Channel One",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/pzcyZedaox8"
+        "https://www.youtube-nocookie.com/embed/KJLqIvqfJvk"
       ]
     },
     "languages": [
@@ -431,6 +417,7 @@
     "name": "DD Bharati",
     "sources": {
       "streams": [
+        "https://cdn.pishow.tv/ott/live/10/master.m3u8",
         "https://fta.ektv.in/live/335/master.m3u8",
         "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
       ],
@@ -1006,34 +993,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AQoLBvOjxVCg4W",
-    "name": "Midpen Media Center Channel 30",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "V5gXDCRg4f3pWb",
-    "name": "Midpen Media Center Channel 75",
-    "sources": {
-      "streams": [
-        "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J45VohwHQxzbcT",
     "name": "Ministerstvo idey",
     "sources": {
@@ -1111,7 +1070,8 @@
     "name": "NTV Mir",
     "sources": {
       "streams": [
-        "https://streaming.thestream.cyou/live/213.m3u8"
+        "https://streaming.thestream.cyou/live/213.m3u8",
+        "https://s7.merlive.am/NTVMir/index.m3u8"
       ]
     },
     "languages": [
@@ -1561,20 +1521,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "x4lyf4pNwLJhfT",
-    "name": "The Indonesia Channel",
-    "sources": {
-      "streams": [
-        "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SQGH8tX9KocSpb",
     "name": "Trishul Broadcasting Network",
     "sources": {
@@ -1589,20 +1535,6 @@
     ],
     "country": "sr",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BpkMtsoRspK7u5",
-    "name": "TRT Genc",
-    "sources": {
-      "streams": [
-        "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "J4eb8pMfTeVAGZ",

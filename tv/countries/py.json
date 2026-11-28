@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "f4J3TEsOIcCxKd",
-    "name": "4Dmas Noticias TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QBRXrLX8BpJY3f",
     "name": "A24 Paraguay",
     "sources": {
@@ -224,34 +210,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FuiSRD0mYmX331",
-    "name": "Farra Play",
-    "sources": {
-      "streams": [
-        "https://stream.farra.com.py/live/farra_low.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "sources": {
-      "streams": [
-        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8vX1XPEH9jNBSM",
     "name": "HEi Now",
     "sources": {
@@ -370,6 +328,20 @@
     "sources": {
       "streams": [
         "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VI1f12kgFZ6WBR",
+    "name": "Oasis TV",
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
       ]
     },
     "languages": [

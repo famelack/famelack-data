@@ -70,6 +70,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PuOdackS09IXBO",
+    "name": "Bolivia TV",
+    "sources": {
+      "streams": [
+        "https://hls.tvabierta.net/hls/boliviatv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TeFmbSu18GnAQ",
     "name": "Cadena A",
     "sources": {
@@ -337,20 +351,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dDn4lSZg9HGccz",
-    "name": "RA Television",
-    "sources": {
-      "streams": [
-        "https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pYqhwxhr9gjeaq",
     "name": "Radio Centro",
     "sources": {
@@ -426,20 +426,6 @@
     "sources": {
       "streams": [
         "https://edge.enhdtv.com/8054/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jesOsAnSntYFJW",
-    "name": "Red America TV",
-    "sources": {
-      "streams": [
-        "https://edge.enhdtv.com/redamerica/index.m3u8"
       ]
     },
     "languages": [
@@ -704,39 +690,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "580N8G9as2TK8o",
-    "name": "Unitel Cochabamba",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "N0kSUvzkeZXdmq",
     "name": "Unitel La Paz",
     "sources": {
       "streams": [
         "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8XmRascOPMJDcT",
-    "name": "Unitel Santa Cruz",
-    "sources": {
-      "streams": [
-        "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8"
       ]
     },
     "languages": [
